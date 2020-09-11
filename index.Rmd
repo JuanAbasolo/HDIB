@@ -22,7 +22,7 @@ github-repo: JuanAbasolo/HDIB
 
 Ikasgaiaren gida ofiziala [hemen](https://www.ehu.eus/eu/lehen-hezkuntzako-gradua-bizkaia/kreditu-eta-irakasgaiak?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27574) duzu.
 
-## Gaiak eta denboralizazioa, proposamena
+## Gaiak eta denboralizazioa, proposamena {-}
 
 1) Aurkezpena, taldeak eta abar [*](diapoak/0-Aurkezpena-20.pdf)
 2) Hezkuntzaren lau pilareetatik oinarrizko konpetentzietara [*](diapoak/01-diapo.html)
