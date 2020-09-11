@@ -24,7 +24,7 @@ Ikasgaiaren gida ofiziala [hemen](https://www.ehu.eus/eu/lehen-hezkuntzako-gradu
 
 ## Gaiak eta denboralizazioa, proposamena {-}
 
-1) Aurkezpena, taldeak eta abar [*](diapoak/0-Aurkezpena-20.pdf)
+1) Aurkezpena, [taldeak](https://labur.eus/HDIBtaldeakegin) eta abar [*](diapoak/0-Aurkezpena-20.pdf)
 2) Hezkuntzaren lau pilareetatik oinarrizko konpetentzietara [*](diapoak/01-diapo.html)
 3) Euskal Herriko Hezkuntza sisteman, elebitasunetik eleaniztasunera
 4) Hizkuntzen kudeatzea eskolan
