@@ -1,33 +1,39 @@
+---
+title: "Hezkuntzaren lau zutabeak"
+date: 'HDIB'
+language: eu
+output: 
+  revealjs::revealjs_presentation:
+    slide_level: 2
+    theme: sky
+    center: true
+    transition: fade
+---
+
 # Hezkuntzaren lau zutabeak
 
-Galdera batzuk egin eta galdera horien erantzunen bitartez saiatuko gara aurrera egiten gaian:
+Galdera batzuk egin eta galdera horien erantzunen bitartez saiatuko gara aurrera egiten gaian
 
 ## Galdera batzuk
 
-Hezkuntzaren lau pilareak esaten dugunean zertaz ari gara? 
+---
 
-Nondik dator ideia hori?
+Hezkuntzaren lau pilareak esaten dugunean zertaz ari gara?  
+Nondik dator ideia hori?  
+Zein dira lau pilare horiek?  
+Zeri egiten diote erreferentzia?  
+Hezkuntzaren zer kontzepzio edo ideia dakarte?  
+Zer jarreratatik aldentzen dira?  
+Zer dute berrikuntza? 
 
-Zein dira lau pilare horiek? 
+---
 
-Zeri egiten diote erreferentzia?
+## Oinarrizko konpetentziez**
 
-Hezkuntzaren zer kontzepzio edo ideia dakarte?
-
-Zer jarreratatik aldentzen dira? 
-
-Zer dute berrikuntza?
-
-### Oinarrizko konpetentziez
-
-Zer da konpetentzia? 
-
-Definizioren bat eman dezakegu? 
-
-Konparatu definizio batzuk
-
-Konpetentzia lortzea eta gai bateko edukiak ikastea gauza bera da? 
-
+Zer da konpetentzia?  
+Definizioren bat eman dezakegu?  
+Konparatu definizio batzuk  
+Konpetentzia lortzea eta gai bateko edukiak ikastea gauza bera da?  
 Zer dira oinarrizko konpetentziak?   
 Zein dira oinarrizko konpetentziak Europan? Espainian? EAEn? Konpetentzia horiek nonahi berdinak dira? Nork erabakitzen ditu?  
 Nork lortzekoak dira konpetentziak? Nork lortu behar dituzte konpetentziak? Norentzat dira? Zergatik?  
@@ -35,11 +41,14 @@ Zein dira konpetentzia garrantzitsuenak?
 Konpetentziek zer dakarte berri, lehengo kontzepzio batzuen aldean?  
 Hezkuntzaren munduan ari garenok, non aurki dezakegu informazioa eskolan landu behar ditugun konpetentzia horiei buruz? Zer dokumentutan? Zer erakundek izanen du honen berri?  
 
-#### Hizkuntza-komunikaziorako konpetentziaz:
+
+## Hizkuntza-komunikaziorako konpetentziaz:
 
 Zer da? Zertarako da? Zer landu behar da konpetentzia hori lantzeko? Zer hizkuntzaren bidez gauzatzen da konpetentzia hori EAEn? Zer mailataraino garatu behar da konpetentzia hori hizkuntza bakoitzean? Konpetentzia hori osorik hartu behar da nahitaez edo baditu azpi-osagaiak? Non bila dezakegu informazioa kontu horretaz? 
 
 Konpetentzia dena kolpetik lortzen da edo baditu mailak? Konpetentzia behin betikoa da? Zer mailatan betetzen da konpetentzia? Egin konparazio bat talde-kideen artean hizkuntza-konpetentziari buruz. Edo gurasoen konpetentziarekin konparatu.
+
+---
 
 ```
 Landa-lana edo gogoeta (adibide bat jartzen da hemen, baina beste zerbaitek ere balio dezake, jakina)
@@ -47,12 +56,14 @@ Egin azterketa bat nork bere buruari. Egin gogoeta zer mailatan garatua dugun ge
 Aurreko hori egiteko, zeri begiratuko diogu gure/besteen konpetentzia ebaluatzeko? Nola ebaluatuko dugu konpetentzia hori? Dena osorik hartuta? Zatika?
 ```
 
-### Galdera batzuk  gaurko munduaz eta hezkuntza-munduaren erantzunaz
+## Galdera batzuk  gaurko munduaz eta hezkuntza-munduaren erantzunaz
 
 Gaurko mundua eta gure gurasoena edota aiton-amonena: zer alde azpimarratuko genuke?  
 Hezkuntzak zertan oinarrituta erantzun nahi dio gaurko munduari? Zeren arabera?  
 Zer oinarri teorikoren gainean eraikitzen da erantzun hori?   
 Zein dira planteamendu berri honen bilakaerako mugarri garrantzitsu batzuk? (Delors, DeSeCo eta Europako Kontseiluaren oinarrizko gaitasunak)
+
+---
 
 ```
 **Ariketa**
@@ -66,17 +77,23 @@ Noraino eramaten gaitu gaur WhatsApp, Instagram, Facebook... erabiltzeak?
 Zer dira, ezagutzen ez duen batentzat azalduta?
 ```
 
+# Gaurko mundua: globalizazioa
 
+## Mundua nolakoa dugun? 
 
-## Gaurko mundua: globalizazioa
+## **Konplexua** 
 
-Mundua nolakoa dugun? 
+mugikortasun fisikoa eta soziala; mailak ez –hain- gogorki finkatuak eta bereziak; denak nahasian, espazio berak konpartitzen; azken batean, munduaren dimentsio osoa “ikusten dugu”…
 
-**Konplexua**: mugikortasun fisikoa eta soziala; mailak ez –hain- gogorki finkatuak eta bereziak; denak nahasian, espazio berak konpartitzen; azken batean, munduaren dimentsio osoa “ikusten dugu”…
+## Aldakorra, borborka
 
-**Aldakorra, borborka**: migrazio mugimenduak, aurrerapen teknologikoak, IKT…
+migrazio mugimenduak, aurrerapen teknologikoak, IKT…
 
-*Globalizatua* (denok denen berri, eraginak nabariago, herri globala, Internet…)
+## Globalizatua
+
+(denok denen berri, eraginak nabariago, herri globala, Internet…
+
+##
 
 Orain, interakzioa handiagoa mundu mailan:  elkarrekin aztertuko dugu egoera?
 
@@ -87,9 +104,12 @@ Munduaren konplexutasun horretan, gidalerro batzuk: Delors Txostena UNESCOrentza
 - EAEn, Espainian, Nafarroan formulatuak
 - Hizkuntza-komunikaziorako gaitasuna
 
+
+
 > Globalization refers to the increasingly global relationships of culture, people and economic activity. Most often, it refers to economics: the global distribution of the production of goods and services, through reduction of barriers to international trade such as tariffs, export fees, and import quotas. (…)The term can also refer to the transnational circulation of ideas, languages, and popular culture. (Wikipedia)
 
-Globalizazioaren alderdiak
+## Globalizazioaren alderdiak
+
 Iturria: Appadurai, 1990; in Block, 2010)
 
 | Dimentsioa            | Zer mugitzen da? | Adibideak                                                    |
@@ -100,38 +120,45 @@ Iturria: Appadurai, 1990; in Block, 2010)
 | Hedabideak/Mass media | Informazioa      | Egunkariak, aldizkariak, satelite-bidezko TBa, webguneak, posta elektronikoa… |
 | Ideiena               | Ideiak           | Jende-eskubideak, ingurumenaren defentsa, terrorismoari beldurra... |
 
+# Tentsioak
+
+## **Mundialaren eta lokalaren arteko tentsioa**: 
+
+munduko biztanle bihurtzeko prozesua ezari-ezarian egitea bai, baina nork bere erroak eta zainak galdu gabe; hurbileneko erkidegoetatik zabalagoetara igaroz, haietan parte hartuz.  
+
+## **Unibertsalaren eta tokikoaren artekoa**:
+
+kultura globalizatzen ari da baina ez du dena hartzen. Pertsona bakoitza bakarra da eta bokazioa du bere etorkizuna bilatzeko eta bere barrengo ahalmen guztiak garatzeko. Baina beste aldetik bere tradizioetan eta bere kulturan duen aberastasuna ere zaindu behar da, bestela aberastasun hori behin betiko hondatzeko arriskua baita.  
+
+## **Tradizioaren eta modernitatearen artekoa**: 
+
+egokitu bai, baina bere buruari uko egin gabe; nork bere autonomia eraiki bai baina besteen askatasunarekin eta garapenarekin harreman dialektikoan, aitzinamendu zientifikoaren menpeko bihurtu gabe. Informazioko teknologia berriek dakarten desafioari erantzun egokia aurkitu behar zaio.  
+
+## **Epe luzearen eta epe laburraren arteko tentsioa**: 
+
+joankorra-iheskorra (efimeroa) da nagusi gaur egun, istantekotasuna da goi-goian, irudi eta informazio iheskor asko izateak berehalakoan zentratzera eramaten gaitu, erantzunak berehala nahi ditugu. Baina arazo askok estrategia patxadatsua, adostua eta negoziatua eskatzen dute; esate baterako, hezkuntza politikek.  
+
+##**Nahitaezko lehiaren eta aukera-berdintasunaren gaineko kezka**. 
+
+Lehiaren presioak ahantzarazten dio buruzagi askori jende bakoitzak aukerak behar dituela garatzeko. Lehia bizigarriak batera gertatu behar du lankidetza indargarriarekin eta lotzeko balio duen elkartasunarekin.  
+
+## **Jakintzaren hazkuntza izugarriaren eta jendeak hura asimilatzeko duen gaitasun mugatuaren arteko tentsioa**. 
+
+Ikas-irakasgaiak hautatu beharko dira, oinarrizko hezkuntza egoki baten funtsezko osagaiak zainduta (irakasteko hobeki bizitzen jakintzaren bidez, esperimentazioaren  bidez eta kultura pertsonal bat osatzearen bidez).   
+
+## **Espiritualaren eta materialaren arteko tentsioa**, 
+
+betikoa dena. Munduak ideialen eta baloreen beharra du.
 
 
 
-
-
-
-
-
-Zer da globalizazioa? Delors txostena (UNESCO, 1996): Hezkuntza: altxor ezkutua . XXI. mendeko hezkuntzaz 
-
-XXI. mendea tentsio batzuen erdian garatzen da eta haien artean bilatu behar da irtenbidea. Hona zein diren tentsio nabarmen batzuk:
-
-**Mundialaren eta lokalaren arteko tentsioa**: munduko biztanle bihurtzeko prozesua ezari-ezarian egitea bai, baina nork bere erroak eta zainak galdu gabe; hurbileneko erkidegoetatik zabalagoetara igaroz, haietan parte hartuz.  
-
-**Unibertsalaren eta tokikoaren artekoa**: kultura globalizatzen ari da baina ez du dena hartzen. Pertsona bakoitza bakarra da eta bokazioa du bere etorkizuna bilatzeko eta bere barrengo ahalmen guztiak garatzeko. Baina beste aldetik bere tradizioetan eta bere kulturan duen aberastasuna ere zaindu behar da, bestela aberastasun hori behin betiko hondatzeko arriskua baita.  
-
-**Tradizioaren eta modernitatearen artekoa**: egokitu bai, baina bere buruari uko egin gabe; nork bere autonomia eraiki bai baina besteen askatasunarekin eta garapenarekin harreman dialektikoan, aitzinamendu zientifikoaren menpeko bihurtu gabe. Informazioko teknologia berriek dakarten desafioari erantzun egokia aurkitu behar zaio.  
-
-**Epe luzearen eta epe laburraren arteko tentsioa**: joankorra-iheskorra (efimeroa) da nagusi gaur egun, istantekotasuna da goi-goian, irudi eta informazio iheskor asko izateak berehalakoan zentratzera eramaten gaitu, erantzunak berehala nahi ditugu. Baina arazo askok estrategia patxadatsua, adostua eta negoziatua eskatzen dute; esate baterako, hezkuntza politikek.  
-
-**Nahitaezko lehiaren eta aukera-berdintasunaren gaineko kezk**a. Lehiaren presioak ahantzarazten dio buruzagi askori jende bakoitzak aukerak behar dituela garatzeko. Lehia bizigarriak batera gertatu behar du lankidetza indargarriarekin eta lotzeko balio duen elkartasunarekin.  
-
-**Jakintzaren hazkuntza izugarriaren eta jendeak hura asimilatzeko duen gaitasun mugatuaren arteko tentsioa**. Ikas-irakasgaiak hautatu beharko dira, oinarrizko hezkuntza egoki baten funtsezko osagaiak zainduta (irakasteko hobeki bizitzen jakintzaren bidez, esperimentazioaren  bidez eta kultura pertsonal bat osatzearen bidez).   
-
-**Espiritualaren eta materialaren arteko tentsioa**, betikoa dena. Munduak ideialen eta baloreen beharra du.
-
-
-
-Gizartean zalantzak sortzen dira, erantzunak behar dituztenak:
+# Gizartean zalantzak sortzen dira, erantzunak behar dituztenak:
 
 + Nola jardun eraginkorki jendarte konplexu horretan?
 + Holako jendarte batean zer prestakuntza behar du herritar orok?
+
+
+# Delors txostena erantzutera
 
 Testuinguru horretan: Delors txostena (1996) (Nazioarteko Batzordea XXI. menderako Hezkuntzaz) 
 
@@ -146,52 +173,55 @@ Testuinguru horretan: Delors txostena (1996) (Nazioarteko Batzordea XXI. mendera
 
 Gaiari kolpetzeko historian kokatu beharra dago, horrela, aurrez ikusitakoari gaurko markoak nola erantzun nahi dion ulertzen errazagoa izan liteke
 
-### Delors Txostena 
+## Delors Txostena 
 
-Hezkuntzaren lau zutabeak: http://148.202.105.241/biblioteca/bitstream/20050101/946/1/Los_cuatro_pilares_de_la_educacion.pdf 
+Hezkuntzaren lau zutabeak
 
-ikasten ikastea  
-	: lifelong learning; dimentsio anitzeko hezkuntza
+ikasten ikastea: lifelong learning; dimentsio anitzeko hezkuntza
 
-egiten ikastea  
-	: jakintza aplikatua, jendartean ekiteko
+egiten ikastea: jakintza aplikatua, jendartean ekiteko
 
-elkarrekin bizitzen ikastea		
-	: lankidetzarako eta gatazkak konpontzeko gaitasunak…
+elkarrekin bizitzen ikastea: lankidetzarako eta gatazkak konpontzeko gaitasunak…
 
-izaten jakitea  
-	: balioak, jarrerak
+izaten jakitea: balioak, jarrerak
 
+## 
 
 ```
 **ariketa**
 Pentsatu hizkuntzak non duen zeregika ardatz horietan, baldin eta badu
 ```
 
-**Galdera batzuk** gaurko munduaz eta hezkuntza-munduaren erantzunaz:
+# **Galdera batzuk** gaurko munduaz eta hezkuntza-munduaren erantzunaz:
 
-- Zer da curriculuma gaitasunen arabera antolatzea?
-- Zer dira oinarrizko gaitasunak?
-- Nola zehaztu dira gaitasun horiek gure inguruan?
-- Zer da hizkuntza-komunikaziorako gaitasuna?
+>- Zer da curriculuma gaitasunen arabera antolatzea?
+>- Zer dira oinarrizko gaitasunak?
+>- Nola zehaztu dira gaitasun horiek gure inguruan?
+>- Zer da hizkuntza-komunikaziorako gaitasuna?
 
-- Aipaturiko mundu konplexu horretan jarduteko, nola prestatu jendea? Nola antolatu hezkuntza?
-- Mundu konplexu horretan jarduteko oinarrizko gaitasun batzuen jabe izan behar du pertsona orok
-- Zenbat eta zein dira oinarrizko gaitasun horiek?
+>- Aipaturiko mundu konplexu horretan jarduteko, nola prestatu jendea? Nola antolatu hezkuntza?
+>- Mundu konplexu horretan jarduteko oinarrizko gaitasun batzuen jabe izan behar du pertsona orok
+>- Zenbat eta zein dira oinarrizko gaitasun horiek?
 
-### Konpetentziaren definizio batzuk:
+# Konpetentziaren definizio batzuk:
 
-Jakintza, trebetasunak eta jarrerak modu praktikoan integratzeko gaitasuna, arazoak konpontzeko eta egoki erantzuteko hainbat testuinguru eta egoera askotarikoetan. Bestela esan, jakintza teorikoa eta praktikoa integratzea eta aplikatzea testuinguru akademikoz kanpoko egoeratan.
+##
+
+> Jakintza, trebetasunak eta jarrerak modu praktikoan integratzeko gaitasuna, arazoak konpontzeko eta egoki erantzuteko hainbat testuinguru eta egoera askotarikoetan. Bestela esan, jakintza teorikoa eta praktikoa integratzea eta aplikatzea testuinguru akademikoz kanpoko egoeratan.
+
+##
 
 > Europako Hizkuntzen erreferentzia marko bateratuan:  Competences are the sum of knowledge, skills and characteristics that allow a person to perform actions.  (Konpetentziak dira norbanakoaren jakintzen, trebetasunen eta ezaugarrien batura, pertsonari ahalbide ematen diotenak jarduerak gauzatzeko. 
 > --(JMren itzulpena) (in http://www.coe.int/t/dg4/linguistic/Source/Framework_EN.pdf)
 > 
 
+## 
 
 > Gaitasuna da testuingurura egokitutako ezagutzen, trebetasunen eta jarreren multzo bat 
 > 
 > -- Europako Parlamentuaren ebazpena (2006)
 
+##
 
 > Konpetentzia edukitzea da eraginkor aritzea testuinguru jakin batean.
 > 
@@ -199,13 +229,17 @@ Jakintza, trebetasunak eta jarrerak modu praktikoan integratzeko gaitasuna, araz
 >
 > -- Zabalak eta Arnauk (2007)
 
-Konpetentziak “diseinatzeko”, hautatzeko, saio batzuk izan ziren. Horietako bat, DeSeCo izenez ezagutzen dena:
+## Konpetentziak “diseinatzeko”, hautatzeko, saio batzuk izan ziren. Horietako bat, DeSeCo izenez ezagutzen dena:
 
-### DeSeCo (Definition and Selection of  Key Competencies):
+## DeSeCo (Definition and Selection of  Key Competencies):
+
+##
 
 > What Competencies Do We Need for a Successful Life and a Well-Functioning Society?
 > Why are competencies so important today? Globalizazioak eta modernizazioak gero eta mundu desberdinagoa eta konektatuagoa sortzen dute; horrek, adibidez, behartzen gaitu informazio asko kudeatzera, eta horretarako teknologia berrietan prestakuntzaren bat eskatzen du; ekonomiaren hazkundea hura jasateko moduarekin konbinatu behar da. Pertsonak, jendarte konplexu horretan, trebetasun zehatzak baino zerbait gehiago behar du ongi jarduteko. Kohesio soziala eta jasateko moduko garapena larriki lotuak dira jendarte guztiko jende guztiaren konpetentziekin; konpetentziak ulertu behar dira jakintzaren, trebetasunen eta jarrera eta balioen batura gisa.
 > -- OECD Education Ministers
+
+##
 
 Konpetentzien hiru dimentsio edo “kategoria handi”: 
 
@@ -213,15 +247,19 @@ Konpetentzien hiru dimentsio edo “kategoria handi”:
 + Talde heterogeneoetan hartu-emanean jardutea
 + Nor bere gain ibiltzeko gaitasuna (autonomo jardutea)
 
+##
+
 DeSeCo txostenak baldintza batzuk ezarri zituen oinarrizko gaitasun/konpetentzia horien definizioan:
 
 a) pertsonarentzat eta jendartearentzat baliozkoak diren emaitzak erdiesten lagundu behar dute.
 b) lagundu behar diote pertsonari erantzuten aurrean aurki ditzakeen hainbat testuingurutako eskakizunei.
 c) jende ororentzat balio behar dute, ez bakarrik espezialistentzat.
 
-### Europako kontseiluaren proposamena
+## Europako kontseiluaren proposamena
 
 Europako Kontseiluaren oinarrizko zortzi konpetentziak (key competences): marko honek zortzi konpetentzia definitzen ditu eta deskribatzen du zein diren oinarrizko jakintzak, trebetasunak eta jarrerak haietako bakoitzari lotuak. Oinarrizko konpetentziak hauek dira:
+
+##
 
 1. komunikazioa ama-hizkuntzan (*communication in the mother tongue*)
 1. Komunikazioa atzerriko hizkuntzetan (*communication in foreign languages*)
@@ -232,11 +270,13 @@ Europako Kontseiluaren oinarrizko zortzi konpetentziak (key competences): marko 
 1. Ekinzaletasuna eta ekimena (*sense of initiative and entrepreneurship*)
 1. Kultur oharmena eta adierazpena (*cultural awareness and expression*)
 
-Oinarrizko konpetentzia hauek elkarren menpekoak dira eta enfasia egin behar da kasu bakoitzean pentsamendu kritikoan, sormenean, arazo konpontzean, arrisku balioestean, erabakimenean, eta sentimenduen kudeatze eraiki-zalean.
+##
 
+Oinarrizko konpetentzia hauek **elkarren menpekoak** dira eta enfasia egin behar da kasu bakoitzean pentsamendu kritikoan, sormenean, arazo konpontzean, arrisku balioestean, erabakimenean, eta sentimenduen kudeatze eraiki-zalean.
 
+## Oinarrizko konpetentziak handik hona (ariketa)
 
-### Oinarrizko konpetentziak handik hona (ariketa)
+##
 
 | Oinarrizko gaitasunen egoera                                 |                                                              |          |      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- | ---- |
@@ -256,15 +296,17 @@ Hemen, izena: Hizkuntza-komunikaziorako gaitasuna/konpetentzia
 Oso ideia zabala. Zehaztapena behar du, hura ulertzera hurbiltzeko, eta haren ikas-irakaskuntza antolatzeko
 Zein azpigaitasun ditu konpetentzia horrek? Iritzi desberdinak
 
+# Communicative competence... eta familia
 
+##
 
-## Communicative competence... eta familia
+![Celce-Murcia eta beste (1995)](../assets/celce-murcia1995.png)
 
-![Celce-Murcia eta beste (1995)](assets/celce-murcia1995.png)
+##
 
-![Canales & Swain (1981); Canales (1983)](assets/canale-swain1981.png)
+![Canales & Swain (1981); Canales (1983)](../assets/canale-swain1981.png)
 
-### Hizkuntzen Europako Erreferentzi Marko Bateratua
+## Hizkuntzen Europako Erreferentzi Marko Bateratua
 
 
 
@@ -272,7 +314,7 @@ http://www.habe.org/pdf/erreferentzi_markoa.pdf
 
 
 
-### Zalantzak:
+## Zalantzak:
 
 Zer inporta zaigu zer osagai dituen hizkuntza-komunikaziorako gaitasunak?
 
@@ -292,9 +334,7 @@ Zer dokumentutan aurki genezake hori?
 
 Curriculum dekretuetan, Hezkuntza Sail(ar)en web orrietan…
 
-
-
-### Zehaztapenak: 
+## Zehaztapenak: 
 
 Osagaiak osagai, nola zehaztuko genuke zer den hizkuntza-komunikaziorako gaitasuna?
 Hona Oinarrizko Curriculum Diseinutik harturiko azalpena (2010eko curriculuma)
@@ -321,13 +361,13 @@ Hona Oinarrizko Curriculum Diseinutik harturiko azalpena (2010eko curriculuma)
 >
 > Laburbilduz, derrigorrezko eskolaldiaren amaieran hizkuntzarako gaitasuna behar bezala eskuratua izateko, ahozko eta idatzizko hizkuntza menderatu behar da era bateko eta besteko testuinguruetan, eta atzerriko, gutxienez, hizkuntza baten erabilera funtzionala izan.
 
-### Hizkuntza-komunikaziorako gaitasunaren beste definizio bat
-
- 
+## Hizkuntza-komunikaziorako gaitasunaren beste definizio bat
 
 >  Hizkuntza-komunikaziorako gaitasuna hizkuntza erabiltzeko trebetasuna da, hau da, kontzeptuak, sentimenduak, gertakariak eta iritziak ahozko eta idatzizko diskurtsoen bidez adierazi eta interpretatzekoa eta gizarte- zein kultura-ingurune guztietan linguistikoki elkarreragitekoa.
 >
 >  -- Eusko Jaurlaritza: *Hizkuntza-komunikaziorako Gaitasuna. Bigarren Hezkuntza* 
+
+##
 
 Definizioak definizio, badira definitutakoa lanketa eremura eramateko orduan adostutako kontzeptu batzuk:
 
@@ -341,27 +381,30 @@ Horrela, komunikazio gaitasunean batzuk aztertzen dira segidan
 Komunikazio Gaitasunean 5 dimentsio bereizten dira: 
 
 - ahozkoaren ulermena
-
 - idatziaren ulermena
 - mintzamena
 - idazmena
 - ahozko elkarrekintza
 
+##
+
 Dimentsio bakoitza neurtzeko, ikasketa-emaitza batzuk formulatzen dira (ikus hurrengo diapositibetan)
 
 Ikasketa-emaitza bakoitzean, hiru betetze-maila bereizten dira (ebaluazio diagnostikoan):
+
+##
 
 - Hasierako maila (A)
 - Erdi maila (B)
 - Maila aurreratua (C)
 
-### Hizkuntza-komunikaziorako gaitasunaren dimentsioen osagaiak/azpigaitasunak
+## Hizkuntza-komunikaziorako gaitasunaren dimentsioen osagaiak/azpigaitasunak
 
 > Hizkuntza-komunikaziorako konpetentzia bloke handi batzuetan egituratu da, DIMENTSIO deituak. Dimentsio horietako bakoitza AZPIKONPETENTZIA batzuetan zertzen da, eta azpikonpetentzia bakoitzerako ikasleak jakin eta egiten jakin behar duena azaltzen duten EBALUAZIO-ADIERAZLE batzuk xedatu dira.
 >
 > -- Eusko Jaurlaritza-Hezkuntza Saila-ISEI/IVEI: *Ebaluazio diagnostikoa. Hizkuntza-komunikaziorako konpetentzia. Marko teorikoa*. Vitoria-Gasteiz: EJAZN
 
-#### Dimentsioak
+# Dimentsioak
 
 Hizkuntza-komunikaziorako konpetentzia DIMENTSIO hauetan egituratuta dago:. 
 
@@ -373,8 +416,7 @@ Hizkuntza-komunikaziorako konpetentzia DIMENTSIO hauetan egituratuta dago:.
 
 Dimentsio horien azpigaitasunak hemen ikus ditakegu
 
-- 
-  DIMENTSIOA: AHOZKOAREN ULERMENA
+- DIMENTSIOA: AHOZKOAREN ULERMENA
   - Ahozko testuen zentzu orokorra identifikatzea
   - Ahozko testuen helburua antzematea
   - Ahozko testuetan, proposatutako helburuei begira garrantzia duten informazioak hautatzea
@@ -401,7 +443,7 @@ Dimentsio horien azpigaitasunak hemen ikus ditakegu
   - Arau soziokomunikatiboak errespetatzea
   - Komunikazioari eusteko eta beraren eraginkortasuna areagotzeko estrategiak erabiltzea
 
-#### Agerbideak:
+## Agerbideak:
 
 Adierazleak dira dimentsio horien garapenak ustez erakutsi behar duen modua. 
 
@@ -435,11 +477,11 @@ Adierazleak dira dimentsio horien garapenak ustez erakutsi behar duen modua.
       - Adei-legea errespetatzen du
     - Komunikazioari eusteko eta haren eraginkortasuna areagotzeko estrategiak erabiltzea
 
-##### Adierazleak eta lortze-mailak:
+## Adierazleak eta lortze-mailak:
 
 >  (19) Ikaskuntzarako eta gizarte-harremanetarako (hau da, ikasgelan, ikastetxean eta ingurunean eguneroko bizitzan ohikoak diren) komunikazio-trukeetan modu aktibo eta egokian parte hartzea.
 
-Adierazleak: 
+## Adierazleak: 
 
 - Naturaltasunez esku hartzen du eta aktiboki entzuten du. 
 - Komunikazio-egoeraren ezaugarriak kontuan izaten ditu. 
@@ -448,14 +490,17 @@ Adierazleak:
 2. Arau soziokomunikatiboak errespetatzea.
 3. Komunikazioari eusteko eta haren eraginkortasuna areagotzeko estrategiak erabiltzea. 
 
+## 
 
 | Hasierako maila                                              | Erdi maila                                                   | Maila aurreratua                                             |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | + Komunikazio-trukean arreta zailtasunez mantentzen du.<br> + Bere komunikazio-trukeetan inhibizioa agertzen du.<br> + Lagunduta, komunikazio-egoeraren ezaugarriak kontuan izaten ditu. | + Komunikazio-trukean arreta mantentzen du.  <br> + Naturaltasunez, komunikazio-trukeak hasten eta mantentzen ditu.  <br> + Komunikazio-egoeraren ezaugarriak kontuan izaten ditu.  <br> + Solaskidearen aurrean erantzuna modu nahiko eraginkorrean egokitzen du.<br> + Hizkuntza-aldaera modu nahiko eraginkorrean egokitzen du elkarrekintzara. | + Komunikazio-trukean arreta mantentzen eta esku hartzen du.<br> +  Naturaltasunez eta modu eraginkorrean, komunikazio-trukeak hasten eta mantentzen ditu.<br> +  Komunikazio-egoeraren ezaugarrietara modu eraginkorrean egokitzen da.<br> +  Erregistro egokia erabiltzen du.<br> +  Solaskidearen aurrean erantzuna egokitzen du.<br> +  Hizkuntza-aldaera elkarrekintzara egokitzen du. |
 
+##
+
 > (20).- Ikasgelan, ikastetxean eta ingurunean eguneroko bizitzan ohikoak diren komunikazio-trukeetan arau soziokomunikatiboak errespetatzea. 
 
-Adierazleak: 
+## Adierazleak: 
 
 - Hizkuntza-moldeak errespetatzen ditu. 
 - Besteen esku-hartzeak errespetatzen ditu. 
@@ -463,29 +508,11 @@ Adierazleak:
 - Adei-legea kontuan izaten du. 
 - Diskriminaziozko esaerak saihesten ditu.
 
+##
+
 | Hasierako maila                                              | Erdi maila                                                   | Maila aurreratua                                             |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | + Komunikazio-trukean errespetuzko jarrera zailtasunez mantentzen du.<br> +  Komunikazio-trukean ahotsaren tonua eta bolumena zailtasunez kontrolatzen ditu. <br> + Jarrera eta keinuak zailtasunez kontrolatzen ditu.<br> +  Lagunduta, hitz egiteko txandak errespetatzen ditu. | + Komunikazio-trukean errespetuzko jarrera mantentzen du.<br> +  Komunikazio-trukean ahotsaren tonua eta bolumena noizean behin kontrolatzen ditu. <br> +  Jarrera eta keinuak noizean behin kontrolatzen ditu. <br> + Hitz egiteko txandak ia beti errespetatzen ditu. <br> + Noizean behin komunikazio-trukea hasteko eta bukatzeko hizkuntza-formula egokiak erabiltzen ditu.<br> +  Diskriminaziozko esaera batzuk antzematen eta zuzentzen ditu. | + Komunikazio-trukean lankidetza eta errespetuzko jarrera ageri du.<br> +  Komunikazio-trukean ahotsaren tonua eta bolumena kontrolatzen ditu.<br> +  Hitz egiteko txandak errespetatzen ditu.<br> +  Adei-legea errespetatzen du.  Jarrera eta keinuak kontrolatzen ditu.<br> +  Komunikazio-trukea hasteko eta bukatzeko hizkuntza-formula egokiak erabiltzen ditu. <br> + Diskriminaziozko esaerak erabiltzea saihesten du. |
-
->  (21) Ikasgelan, ikastetxean eta ingurunean eguneroko bizitzan ohikoak diren komunikazio-trukeetan komunikazioari eusteko estrategiak erabiltzea 
-
-**Adierazleak**: 
-
-+ Komunikazioari eusteko konpentsazio-estrategiak erabiltzen ditu.
-
-| Hasierako maila                                              | Erdi maila                                                   | Maila aurreratua                                             |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| +Ulermen-arazoak gainditzeko, bere komunikazio-trukeetan galdera soilen bat egiten du.<br> +  Elkarrekintzan zailtasunak gainditzeko, ahozkoak ez diren baliabideak erabiltzen ditu.<br> +  Komunikazio-trukean, bere esku-hartzeak arazoekin txertatzen ditu. | + Ulermen-arazoak gainditzeko, bere komunikazio-trukeetan galdera soilak egiten ditu.<br> +  Elkarrekintzan zailtasunak gainditzeko, ahozko baliabideak eta ahozkoak ez direnak erabiltzen ditu. <br> + Mezuaren edukiari buruzko bere hipotesietakoren bat egiaztatu eta berresteko galdera desegokiak egiten ditu. <br> + Komunikazio-trukean, bere esku-hartzeak modu nahiko eraginkorrean txertatzen ditu. | + Ulermen-arazoak gainditzeko, bere komunikazio-trukeetan galderak egiten ditu. <br> + Elkarrekintzan zailtasunak gainditzeko, ahozko baliabideak eta ahozkoak ez direnak erabiltzen ditu. <br> + Mezuaren edukiari buruzko bere hipotesiak egiaztatu eta berresteko galdera egokiak egiten ditu. <br> + Komunikazio-trukean, bere esku-hartzeak egoki txertatzen ditu. |
-
-Beheko horietatik zein ikusi/aztertu/ulertu ditugu?
--munduaren ezaugarriak: aldakorra, konplexua, elkarrekin lotura handia, IKTak…
--mundu konplexu eta aldakorrari erantzuteko saioa: Delors txostena (tentsioak, hezkuntzaren beharrezko utopia, bizi guztia ikasten, hezkuntzaren lau pilareak)
--bizi guztiko hezkuntza, gaitasun batzuen bidez adierazia: oinarrizko gaitasunak
--oinarrizko gaitasunak zer diren eta nola formulatu diren esparru desberdinetan (Europan, estatuan, …)
--hizkuntza-komunikaziorako konpetentzia, oinarrizko gaitasun bat
--gaitasun horren azpigaitasun batzuk (testuak aztertzeko orduan kontuan hartzeko mailen oinarria)
--gaitasun hori nola formulatzen den EAEko curriculum dekretuan
--gaitasun horiek ebaluatzeko, xehetasun batzuk
 
 ## Beste galdera batzuk  Hizkuntza-komunikaziorako gaitasunaz Euskal Herrian
 
