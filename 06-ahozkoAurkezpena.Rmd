@@ -31,7 +31,7 @@ Gidoia gai guztietan errepikatzen da oinarrian:
 + Aztertzeko materiala
 + Landa-lana/gogoeta.
 
-### Hezkuntzaren lau pilareetatik (Delors txostenetik) oinarrizko konpetentzietara  
+### Hezkuntzaren lau pilareetatik (Delors txostenetik) oinarrizko konpetentzietara {-}
 
 + Hezkuntzaren lau pilareak. 
 + Bizi guztiko ikasketa. 
