@@ -1,5 +1,5 @@
 --- 
-title: "Hizkuntzen Didaktikako Ikuspegi Berriak (minorra) V-2020/09"
+title: "Hizkuntzen Didaktikako Ikuspegi Berriak (minorra) V`r Sys.Date()`"
 author: 
   name: "Irakaslea: Juan Abasolo"
   affiliation: UPV/EHU
