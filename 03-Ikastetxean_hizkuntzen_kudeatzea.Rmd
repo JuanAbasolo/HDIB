@@ -1,5 +1,7 @@
 # Ikastetxean hizkuntzen kudeatzea
 
+[![](https://img.shields.io/badge/Diapoak-HizkuntzKudeaketa-gray)](Zain/3-gaia_Ikastetxeko-hizkuntzen-kudeatzea.pdf)
+
 Azterguneak
 
 Zer dela-eta kezka hori? 
@@ -10,7 +12,7 @@ Zeri erantzuten dio?
 
 Zer puntu erabaki behar dira edo zer alderdi hartu behar dira kontuan?
 
-## Landa-lana/gogoeta.
+## Landa-lana/gogoeta
 
 Galdera batzuk
 
@@ -18,7 +20,7 @@ Galdera batzuk
 + Zer hizkuntza ditugu eskolan, zer helburu bakoitzarentzat, zer aldaketa dakar horrek…? Horiei erantzun koherentea eman beharra
 + Erantzun koherentea eta globala emateko, zer alderdi zaindu behar dira? Zer galderari erantzun? 
 
-### Eskoletan zer?
+**Eskoletan zer?**
 
 Gaur egun ikastetxe anitzetan hainbat hizkuntza:
 
@@ -34,8 +36,6 @@ Ikas-helburu zehaztugabekoak:
 
 Horien denen kudeatzea modu koherentean gauzatzeko, nola jardun? 
 
-
-
 + Bakoitzari gogoratzen zaiona eginez?
 + Borondatearen gainean arita?
 + Koordinaturik? Elkarrekin pentsatuta?
@@ -44,37 +44,37 @@ Hobe tratamendu koherente eta elkarrekin pentsaturikoa egitea, ikastetxeak bere 
 
 Elkarrekiko jardun horren ondorioak, komeni da dokumentu batean jasotzea, koordinazio elementu gisa
 
-###  Gelatik eta eskolatik
+**Gelatik eta eskolatik**
 
 Zer egin ikastetxean  ditugun hizkuntzei tratamendu koherentea emateko? 
 
-​	Aztertu hasierako egoera eta azken helburuak, eta pentsatu bidea; dokumentu batean bildu
+Aztertu hasierako egoera eta azken helburuak, eta pentsatu bidea; dokumentu batean bildu
 
 Zer hartu behar du barrenean dokumentu horrek?  Zertaz hartu behar dira erabakiak?
 	...
 
 Non aurkitzen ahal dugu informazioa horretaz?
 
-​	Zer dio curriculum dekretuak?
-​	Non bestetan aurkitzen ahal dugu informazioa? Nondik hasiko gara bilatzen?
++ Zer dio curriculum dekretuak?
++ Non bestetan aurkitzen ahal dugu informazioa? Nondik hasiko gara bilatzen?
 
-### Curriculum dekretutik     2010
+## Curriculum dekretutik     2010
 
 2010eko dekretuaren 18. artikulua.- Ikastetxearen Hizkuntza Proiektua
 
 > 1.- Dekretu honen esanetara, hizkuntzen irakaskuntzarekin eta erabilpenarekin lotutako alderdi guztien plangintza egingo duen agiria da hizkuntza-proiektua, ikastetxeek egindakoa, beren hezkuntza esparruan aplikatzeko. Hezkuntza-proiektuan jasotako ikaskuntza prozesuan hizkuntzak nola irakatsiko eta erabiliko diren finkatuko du hizkuntza-proiektuak, eta zehaztu egingo zer-nolako trataera izango duten hizkuntzek curriculum-proiektuan. Agiri horretan jasotako erabakiek eragin zuzena izango dute ikastetxeko beste agiri batzuetan; esaterako, barne-araudian, urteko plangintzan, barne- eta kanpo-harremanak arautuko dituzten printzipioetan, eta abarretan. Izan ere, azken horien bidez gauzatuko dira hizkuntza-proiektuan adostutako printzipioak.
 
-### Curriculum dekretutik     2016  [ARIKETA]
+### Ariketa {-} 
 
-Bada alderik? [ARIKETA]
+Identifikatu ze alde dagoen curriculum dekretutik 2016koa oinarri hartuta
 
+Kokatu dokumentuan eta azaldu zein ebidentzia ikuusten duzun eta zuen ustez zertan oinarritzen diren aldaketok.
 
-
-### Zer leku du ikastetxearen organigraman?
+## Zer leku du ikastetxearen organigraman?
 
 Hizkuntza proiektua non kokatzen da? 
 
-​	Hezkuntza proiektuaren barrenean
+Hezkuntza proiektuaren barrenean
 
 Zer da hezkuntza proiektua? Dokumentu bat non biltzen diren…
 
@@ -94,7 +94,7 @@ Zer da hizkuntza proiektua? Dokumentu bat non biltzen diren…
 
 ### Ikastoletakoari so
 
-[IRUDIA]
+![](assets/3-img01.png)
 
 Adibidez: 
 
@@ -102,7 +102,7 @@ Adibidez:
 >
 > -- EHIK, 2009: 129
 
-#### Ikastolen elkartearen oinarrizko ideia batzuk:
+### Ikastolen elkartearen oinarrizko ideia batzuk:
 
 + Euskalduna eta euskal kulturaren eragile
 + Eleaniztuna, euskara ardatz dela
@@ -122,7 +122,7 @@ Beste heziketa-erkidego baten hezkuntza proiektuaren zati bat (SGES):
 >
 > -- SGES
 
-### Hizkuntzak kudeatzeko, ikastetxearen hizkuntza proiektua
+## Hizkuntzak kudeatzeko, ikastetxearen hizkuntza proiektua
 
 Zer da ikastetxearen hizkuntz proiektua?
 
@@ -135,8 +135,6 @@ Adibide bat, ikastolen hizkuntza proiektua:
 >ikastolan lantzen diren hizkuntzen ikaskuntza-irakaskuntzari eta erabilerari dagozkien alderdiak biltzen dituen eta haien trataerari koherentzia ematen dion egitasmoa
 >
 >-- EHIK, 2009:45
-
-
 
 Beraz, 
 
@@ -163,11 +161,11 @@ Zer lortu nahi den, eta nola lortu nahi den, hizkuntzei dagokienez.
   + Gelaz kanpokoak
   + ...
 
+### Galdera batzuk, erantzuteko 
 
+Aitzindari izan zen Cassany (1994) bere planteamentuetan. Hark identifikatu zituen hainbat erabaki eta interesgune, horien errealitatearen araberako planteamentuak egin behar direla nabarmendu zuen.
 
-### Galdera batzuk, erantzuteko (A) (aitzindari, Cassany 1994):
-
-#### Ikastetxea:
+#### Ikastetxea: {-}
 
 + Zer hizkuntza(k) erabiliko d(ir)a eskolan komunikaziorako?
 + Zer hizkuntza(k) irakaskuntzarako?
@@ -177,25 +175,25 @@ Zer lortu nahi den, eta nola lortu nahi den, hizkuntzei dagokienez.
 + Hizkuntzek elkarrekin erlaziorik?
 + Ikasleen ezaugarri soziolinguistiko desberdinei nola erantzun
 
-#### Ikasleak eta familiak:
+#### Ikasleak eta familiak:  {-}
 
 + …
 + Normalizazioaren alde?
 + …
 
-#### Irakasleak
+#### Irakasleak {-}
 
 + …
 + Normalizazioaren aurreko jarrera?
 + …
 
-#### Auzoa/Herria/Ingurua
+#### Auzoa/Herria/Ingurua {-}
 
 + Hizkuntza bakoitzaren presentzia maila?
 + Immigrazioaren eragina?
 + Inguruarekiko harremana zenbatekoa?
 
-#### Beste
+#### Beste {-}
 
 + Zer testuinguru soziolinguistikotan ari gara gure jardunbidea definitzen?
 + Zer  hizkuntza hartuko ditugu kontuan? Atzerriko hizkuntza, zein? Immigraziokoak bai?
@@ -219,7 +217,7 @@ Zer lortu nahi den, eta nola lortu nahi den, hizkuntzei dagokienez.
 + Hizkuntzen trataera bateratuan ariko gara? Zergatik? Noiz? Zer hizkuntzarekin?
 + Sartuko ditugu ikas-eduki batzuk atzerriko hizkuntzaren batean? Zergatik? Noiz? Ikasgai oso batean edo zatika? Zergatik? Alde eta kontrako arrazoiak agertu.
 
-### Esparru batzuetan hartu beharreko erabaki batzuk
+### Esparru batzuetan hartu beharreko erabaki batzuk {-}
 
 + Hizkuntza bakoitzari zenbat denbora eman eskolako lanetan?  Denei berdin?
 + Zergatik denbora hori eman bakoitzari? Zer lortu nahi dugu? Zer pisu du hizkuntza bakoitzak inguru soziolinguistikoan?
@@ -235,11 +233,9 @@ Zer lortu nahi den, eta nola lortu nahi den, hizkuntzei dagokienez.
 
 ### Aditu batzuen iritziak
 
-Ruiz, U. (1997) Decisiones necesarias para la elaboración del proyecto lingüístico de centro. Textos, 13, (9-22)
+![Ruiz, U. (1997) Decisiones necesarias para la elaboración del proyecto lingüístico de centro. Textos, 13, (9-22)](assets/3-img02.jpg)
 
-[IRUDIA]
-
-## Ikastetxearen hezkuntza proiektuan:
+## Ikastetxearen hezkuntza proiektuan
 
 Ikastetxearen helburuak hizkuntza kontuetan
 
@@ -258,9 +254,9 @@ Hizkuntza(k) eta haien erabilera, puntu hauetan:
 + Eskolaz kanpoko jarduerak eta osagarriak (udalekuak, irteerak,...)
 + Beste eskolako “ohikoak”: ikasturte amaierako jaia, sari banatzeak…
 
-### Ikastetxearen Curriculum Proiektuan
+## Ikastetxearen Curriculum Proiektuan
 
-#### Ziklo eta etapen artean
+### Ziklo eta etapen artean
 
 Ikastetxearen ezaugarriak zehaztu:
 
@@ -268,7 +264,7 @@ Ikastetxearen ezaugarriak zehaztu:
 + Irakurketa-idazketak zein hizkuntzatan? (Haur Hezkuntza eta Lehen Hezkuntzako 1. zikloa)
 + Irizpide metodologikoak finkatzea, mailaka
 
-#### Alorren artean
+### Alorren artean
 
 Alorren arteko lankidetza, hizkuntzei buruz
 
@@ -289,18 +285,20 @@ Ageriko emaitza duten gelako jardunak
 + Antzerkiak edo ikasturte amaierako jaiak
 + Eskolen arteko ikasle-trukeak…
 
-#### Hizkuntzen alorreko erabakiak
+### Hizkuntzen alorreko erabakiak
 
 Hizkuntzen arteko koordinazioa
 
 + Irizpide metodologiko erkideak
 + Hizkuntza bakoitzak zer programa-zati hartzen duen bere gain
 
-#### Ikastetxearen Hizkuntza Proiektua (Pascual, V. 2006)
+## Ikastetxearen Hizkuntza Proiektua
 
-[IRUDIA]
+![Hikuntz proiektua (Pascual, V. 2006)](assets/3-img03.jpg)
 
-#### Ikastetxearen Hizkuntza Proiektuan kontuan hartu beharreko puntu batzuk Serra eta Vila (2009)
+### IHizP kontuan hartu beharreko puntu batzuk 
+
+Zati honen oinarritzat Serrak eta Vilak (2009) idatzitako
 
 Egoera berria: hizkuntza gehiago geletan, 3 hizkuntza helburu, xehetasun eta ñabardura gehiago.
 
@@ -312,7 +310,7 @@ Ikastetxe bakoitzak bere egoerari, bere premiei  erantzun.
 
 Eredu orokorra ikastetxe bakoitzak bere errealitateari egokitu.
 
-##### Kontuan hartu beharrekoak:
+#### Kontuan hartu beharrekoak {-}
 
 1. Hizkuntzaren irakaskuntzaren ikuspegi instrumentala
 2. Eskola- eta familia-egitasmo bat
@@ -322,36 +320,36 @@ Eredu orokorra ikastetxe bakoitzak bere errealitateari egokitu.
 6. Atzerriko hizkuntzaren sarrera eta tratamendua
 7. Ikasgelako hizkuntza-tipologia, programaren giltzetako bat
 
-##### Hizkuntzaren irakaskuntzaren ikuspegi instrumentala:
+#### Hizkuntzaren irakaskuntzaren ikuspegi instrumentala {-}
 
 Hizkuntza ikasteko modurik eraginkorrena, hizkuntza hori erabiltzea (kasu honetan, eskolako zereginetan)
 
 Hasieratik hasi hizkuntza hori erabiltzen; esanahiaren negoziazioari garrantzi handia.
 
-Planteamendu hauek onartu behar dira:
+Planteamendu hauek onartu behar dira {-}
 
 + Hizkuntzen arteko transferentzia egiteko aukera   hizkuntza guztiak berdin tratatu
 + Hizkuntza-trebetasunak arlo guztietatik landu beharra  irakasleen artean adostasun handia behar da
 + Eskolako hizkuntzen eta ikasleen hizkuntza guztien arteko transferentziei bide ematea; hizkuntza guztiak onartu eta baloratu (jarduera  mailan ere bai, ez bakarrik hitzez)
 
-##### Eskola- eta familia egitasmo bat:
+#### Eskola- eta familia egitasmo bat {-}
 
 + Ahal balitz, denentzako programa bat bakarra,  oharturik eta onarturik hizkuntza- eta kultura-aniztasuna (jendarte kohesioari begira)?
 + Programaren ikuspegi globala eskaini  gurasoei (ohartzeko programa luzea dela eta tarteko helmugak tarteko direla).
 
-##### Hizkuntza bakoitza sartzeko unea eta curriculumean izan behar duten presentzia
+#### Hizkuntza bakoitza sartzeko unea eta curriculumean izan behar duten presentzia {-}
 
 + Garbi zein izanen den eskola-hizkuntza
 + Noiz sartu hizkuntza bakoitza
 + Zenbateko esposizio-denbora eta intentsitatea (kontuan harturik errealitate makrosoziala eta inguru soziolinguistikoa: hizkuntza bakoitza jendartean zenbat erabiltzen den, non…)
 
-##### Hizkuntzen sarrera eta tratamendua programan zehar
+#### Hizkuntzen sarrera eta tratamendua programan zehar {-}
 
 + Hizkuntza bakoitzak bere egoera: gaztelania gehiago jendartean euskara baino
 + Baina gaztelania ere landu behar da, alde guztietan, maila formalean
 + Eta zenbait tokitan, gaztelania bereziki landu ere bai
 
-##### Eskolatze-aldian hizkuntzek izan behar duten aurreramendua eta proportzionaltasuna
+#### Eskolatze-aldian hizkuntzek izan behar duten aurreramendua eta proportzionaltasuna {-}
 
 Hezkuntza maila bakoitzeko curriculumean hizkuntza bakoitzaren presentzia eta zeregina
 
@@ -367,7 +365,7 @@ Malguago jokatu? Hau da, arlo bakoitzean ehuneko hainbeste hizkuntza batean eta 
 
 Dena dela: hizkuntza guztiek begirunea berdin jaso behar dute; denek izan behar dute gauza interesgarriak ikas-irakasteko; motibazioak garrantzi handia
 
-##### Atzerriko hizkuntzaren sarrera eta tratamendua
+#### Atzerriko hizkuntzaren sarrera eta tratamendua {-}
 
 Maiz, atzerriko hizkuntza i(ra)kasgaia besterik ez, ez i(ra)kasbide
 
@@ -384,7 +382,7 @@ Inportantea:  atzerriko hizkuntza zer egiteko sartu? Ikasleentzat zentzua izan d
 
 Funtsean:  hizkuntzen sarrerak, presentziak, intentsitateak, sekuentziazioak eta tratamenduak planteamendu bakar bati erantzun behar diote: ikasleen hizkuntza-garapenari lagunduko dion planteamenduari.
 
-##### Ikasgelako hizkuntza-tipologia, programaren giltzetako bat
+#### Ikasgelako hizkuntza-tipologia, programaren giltzetako bat {-}
 
 Ikasle guztiek ezaugarri berak balituzte, ederki.
 
@@ -431,11 +429,11 @@ Honaino iritsita egin dezagun gogoeta, ezagutzen dugun egoera batean aplikatzeko
 
 **Funtsean: hizkuntza guztiak nola tratatuko ditugun zehaztu beharko genuke**
 
-## Bibliografia eta erreferentziak
+## Bibliografia eta erreferentziak (3. kap)
 
-Egile batzuk (1997). Monografia: El proyecto lingüístico de centro. In Textos, 13, 1997ko uztaila. 
-Sierra, J. M.& Vila. I. (2009): "...". In Ruiz Bikandi, U. (2009): Bigarren hizkuntzaren didaktika Haur eta Lehen Hezkuntzan. Bilbo: EHUAZN
-http://centros.educacion.navarra.es/eibz/baliabideak/eleaniztasuna/index2.htm
-EHIK (2009): Ikastolen hizkuntz proiektua. Zamudio: EHIK
-http://proyectolinguistico.webnode.es/
-http://www.xtec.cat/lic/intro/documenta/guia_elaboracio_PLC.pdf
+Egile batzuk (1997). Monografia: *El proyecto lingüístico de centro*. In Textos, 13, 1997ko uztaila.  
+Sierra, J. M.& Vila. I. (2009): "...". In Ruiz Bikandi, U. (2009): *Bigarren hizkuntzaren didaktika Haur eta Lehen Hezkuntzan*. Bilbo: EHUAZN  
+http://centros.educacion.navarra.es/eibz/baliabideak/eleaniztasuna/index2.htm  
+EHIK (2009): Ikastolen hizkuntz proiektua. Zamudio: EHIK  
+http://proyectolinguistico.webnode.es/  
+http://www.xtec.cat/lic/intro/documenta/guia_elaboracio_PLC.pdf  
