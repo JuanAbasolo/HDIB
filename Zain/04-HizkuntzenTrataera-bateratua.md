@@ -189,15 +189,17 @@ Hizkuntzak komunikazio-helburuarekin erabiltzea eskolan
 Komunikazioan oinarrituriko ikuspegia, ikasleen ekinaren bidez
 Hizkuntzak erabiliz ikasten dira (ikaslearen aktibotasuna)
 
+## Psikolinguistika (I)
 
-Psikolinguistika (I)
 Elebidunaren/eleaniztunaren burmuinaz
 Hizkuntzen trataera bateratuan kontuan hartzeko batzuk: 
 Nola irudika ditzakegu hizkuntza-gaitasunak eleaniztunaren burmuinean?
 Ikasle batek hizkuntza batean ikasita, eskolan hizkuntza bat erabilita, handitu ote dezake beste hizkuntza batean duen konpetentzia?
 Hizkuntza batean gaitasuna handitzeko, nahitaez hizkuntza horretan ari behar da eskolan? Adibidez: gaztelaniazko gaitasun komunikatiboa hobetzeko nahitaez gaztelaniaz ari behar da eskolan? Bestela esanda: eskolan euskara lantzen dugunean ez dugu gaztelaniazko konpetentzia lantzen? Eta alderantziz: gaztelania lantzen dugunean ezin dugu aurrera egin euskarazko komunikazio-gaitasunean? Hizkuntza bateko komunikazio-gaitasunaren garapena “gelditu” egiten da beste hizkuntza bat erabiltzen/lantzen dugunean?
 Edo bestela, galdera osotara aldatuta: gaztelanian eta euskaran komunikazio-gaitasun ona eta berdina lortzeko, bi hizkuntzei denbora bera eskaini behar zaie eskolan?
+
 Psikolinguistika (II)
+
 Galderak (erantzuna aurkitu beharrak):
 Psikolinguistika: elebidunaren burmuinaz
 Nola ditugu hizkuntzak burmuinean elebidunok? Bada burmuinean harremanik “hizkuntzetan ditugun konpetentzien artean”? 
@@ -212,26 +214,35 @@ Zeri esaten zaio Azpiko Gaitasun Erkidea (Common Underlying Proficiency/Competen
 Zer kontzepturen “kontra” eraikitzen da azken hori? Zer uste “eraisten” du kontzeptu horrek?
 Grosjean (1989): “Elebiduna ez da bi elebakar pertsona baten barruan”
 
-SUP vs CUP: Separate Underlying Proficiency vs Commom Underlying Proficiency.
+## SUP vs CUP: Separate Underlying Proficiency vs Commom Underlying Proficiency.
+
 Azpiko gaitasun bana vs azpiko gaitasun erkidea
 
+[IRUDIA doia hamen]
 
-Common underlying proficiency and linguistic interdependence principle.
+## Common underlying proficiency and linguistic interdependence principle.
+
 Azpiko gaitasun erkidea eta hizkuntza-interdependentziaren hatsarrea.
 
+[IRUDIA doia hamen]
+
+## Eleaniztun baten burmuina eta hizkuntz gaitasunak nola irudikatu
+
+[IRUDIA doia hamen]
 
 
-Hizkuntzen
-Trataera
-Bateratua
+
+
+## Hizkuntzen Trataera Bateratua
+
 Ikuspegi elebakarra: Hizkuntza bakoitza “bere aldetik”, elkarri ahalik eta eraginik txikiena egin diezaiotela
 Ikuspegi eleaniztuna (indartzen): hizkuntza-gaitasun batzuek beste hizkuntzetan aurreratzeko ere balio dute: konpetentziaren elementu batzuk “bakarrak” dira, hiztunaren hizkuntza guztietarako balio dute.
 Cummins: “azpiko konpetentzia bakarra” vs “azpiko konpetentzia bana” (CUP vs SUP)
 Hizkuntza bakoitzaren berezitasunak landu behar dira, baina pertsona elebiduna ez da bi pertsona elebakarren batura
 Hiztun elebidunak edo bigarren hizkuntza ikasten ari denak hizkuntzen arteko konparazioak egitea kaltegarria da?
-Hizkuntzen
-Trataera
-Bateratua
+
+## Hizkuntzen Trataera Bateratua
+
 Cummins: “azpiko konpetentzia bakarra”
 Zer gaitasunek balio diote elebidunari/eleaniztunari hizkuntza bat baino gehiagotan?
 Galdera batzuk, gogoeta arrazoitua egiteko:
@@ -240,37 +251,39 @@ Irakasle eskola honetako idazkaritzan aurkezten den eskari batek zer oinarrizko 
 Eskari mota berak zer osagai “estruktural” izanen ditu euskaraz?
 Gure aitite-amamek bazekiten eskari bat egiten udaletxean idatziz? Bazekiten zer osagai “estruktural” izaten dituzten  horrelako idatziek?
 Denok dakigu zer den bertsolaritza. Zer da errima? Gaztelaniaz egin daiteke bertsorik? Gaztelaniaz errimarik bada? Errimaren kontzeptua zer hizkuntzatan ikasi behar du hiztunak eskolan? Zer irakaslek esplikatu behar dio ikasleari zer den errima?
-Hizkuntzen
-Trataera
-Bateratua
+
+## Hizkuntzen Trataera Bateratua
+
 Cummins: “azpiko konpetentzia bakarra”
 Adibide-galdera batzuk,  pentsatzeko:
 Pertsona batek gaitasun handia baldin badu hizkuntza batean udaletxean eskari ofizial bat idatziz egiteko, izan ote daiteke oso txarra eskari mota bera egiteko beste hizkuntza batean? Esan arrazoiak.
 Pertsona bat eztabaidan edo debatean ona baldin bada hizkuntza batean, beste batean txar-txarra izan daiteke? Arrazoitu erantzuna.  
 Pertsona horrek bi hizkuntzatan debateetarako gaitasun maila berdina izateko, zer ikasi behar du? Arrazonamenduak egiten, argudioak bilatzen, konparazioak egiten hizkuntza bakoitzean ikasi behar du?
 Nik ideiarik ez badut egunkarian iritzi artikulu bat nola egin hizkuntza batean, beste batean ona izan naiteke lan horretan? Arrazoitu erantzuna.
-Hizkuntzen
-Trataera
-Bateratua
+
+## Hizkuntzen Trataera Bateratua
+
 Cummins: “azpiko konpetentzia bakarra”
 Adibide-galdera batzuk,  pentsatzeko:
 Jo dezagun egoera hau: 
 90 urteko amona xahar batek gaitasun handia du euskaraz ñabardura anitzekin eta jario handiarekin eta hizkuntzaren arauak ederki beteaz hitz egiteko, bere lanbideari eta inguruari buruz, bere bizitzako kontuei buruz. Hizkuntza ederki erabiltzen duela esan daiteke. Beraz, nola uler daiteke hain hiztun onak ez jakitea eskari bat idatziz aurkezten udaletxean? Edo beste alde batetik ikusita: Euskara kaxkarragoa, motelagoa, traketsagoa egiten duen abokatu batek, izan ote dezake gaitasun handiagoa eskari bat “modu egokian” aurkezteko? Pentsatu eta arrazoitu erantzuna.
 Abokatu horrek nola ikasi du eskariak idatziz egiteaz dakiena? Eskariak euskaraz egiteko ikastaro bat egin du? Egin gogoeta eta arrazoitu erantzuna.
-Hizkuntzen
-Trataera
-Bateratua
+
+## Hizkuntzen Trataera Bateratua
+
 Hizkuntza eraginkortasunez erabiltzeko orduan, hainbat “gaitasun” baliatzen ditugu.
 Gaitasun batzuk hizkuntza bakoitzean ikasi behar dira (hizkuntza horren ezaugarri “bereziki linguistikoak”, agerikoak).
 Beste gaitasun batzuk ere badira jokoan, eta ez dira hizkuntza bakoitzerako bereiz ikasten.
 Gaitasun horiek “hizkuntzen artekoak” izan daitezke…
----
+
+- - - 
+
 Orduan, zein dira hizkuntza bakoitzean ikasi beharrak eta zein “hizkuntzen artekotzat” jo daitezkeenak? 
 Garrantzitsua da horiek desberdintzea, eskolako lana horren arabera antolatzeko…
 Ikus dezagun adibideren bat…
-Hizkuntzen
-Trataera
-Bateratua
+
+## Hizkuntzen Trataera Bateratua
+
 Hizkuntz arteko konpetentzia erkideak (Pascual Granell, Vicent  (2006): El tractament de les llengües en un model  d’educació plurilingüe per al sistema educatiu valencià. València: Generalitat Valenciana –Conselleria de Cultura, Educació i Esport.):
 
 Kontzeptu-jakintza. Hitzek esan nahi dutena: “demokrazia”, “ekonomia”, legebiltzarra/parlamento, … kontzeptua behin ikasirik aski da. Kontuz kontzeptuak desberdin banatzen direnean hizkuntza bakoitzean: neba+anaia=  hermano; ahizpa+arreba= hermana. Koloreak: lur gorria, gaileta gorrituak. Batzuetan, birkontzeptualizazioa gerta daiteke.
@@ -286,9 +299,9 @@ Informazioa prozesatzeko estrategiak: informazioa aurkitzea, organizatzea, elabo
 Hizkuntza eta kultura bakoitzari buruzko irudikapenak: haien egoeraz, haien balio funtzionalaz, haien prestigioaz … (motibazioarekin lotua).
 
 EZAUGARRI ERKIDEA DUTE TREBETASUN ETA  JAKITE HORIEK DENEK: ERKIDEAK BAITIRA, EZ DIRA HIZKUNTZA BAKOITZEAN MODU INDEPENDENTEAN ERAIKI BEHAR, BAIZIK ETA IKUSPEGI BAT ETA BAKARRETIK, HORRELA ERREPIKAZIOAK ETA INKOHERENTZIAK EBITATZEKO, DENEN ARTEAN HIZKUNTZA-HEZIKETA BATU BAT ERAIKITZEKO, HIZKUNTZA BAKOITZEKO KONPETENTZIA BEREIZIEKIN BATERA.
-Hizkuntzen
-Trataera
-Bateratua
+
+## Hizkuntzen Trataera Bateratua
+
 Hizkuntz arteko konpetentzia erkideak (Pascual Granell, Vicent  (2006): El tractament de les llengües en un model  d’educació plurilingüe per al sistema educatiu valencià. València: Generalitat Valenciana –Conselleria de Cultura, Educació i Esport.):
 Kontzeptu-jakintza. Hitzek esan nahi dutena: “demokrazia”, “ekonomia”, “legebiltzarra/parlamentua”, … kontzeptua behin ikasirik aski da. Kontuz kontzeptuak desberdin banatzen direnean hizkuntza bakoitzean: neba+anaia=  hermano; ahizpa+arreba= hermana. Koloreak: lur gorria, gaileta gorrituak. Batzuetan, birkontzeptualizazioa gerta daiteke.
 Mundua ezagutzea. Hemen sartzen ditu jakintza metalinguistikoak, gramatikako terminoak, testu-hizkuntzalaritzaz eta (hizkuntzari buruzko pentsamendua garatzekoak)
@@ -296,9 +309,9 @@ Oharmen metalinguistikoa: hizkuntza tratatzen denean ez komunikatzeko, irudikatz
 Kontestu-euskarririk gabeko hizkuntza-erabilera (edo “idazteko hizkera”): erreferentzia egiten zaienean testuinguruan ez diren objektuei edo objektu abstraktuei, edo mintzaideek konpartitzen ez duten informazioa agertzen denean. Horrelakoetan hizkuntza-baliabideak arreta handiagoarekin bereizi edo aztertu behar dira (lexiko bereziagoa, ahoskera garbiagoa, sintaxi estandarragoa), kontestuak ez baitu laguntzen. Eskolan bereziki baliatzen den hizkera.
 Testu-generoei buruzko jakintza: itxura, egitura, funtzioa, baliabide erretorikoak eta hizkera berezitua (gutuna, berria, ipuina, iragarkia, web orria, jarraibide liburua, elaberria, saiakera, mitin politikoa, bertso saioa…). Inguru kultural batean normalean antzekoak izaten dira egitura horiek (desberdintasunak izan badaitezke ere)
 .
-Hizkuntzen
-Trataera
-Bateratua
+
+## Hizkuntzen Trataera Bateratua
+
 Hizkuntz arteko konpetentzia erkideak (Pascual Granell, Vicent  (2006): El tractament de les llengües en un model  d’educació plurilingüe per al sistema educatiu valencià. València: Generalitat Valenciana –Conselleria de Cultura, Educació i Esport.):
 6. Trebetasun kognitiboak: identifikatu/ezagutu, erlazionatu, sailkatu, loturak ezarri, konparatu, hurrenez hurren jarri, gogoratu, arazoak konpondu, … edo analizatu, sintetizatu, ebaluatu…
 7. Irakur-estrategiak: testuaren edukiaz hipotesiak egitea eta egiaztatzea; munduari buruzko jakintza baliatzea testuaren esanahia eraikitzeko; labur-biltzea eta antolatzea edukirik garrantzitsuena; testuaren edukiaz eta formaz ebaluazioak eta epaiak egitea, egilearen asmoak edo nork bere asmoak ebaluatu eta epaitzea….
@@ -308,19 +321,18 @@ Hizkuntz arteko konpetentzia erkideak (Pascual Granell, Vicent  (2006): El tract
 11. Hizkuntza eta kultura bakoitzari buruzko irudikapenak: haien egoeraz, haien balio funtzionalaz, haien prestigioaz … (motibazioarekin lotua).
 Ezaugarri erkidea dute trebetasun eta  jakite horiek denek: erkideak baitira, ez dira hizkuntza bakoitzean modu independentean eraiki behar, baizik eta ikuspegi bat eta bakarretik, horrela errepikazioak eta inkoherentziak ebitatzeko, denen artean hizkuntza-heziketa batu bat eraikitzeko, hizkuntza bakoitzeko konpetentzia bereiziekin batera.
 
+## . 
+
 Hizkuntzen Trataera Bateratua: 
 hizkuntza bakoitzaren berezitasunak, bakarka ikasi/landu behar dira
 
 Hainbat jakintza, prozedura eta jarrera hizkuntza batean edo bestean  jaso daitezke, baina hizkuntzak desberdinak dira eta desberdintasun horiek banaka ikasi behar dira.
 Milaka adibideren artean: 
 
+[TAULA-edo bat doia hamen]
 
+## Administrazioa
 
-
-
-
-
-Administrazioa
 Administrazioaren jarduna:
 Hizkuntzen trataera bateratuaz zer dio curriculum dekretuak? (2010ekoak)
 Lehen Hezkuntzako ikasleak, hein batean, eleanitzak direnez, hizkuntza-irakasleak beharturik daude, planteatutako hezkuntza-helburuei eutsita, beren irakaskuntza-metodoak aztertzera eta egokitzera, eta, batik bat, hizkuntzak era integratuan lantzera. Hizkuntzak era integratuan irakastea, ebidentzia hauen ondorioa da: batetik, ikasle elebidunak edo eleanitzak etengabe eskura ditu hainbat hizkuntza eta haien bidez ikasitakoa, eta hori guztia bere jakintzaren eta emozioen parte da.  Bestalde, hizkuntzak ikastea transferigarria da, eta hiztunen inguruan hizkuntza bat baino gehiago daude aldi berean. Beraz, hizkuntza bakoitzaren ezaugarri propioak landu behar dira batetik, eta, bestetik, batera landu hizkuntza guztiek dituzten alderdi komunak; betiere, hizkuntza bakoitza ongi erabiltzen saiatuz. 
@@ -328,7 +340,9 @@ Baina hizkuntzak irakastearen ardura ez dagokie hizkuntzen irakasleei soilik: es
 (Iturria: Hezkuntza, Unibertsitate eta Ikerketa Saila. 2010. Haur hezkuntzarako, lehen eta bigarren hezkuntzarako eta batxilergorako dekretu currikularrak Euskal Autonomia Erkidegoan. Vitoria-Gasteiz: EJAZN)
 Ikus, halaber: http://www.navarra.es/home_eu/Actualidad/BON/Boletines/2010/37/Anuncio-15/
 Eta 2016ko dekretuak zer dio? Aurkitu eta 2010ekoarekin konparatu
-Administrazioa
+
+## Administrazioa
+
 Administrazioaren jarrera: Berritzegune Nagusiaren orrian: Orientabide didaktikoak. Euskara eta Literatura (Bigarren Hezkuntza) 
 Bestalde, Oinarrizko Hezkuntzaren beste helburu nagusietako bat ikasle eleanitzak lortzea da. Horrek hizkuntza-irakasleak
 Hizkuntzen Trataera Bateratua planteatzera behartzen ditu. Izan ere, hizkuntzak modu bateratuan irakastea arrazoi hauen ondorio
@@ -348,16 +362,17 @@ sailkatzen dira–, eta ikaskuntza helburu komunikatibo zehatz bat lortzera bide
 Sekuentzietan, jakite hutsa baino garrantzitsuagoa da egiten jakitea. Ikuspegi hori garatzen da orientabide didaktiko hauetan.
 Hizkuntzen curriculuma: http://www.hezkuntza.ejgv.euskadi.net/r43-2459/eu/contenidos/informacion/dif10_curriculum_berria/eu_5495/adjuntos/curriculum_2010/basica_refundido_2010/1_04_lmh_e.pdf
 Honen osagarri, ikus zer dioen 2016ko dekretuak eta konparatu 2010ekoarekin.
-Administrazioa
+
+## Administrazioa
+
 Administrazioaren jarrera: Berritzegune Nagusiaren orrian: Orientabide didaktikoak. Euskara eta Literatura (Bigarren Hezkuntza) 
 (aurreko diapositibakoa, baina hirutan banatua, garbiago)
 Bestalde, Oinarrizko Hezkuntzaren beste helburu nagusietako bat ikasle eleanitzak lortzea da. Horrek hizkuntza-irakasleak Hizkuntzen Trataera Bateratua planteatzera behartzen ditu. Izan ere, hizkuntzak modu bateratuan irakastea arrazoi hauen ondorio da: batetik, hiztun elebidunak edo eleanitzak dakizkien hizkuntzen bidez hornitzen ditu ezagutzak eta emozioak; bestetik, hizkuntza ikaskuntzak transferitu egiten dira, eta, hirugarrenik, hainbat hizkuntza egon ohi dira aldi berean hiztunek parte hartzen duten hizkuntzaren erabilera-eremuetan. Egiaztapen horien arabera, beraz, hizkuntza bakoitzak dituen ezaugarri bereziak landu behar dira, eta bateragarriak eta transferigarriak direnak hizkuntza guztien artean banatu.
 Hizkuntzen curriculuma: http://www.hezkuntza.ejgv.euskadi.net/r43-2459/eu/contenidos/informacion/dif10_curriculum_berria/eu_5495/adjuntos/curriculum_2010/basica_refundido_2010/1_04_lmh_e.pdf
 Honen osagarri, ikus zer dioen 2016ko dekretuak eta konparatu 2010ekoarekin.
 
+## Administrazioa
 
-
-Administrazioa
 Administrazioaren jarrera: Berritzegune Nagusiaren orrian: Orientabide didaktikoak. Euskara eta Literatura (Bigarren Hezkuntza) 
 (aurreko diapositibaren segida):
 Hizkuntzen curriculum bateratua planteatzeak hizkuntzak ikasteari eta irakasteari lotutako printzipio hauek onartzea dakar:
@@ -367,12 +382,16 @@ Hizkuntzen curriculum bateratua planteatzeak hizkuntzak ikasteari eta irakastear
 • Inklusioa: ikasle guztiei hizkuntza-gaitasun eleanitza garatzeko aukera eman behar zaie, jatorrizko hizkuntza edozein dutela ere.
 Hizkuntzen curriculuma: http://www.hezkuntza.ejgv.euskadi.net/r43-2459/eu/contenidos/informacion/dif10_curriculum_berria/eu_5495/adjuntos/curriculum_2010/basica_refundido_2010/1_04_lmh_e.pdf
 Honen osagarri, ikus zer dioen 2016ko dekretuak eta konparatu 2010ekoarekin.
-Administrazioa
+
+## Administrazioa
+
 Administrazioaren jarrera: Berritzegune Nagusiaren orrian: Orientabide didaktikoak. Euskara eta Literatura (Bigarren Hezkuntza) (aurrekoaren segida)
 Hartara, behar-beharrezkoa da, alde batetik, ikasleentzat esanguratsuak diren eta helburu zehatza duten komunikazio-proiektuak proposatzea, ikaskuntza-prozesua gauzatzeko, eta, bestetik, horri lotutako ikuspegi metodologikoa –ikuspegi komunikatiboa- ezartzea eta indartzea. Ikuspegi horren arabera, testua da oinarrizko komunikazio-unitatea –testuak hainbat tipo eta generotan sailkatzen dira–, eta ikaskuntza helburu komunikatibo zehatz bat lortzera bideratutako sekuentzia didaktikoen bidez egituratzen da. Sekuentzietan, jakite hutsa baino garrantzitsuagoa da egiten jakitea. Ikuspegi hori garatzen da orientabide didaktiko hauetan.
 Hizkuntzen curriculuma: http://www.hezkuntza.ejgv.euskadi.net/r43-2459/eu/contenidos/informacion/dif10_curriculum_berria/eu_5495/adjuntos/curriculum_2010/basica_refundido_2010/1_04_lmh_e.pdf
 Honen osagarri, ikus zer dioen 2016ko dekretuak eta konparatu 2010ekoarekin.
-Eskolan
+
+## Eskolan
+
 Hizkuntzen Trataera Bateratua  zer den, eskola mailan (teoriatik eskolan “lurreratzen”)
 Teresa Ruiz (2010: 165):
 «Hizkuntzen Trataera Bateratuaren helburua da programazio bakar bat egitea ikastetxe batean ikas-irakasten diren hizkuntzentzat, haientzat denentzat helburu eta metodologia berak izanik, ebaluazio irizpide konpartituak izanik eta ikas-edukiak, berriz, hizkuntza guztien artean banatuak, eta hala ikasleek errentagarritasuna atera diezaioten beren hizkuntza-ikaskuntzei eta ahalik eta gehiena gara dezaten beren komunikazio konpetentzia eleaniztuna» (JMren itzulpena)
@@ -383,7 +402,9 @@ Helburu bera: ez nahitaez gaitasun maila bera, baizik eta komunikazio konpetentz
 Metodologia bera: ez dadila hizkuntza bat ikasi gramatikako ariketen bidez eta bestea ikuspegi komunikatiboaren bitartez
 Ebaluatzeko orduan, norabide berean jardunez (ez batean gramatikako jakintzak galdetu eta bestean mintzatzeko gaitasuna, adibidez)
 Edukiak denen artean banatuak: transferentziaren kontzeptua baliatuta (kontzeptu batzuk hizkuntza batean ikasita bestean ez dira berriz ere ikasi behar) (EGIN ZERRENDA BAT, ZEIN DIREN ELEMENTU ERKIDE HORIEK, TRANSFERI DAITEZKEENAK).
-Eskolan
+
+## Eskolan
+
 Irakasleen artean koordinazio mailak:
 Lehen maila: esan beste irakasleari zer eginen dudan nik nire gelan:
 	-edukiak zein izanen diren nire emanaldietan 
@@ -394,13 +415,17 @@ Bigarren maila: hizkuntza guztietako irakasleek programazioa elkarrekin egin eta
 	-metodoak, 
 	-prozedurak
 	bai hizkuntzak ikas-irakasteko eta bai ebaluatzeko ere
-Eskolan
+
+## Eskolan
+
 Eskolan jokabidea zehazteko orientabide edo norabide batzuk:
 Hizkuntzak haiek erabiliz ikasten dira: ikuspegi komunikatiboa (hizkuntza, harekin gauzak egiteko)
 Eskolan zer egiten da? Eskolako zereginak: matematika, harremanak, hizkuntzak, natur zientziak, gatazkak, lankidetza, jarrerak, balioak, jendarte zientziak, artea… (azken batean curriculum arloak eta konpetentziak)
 Jakintzak eraiki behar dira arlo bakoitzean, eta hori hizkuntz(ar)en bidez egiten da neurri handi batean
 Jakintzak  jasotzeko/eraikitzeko, zenbat  hizkuntza ditugu eskolan? Hizkuntza bakoitzaren bidez zer eraikitze-lanetan ariko gara? Hizkuntza bakoitzaren bidez zer ikasiko dugu?
-Zergatik?
+
+## Zergatik?
+
 Zergatik hizkuntzen trataera bateratua?
 Eskolan hizkuntza batzuk ditugu, eta hiztunentzat denetan gisa bertsuko ikas-helburuak: hizkuntza-komunikaziorako gaitasuna garatzea denetan, maila batean edo bestean
 Beraz, komeni da metodologia bera hizkuntza guztietarako. Zein? Komunikazioan oinarritua, ez gramatika ikastean edo esan-jakintza jasotzean/”irenstean”
@@ -412,7 +437,8 @@ Helburu handiagoak: nola antolatu lana denbora berean helburu handiagoak erdiest
 Beste hurbilketa metodologiko batzuk probatuta
 Oinarri teoriko egoki batzuen gainean (CUP, transferentzia…)
 
-Laburpena
+## Laburpena
+
 Nolako hizkuntza-egoera dugun hezkuntza sisteman
 Nolako helburuak ditugun hizkuntza guztiekiko eta bakoitzarekiko, eta zergatik den hala
 Hobetu behar batzuk sumatu ditugu
