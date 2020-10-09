@@ -1,5 +1,7 @@
 # Hizkuntzen trataera bateratua
 
+[![](https://img.shields.io/badge/Diapoak-HizkuntzTrataeraBateratua-gray)](Diapoak/4-gaia-HTB.pdf)
+
 **Galderak**, gaian erantzuna aurkitu behar diegu:
 
 - Zer da hizkuntzen trataera bateratua?
