@@ -1,0 +1,7 @@
+# Metodologien bilakaera
+
+[![](https://img.shields.io/badge/Diapoak-CLIL-gray)](../diapoak/7-gaia-Metodologiak.pdf)
+
+Testuak
+
+[1](../assets/MetodorikOnena.pdf) eta [2](../assets/Ohiko_galderak_Van_Patten.pdf)
