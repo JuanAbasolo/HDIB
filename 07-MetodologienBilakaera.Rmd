@@ -1,6 +1,6 @@
 # Metodologien bilakaera
 
-[![](https://img.shields.io/badge/Diapoak-CLIL-gray)](../diapoak/7-gaia-Metodologiak.pdf)
+[![](https://img.shields.io/badge/Diapoak-Metodologiak-gray)](../diapoak/7-gaia-Metodologiak.pdf)
 
 Testuak
 
