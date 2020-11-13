@@ -1,0 +1,19 @@
+# Hizkuntzaren programazioaz
+
+[![](https://img.shields.io/badge/Diapoak-Programatzea-gray)](../diapoak/08-Hizkuntza_programatu.pdf)
+
+Ariketarako
+
+[Proposamena liburutik abiatuta](../assets/08/Egizu_proposamen_didaktiko_bat_hizkuntza_k_ikasteko_esku-liburu.pdf)
+
+## Baliabide gehigarriak
+
+1. [Ataza motak1_J Willis](../assets/08/Ataza motak1.pdf)
+2. [Ataza motak2_Hiztegia](../assets/08/Ataza motak2.pdf)
+3. [Atazak-egiteko-ataza](../assets/08/Atazak-egiteko-ataza.pdf)
+4. [Atazatan oinarritutako ikaskuntza_N Gillen 2002](../assets/08/Atazatan oinarritutako ikaskuntza_N Gillen)
+5. [Atazetan oinarritutako irak_Perales_Hizpide 2010](../assets/08/Atazetan oinarritutako irak_Perales_Hizpide 2010.pdf)
+6. [Sekuentzia didaktikoa definizioa funtzionamendua_P Labayen](../assets/08/Sekuentzia didaktikoa definizioa funtzionamendua_P Labayen.pdf)
+7. [Sekuentzia didaktikoa izaera antolaketa_ M Bilbatua](../assets/08/Sekuentzia didaktikoa izaera antolaketa_ M Bilbatua.pdf)
+8. [Aprendizaje Cooperativo en aula_Johnson](../assets/08/)
+
