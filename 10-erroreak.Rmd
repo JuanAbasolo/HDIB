@@ -12,7 +12,7 @@ Ez-jarraitukoentzat, ikusi nahi badute, .
 
 ## Bibliografia gehigarria erroreen inguruan.
 
-[Larrea, K. (2009)](../10/Larrea-2009-IkasleenHizkuntzaErroreak.pdf). Ikasleen hizkuntza erroreak eta hutsegiteak: Zuzentzeko proposamena. *Revista de Psicodidáctica*, 14*(1)*, 63–78.
+[Larrea, K. (2009)](../assets/10/Larrea-2009-IkasleenHizkuntzaErroreak.pdf). Ikasleen hizkuntza erroreak eta hutsegiteak: Zuzentzeko proposamena. *Revista de Psicodidáctica*, 14*(1)*, 63–78.
 
 Norrish, J. (1989). Hizkuntz ikasleen erroreak (I. Iñurrieta, Itzul.). HABE.  
-[5. kapitulua](Norrish-1989-ikasleenErroreak.pdf)
+[5. kapitulua](../assets/10/Norrish-1989-ikasleenErroreak.pdf)
