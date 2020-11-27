@@ -4,11 +4,7 @@
 
 [![](https://img.shields.io/badge/Diapoak-herroreac-gray)](../diapoak/10-Erroreak02.pdf)
 
-Ariketetarako baliabideak [hemen](../assets/10/Aztertzeko_testuak.rar).
-
-
-Ariketarako dokumentuak sortuta daude, eskatu irakasleari.  
-Ez-jarraitukoentzat, ikusi nahi badute, .
+Ariketetarako baliabideak [hemen `.rar`](../assets/10/Aztertzeko_testuak.rar) formatuan eta [hemen `.zip` formatuan](../assets/10/Aztertzeko_testuak.zip).
 
 ## Bibliografia gehigarria erroreen inguruan.
 
