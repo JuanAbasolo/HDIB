@@ -1,0 +1,18 @@
+# Erroreak eta bigarren hizkuntzak
+
+[![](https://img.shields.io/badge/Diapoak-Erroreak-gray)](../file:///home/juan/Git/HDIB - apunteak/Zain/10-erroreak/10-Erroreak01.pdf)
+
+[![](https://img.shields.io/badge/Diapoak-herroreac-gray)](../file:///home/juan/Git/HDIB - apunteak/Zain/10-erroreak/10-Erroreak02.pdf)
+
+Ariketetarako baliabideak [hemen](../assets/10/Aztertzeko_testuak.rar).
+
+
+Ariketarako dokumentuak sortuta daude, eskatu irakasleari.  
+Ez-jarraitukoentzat, ikusi nahi badute, .
+
+## Bibliografia gehigarria erroreen inguruan.
+
+[Larrea, K. (2009)](../10/Larrea-2009-IkasleenHizkuntzaErroreak.pdf). Ikasleen hizkuntza erroreak eta hutsegiteak: Zuzentzeko proposamena. *Revista de Psicodidáctica*, 14*(1)*, 63–78.
+
+Norrish, J. (1989). Hizkuntz ikasleen erroreak (I. Iñurrieta, Itzul.). HABE.  
+[5. kapitulua](Norrish-1989-ikasleenErroreak.pdf)
