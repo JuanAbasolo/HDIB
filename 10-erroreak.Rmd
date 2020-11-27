@@ -1,8 +1,8 @@
 # Erroreak eta bigarren hizkuntzak
 
-[![](https://img.shields.io/badge/Diapoak-Erroreak-gray)](../file:///home/juan/Git/HDIB - apunteak/Zain/10-erroreak/10-Erroreak01.pdf)
+[![](https://img.shields.io/badge/Diapoak-Erroreak-gray)](../diapoak/10-Erroreak01.pdf)
 
-[![](https://img.shields.io/badge/Diapoak-herroreac-gray)](../file:///home/juan/Git/HDIB - apunteak/Zain/10-erroreak/10-Erroreak02.pdf)
+[![](https://img.shields.io/badge/Diapoak-herroreac-gray)](../diapoak/10-Erroreak02.pdf)
 
 Ariketetarako baliabideak [hemen](../assets/10/Aztertzeko_testuak.rar).
 
