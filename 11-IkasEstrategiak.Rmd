@@ -3,8 +3,6 @@
 [![](https://img.shields.io/badge/Diapoak-Estrategiak-gray)](../diapoak/11-IKASLEEN_IKAS_ESTRATEGIAKb.pdf)
 
 
-## Ariketa
-
 ## Baliabide batzuk
 
 - [H2 ikasteko gaitasuna_Perales Fitxategia](../assets/11/21_H2 ikasteko gaitasuna_Perales_hizpide 2002.pdf)
