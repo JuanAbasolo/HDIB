@@ -1,0 +1,11 @@
+/# Ikasleen ikas estrategiak
+
+[![](https://img.shields.io/badge/Diapoak-Portfolioa-gray)](../diapoak/12-Hizkuntzen_portfolio_europarra.pdf)
+
+
+## Baliabide batzuk
+
+- [Autoebaluazio eskalak](../assets/12/Autoebaluazio_eskalak.pdf)
+- [Erreferentzia maila bateratuak: eskala orokorra](../assets/12/Baliokidetzak_Hizkuntzako_jakintzen_maila.pdf)
+- [Euskararen ezagutza egiztagirien arteko baliokidetza, 297/2010 dekretuaren laburpena](../assets/12/EUSKARAREN_BALIOKIDETZA2010.pdf)
+
