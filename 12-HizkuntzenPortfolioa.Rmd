@@ -1,4 +1,4 @@
-/# Ikasleen ikas estrategiak
+# Hizkuntzen Portfolioa
 
 [![](https://img.shields.io/badge/Diapoak-Portfolioa-gray)](../diapoak/12-Hizkuntzen_portfolio_europarra.pdf)
 
