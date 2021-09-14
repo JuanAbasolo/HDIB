@@ -1,0 +1,110 @@
+---
+title: "Azken klase eguna"
+date: 'Hizkuntzen Didaktikarako Ikuspegi Berriak'
+language: eu
+output: 
+  revealjs::revealjs_presentation:
+    slide_level: 2
+    theme: simple #  "default", "simple", "sky", "beige", "serif", "solarized", "blood", "moon", "night", "black", "league", "white"
+    center: true
+    transition: fade
+    reveal_options:
+         slideNumber: true
+---
+
+```{r setup, echo=FALSE, message=FALSE}
+require(emo)
+```
+
+
+gaurkoan:
+
+>- Zer egin protfolioarekin?
+>- Zelan egin behar den azterketa?
+>- Irakaslearen eta ikasgaiaren ebaluazio kualitatiboa?
+
+# 
+
+### Portfolioa
+
+## Irakasleari bertsio bitan eman
+
+**Digitala**:  
+Zelan jaitsi Etherpadetik, zelan konprimatu... zergatik galderok...
+
+**Paperezkoa**:  
+Beste horrenbeste
+
+## Digitala
+
+> Ordenagailuan karpeta bakar batean antolatu.
+>
+> Dokumentu batek `0-Aurkibidea` izango du izena eta hor zerrendatuko dituzue beste dokumentuak eta zein lani dagozkion.
+>
+> Karpeta hori zip-eatu behar duzue eta zip fitxategi hori ikasgaiko buzoira igo.
+
+## 
+
+![Honela jaits daiteke nahi den formatuan](../assets/20/PDF_Jaitsi.gif)
+
+## 
+
+![Oraindik windows erabiltzen duzuenontzat](../assets/20/Captura.png) 
+
+## 
+
+![](../assets/20/Captura2.png)
+
+## Paperean
+
+Bakarrik zuek idatzitako tarteak (esate baterako, hizkuntz portfolioak-eta ez)
+
+#
+
+### Azterketaz
+
+## Zelan egin beharko den
+
+>- Irakaslearen ebaluazio kualitatiboa egin behar den bezalaxe
+
+#
+
+### Irakaslearen ebaluazio kualitatiboa
+
+## Zelan
+
+>- Dokumentu bat sortu beharko duzue.
+>- Aukerazko toki batzuen zerrenda egongo da.
+>- Dokumentua izendatzeko arauak: *Ez espaziorik, ez punturik, ez azentu edo eñerik, ezta beheko marrarik ere*.
+>- Segidan niri pasatu helbidea [fitxa](https://framaforms.org/ebaluazio-kualitatiboa-1607713559) beteta.
+>- Galdetegia kopiatu eta itsatsi.
+>- BONUS: nola kendu kolorea?
+
+##
+
+![](../assets/20/Kolorea-kendu.gif)
+
+#
+
+### Azterketa (II)
+
+## Zelakoa `r emo::ji('question')`
+
+## Zelan prestatu
+
+`r emo::ji('thinking')`
+
+(`r emo::ji('tea')` / `r emo::ji('beer')`)+`r emo::ji('talk')`*`r emo::ji('folder')`
+
+`r emo::ji('pen')`
+
+## Zelan egingo den
+
+# Galdararik?
+
+![](http://photos.demandstudios.com/121/52/fotolia_4141021_XS.jpg)
+
+
+
+
+
