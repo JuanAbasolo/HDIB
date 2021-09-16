@@ -1,0 +1,61 @@
+--- 
+title: "Hizkuntzen Didaktikako Ikuspegi Berriak (4. urtea, minorra) V:`r Sys.Date()`"
+author: 
+  name: "Irakaslea: Juan Abasolo"
+  affiliation: UPV/EHU
+  # email: juan.abasolo@ehu.eus
+date: "2020/2021"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+# bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Hizkuntzaren Didaktika ikasgaiko apunteak dira hauek. Ikasgaian aurrera egin ahala egokitzen joango dira"
+url: 'https://juanabasolo.github.io/HDIB/apunteak/'
+cover-image: "assets/azala.png"  # relative to index
+github-repo: JuanAbasolo/HDIB
+favicon: "assets/azala.png"
+---
+
+# Aurretikoak {-}
+
+Ikasgaiaren gida ofiziala [hemen](https://www.ehu.eus/eu/lehen-hezkuntzako-gradua-bizkaia/kreditu-eta-irakasgaiak?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27574) duzu.
+
+## Gaiak eta denboralizazioa, proposamena {-}
+
+1) Aurkezpena, taldeak eta abar [*](diapoak/0-Aurkezpena-21.pdf)
+2) Hezkuntzaren lau pilareetatik oinarrizko konpetentzietara [*](diapoak/01-diapo.html)
+3) Euskal Herriko Hezkuntza sisteman, elebitasunetik eleaniztasunera
+4) Hizkuntzen kudeatzea eskolan
+5) Hizkuntzen trataera bateratua
+6) CLIL/HEBI/AICLE
+7) **Aurkezpenak**
+8) Metodologien bilakaera (M)
+9) Sekuentzia didaktikoak
+10) IKTak
+11) Interferentziak eta erroreak
+12) Ikasleen ikas estrategiak (M)
+13) Hizkuntzen portfolio europarra
+14) **Portfolioak**
+15) **Azterketak**
+
+## Kontaktua, tutoretzak eta abar {-}
+
+Emaila  
+     : **juan** [dot] **abasolo** [at] **ehu** [dot] **eus**
+     
+Telegram  
+    : [at]JuanAbasolo
+
+Bulegoa  
+    : 3S40B
+    
+Telefonoa  
+    : (+34) 94 601 **7567**
+    
+Tutoretzak  
+    : http://labur.eus/JAbasolo-tutoretzak
+
+
+
