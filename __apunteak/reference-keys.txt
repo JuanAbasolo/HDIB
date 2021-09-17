@@ -123,3 +123,4 @@ abantailak
 ikas-materialak
 clileko-oinarrizko-hiztegiko-batzuk
 erreferentziak-clil-kontzeptuaren-inguruan
+bibliography-book.bib-packages.bib
