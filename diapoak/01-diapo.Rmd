@@ -5,7 +5,7 @@ language: eu
 output: 
   revealjs::revealjs_presentation:
     slide_level: 2
-    theme: sky
+    theme: white
     center: true
     transition: fade
 ---
@@ -65,17 +65,25 @@ Zein dira planteamendu berri honen bilakaerako mugarri garrantzitsu batzuk? (Del
 
 ---
 
-```
 **Ariketa**
-Zenbat jende ezagutzen dugu "zuzenean" eta zenbat bestela?
-Zenbat lagun dugu kanpoan ikasten edo lanean? 
-Zenbat hizkuntza erabiltzen dugu aste batean zehar? 
-Gertatu zaigu hirugarren hizkuntza erabili behar izatea? Izan dugu kontaktu zuzenik edo birtualik 3. hizkuntzaren batekin? Zeinekin? Zer dela eta? Zertarako?
-4.nik? 5.ik? ...
-Ezagutzen dugu kanpotik etorririko jenderik? 
-Noraino eramaten gaitu gaur WhatsApp, Instagram, Facebook... erabiltzeak?
-Zer dira, ezagutzen ez duen batentzat azalduta?
-```
+
+<small>
+
+> Zenbat jende ezagutzen dugu "zuzenean" eta zenbat bestela?
+>
+> Zenbat lagun dugu kanpoan ikasten edo lanean? 
+>
+> Zenbat hizkuntza erabiltzen dugu aste batean zehar? 
+> Gertatu zaigu hirugarren hizkuntza erabili behar izatea? Izan dugu kontaktu zuzenik edo birtualik 3. hizkuntzaren batekin? Zeinekin? Zer dela eta? Zertarako?
+>
+> 4.nik? 5.ik? ...
+>
+> Ezagutzen dugu kanpotik etorririko jenderik? 
+>
+> Noraino eramaten gaitu gaur WhatsApp, Instagram, Facebook... erabiltzeak?
+> Zer dira, ezagutzen ez duen batentzat azalduta?
+
+</small>
 
 # Gaurko mundua: globalizazioa
 
@@ -103,8 +111,6 @@ Munduaren konplexutasun horretan, gidalerro batzuk: Delors Txostena UNESCOrentza
 - Europako Kontseiluak gomendatuak
 - EAEn, Espainian, Nafarroan formulatuak
 - Hizkuntza-komunikaziorako gaitasuna
-
-
 
 > Globalization refers to the increasingly global relationships of culture, people and economic activity. Most often, it refers to economics: the global distribution of the production of goods and services, through reduction of barriers to international trade such as tariffs, export fees, and import quotas. (…)The term can also refer to the transnational circulation of ideas, languages, and popular culture. (Wikipedia)
 
@@ -187,10 +193,10 @@ izaten jakitea: balioak, jarrerak
 
 ## 
 
-```
+
 **ariketa**
-Pentsatu hizkuntzak non duen zeregika ardatz horietan, baldin eta badu
-```
+> Pentsatu hizkuntzak non duen zeregina ardatz horietan, baldin eta badu
+
 
 # **Galdera batzuk** gaurko munduaz eta hezkuntza-munduaren erantzunaz:
 
@@ -300,11 +306,11 @@ Zein azpigaitasun ditu konpetentzia horrek? Iritzi desberdinak
 
 ##
 
-![Celce-Murcia eta beste (1995)](../assets/celce-murcia1995.png)
+![Celce-Murcia eta beste (1995)](../apunteak/assets/celce-murcia1995.png)
 
 ##
 
-![Canales & Swain (1981); Canales (1983)](../assets/canale-swain1981.png)
+![Canales & Swain (1981); Canales (1983)](../apunteak/assets/canale-swain1981.png)
 
 ## <small>Hizkuntzen ikaskuntza, irakaskuntza eta ebaluaziorako</small><br> Europako Erreferentzi Marko Bateratua 
 
