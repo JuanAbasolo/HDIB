@@ -407,7 +407,7 @@ Alderatu zure erantzunak eta VanPattenak : "Ohiko galderak Van Patten"
 
 # Lanerako testuak
 
-[1](../assets/07/MetodorikOnena.pdf) eta [2](../assets/07/Ohiko_galderak_Van_Patten.pdf)
+[1](../assets/06/MetodorikOnena.pdf) eta [2](../assets/06/Ohiko_galderak_Van_Patten.pdf)
 
 # Erreferentziak
 
