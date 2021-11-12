@@ -5,10 +5,10 @@
 **Hasierako hausnarketatxoa**
 
 | H1 nola ikasi duzu berbetan eta idazten? | H2 Nola ikasi duzu berbetan eta idazten? | 
-|:-|:-|
+|:--|:--|
 | . | . |
 | . | . |
-|.  | . |
+| . | . |
 | . | . |
 
 ## Hainbat kontzeptu

@@ -12,5 +12,5 @@ bookdown::epub_book: default
 #   includes:
 #     in_header: preamble.tex
 #   latex_engine: xelatex
-  # citation_package: natbib
-  # keep_tex: yes
+# citation_package: natbib
+# keep_tex: yes
