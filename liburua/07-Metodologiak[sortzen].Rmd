@@ -1,6 +1,6 @@
 # Metodologia
 
-[![](https://img.shields.io/badge/Diapoak-Metodologiak-gray)](../diapoak/07-diapoMetodologiak.html)
+[![](https://img.shields.io/badge/Diapoak-Metodologiak-brightgreen)](../diapoak/07-diapoMetodologiak.html)
 
 **Hasierako hausnarketatxoa**
 
