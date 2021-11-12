@@ -409,7 +409,7 @@ c. **Alderatu** zure erantzunak eta Van Pattenak [\*](../assets/Ohiko_galderak_V
 
 ## Lanerako testuak
 
-[1](../assets/06/MetodorikOnena.pdf) eta [2](../assets/06/Ohiko_galderak_Van_Patten.pdf)
+[1](../apunteak/assets/06/MetodorikOnena.pdf) eta [2](../apunteak/assets/06/Ohiko_galderak_Van_Patten.pdf)
 
 ## Erreferentziak
 
