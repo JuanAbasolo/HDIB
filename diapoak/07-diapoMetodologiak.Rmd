@@ -1,6 +1,7 @@
 ---
 title: "Metodologien bilakaera"
-date: 'HDIB'
+date: 'HDIB - 2021'
+# author: Juan Abasolo
 language: eu
 output: 
   revealjs::revealjs_presentation:
@@ -12,18 +13,16 @@ output:
 
 # 
 
-[![](https://img.shields.io/badge/Diapoak-Metodologiak-gray)](../diapoak/7-gaia-Metodologiak.pdf)
+### Hasiera {style='color:lightgrey;'}
 
-# Hasierako hausnarketatxua
-
-### Hasiera
+##
 
 | H1 nola ikasi duzu berbetan eta idazten? | H2 Nola ikasi duzu berbetan eta idazten? | 
-|:-|:-|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|:--|:--|
+| · | · |
+| · | · |
+| · | · |
+| · | · |
 
 ## Hainbat kontzeptu
 
@@ -31,89 +30,64 @@ output:
 
 #### Bigarren Hizkuntza Vs Atzerriko Hizkuntza
 
-## Metodoen osagaiak (kontzeptual)<br><small>Richard eta Rogers (1986)</small>
+## Metodoen osagaiak<br><small>Richard eta Rogers (1986)</small>
 
-Ikuspuntua
+>- #### Ikuspuntua
 
-+ Zer irakatsi? Hizkuntzaren izaerari buruzko oinarri teorikoak
-• Nola irakatsi? Ikasketaren izaerari buruzko oinarri teorikoak
+>- #### Jardunbidea
 
-Jardunbidea
-
-+ Erabilitako teknikak
-+ Eskola-Praktikak
-+ Eskoletan behatutako jokabideak
-+ Baliabideak
-+ Estrategiak (ikasteko, irakasteko, komunikatzeko)
-+ Ikasleen testuingurua eta errealitatea
-
-Diseinua
-
-+ Metodoaren helburu orokorrak eta zehatzak
-+ Programaren eredua: edukiak eta antolamendua (syllabusa)
-+ Jarduera eta ataza motak
-+ Ikaslearen zeregina
-+ Irakaslearen zeregina
-+ I(ra)kas-materialen funtzioa
+>- #### Diseinua
 
 ## Metodologiaren aldaketaren zergatiak
 
 > F. Castro (1994): Egindako ikerketa guztiak gorabehera eta azaldutako teoria guztiak gorabehera, oraindik inork ez daki zehatz-mehatz nola ikasten den hizkuntza bat 
 
+##
+
 Metodoak eta planteamenduak arrazoi anitzak eraginda bilakatzen dira:
 
-+ IKUSPUNTUAREN ALDAKETA:
-    – Ikaskuntzaren teoriak
-    – Hizkuntzaren kontzeptua
-    – Didaktikaren alorreko berrikuntzak
+>+ IKUSPUNTUAren aldaketa:  
+    · Ikaskuntzaren teoriak
+    · Hizkuntzaren kontzeptua
+    · Didaktikaren alorreko berrikuntzak
 
-+ DISEINUAREN ALDAKETA:
-    – Programetan egindako aldaketak
-    – Ikasketa plan berriak
-    – Orientabide metodologikoak
+>+ DISEINUAren aldaketa:  
+    · Programetan egindako aldaketak
+    · Ikasketa plan berriak
+    · Orientabide metodologikoak
 
-+ JARDUNBIDEA
-    – Ikasleen eta ikastetxearen errealitatea
-    – Ikasleen eta irakasleen rolak
-    – Politika eta gizartearen eragina
+>+ JARDUNBIDEAren aldaketa:  
+    · Ikasleen eta ikastetxearen errealitatea
+    · Ikasleen eta irakasleen rolak
+    · Politika eta gizartearen eragina
 
 # 
 
-### Metodologien bilakaera hizkuntzen irakaskuntzan
+### bilakaera {style='color:lightgrey;'}
 
 ## XV. XVII. mendeen bitartean.
-
-Sasoi horretan Atzerriko Hizkuntzaren bat ikastea latina ikastearen modukoa zen.
 
 + Gramatika <--> Idazteko ereduak
 + Erretorika <--> Berba egiteko ereduak
 
 #### Erabiltzen zirenak
 
-Gramatika
-Glosarioa
-Elkarrizketak
-Irakurgaiak: itzulpenak, katiximak eta ereduak.
+Gramatika · Glosarioa · Elkarrizketak · Irakurgaiak <small>itzulpenak, katiximak eta ereduak.</small>
 
 #### Euskararen irakaskuntzaz:
 
 Sasoi horretan agertu ziren lehenengo gramatika eta hiztegiak.
 
-## XVIII.a eta XIX.a
+## XVIII.a eta XIX.a {data-background="../liburua/assets/06/Gramera_berria_grixin.png"}
 
 _Gramatika itzulpenezko metodoa_
 
-Hizkuntza modernoen irakaskuntza:
+<small>Hizkuntza modernoen irakaskuntza:gramatika arauemailea</small>
 
-Hizkuntza ikastea zen gramatika arauemailearen irakaskuntzaren ondorio.
++ Gramatika arauak: dedukzio bidez
++ Hitzen zerrenda elebidunak: buruz
++ Itzulpenak: garrantzia hartzen hasi
 
-+ Gramatika arauak dedukzio bidez ikasten ziren
-+ Hitzen zerrenda elebidunak buruz ikasten ziren
-+ Itzulpenak garrantzia hartzen hasten dira
-
-Latinaren eredu erretorikoa desagertzen hasten da
-
-Historizismoaren eta ideologien pisua areagotzen da
 
 ## XIX.aren amaiera
 
@@ -141,118 +115,88 @@ Hizkuntza eta literaturaren irakaskuntza = Gramatika arauemailearen irakaskuntza
 
 _Metodo estrukturalista-konduktistak_
 
-Metodologia horien arabera hizkuntza ikastea zatekeen garatu beharreko ohitura multzoa; beraz, ikasleak errepikanen bitartez trebatu behar ziren.
+Hizkuntza ikastea = garatu beharreko ohitura multzoa
 
-Horretarako hiru eskola nagusi egon ziren:
 
-USA: _Metodo audiolinguala_, mintzaira hizkuntzaren oinarria zelakoan.
+**USA**: _Metodo audiolinguala_
 
-Erresuma Batua: _Metodo situazionala_, edukiak egoera jakinetan aurkeztu behar zirela proposatzen zuten
+**Erresuma Batua**: _Metodo situazionala_
 
-Frantzia: _Ikus-entzunezko metodo estruktural-globala_, Hizkuntza laborategietan landu behar zena
+**Frantzia**: _Ikus-entzunezko metodo estruktural-globala_
 
-Bitartean, hizkuntzalaritzan hurrengo kontuetan ari ziren:
+>- #### Hizkuntzalaritzan
 
-+ Skinner-ek hizkuntzari buruzko teoria konduktista garatu zuen
-+ Chomsky-k gramatika sortzailea formulatu zuen (1957) *hizkuntza-gaitasuna* kontzeptua sortuaz.
-+ Piaget-ek konstruktibismoaren inguruko teoriak garatu zituen, garapen kognitiboaren aldiak eta ikasteko zenbait mekanismo identifikatuta (asimilazioa, egokitzapena eta oreka).
+>+ Skinner
+>+ Chomsky
+>+ Piaget
 
-Sasoi berean Francoren Espainian honela ari ziren:
+>- #### eta Espainian...
 
-Gaztelaniaren eta literaturaren irakaskuntza gramatika arauemailea eta historizismo literarioa baino ez zen.
-Eta atzerriko hizkuntzen irakaskuntza gramatika-itzulpenezko eta metodo zuzenen bitartez bideratzen zen.
+## 60.etik aurrera
 
-## 60.etik aurrera:
+Psikologia kognitiboa + gramatika sortzailea -> _kode kognitibaren planteamentua_
 
-Psikologia kognitiboa eta gramatika sortzailearen ikuskerak batu ziren, _kode kognitibaren planteamentu_ari atea irekiaz.
+> Ikasleak hizkuntza eraikitzen du
 
-Hizkuntza kode bizitzat hartzen zen.
+>- #### Psikologian eta hizkuntzalaritzan:
 
-Gramatika, lexikoa eta ahoskeraren garrantzia nabarmendu ziren, arauen inguruko hipotesiak formulatzeko orduan.
+>+ _Psikologia humanista_ 
+>+ Ikuskera konstruktibista gehiago garatu: <small>Ausubel, Brunner</small>
+>+ Pragmatikaren garapena
+>+ Soziolinguistikaren garapena
 
-Ikasleak hizkuntza eraikitzen duela ulertzen da.
-
-Tarte horretan psikologian eta hizkuntzalaritzan:
-
-+ _Psikologia humanista_ formulatu zuten Maslowk eta Carl Rogersek.
-+ Ikuskera konstruktibista are gehiago garatu zen
-    + Ikasketa esanguratsua, Ausubelek
-    + Aurkikuntzaren bidezko ikasketa (Brunner)
-+ Pragmatikaren garapena
-+ Soziolinguistikaren garapena
-
-Sasoi berean Francoren Espainian berdin ari ziren, aurrekoaren pausuan.
+>- #### eta Espainian...
 
 ## 70.etik aurrera:
 
-Kode kognitiboaren bilakaera
-
-Planteamendu humanistaren eskutik, eskolako giro egoki eta lasaian oinarrituta honako planteamenduak:
+Kode kognitiboaren bilakaera: giro egoki eta lasaian oinarritu
 
 + Erantzun Fisiko Osoa
 + Sugestopedia
 + Taldeko Hizkuntza Irakaskuntza
 + Bide isila
 
-Komunikazio Gaitasuna (Hymes, 1971)
+>- Komunikazio Gaitasuna (Hymes, 1971)
 
-Planteamendu nozio-funtzionala lehenengo hurbilketa komunikatiboa izan zen, komunikatzeko beharrizanetan eta gaitasunetan oinarritua.
+>- Planteamendu nozio-funtzionala 
 
-Bitartean hizkuntzalaritzan eta politikan:
+>- #### Hizkuntzalaritzan eta politikan:
 
-+ Joera berriek identifikatzen dute _testua_ komunikazio unitatetzat. Hortik, Testuaren hizkuntzalaritza, Diskurtsoaren analisia, Interakzioaren soziolinguistika, testu-semiotika
-+ Europako Kontseiluak 1976 Atalase Mailaren kontzeptua formulatu zuen.
+>+ _testua_ komunikazio unitatetzat
+>+ Atalase Maila
 
-Eta Espainian... planteamentu estrukturalistak hartu zituzten. 
-
-Gaztelaniaren irakaskuntzan gramatika analisiek eta testu iruzkinek garrantzia hartu zuten.
-Atzerriko Hizkuntzen irakaskuntzarako metodo audiolingualean hasi ziren.
+>- #### eta Espainian...
 
 ## 80. hamarkadaren erditik gora
 
-Planteamendu komunikatiboaren garapena:
+>- #### Planteamendu komunikatiboaren garapena:
 
-+ Egiazko komunikazio egoerak
-+ Testua = komunikazio unitatea
-+ Egiazko testuan (testu)inguru zehatzetan
-+ Elkarlanean: bikoteka, taldeka...
-+ Hizkuntzaren _lau_ trebetasunetan trebatu / garapena
+>- #### Zientzian
 
-Zientzian:
-
-+ Krashen: input ulergarriaren teoria (1985)
-+ AEB eta Ingalaterra: Atazetan oinarritutako ikaskuntza (1990)
-+ Lankidetzan ikasteko metodologiaren zabalpena
-+ Adimen emozionalaren teoria (Goleman, 1997)
-
-Bitartean, espainaldean hezkuntza lege berria eraiki zen, LOGSE (1990)
-
-+ Planteamendu komunikatiboa hizkuntzen alorretan sartzen da
-
-Baina ikastetxe gehienetako errealitatean lege berriak eragin gutxi, gramatika eta historizismoak ziren nagusi hizkuntza-klaseetan. Metodo komunikatiboaren hastapenak metodo estrukturalistekin bat eginda izan ziren.
+>- #### eta Espainian... LOGSE!
 
 ## XXI. mendean
 
-Europar Kontseiluak argitra eman zuen (2002) Europako Erreferentzi Markoa.
+>- #### Europar Kontseiluak (2002) Europako Erreferentzi Markoa.
 
-Eleaniztasuna helburutzat hartzen hasi zen eta hizkuntzak irakasteko planateamenduak Europako Erreferentzia Markoaren oinarriak abiapuntutzat hartuta.
+>- #### Eleaniztasuna helburutzat hartzen hasi
 
-+ Hizkuntzan murgiltzea
-+ Hizkuntzen trataera batreatua
-+ CLIL
-+ Ekintzetan oinarritutako planteamendua
-+ Atazetan oinarritutako hezkuntza
-+ Elkarrekintza (5. trebetasuna, berria markoan)
+>- #### GizKomunikazio Gaitasuna = Oinarrizko Gaitasuna 
 
-Gizaldi honen hasieran Komunikazio Gaitasuna hartu zen Oinarrizko Gaitasunetako bat legez. 
+#
 
-Irakasle berriagoen ahalegina eleaniztasunaren planteamenduetara eta atazetan oinarritutako irakaskuntzara egokitzeko ere ikusi ahal izan da.
+```{r historia02, echo=FALSE, out.width='70%'}
 
-![Hizkuntza arrotzak ikasteko metodoen bilakaera. Joera nagusiak Europan eta AEBn](../liburua/assets/07/07-Hizkuntzak_ikasteko_metodoen_joerak.png)
+knitr::include_graphics('../liburua/assets/07/07-Hizkuntzak_ikasteko_metodoen_joerak.png')
+
+```
 
 Larrea eta Maia (2010)
 
-# Planteamendu komunikatiboaren sorrera
+
+# 
+
+### Planteamendu komunikatiboa {style='color:lightgrey;'}
 
 ## Metodo tradizionalen kontra
 
@@ -274,8 +218,6 @@ Larrea eta Maia (2010)
   + Hizkuntzen egiturak errepikatu behar ziren behin eta berriz, hizkuntzak ikasteko
   + Esaldi isolatu zuzenak baino ez ziren lantzen eta eraikitzen, baino komunikazioa ez zen gauzatzen.
 
-# Planteamendu komunikatiboaren sorrera
-
 ## Programa nozio-funtzionalak
 
 Programaren osagaiak osatzeko elementu hauek kontuan hartuko dira:
@@ -285,7 +227,7 @@ Programaren osagaiak osatzeko elementu hauek kontuan hartuko dira:
 3. Ikasleek xede-hizkuntzan komunika daitezen,  edukirik baliagarrienak
 4. Hizkuntzaren edukia planifikatuko da igorleak adierazi nahi dituen esanahien arabera
 
-### WILKINSen programa nozio-funtzionala (1972/1976)
+## WILKINSen programa nozio-funtzionala (1972/1976)
 
 Metodo komunikatiboaren oinarria Europako Kontseiluak egin zuen
 
@@ -300,7 +242,7 @@ Gutxieneko jakintzak ezartzen ditu:
 + Kategoria funtzionalak:   
   hizkuntzaren bidez egiten dena, hiztunen arteko interakzioak: norbait/zerbait aurkeztea, zerbait eskaintzea, ukatzea, baieztatzea, eskatzea, informatzea, kexatzea...
   
-# Atalase maila – Nivel umbral - Threshold Level
+## Atalase maila – Nivel umbral - Threshold Level
 
 + 1975ean Van Ek-ek sortu zuen L2 ikasteko Programa Nozio-Funtzionalaren 1. bertsioa:  
   Atalase maila – Nivel umbral - Threshold Level
@@ -314,10 +256,12 @@ Gutxieneko jakintzak ezartzen ditu:
   5. Funtzio bi gehiago:
     a. Diskurtsoaren antolamendua
     b. Komunikazioaren kontrola
-    
-## Programa nozio-funtzionalaren 
 
-### adibidea
+# 
+
+### Adibidea {style='color:lightgrey;'}
+
+##
 
 **10. unitatea**: Informazioa eskatu eta eman
 
@@ -327,12 +271,16 @@ Gutxieneko jakintzak ezartzen ditu:
 | Izenordeak | |
 | Galdetzaileak| |
 
+##
+
 | Funtzioa | Hizkuntza adierazleak |
 |:---|:---|
 | Helbide bat non den galdetu | - _Mesedez, nola joan naiteke_ ... _kalera_ / ..._-ko metrora_ / ... _hondartzara?_ |
 | Helbide batera iristeko jarraibideak eman | _Hartu lehenengo bidegurutzean eskumara_ / _bigarren kalean joan_ ... / _kale berean_ ... |
 
-### Hastapenak
+#
+
+### Hastapenak {style='color:lightgrey;'}
 
 Komunikazioa        
   : pertsonen arteko komunikazioa errazten duten jarduerek hizkuntzaren ikasketa sustatzen dute
@@ -345,7 +293,11 @@ Esanguratsua
 
 > Ikasketa esanguratsua, egiazko komunikazioan eta atazetan oinarritua
 
-### Ezaugarriak
+#
+
+### Ezaugarriak {style='color:lightgrey;'}
+
+<small>
 
 1. Eskolako irakaskuntzak badu zerikusirik hizkuntzaren erabilerarekin eta ez hizkuntzaren jakintzarekin
 2. Hizkuntzak eguneroko bizimoduaren komunikazio-egoera errealetan erabiltzeko ikasten dira
@@ -358,7 +310,13 @@ Esanguratsua
 9. Oreka bat bilatu behar da zuzentasun gramatikalaren eta komunikazio eraginkorraren artean
 10. Dena den, gramatika komunikazioaren zerbitzuan dago (eta ez alderantziz)
 
-### Programa estrukturala eta komunikatiboaren arteko aldeak
+</small>
+
+#
+
+### Aldeak {style='color:lightgrey;'}
+
+<small>
 
 | Estrukturala                                                 | Komunikatiboa                                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -377,7 +335,13 @@ Esanguratsua
 | Hizkuntza "ohitura" bat da eta erroreak zuzendu behar dira   | Saiakuntza/erroreen bidez hizkuntza eraiki daiteke           |
 | Ikasleek hizkuntzaren sistemarekin interakzioa dute, beren-beregi prestatutako materialen bidez | Ikasleek euren artean interakzioa dute (hasieratik ikasleen arteko komunikatzeko ahaleginak bultzatzen dira) |
 
-### Metodo estrukturalistei egindako kritikak
+</small>
+
+#
+
+### Estrukturalistei kritikak {style='color:lightgrey;'}
+
+<small>
 
 + Metodo horiek arreta handiagoa jartzen dute forman (hizkuntzaren egituran) hizkuntzaren erabileran baino
 + Konduktismoaren bidetik, hizkuntzak ikastea ohitura linguistiko batzuk hartzea baino ez da
@@ -388,10 +352,15 @@ Esanguratsua
 + Erabiltzen diren baliabideen teknikoa baino ez da irakaslea
 + Ikus-entzunezko metodoetatik sortutako hastapen batzuek eragina izan dute AH/H2 irakasteko gaur egungo moduetan
 
-### Planteamendu komunikatiboari egindako kritikak
+</small>
+
+#
+
+### Komunikatiboari kritikak {style='color:lightgrey;'}
+
+<small>
 
 + Eskuliburu batzuk ahozko hizkuntza landu dute batez ere, bestelako komunikazio motak alde batera utzirik
-
 + Gramatikaren edukiari behar besteko garrantzirik ez dio eman, hizkuntzaren erabilera komunikatiboa baino ez baitute azpimarratzen ("komunikatibitis": hizkuntzaren bertsio okerra eta partziala)
 + Askoren ustez planteamendu hori ezin da erabili hezkuntzaren maila eta adin guztietan
 + Konpetentzia komunikatiboa zail da ebaluatzen
@@ -400,28 +369,41 @@ Esanguratsua
 + Beti ez dute lortu komunikazio erreala eta benetako (fikzioan aritu baitira).
 + Eduki kulturala batzuetan zeharka baino ez dira landu eta ez dira txertatu era egokian
 
-# Eskola praktika
+</small>
 
-A. Irakurri Larrea (2007) testua eta erantzun testuaren izenburuko galderari:
+# 
+
+### Eskola praktika {style='color:red;'}
+
+## A. 
+
+Irakurri Larrea (2007) testua eta erantzun testuaren izenburuko galderari:
+
 _Zein da hizkuntzak irakasteko metodorik onena?_
-B. Erantzun honako galdera hauei:
-  1. Interferentzia egiten du lehen hizkuntzak?
-  2. Eta ikasgelan lehen hizkuntza erabiltzea, zer?
-  3. BHE lehen hizkuntzaren eskurapena bezalakoa da?
-  4. Ez dute zereginik imitazioak eta errepikapenak eskurapenean?
-  5. Orduan drillek ez dute ezertan laguntzen?
-  6. Ohitura txarrak hartzen al dituzte ikasleek zuzentzen ez bazaie?
-  7. Laguntzen al du ikasleei arauak emateak? (nik horrela ikasi nuen)
-  8. Orduan, aldatzen du ezer irakasteak edo ez irakasteak?
-  9. Gaitzagoak dira hizkuntza batzuk beste batzuk baino?
-  10. Zerk bihurtzen ditu egitura batzuk ikasteko erraz eta beste batzuk zail?
-  11. Azkenean, ez da dena motibazioa BHEn?
-  12. Badauka adinak eraginik hizkuntzaren eskurapenean?
-  13. Maila desberdinetako ikasleek ez dituzte behar gauza desberdinak ikasten jarraitzeko?
-  14. Eta norbanakoaren ezaugarriak zer? Kontuan hartu beharko nituzke ikasteko estiloak?
-  15. Zein da irakasteko eta ikasteko metodorik onena?
-C. Alderatu zure erantzunak eta VanPattenak : "Ohiko galderak Van Patten"
 
+## B. 
+
+Erantzun honako galdera hauei:
+
+1. Interferentzia egiten du lehen hizkuntzak?
+2. Eta ikasgelan lehen hizkuntza erabiltzea, zer?
+3. BHE lehen hizkuntzaren eskurapena bezalakoa da?
+4. Ez dute zereginik imitazioak eta errepikapenak eskurapenean?
+5. Orduan drillek ez dute ezertan laguntzen?
+6. Ohitura txarrak hartzen al dituzte ikasleek zuzentzen ez bazaie?
+7. Laguntzen al du ikasleei arauak emateak? (nik horrela ikasi nuen)
+8. Orduan, aldatzen du ezer irakasteak edo ez irakasteak?
+9. Gaitzagoak dira hizkuntza batzuk beste batzuk baino?
+10. Zerk bihurtzen ditu egitura batzuk ikasteko erraz eta beste batzuk zail?
+11. Azkenean, ez da dena motibazioa BHEn?
+12. Badauka adinak eraginik hizkuntzaren eskurapenean?
+13. Maila desberdinetako ikasleek ez dituzte behar gauza desberdinak ikasten jarraitzeko?
+14. Eta norbanakoaren ezaugarriak zer? Kontuan hartu beharko nituzke ikasteko estiloak?
+15. Zein da irakasteko eta ikasteko metodorik onena?
+  
+## C. 
+
+Alderatu zure erantzunak eta VanPattenak : "Ohiko galderak Van Patten"
 
 # Lanerako testuak
 
