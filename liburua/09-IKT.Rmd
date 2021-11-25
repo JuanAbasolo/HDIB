@@ -1,0 +1,12 @@
+# Informazioa eta Komunikaziorako Teknologia
+
+[![](https://img.shields.io/badge/Diapoak-IKT-gray)](../diapoak/09-IKT2021V0.pdf)
+
+Ariketarako dokumentuak eskatu irakasleari.  
+Ez-jarraitukoentzat, ikusi nahi badute, [hemen](assets/09/ariketa_21.txt).
+
+## Bibliografia gehigarria
+
+[Rodrigez Illera](assets/09/Nuevas_tecnologias_en_la_ensenanza_de_las_lenguas.pdf) (2003) Nuevas tecnologías en la enseñanza de las lenguas. *Cuadernos de Pedagogia* 330 (91-93)
+
+

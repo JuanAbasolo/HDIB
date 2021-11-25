@@ -154,3 +154,5 @@ lanerako-testuak
 erreferentziak-1
 hizkuntzaren-programazioaz
 baliabide-gehigarriak
+informazioa-eta-komunikaziorako-teknologia
+bibliografia-gehigarria
