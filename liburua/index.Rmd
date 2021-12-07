@@ -4,7 +4,7 @@ author:
   name: "Irakaslea: Juan Abasolo"
   affiliation: UPV/EHU
   # email: juan.abasolo@ehu.eus
-date: "2020/2021"
+date: "2021/2022"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book

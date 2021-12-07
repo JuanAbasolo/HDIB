@@ -156,3 +156,5 @@ hizkuntzaren-programazioaz
 baliabide-gehigarriak
 informazioa-eta-komunikaziorako-teknologia
 bibliografia-gehigarria
+erroreak-eta-bigarren-hizkuntzak
+bibliografia-gehigarria-erroreen-inguruan.
