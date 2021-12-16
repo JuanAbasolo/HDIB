@@ -117,14 +117,17 @@ Egizu ikasle onaren dekalogoa. Horretarako erabil ezazu orain arte ikusitako tes
 **Adibidez**
 
 >  **X. estrategia**: *Ez izan hutsegiteei beldurrik*
-> • Normala da hutsegiteak egitea. Baliagarri izango dituzu okerrak zeure ikaskuntza hobetzeko erabiliz gero.
-> • Iradokizunak:
-> • Hitz egiteko ez egon zain den a zuzen esateko gauza izan arte edo irakurtzeko dena ulertu ahal izan arte.
+>
+> Normala da hutsegiteak egitea. Baliagarri izango dituzu okerrak zeure ikaskuntza hobetzeko erabiliz gero.
+>
+> Iradokizunak:
+>
+> + Hitz egiteko ez egon zain den a zuzen esateko gauza izan arte edo irakurtzeko dena ulertu ahal izan arte.
 > Arriskatu! Praktikatu!
-> • Saiatu "errorea" eta "hutsegitea" bereizten
-> • Saiatu zeure okerren jatorria aurkitzen
-> • Ziurtatu irakaslearen zuzenketak zer esan nahi duen.
-> • Saiatu zeure okerren garrantzi erlatiboa neurtzen .
+> + Saiatu "errorea" eta "hutsegitea" bereizten
+> + Saiatu zeure okerren jatorria aurkitzen
+> + Ziurtatu irakaslearen zuzenketak zer esan nahi duen.
+> + Saiatu zeure okerren garrantzi erlatiboa neurtzen .
 
 ## Gaiko erreferentziak, dokumentuak eta bibliografia
 
