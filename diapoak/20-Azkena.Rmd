@@ -45,19 +45,19 @@ Beste horrenbeste
 
 ## 
 
-![Honela jaits daiteke nahi den formatuan](../assets/20/PDF_Jaitsi.gif)
+![Honela jaits daiteke nahi den formatuan](../apunteak/assets/20/PDF_Jaitsi.gif)
 
 ## 
 
-![Oraindik windows erabiltzen duzuenontzat](../assets/20/Captura.png) 
+![Oraindik windows erabiltzen duzuenontzat](../apunteak/assets/20/Captura.png) 
 
 ## 
 
-![](../assets/20/Captura2.png)
+![](../apunteak/assets/20/Captura2.png)
 
 ## Paperean
 
-Bakarrik zuek idatzitako tarteak (esate baterako, hizkuntz portfolioak-eta ez)
+Bakarrik zuek idatzitako tarteak
 
 #
 
@@ -76,13 +76,15 @@ Bakarrik zuek idatzitako tarteak (esate baterako, hizkuntz portfolioak-eta ez)
 >- Dokumentu bat sortu beharko duzue.
 >- Aukerazko toki batzuen zerrenda egongo da.
 >- Dokumentua izendatzeko arauak: *Ez espaziorik, ez punturik, ez azentu edo eñerik, ezta beheko marrarik ere*.
->- Segidan niri pasatu helbidea [fitxa](https://framaforms.org/ebaluazio-kualitatiboa-1607713559) beteta.
+>- Segidan niri pasatu helbidea
 >- Galdetegia kopiatu eta itsatsi.
 >- BONUS: nola kendu kolorea?
 
+## labur.eus/HD21ebaluazioa
+
 ##
 
-![](../assets/20/Kolorea-kendu.gif)
+![](../apunteak/assets/20/Kolorea-kendu.gif)
 
 #
 
@@ -99,6 +101,10 @@ Bakarrik zuek idatzitako tarteak (esate baterako, hizkuntz portfolioak-eta ez)
 `r emo::ji('pen')`
 
 ## Zelan egingo den
+
+## Zelan zuzentzen dudan
+
+![](../apunteak/assets/20/20-Zelan_zuzentzen_dodan.png)
 
 # Galdararik?
 
