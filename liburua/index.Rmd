@@ -1,10 +1,10 @@
 --- 
-title: "Hizkuntzen Didaktikako Ikuspegi Berriak (4. urtea, minorra) V:`r Sys.Date()`"
+title: "Hizkuntzen Didaktikako Ikuspegi Berriak (minorra) V:0.2"
 author: 
   name: "Irakaslea: Juan Abasolo"
   affiliation: UPV/EHU
   # email: juan.abasolo@ehu.eus
-date: "2021/2022"
+date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -20,11 +20,11 @@ favicon: "assets/azala.png"
 
 # Aurretikoak {-}
 
-Ikasgaiaren gida ofiziala [hemen](https://www.ehu.eus/eu/lehen-hezkuntzako-gradua-bizkaia/kreditu-eta-irakasgaiak?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20190&p_ciclo=X&p_curso=4&p_cod_asignatura=27574) duzu.
+Ikasgaiaren gida ofiziala [hemen](https://www.ehu.eus/eu/lehen-hezkuntzako-gradua-bizkaia/kreditu-eta-irakasgaiak?p_redirect=consultaAsignatura&p_cod_proceso=egr&p_anyo_acad=20220&p_ciclo=X&p_curso=4&p_cod_asignatura=27574) duzu.
 
 ## Gaiak eta denboralizazioa, proposamena {-}
 
-1) Aurkezpena, taldeak eta abar [*](../diapoak/0-Aurkezpena-21.pdf)
+1) Aurkezpena, taldeak eta abar [*](../diapoak/)
 2) Hezkuntzaren lau pilareetatik oinarrizko konpetentzietara [*](../diapoak/01-diapo.html)
 3) Euskal Herriko Hezkuntza sisteman, elebitasunetik eleaniztasunera
 4) Hizkuntzen kudeatzea eskolan
@@ -37,27 +37,28 @@ Ikasgaiaren gida ofiziala [hemen](https://www.ehu.eus/eu/lehen-hezkuntzako-gradu
 11) Interferentziak eta erroreak
 12) Ikasleen ikas estrategiak (M)
 13) Hizkuntzen portfolio europarra
-14) **Portfolioak**
-15) **Azterketak**
+14) **Azterketak**
 
 ## Kontaktua, tutoretzak eta abar {-}
 
 Emaila  
-     : **juan** [dot] **abasolo** [at] **ehu** [dot] **eus**
+: **juan** [dot] **abasolo** [at] **ehu** [dot] **eus**
      
 Telegram  
-    : [at]JuanAbasolo
+: @JuanAbasolo
 
 Bulegoa  
-    : 3S40B
+: 3S40B
     
 Telefonoa  
-    : (+34) 94 601 **7567**
+: (+34) 94 601 **7567**
     
 Tutoretzak  
-    : http://labur.eus/JAbasolo-tutoretzak
+: http://labur.eus/JAbasolo-tutoretzak
 
----
+***
 
-[Ez adiorik](../diapoak/20-Azkena.html)
+[Zer dakarten](https://www.legegunea.euskadi.eus/contenidos/tramita_ley/945723_ley/es_def/adjuntos/Orden_aprobacion_previa.pdf)... eta hizkuntzaz? Zer berri?
+
+[ezinezko egin zait euskarazkoa aurkitzea]
 

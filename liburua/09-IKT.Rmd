@@ -1,6 +1,6 @@
 # Informazioa eta Komunikaziorako Teknologia
 
-[![](https://img.shields.io/badge/Diapoak-IKT-gray)](../diapoak/09-IKT2021V0.pdf)
+`r if (knitr::is_html_output()) ' [![](https://img.shields.io/badge/Diapoak-IKT-gray)](../diapoak/09-IKT2021V0.pdf)'`
 
 Ariketarako dokumentuak eskatu irakasleari.  
 Ez-jarraitukoentzat, ikusi nahi badute, [hemen](assets/09/ariketa_21.txt).

@@ -1,8 +1,8 @@
 # Erroreak eta bigarren hizkuntzak
 
-[![](https://img.shields.io/badge/Diapoak(1)-Erroreak-gray)](../diapoak/10-Erroreak01.pdf)
+`r if (knitr::is_html_output()) ' [![](https://img.shields.io/badge/Diapoak(1)-Erroreak-gray)](../diapoak/10-Erroreak01.pdf) '`
 
-[![](https://img.shields.io/badge/Diapoak(2)-herroreac-gray)](../diapoak/10-Erroreak02.pdf)
+`r if (knitr::is_html_output()) ' [![](https://img.shields.io/badge/Diapoak(2)-herroreac-gray)](../diapoak/10-Erroreak02.pdf) '`
 
 Ariketetarako baliabideak [hemen `.rar`](assets/10/Aztertzeko_testuak.rar) formatuan eta [hemen `.zip`](assets/10/Aztertzeko_testuak.zip) formatuan.
 

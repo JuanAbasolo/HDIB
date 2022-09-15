@@ -1,6 +1,6 @@
 # Hizkuntzen trataera bateratua
 
-[![](https://img.shields.io/badge/Diapoak-HizkuntzTrataeraBateratua-gray)](../diapoak/4-gaia-HTB.pdf)
+`r if (knitr::is_html_output()) ' [![](https://img.shields.io/badge/Diapoak-HizkuntzTrataeraBateratua-gray)](../diapoak/4-gaia-HTB.pdf)'`
 
 **Galderak**, gaian erantzuna aurkitu behar diegu:
 

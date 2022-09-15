@@ -1,6 +1,6 @@
 # Hizkuntzaren programazioaz
 
-[![](https://img.shields.io/badge/Diapoak-Programatzea-gray)](../diapoak/08-Hizkuntza_programatu(21).pdf)
+`r if (knitr::is_html_output()) ' [![](https://img.shields.io/badge/Diapoak-Programatzea-gray)](../diapoak/08-Hizkuntza_programatu(21).pdf) '`
 
 Ariketarako
 

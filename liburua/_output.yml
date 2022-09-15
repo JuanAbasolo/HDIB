@@ -1,11 +1,12 @@
 bookdown::gitbook:
   css: style.css
+  toc_depth: 2
   config:
     toc:
       before: |
-        <li><a href="./">Hizkuntzaren Didaktikako Ikuspegi Berriak: apunteak (V-0) 2020</a></li>
+        <li><a href="./">Hizkuntzaren Didaktikako Ikuspegi Berriak: apunteak (V-0.2) 2022</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Bookdown erabilita argitaratutakoa</a></li>
     download: ["epub", "pdf"]
 bookdown::epub_book: default
 # bookdown::pdf_book:

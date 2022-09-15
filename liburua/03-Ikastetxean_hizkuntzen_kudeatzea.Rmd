@@ -1,6 +1,6 @@
 # Ikastetxean hizkuntzen kudeatzea
 
-[![](https://img.shields.io/badge/Diapoak-HizkuntzKudeaketa-gray)](../Zain/3-gaia_Ikastetxeko-hizkuntzen-kudeatzea.pdf)
+`r if (knitr::is_html_output()) ' [![](https://img.shields.io/badge/Diapoak-HizkuntzKudeaketa-gray)](../Zain/3-gaia_Ikastetxeko-hizkuntzen-kudeatzea.pdf)'`
 
 Azterguneak
 

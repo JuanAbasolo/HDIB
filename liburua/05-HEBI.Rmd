@@ -1,6 +1,6 @@
 # HEBI-CLIL-AICLE
 
-[![](https://img.shields.io/badge/Diapoak-CLIL-gray)](../diapoak/5-gaia-CLIL.pdf)
+`r if (knitr::is_html_output()) ' [![](https://img.shields.io/badge/Diapoak-CLIL-gray)](../diapoak/5-gaia-CLIL.pdf)'`
 
 
 Hizkuntzak eta Edukiak Batera Ikastea - Content and Language Integrated Learning - Aprendizaje Integrado de Contenido y Lenguas Extranjeras

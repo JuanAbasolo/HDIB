@@ -1,6 +1,6 @@
 # Hezkuntzaren lau zutabeak
 
-[![](https://img.shields.io/badge/Diapoak-4zutabeak-brightgreen)](../diapoak/01-Diapo.html)
+`r if (knitr::is_html_output()) ' [![](https://img.shields.io/badge/Diapoak-4zutabeak-brightgreen)](../diapoak/01-Diapo.html) '`
 
 Galdera batzuk egin eta galdera horien erantzunen bitartez saiatuko gara aurrera egiten gaian:
 

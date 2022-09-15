@@ -1,6 +1,6 @@
 # Ikasleen ikas estrategiak
 
-[![](https://img.shields.io/badge/Diapoak-Estrategiak-green)](../diapoak/11-IKASLEEN_IKAS_ESTRATEGIAKb.html)
+`r if (knitr::is_html_output()) ' [![](https://img.shields.io/badge/Diapoak-Estrategiak-green)](../diapoak/11-IKASLEEN_IKAS_ESTRATEGIAKb.html) '`
 
 Hausnarbidea
 
