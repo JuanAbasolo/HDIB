@@ -115,6 +115,13 @@ Taldekidea:
         Helburua:
         Erabilgarritasuna:
         
+    Zuk gehitutako webgunea:
+        Izena: 
+        Esteka:
+        Nork egindakoa den:
+        Helburua:
+        Erabilgarritasuna:
+    
  Taldekidea:
     1. webgunea:
         Izena: 
@@ -144,7 +151,14 @@ Taldekidea:
         Helburua:
         Erabilgarritasuna:
         
-  Taldekidea:
+    Zuk gehitutako webgunea:
+        Izena: 
+        Esteka:
+        Nork egindakoa den:
+        Helburua:
+        Erabilgarritasuna:
+    
+ Taldekidea:
     1. webgunea:
         Izena: 
         Esteka:
@@ -165,6 +179,13 @@ Taldekidea:
         Nork egindakoa den:
         Helburua:
         Erabilgarritasuna: 
+        
+    Zuk gehitutako webgunea:
+        Izena: 
+        Esteka:
+        Nork egindakoa den:
+        Helburua:
+        Erabilgarritasuna:
         
     Zuk gehitutako webgunea:
         Izena: 
@@ -195,6 +216,13 @@ Taldekidea:
         Helburua:
         Erabilgarritasuna: 
         
+    Zuk gehitutako webgunea:
+        Izena: 
+        Esteka:
+        Nork egindakoa den:
+        Helburua:
+        Erabilgarritasuna:
+    
     Zuk gehitutako webgunea:
         Izena: 
         Esteka:

@@ -13,7 +13,7 @@
 + lana
 + [![](https://img.shields.io/badge/Diapoak-Metodologiak-brightgreen)](07-diapoMetodologiak.html)
 + [![](https://img.shields.io/badge/Diapoak-Programatzea-gray)](08-Hizkuntza_programatu(21).pdf)
-+ [![](https://img.shields.io/badge/Diapoak-IKT-gray)](09-IKT2021V0.pdf)
++ [![](https://img.shields.io/badge/Diapoak-IKT-gray)](09-IKT2022V0.pdf)
 + [![](https://img.shields.io/badge/Diapoak(1)-Erroreak-gray)](10-Erroreak01.pdf)
     + [![](https://img.shields.io/badge/Diapoak(2)-herroreac-gray)](10-Erroreak02.pdf)
 + [![](https://img.shields.io/badge/Diapoak-Estrategiak-brightgreen)](11-IKASLEEN_IKAS_ESTRATEGIAKb.html)
