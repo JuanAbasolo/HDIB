@@ -28,6 +28,7 @@ http://www.argia.eus
 http://www.argia.eus/mendea/
 http://www.armiarma.eus/
 http://www.arteleku.net
+https://www.batua.eus/
 http://www.behatokia.eus/
 http://www.berria.eus
 http://www.buruxkak.eus
@@ -39,6 +40,7 @@ http://www.eke.eus/
 http://www.elhuyar.eus
 http://www.erabili.eus
 http://www.euskadi.eus/euskara_soft
+https://www.euskadi.eus/itzuli/
 http://www.euskalgeo.net/
 http://www.euskalnatura.eus/
 http://www.euskaltzaindia.eus/
@@ -49,6 +51,7 @@ http://www.euskomedia.org
 http://www.euskonews.eus/
 http://www.habe.eus
 http://www.hiru.com
+http://www.hikhasi.eus/
 http://www.hiztegia.net/
 http://www.hiztegiak.eus/
 http://www.idazleak.eus/
@@ -229,8 +232,3 @@ Taldekidea:
         Nork egindakoa den:
         Helburua:
         Erabilgarritasuna:
-        
-  
-  
-        
-
