@@ -1,0 +1,150 @@
+---
+title: "Hizkuntzen Didaktikarako Ikuspegi Berriak"
+author: 
+    - name : "Juan Abasolo"
+      filiation: UPV/EHU
+date: 2023-09-15
+format: 
+    revealjs:
+        theme: dark
+        logo: 'irudiak/logoa_ehu.jpg'
+        css: 'css/logo.css'
+        embed-resources: true
+editor: visual
+---
+
+I(ra)kasgaiaren inguruko ikuspegia
+
+... lekua
+
+... antolamendua eta egitura
+
+... gaiak, edukiak eta denboralizazioa
+
+... irakaslea
+
+## I(ra)kasgaiaren inguruko ikuspegia
+
+Hizkuntzen Didaktikarako Ikuspegi ~~Berriak~~...
+
+. . .
+
+bainoago
+
+. . .
+
+*Gaur* Hizkuntzen Didaktikarako *erabiltzen diren* Ikuspegiak
+
+. . .
+
+Lagunartean: **HDIB**
+
+## Lekua
+
+Prestakuntzaren garrantzia: hurrengo belaunaldien hezitzaile
+
+. . .
+
+Edukia jakitea (hizkuntza prestakuntza)
+
+. . .
+
+Irakasten jakitea: prestakuntza didaktikoa (hizkuntza irakasteko)
+
+. . .
+
+Esparrua mugatu, ideia garrantzitsu batzuen berri jakin
+
+Hori dena, gogoeta egiteko jarrerarekin (\[errezeta gutxi\])
+
+. . .
+
+### Ikasgaiaren lekua ikasketa planetan
+
+4.  ikasturtean\
+    Hizkuntzen ikas-irakaskuntzaren eremuan Gaur egun indarrean diren ikuspegi, jardunbide eta baliabide batzuen inguruan gogoeta
+
+## Antolamendua eta egitura
+
+. . .
+
+14 aste
+
+Bi zati (jatorrizko diseinuan bi irakasle)
+
+Alde teorikoa
+
+Alde praktikoa
+
+. . .
+
+Aurton, mix
+
+## Gaiak, edukiak eta denboralizazioa
+
+## 
+
+::: panel-tabset
+### 1-5
+
+1.  Ikasgaiaren sarrera, taldeak eta legei begiratu.
+2.  Hizkuntzetarako Europako Erreferentzia Esparru Bateratua eta Hizkuntzen Portfolio Europarra 📔
+3.  Hezkuntzaren lau zutabeak eta gaitasun gakoak hizkuntzen didaktikan 🗨️
+4.  Euskal hezkuntza sistemako eleaniztasuna: Diglosiatik elebitasunera eta handik eleaniztasunera 🗨️
+5.  Eskolan hizkuntzen tratamendua: Ikastetxeko Hizkuntza Proiektua eta Hizkuntza Indartzeko Programako Irakaslea (HIPI) 🗨️
+
+### 6-10
+
+6.  Hizkuntzen Trataera Bateratua (HTB) 🗨️
+7.  HEBI/CLIL metodologia 🗨️\
+    [Aste honetan 1. mintegia gehitu]{style="color: darkred"}
+8.  **Ebaluazioa** "role playing 🗨️" motzaren bidez
+9.  IKTren hizkuntza dimentsioa: Euskararen rola eta mundu digitala 💻 📔
+10. IKTen inguruko zenbait tresna 💻 📔
+
+### 11-14
+
+11. Erroreak-eta. 📔\
+    [Aste honetan 2. mintegia gehitu]{style="color: darkred"}
+12. Gaur egungo orientazio metodologikoak hizkuntzaren komunikazio gaitasuna lantzeko: proiektuak, atazak eta sekuentzia didaktikoak 📔
+13. Hizkuntzak irakastean ebaluazioa
+14. **Ebaluazioa** (idatzia) / Ikastaroaren berrikusketa eta amaiera / Portfolioa 📔
+:::
+
+## 🗨️ Role playing
+
+Talde bakoitzak lan bat, zerrendako gai banari buruz
+
+20 minutuko hitzaldi bat aurkeztu (maila ertaineko prestakuntza duen publikoaren aurrean)
+
+Hitzaldi horren diapositibak oharrekin edota baliabideak
+
+## 📔 Portfolioa
+
+Egindako lanen txosten antolatua, bakoitzak berea. Sarrera eta ondorioak atalekin.
+
+## Ebaluazio / kalifikazioa
+
+Role playinga (1/3) + Portfolioa (1/3) + Azterketa (1/3) = Nota (1)
+
+. . .
+
+::: {.callout-important collapse="false" appearance="default" icon="true"}
+## Gogoan izan:
+
+Irakasgaia gainditzeko ezinbestekoa da hizkuntza koherentziaz, zuzentasunez eta egokitasunez erabiltzea, ahoz eta idatziz
+:::
+
+## Irakaslea...
+
+`juan.abasolo@ehu.eus`
+
+Telegram: `@JuanAbasolo`
+
+3S40B
+
+Tutoretzak: [labur.eus/JAbasolo-tutoretzak](http://labur.eus/JAbasolo-tutoretzak)
+
+Apunteak: [labur.eus/HDIBapunteak](https://labur.eus/HDIBapunteak)
+
+Taldea: [eskatu irakasleari]{style="color:blue"}

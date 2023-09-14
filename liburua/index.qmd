@@ -1,0 +1,53 @@
+# Aurretikoak {.unnumbered}
+
+Ikasturte honetarako apunteak eguneratzen ari naiz; beraz, izan kontuan aldaketak egin ditzakegula apunteotan ikastaroan zehar.
+
+Informazio legal, ofizial eta abar: [Fakultateko webgunean](https://www.ehu.eus/eu/web/bilboko-hezkuntza-fakultatea/graduak/lehen-hezkuntza).
+
+## Gaiak eta denboralizazio proposamena
+
+Grebak, interesak, premiak eta abar tarteko, ikusteko dago ea zenbatean segitzen diogun hurrengo astez asteko proposamenari:
+
+1.  Ikasgaiaren sarrera, taldeak eta legeei begiratu [\*](../diapoak/00-Aurkezpena-23.html).
+2.  Hizkuntzetarako Europako Erreferentzia Esparru Bateratua eta Hizkuntzen Portfolio Europarra
+3.  Hezkuntzaren lau zutabeak eta gaitasun gakoak hizkuntzen didaktikan
+4.  Euskal hezkuntza sistemako eleaniztasuna: Diglosiatik elebitasunera eta handik eleaniztasunera
+5.  Eskolan hizkuntzen tratamendua: Ikastetxeko Hizkuntza Proiektua eta Hizkuntza Indartzeko Programako Irakaslea (HIPI)
+6.  Hizkuntzen Trataera Bateratua (HTB)
+7.  HEBI/CLIL metodologia\
+    [Aste honetan 1. mintegia gehitu]{style="color: darkred"}
+8.  **Ebaluazioa** "role playing" motzaren bidez
+9.  IKTren hizkuntza dimentsioa: Euskararen rola eta mundu digitala
+10. IKTen inguruko zenbait tresna
+11. Erroreak-eta.\
+    [Aste honetan 2. mintegia gehitu]{style="color: darkred"}
+12. Gaur egungo orientazio metodologikoak hizkuntzaren komunikazio gaitasuna lantzeko: proiektuak, atazak eta sekuentzia didaktikoak
+13. Hizkuntzak irakastean ebaluazioa
+14. **Ebaluazioa** (idatzia) / Ikastaroaren berrikusketa eta amaiera
+
+### Mintegietan
+
+1.  Zailtasunak hizkuntzaren irakaskuntzan
+2.  IKTen integrazioa gelan
+
+## Kontaktua, tutoretzak eta abar
+
+Emaila
+
+:   **juan** \[dot\] **abasolo** \[at\] **ehu** \[dot\] **eus**
+
+Telegram
+
+:   \@JuanAbasolo
+
+Bulegoa
+
+:   3S40B
+
+Telefonoa
+
+:   (+34) 94 601 **7567**
+
+Tutoretzak
+
+:   <http://labur.eus/JAbasolo-tutoretzak>
