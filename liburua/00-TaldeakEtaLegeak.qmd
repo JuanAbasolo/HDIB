@@ -13,6 +13,24 @@ Baliabideak: [@hezkuntzasaila752023DEKRETUA2023; @hezkuntzasaila772023DEKRETUA20
 Amaitzeko, alde horren interpretazio laburra idatzi beharko du taldekide bakoitzak.
 :::
 
+::: callout-note
+## Egin beharrekoaren deskribapen laburra
+
+Dagoeneko sailkatzen eta hasi zaretenez, orain irudikatu behar duzue nola jarraituko lukeen zuen lanak, txosten itxura erabat hartuta (denek edo guztiok hori egin duzue).
+
+Testua idatzi behar duzue pasatu zaizuen dokumentuaren hasieran.
+
+**Izenburua:** `Hizkuntza` eta `Komunikazioa` curriculum dekretu berrian
+
+**Testua:** Txosten (hipotetiko) baterako aurkezpena.
+
+**Nork idatzia**: Hizkuntzak eta komunikazioak curriculum berrian zer toki hartzen duen aztertzeko claustroan erabakitako irakasle taldeak
+
+**Nork irakurtzeko**: Claustro osoak, irakasle bakoitzak txostena nola erabili erabakitzeko.
+
+**Zertarako ari zareten idazten**: Zuen claustrokideak informatzeko zer duten eskuartean eta zer aurkituko duten hor.
+:::
+
 ## Glosategia
 
 Helburuak
