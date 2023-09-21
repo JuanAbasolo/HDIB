@@ -9,7 +9,7 @@ book:
     name: "Irakaslea: Juan Abasolo"
     affiliation: UPV/EHU
   date: "2023/2024"
-  favicon: "assets/0/azala.png"
+  favicon: "assets/00/azala.png"
   url: 'https://juanabasolo.github.io/HDIB/apunteak/'
   search: true
   downloads: [pdf, epub]
@@ -31,11 +31,12 @@ book:
     # - 12-Ebaluazioa.qmd
     # - 13-Azterketa.qmd
     - references.qmd
-    
 
-  language: '../../eu/_language-eu.yml'
 
 bibliography: references.bib
+csl: '../../eu/apa-eu.csl'
+language: '../../eu/_language-eu.yml'
+lang: eu
 
 format:
   html:
@@ -50,5 +51,5 @@ editor: visual
 biblio-style: apalike
 
 description: "Hizkuntzaren Didaktika ikasgaiko apunteak dira hauek. Ikasgaian aurrera egin ahala egokitzen joango dira"
-cover-image: "assets/0/azala.png"  # relative to index
+cover-image: "assets/00/azala.png"  # relative to index
 github-repo: JuanAbasolo/HDIB

@@ -35,8 +35,7 @@ Testua idatzi behar duzue pasatu zaizuen dokumentuaren hasieran.
 
 Helburuak
 
-:   funtsezko konpetentziak eskuratuta ikasleek etaparen amaierarako helduta beharko\
-    lituzketen lorpenak.
+:   funtsezko konpetentziak eskuratuta ikasleek etaparen amaierarako helduta beharko lituzketen lorpenak.
 
 Irteera-profila
 
