@@ -1,12 +1,14 @@
 # Hezkuntzaren lau zutabeak eta gaitasun giltzarriak hizkuntzen didaktikan
 
-Baliabideak: [@delorsEducacionEncierraTesoro1997; @euskojaurlaritzaOinarrizkoGaitasunakEAEko2008; @unescoHaciaSociedadesConocimiento2005; @organisationforeconomicco-operationDefinitionSelectionKey2005; @celce-murciaCommunicativeCompetencePedagogically1995]
+Baliabideak: [@delorsEducacionEncierraTesoro1997; @euskojaurlaritzaOinarrizkoGaitasunakEAEko2008; @unescoHaciaSociedadesConocimiento2005; @organisationforeconomicco-operationDefinitionSelectionKey2005; @celce-murciaCommunicativeCompetencePedagogically1995][\*](../diapoak/02-Lau_zutabetatik_honantz.html)
 
 Hezkuntzaren lau zutabeak eta gaitasun giltzarriak nondik datozen ikusiko da eta hizkuntzen didaktikan integratzeko moduak aztertu. Ikasleek praktika zehatzak diseinatuko dituzte, bi elementuok integratuaz.
 
--   Gaitasun gakoetan oinarritutako **jarduera**: Ikasleek, talde txikietan, gaitasun gako bat aukeratu eta horri buruzko jarduera didaktiko bat diseinatuko dute.
+-   Gaitasun gakoetan oinarritutako **jarduera**: Ikasleek, talde txikietan, gaitasun zerrenden arteko konparaketak egingo dituzte.
 
--   Hezkuntzaren lau zutabeetan oinarritutako **jarduera**: Ikasleek, talde txikietan, hezkuntzaren lau zutabeetako bat aukeratu eta horri buruzko jarduera didaktiko bat diseinatuko dute.
+-   Hizkuntza komunikazio gaitasunaren inguruko **jarduera**: Ikasleek (ber)aztertuko dute gaur nola heltzen zaion gaiari.
+
+-   Konpetentzien inguruko pedagogiaren gaineko diskurtsoa: Ikasleek aztertuko dute gaia eta gaurko ikuskerekin izan ditzakeen talkak identifikatuko dituzte **ariketa** bat egiteko.
 
 ------------------------------------------------------------------------
 
@@ -93,9 +95,23 @@ izaten jakitea
 :   balioak, jarrerak
 
 ::: callout-caution
-#### Ariketa
+#### Ariketa: Konpetentzien ikuskerak
 
-Ikaskideekin erabaki hizkuntzak non duen zeregina ardatz horietan, baldin eta badu.
+Sortu taula bat konpetentzien definizioen alderaketa aztertzeko:
+
+-   Europako kontseilua
+
+-   Madrileko legeak
+
+-   Parisekoak
+
+-   Gasteizkoak
+
+-   Iruñekoak
+
+-   Londresekoak
+
+-   ...
 :::
 
 ### Konpetentziaren definizio batzuk:
@@ -114,6 +130,12 @@ Jakintza, trebetasunak eta jarrerak modu praktikoan integratzeko gaitasuna, araz
 >
 > -- Zabalak eta Arnauk (2007)
 
+> c\) Funtsezko konpetentziak: ikasleek arrakastaz aurrera egin ahal izateko eta bizitzan zehar erronka eta desafio nagusiei aurre egin ahal izateko ezinbestekotzat jotzen diren jardunak. Pertsona guztiek beren errealizazio eta garapenerako behar dituztenak dira, bai eta herritartasun aktiboa, gizarte-inklusioa eta enplegua sustatzeko behar direnak ere.
+>
+> d\) Konpetentzia espezifikoak: arlo eta ikasgai bakoitzeko oinarrizko jakintza beharrezkoa den jardueretan edo egoeretan ikasleek baliatzen jakin behar duten neurriak. Konpetentzia espezifikoak alde batetik funtsezko konpetentziak eta bestetik ikasgaietako oinarrizko jakintzak eta ebaluazio-irizpideak lotzeko eta zehazteko elementuak dira.
+>
+> -- 77/2023 Dekretua, 2. artikulua
+
 Konpetentziak "diseinatzeko", hautatzeko, saio batzuk izan ziren. Horietako bat, DeSeCo izenez ezagutzen dena:
 
 #### DeSeCo (Definition and Selection of Key Competencies):
@@ -131,6 +153,18 @@ DeSeCo txostenak baldintza batzuk ezarri zituen oinarrizko gaitasun/konpetentzia
 1.  pertsonarentzat eta jendartearentzat baliozkoak diren emaitzak erdiesten lagundu behar dute.
 2.  lagundu behar diote pertsonari erantzuten aurrean aurki ditzakeen hainbat testuingurutako eskakizunei.
 3.  jende ororentzat balio behar dute, ez bakarrik espezialistentzat.
+
+#### Euskal Curriculuma
+
+Sakonki helduko ez diogun arren, gure testuinguruan aipatzea merezi du: Euskal Herrian mugimendu bat izan zen, *Euskal Herriak Bere Eskola*ren eta beste batzuen eskutik, besteak beste *Euskal Curriculum* bat proposatu zuena.
+
+Gero Hego eta Iparraldeko ikastolen curriculumaren eta Eusko Jaurlaritzaren dekretuen (12/2009) oinarrietariko bat ere izan zen, besteak beste.
+
+Bereziki interesgarria da Europar Batasunen gomendioak jaso aurretik planteamendu koherente eta irmoa egin izana.
+
+Gaian sakontzeko, oraindik eskuragai dagoen [euren webgunea](https://euskalcurriculuma.eus/) azter daiteke[^02-lau_zutabeak-1]
+
+[^02-lau_zutabeak-1]: https://euskalcurriculuma.eus/
 
 #### Europako kontseiluaren proposamena
 
@@ -151,7 +185,7 @@ Oinarrizko konpetentzia hauek elkarren menpekoak dira eta enfasia egin behar da 
 #### Ariketa
 
 |                                                                                                 |                                                                         |          |     |
-|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|----------|-----|
+|--------------------------|-----------------|---------------|---------------|
 | Europako Kontseilua                                                                             | Espainia                                                                | Nafarroa | EAE |
 | communication in the mother tongue                                                              | 1\. Competencia en comunicación lingüística                             |          |     |
 | communication in foreign languages                                                              | 2\. Competencia matemática                                              |          |     |
@@ -180,6 +214,10 @@ Kontzeptu horren eraikuntzan askok hartu du parte eta eztabaida ugari izan da. K
 ![](assets/1/canale-swain1981.png)
 
 [@canaleCommunicativeCompetenceCommunicative1983; @canaleTheoreticalBasesCommunicative1980]
+
+Gaur egunean Europako Erreferentzia Marko Bateratuan honela irudikatzen da:
+
+![](assets/2/EEMB-23_131or.png)
 
 Gaur egun zerk osatzen duela ulertzen dugu? Zer lantzen dugu?
 
@@ -283,12 +321,12 @@ Dimentsio horien azpigaitasunak hemen ikus ditakegu
     -   Ekoizpen-prozesua planifikatzea
     -   Adierazi beharrekoa egoki eta zuzen adieraztea
     -   Kontroleko eta egokitzapeneko estrategiak erabiltzea
--   DIMENTSIOA: AHOZKO ELKARREKINTZA[^02-lau_zutabeak-1]
+-   DIMENTSIOA: AHOZKO ELKARREKINTZA[^02-lau_zutabeak-2]
     -   Komunikazio-trukeetan modu aktibo eta egokian parte hartzea
     -   Arau soziokomunikatiboak errespetatzea
     -   Komunikazioari eusteko eta beraren eraginkortasuna areagotzeko estrategiak erabiltzea
 
-[^02-lau_zutabeak-1]: beherago garatuago ikus daiteke
+[^02-lau_zutabeak-2]: beherago garatuago ikus daiteke
 
 #### Agerbideak:
 
@@ -337,7 +375,7 @@ Adierazleak:
 3.  Komunikazioari eusteko eta haren eraginkortasuna areagotzeko estrategiak erabiltzea.
 
 | Hasierako maila                                                                                                                                                                           | Erdi maila                                                                                                                                                                                                                                                                                                                                       | Maila aurreratua                                                                                                                                                                                                                                                                                                                                                                        |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------|--------------------------|-----------------------------|
 | \+ Komunikazio-trukean arreta zailtasunez mantentzen du.<br> + Bere komunikazio-trukeetan inhibizioa agertzen du.<br> + Lagunduta, komunikazio-egoeraren ezaugarriak kontuan izaten ditu. | \+ Komunikazio-trukean arreta mantentzen du. <br> + Naturaltasunez, komunikazio-trukeak hasten eta mantentzen ditu. <br> + Komunikazio-egoeraren ezaugarriak kontuan izaten ditu. <br> + Solaskidearen aurrean erantzuna modu nahiko eraginkorrean egokitzen du.<br> + Hizkuntza-aldaera modu nahiko eraginkorrean egokitzen du elkarrekintzara. | \+ Komunikazio-trukean arreta mantentzen eta esku hartzen du.<br> + Naturaltasunez eta modu eraginkorrean, komunikazio-trukeak hasten eta mantentzen ditu.<br> + Komunikazio-egoeraren ezaugarrietara modu eraginkorrean egokitzen da.<br> + Erregistro egokia erabiltzen du.<br> + Solaskidearen aurrean erantzuna egokitzen du.<br> + Hizkuntza-aldaera elkarrekintzara egokitzen du. |
 
 > (20).- Ikasgelan, ikastetxean eta ingurunean eguneroko bizitzan ohikoak diren komunikazio-trukeetan arau soziokomunikatiboak errespetatzea.
@@ -351,7 +389,7 @@ Adierazleak:
 -   Diskriminaziozko esaerak saihesten ditu.
 
 | Hasierako maila                                                                                                                                                                                                                                                                  | Erdi maila                                                                                                                                                                                                                                                                                                                                                                                                                                          | Maila aurreratua                                                                                                                                                                                                                                                                                                                                                                                                           |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------|----------------------------|--------------------------|
 | \+ Komunikazio-trukean errespetuzko jarrera zailtasunez mantentzen du.<br> + Komunikazio-trukean ahotsaren tonua eta bolumena zailtasunez kontrolatzen ditu. <br> + Jarrera eta keinuak zailtasunez kontrolatzen ditu.<br> + Lagunduta, hitz egiteko txandak errespetatzen ditu. | \+ Komunikazio-trukean errespetuzko jarrera mantentzen du.<br> + Komunikazio-trukean ahotsaren tonua eta bolumena noizean behin kontrolatzen ditu. <br> + Jarrera eta keinuak noizean behin kontrolatzen ditu. <br> + Hitz egiteko txandak ia beti errespetatzen ditu. <br> + Noizean behin komunikazio-trukea hasteko eta bukatzeko hizkuntza-formula egokiak erabiltzen ditu.<br> + Diskriminaziozko esaera batzuk antzematen eta zuzentzen ditu. | \+ Komunikazio-trukean lankidetza eta errespetuzko jarrera ageri du.<br> + Komunikazio-trukean ahotsaren tonua eta bolumena kontrolatzen ditu.<br> + Hitz egiteko txandak errespetatzen ditu.<br> + Adei-legea errespetatzen du. Jarrera eta keinuak kontrolatzen ditu.<br> + Komunikazio-trukea hasteko eta bukatzeko hizkuntza-formula egokiak erabiltzen ditu. <br> + Diskriminaziozko esaerak erabiltzea saihesten du. |
 
 > (21) Ikasgelan, ikastetxean eta ingurunean eguneroko bizitzan ohikoak diren komunikazio-trukeetan komunikazioari eusteko estrategiak erabiltzea
@@ -361,7 +399,34 @@ Adierazleak:
 -   Komunikazioari eusteko konpentsazio-estrategiak erabiltzen ditu.
 
 | Hasierako maila                                                                                                                                                                                                                                              | Erdi maila                                                                                                                                                                                                                                                                                                                                                                                                     | Maila aurreratua                                                                                                                                                                                                                                                                                                                                                         |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------|----------------------------|--------------------------|
 | +Ulermen-arazoak gainditzeko, bere komunikazio-trukeetan galdera soilen bat egiten du.<br> + Elkarrekintzan zailtasunak gainditzeko, ahozkoak ez diren baliabideak erabiltzen ditu.<br> + Komunikazio-trukean, bere esku-hartzeak arazoekin txertatzen ditu. | \+ Ulermen-arazoak gainditzeko, bere komunikazio-trukeetan galdera soilak egiten ditu.<br> + Elkarrekintzan zailtasunak gainditzeko, ahozko baliabideak eta ahozkoak ez direnak erabiltzen ditu. <br> + Mezuaren edukiari buruzko bere hipotesietakoren bat egiaztatu eta berresteko galdera desegokiak egiten ditu. <br> + Komunikazio-trukean, bere esku-hartzeak modu nahiko eraginkorrean txertatzen ditu. | \+ Ulermen-arazoak gainditzeko, bere komunikazio-trukeetan galderak egiten ditu. <br> + Elkarrekintzan zailtasunak gainditzeko, ahozko baliabideak eta ahozkoak ez direnak erabiltzen ditu. <br> + Mezuaren edukiari buruzko bere hipotesiak egiaztatu eta berresteko galdera egokiak egiten ditu. <br> + Komunikazio-trukean, bere esku-hartzeak egoki txertatzen ditu. |
 
 Beheko horietatik zein ikusi/aztertu/ulertu ditugu? -munduaren ezaugarriak: aldakorra, konplexua, elkarrekin lotura handia, IKTak... -mundu konplexu eta aldakorrari erantzuteko saioa: Delors txostena (tentsioak, hezkuntzaren beharrezko utopia, bizi guztia ikasten, hezkuntzaren lau pilareak) -bizi guztiko hezkuntza, gaitasun batzuen bidez adierazia: oinarrizko gaitasunak -oinarrizko gaitasunak zer diren eta nola formulatu diren esparru desberdinetan (Europan, estatuan, ...) -hizkuntza-komunikaziorako konpetentzia, oinarrizko gaitasun bat -gaitasun horren azpigaitasun batzuk (testuak aztertzeko orduan kontuan hartzeko mailen oinarria) -gaitasun hori nola formulatzen den EAEko curriculum dekretuan -gaitasun horiek ebaluatzeko, xehetasun batzuk
+
+::: callout-note
+## Role Playingari begira
+
+-   Hezkuntzaren lau pilareak.
+-   Bizi guztiko ikasketa.
+-   Zer eta zein dira oinarrizko konpetentziak?
+-   Zer ezaugarri izan behar dituzte oinarrizko konpetentziek?
+-   Oinarrizko konpetentzia bat: hizkuntza-komunikaziorako konpetentzia.
+-   Zer da konpetentzia hori?
+-   Zer ezaugarri edo osagai ditu?
+-   Konpetentzia hori, Euskal Herriko hizkuntzen markoan nola gauzatzen da?
+
+**Azter-materiala**:
+
+<small> "Delors txostena"
+
+Hezkuntza, Unibertsitate eta Ikerketa Saila (2016). *Haur hezkuntzarako, lehen eta bigarren hezkuntzarako eta batxilergorako dekretu kurrikularrak Euskal Autonomia Erkidegoan*. Vitoria-Gasteiz: EJAZN
+
+Larrea, K.; Maia, J. (2010). *Galdera-erantzun batzuk hizkuntzaren didaktikaz*. UPV-EHU. Argitalpen elektronikoa: In http://testubiltegia.ehu.es/Galde-erantzun-hizkuntz-didaktika
+
+Europako Kontseilua. *Oinarrizko konpetentziak (key competences)*: http://europa.eu/legislation_summaries/education_training_youth/lifelong_learning/c11090_es.htm (ikusi zein diren oinarrizko konpetentziak eta haien azalpena)
+
+*Hizkuntzen Europako erreferentzia marko Bateratua (hizkuntza-komunikaziorako konpetentziak)* (5. kapituluan gaitasunaren osagaiak ageri dira)
+
+Ruiz Bikandi, Uri (2010). *Bigarren hizkuntzaren didaktika Haur eta Lehen Hezkuntzan.* Bilbo: UPV-EHUAZN (4. kapitulua: 103-132 or.) </small>
+:::

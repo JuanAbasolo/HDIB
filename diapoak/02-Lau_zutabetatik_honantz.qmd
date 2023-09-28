@@ -1,0 +1,404 @@
+---
+title: "Hezkuntzaren Lau Zutabetatik hasita 🗨️"
+author: "Juan Abasolo"
+format: 
+    revealjs: 
+        theme: [dark, css/nire.scss]
+        css: [/home/juan/Deskargak/EHU_Tipografia-webfontkit-20230924-111641/ehu_typographia.css]
+        footer: "Konpetentzien inguruko diskurtsua"
+        logo: '../liburua/assets/00/azala.png'
+        slide-number: true
+editor: visual
+---
+
+Zertara dator konpetentzia, edo lehen esaten izan den moduan: *gaitasuna*, omen diren horren inguruko diskurtso, ikusmolde eta pedagogia "berri" guzti hori?
+
+::: footer
+Lau zutabeetatik hona
+:::
+
+# Hasteko:
+
+Munduari begira
+
+Historiari
+
+Konpetentziei
+
+## Munduari begiratu eta ...
+
+. . .
+
+Tentsioak
+
+. . .
+
+Erantzun eske dabilen gizartea
+
+. . .
+
+Hezkuntzan...
+
+::: footer
+Zertara datorren
+:::
+
+::: notes
+```         
+**Ariketa**
+Zenbat jende ezagutzen dugu "zuzenean" eta zenbat bestela?
+Zenbat lagun dugu kanpoan ikasten edo lanean? 
+Zenbat hizkuntza erabiltzen dugu aste batean zehar? 
+Gertatu zaigu hirugarren hizkuntza erabili behar izatea? Izan dugu kontaktu zuzenik edo birtualik 3. hizkuntzaren batekin? Zeinekin? Zer dela eta? Zertarako?
+4.nik? 5.ik? ...
+Ezagutzen dugu kanpotik etorririko jenderik? 
+Noraino eramaten gaitu gaur WhatsApp, Instagram, Facebook... erabiltzeak?
+Zer dira, ezagutzen ez duen batentzat azalduta?
+```
+
+**MUNDUA**
+
+**Konplexua**: mugikortasun fisikoa eta soziala; mailak ez --hain- gogorki finkatuak eta bereziak; denak nahasian, espazio berak konpartitzen; azken batean, munduaren dimentsio osoa "ikusten dugu"...
+
+**Aldakorra, borborka**: migrazio mugimenduak, aurrerapen teknologikoak, IKT...
+
+**Globalizatua** (denok denen berri, eraginak nabariago, herri globala, Internet...)
+
+Orain, interakzioa handiagoa mundu mailan: elkarrekin aztertuko dugu egoera?
+
+**TENTSIOAK**
+
+**Mundialaren eta lokalaren arteko tentsioa**: munduko biztanle bihurtzeko prozesua ezari-ezarian egitea bai, baina nork bere erroak eta zainak galdu gabe; hurbileneko erkidegoetatik zabalagoetara igaroz, haietan parte hartuz.
+
+**Unibertsalaren eta tokikoaren artekoa**: kultura globalizatzen ari da baina ez du dena hartzen. Pertsona bakoitza bakarra da eta bokazioa du bere etorkizuna bilatzeko eta bere barrengo ahalmen guztiak garatzeko. Baina beste aldetik bere tradizioetan eta bere kulturan duen aberastasuna ere zaindu behar da, bestela aberastasun hori behin betiko hondatzeko arriskua baita.
+
+**Tradizioaren eta modernitatearen artekoa**: egokitu bai, baina bere buruari uko egin gabe; nork bere autonomia eraiki bai baina besteen askatasunarekin eta garapenarekin harreman dialektikoan, aitzinamendu zientifikoaren menpeko bihurtu gabe. Informazioko teknologia berriek dakarten desafioari erantzun egokia aurkitu behar zaio.
+
+**Epe luzearen eta epe laburraren arteko tentsioa**: joankorra-iheskorra (efimeroa) da nagusi gaur egun, istantekotasuna da goi-goian, irudi eta informazio iheskor asko izateak berehalakoan zentratzera eramaten gaitu, erantzunak berehala nahi ditugu. Baina arazo askok estrategia patxadatsua, adostua eta negoziatua eskatzen dute; esate baterako, hezkuntza politikek.
+
+**Nahitaezko lehiaren eta aukera-berdintasunaren gaineko kezk**a. Lehiaren presioak ahantzarazten dio buruzagi askori jende bakoitzak aukerak behar dituela garatzeko. Lehia bizigarriak batera gertatu behar du lankidetza indargarriarekin eta lotzeko balio duen elkartasunarekin.
+
+**Jakintzaren hazkuntza izugarriaren eta jendeak hura asimilatzeko duen gaitasun mugatuaren arteko tentsioa**. Ikas-irakasgaiak hautatu beharko dira, oinarrizko hezkuntza egoki baten funtsezko osagaiak zainduta (irakasteko hobeki bizitzen jakintzaren bidez, esperimentazioaren bidez eta kultura pertsonal bat osatzearen bidez).
+
+**Espiritualaren eta materialaren arteko tentsioa**, betikoa dena. Munduak ideialen eta baloreen beharra du.
+:::
+
+## Erantzun nahirik \[`historia`\]
+
+::: footer
+Zelan etorri den
+:::
+
+------------------------------------------------------------------------
+
+## Delors txostena, altxorrak eta zutabeak
+
+. . .
+
+ikasten ikastea
+
+:   lifelong learning; dimentsio anitzeko hezkuntza
+
+. . .
+
+egiten ikastea
+
+:   jakintza aplikatua, jendartean ekiteko
+
+. . .
+
+elkarrekin bizitzen ikastea
+
+:   lankidetzarako eta gatazkak konpontzeko gaitasunak...
+
+. . .
+
+izaten jakitea
+
+:   balioak, jarrerak
+
+## Konpetentziak
+
+. . .
+
+zer diote direla?
+
+. . .
+
+zein diote garatu behar dela?
+
+. . .
+
+nork zer dio 🤔?
+
+::: footer
+Erantzuna: ~~gaitasunak~~ konpetentziak
+:::
+
+------------------------------------------------------------------------
+
+::: incremental
+-   
+
+    ### DeSeCo [\*](https://www.oecd.org/education/skills-beyond-school/definitionandselectionofcompetenciesdeseco.htm) '02
+
+-   
+
+    ### Euskal Curriculuma [\*](https://euskalcurriculuma.eus/) '05
+
+-   
+
+    ### Europako kontseilua '06
+
+-   
+
+    ### Hezkuntza eredu pedagogikoaren markoa [\*](https://www.euskadi.eus/oinarrizko-konpetentzia/web01-a3hbhezi/eu/) '20
+:::
+
+## Ariketa {background-color="darkred"}
+
+::: callout-warning
+## Konpetentzien ikuskerak
+
+Sortu taula bat konpetentzien definizioen alderaketa aztertzeko:
+
+-   Europako kontseilua
+-   Madrileko legeak
+-   Parisekoak
+-   Gasteizkoak
+-   Iruñekoak
+-   Londresekoak
+:::
+
+# Communicative competence... & co.
+
+## Ideiaren garapena
+
+-   Celce-Murcia
+-   Canale eta Swain
+-   EEBM
+-   ...
+
+## Celce & Murcia (1995)
+
+![](../liburua/assets/1/celce-murcia1995.png)
+
+::: footer
+Definizioa
+:::
+
+::: note
+:::
+
+## Canale & Swain (1981)
+
+![](../liburua/assets/1/canale-swain1981.png)
+
+::: footer
+Definizioak
+:::
+
+## EEMB (#23)
+
+![](../liburua/assets/2/EEMB-23_131or.png){fig-align="center"}
+
+::: footer
+131.orritik aurrera definizioak-eta
+:::
+
+## Ariketa {background-color="darkred"}
+
+::: callout-warning
+## Gurean zelan ikusten da?
+
+Lehenengo eguneko ariketako lanketa kontuan hartuta, irudikatu zelan ulertzen den gaurkoan gurean
+:::
+
+## Gaurko markoaren zenbait elementu {.scrollable}
+
+-   Dimentsioak
+-   Ikasketa mailetako betetze mailak
+-   Dimentsioen osagaiak...
+-   ... eta azpigaitasunak
+-   Agerbideak
+-   Adierazleak
+
+## Komunikazio konpetentzia gaurko ikuskera didaktiko (...eta ebaluatzailean)
+
+Komunikazio Gaitasunean 5 dimentsio bereizten dira:
+
+-   ahozkoaren ulermena
+-   idatziaren ulermena
+-   mintzamena
+-   idazmena
+-   ahozko elkarrekintza
+
+Dimentsio bakoitza neurtzeko, **ikasketa-emaitza** batzuk formulatzen dira
+
+::: footer
+:::
+
+------------------------------------------------------------------------
+
+Ikasketa-emaitza bakoitzean, hiru betetze-maila bereizten dira (ebaluazio diagnostikoan):
+
+-   Hasierako maila (A)
+-   Erdi maila (B)
+-   Maila aurreratua (C)
+
+## Hizkuntza-komunikaziorako gaitasunaren dimentsioen osagaiak/azpigaitasunak
+
+> Hizkuntza-komunikaziorako konpetentzia bloke handi batzuetan egituratu da, DIMENTSIO deituak. Dimentsio horietako bakoitza AZPIKONPETENTZIA batzuetan zertzen da, eta azpikonpetentzia bakoitzerako ikasleak jakin eta egiten jakin behar duena azaltzen duten EBALUAZIO-ADIERAZLE batzuk xedatu dira.
+>
+> <small>-- Eusko Jaurlaritza-Hezkuntza Saila-ISEI/IVEI: *Ebaluazio diagnostikoa. Hizkuntza-komunikaziorako konpetentzia. Marko teorikoa*. Vitoria-Gasteiz: EJAZN</small>
+
+## Dimentsioak
+
+Hizkuntza-komunikaziorako konpetentzia DIMENTSIO hauetan egituratuta dago:.
+
+-   Ahozkoaren ulermena edo entzumena
+-   Idatziaren ulermena edo irakurmena
+-   Mintzamena
+-   Idazmena
+-   Ahozko elkarrekintza
+
+. . .
+
+**azpigaitasunetan ulertuta**
+
+## Azpigaitasunok {.scrollable}
+
+<small>
+
+-   DIMENTSIOA: AHOZKOAREN ULERMENA
+    -   Ahozko testuen zentzu orokorra identifikatzea
+    -   Ahozko testuen helburua antzematea
+    -   Ahozko testuetan, proposatutako helburuei begira garrantzia duten informazioak hautatzea
+    -   Ahozko testuen edukia kritikoki interpretatzea
+    -   Ahozko testu-mota desberdinak hobeto ulertzeko estrategiak erabiltzea
+-   DIMENTSIOA: IDATZIAREN ULERMENA
+    -   Idatzizko testuen zentzu orokorra identifikatzea
+    -   Idatzizko testuen helburua antzematea
+    -   Idatzizko testuetan, proposatutako helburuei begira garrantzia duten informazioak hautatzea
+    -   Idatzizko testuen edukia kritikoki interpretatzea
+    -   Idatzizko testu-mota desberdinak hobeto ulertzeko estrategiak erabiltzea
+-   DIMENTSIOA: MINTZAMENA
+    -   Komunikazio-egoeraren ezaugarriak aintzat hartzea
+    -   Ekoizpen-prozesua planifikatzea
+    -   Adierazi beharrekoa egoki eta zuzen adieraztea
+    -   Kontroleko eta egokitzapeneko estrategiak erabiltzea
+-   DIMENTSIOA: IDAZMENA
+    -   Komunikazio-egoeraren ezaugarriak kontuan izatea
+    -   Ekoizpen-prozesua planifikatzea
+    -   Adierazi beharrekoa egoki eta zuzen adieraztea
+    -   Kontroleko eta egokitzapeneko estrategiak erabiltzea
+-   DIMENTSIOA: AHOZKO ELKARREKINTZA
+    -   Komunikazio-trukeetan modu aktibo eta egokian parte hartzea
+    -   Arau soziokomunikatiboak errespetatzea
+    -   Komunikazioari eusteko eta beraren eraginkortasuna areagotzeko estrategiak erabiltzea
+
+</small>
+
+## Agerbideak: {.scrollable}
+
+<small>
+
+Adierazleak dira dimentsio horien garapenak ustez erakutsi behar duen modua.
+
+-   AHOZKOAREN ULERMENA
+-   IDATZIAREN ULERMENA
+-   MINTZAMENA:
+    -   Ikasketaren emaitzak:
+        -   Komunikazio-egoeraren ezaugarriak aintzat hartzea
+        -   Ekoizpen-prozesua planifikatzea
+        -   Adierazi beharrekoa egoki eta zuzen adieraztea
+        -   Kontroleko eta egokitzapeneko estrategiak erabiltzea
+-   IDAZMENA
+-   **AHOZKO ELKARREKINTZA**:
+    -   **Ikasketaren emaitzak**:
+        -   **Komunikazio-trukeetan modu aktibo eta egokian parte hartzea**
+            -   Komunikazio-egoeraren ezaugarriak kontuan izaten ditu.
+            -   Naturaltasunez esku hartzen du eta aktiboki entzuten du.
+            -   Informazioa eta azalpenak modu ordenatuan ematen ditu.
+            -   Ikuspegi pertsonal bat azaltzen du.
+            -   Bere esku-hartzeari buruzko galderei modu egokian erantzuten die.
+            -   Besteen esku-hartzeen inguruan iruzkin eta galdera egokiak egiten ditu.
+            -   Egoerari begira erregistro egokia erabiltzen du.
+            -   Elkarrekintzan zehar hizkuntza-aldaera egokitzen du.
+        -   **Arau soziokomunikatiboak errespetatzea**
+            -   Hizkuntza-moldeak errespetatzen ditu.
+            -   Besteen esku-hartzeak errespetatzen ditu.
+            -   Diskriminaziozko esaerak erabiltzea saihesten du.
+            -   Hitz egiteko txandak errespetatzen ditu.
+            -   Denboraren erabilera kontrolatzen du.
+            -   Adei-legea errespetatzen du
+        -   Komunikazioari eusteko eta haren eraginkortasuna areagotzeko estrategiak erabiltzea
+
+</small>
+
+## Adierazleak eta lortze-mailak:
+
+> (19) Ikaskuntzarako eta gizarte-harremanetarako (hau da, ikasgelan, ikastetxean eta ingurunean eguneroko bizitzan ohikoak diren) komunikazio-trukeetan modu aktibo eta egokian parte hartzea.
+
+Adierazleak:
+
+-   Naturaltasunez esku hartzen du eta aktiboki entzuten du.
+-   Komunikazio-egoeraren ezaugarriak kontuan izaten ditu.
+-   Informazioa eta azalpenak modu ordenatu eta egokian ematen ditu.
+
+2.  Arau soziokomunikatiboak errespetatzea.
+3.  Komunikazioari eusteko eta haren eraginkortasuna areagotzeko estrategiak erabiltzea.
+
+##  {.scrollable}
+
+<small>
+
+| Hasierako maila                                                                                                                                                                           | Erdi maila                                                                                                                                                                                                                                                                                                                                       | Maila aurreratua                                                                                                                                                                                                                                                                                                                                                                        |
+|-----------------|--------------------------|-----------------------------|
+| \+ Komunikazio-trukean arreta zailtasunez mantentzen du.<br> + Bere komunikazio-trukeetan inhibizioa agertzen du.<br> + Lagunduta, komunikazio-egoeraren ezaugarriak kontuan izaten ditu. | \+ Komunikazio-trukean arreta mantentzen du. <br> + Naturaltasunez, komunikazio-trukeak hasten eta mantentzen ditu. <br> + Komunikazio-egoeraren ezaugarriak kontuan izaten ditu. <br> + Solaskidearen aurrean erantzuna modu nahiko eraginkorrean egokitzen du.<br> + Hizkuntza-aldaera modu nahiko eraginkorrean egokitzen du elkarrekintzara. | \+ Komunikazio-trukean arreta mantentzen eta esku hartzen du.<br> + Naturaltasunez eta modu eraginkorrean, komunikazio-trukeak hasten eta mantentzen ditu.<br> + Komunikazio-egoeraren ezaugarrietara modu eraginkorrean egokitzen da.<br> + Erregistro egokia erabiltzen du.<br> + Solaskidearen aurrean erantzuna egokitzen du.<br> + Hizkuntza-aldaera elkarrekintzara egokitzen du. |
+
+</small>
+
+# Azkenik {background-color="darkred"}
+
+::: callout-warning
+### Gaiari kolpetzeko aitzakia bila
+
+-   20 minutuko berbaldi bati zelan ekin gaiaz?
+-   Nork? Nori? Zergatik? Zertarako?
+
+**Zerrendatu bost egoera eta justifikatu zentzua**
+:::
+
+::: footer
+azken ariketa
+:::
+
+## Langai {.scrollable}
+
+-   Hezkuntzaren lau pilareak.
+-   Bizi guztiko ikasketa.
+-   Zer eta zein dira oinarrizko konpetentziak?
+-   Zer ezaugarri izan behar dituzte oinarrizko konpetentziek?
+-   Oinarrizko konpetentzia bat: hizkuntza-komunikaziorako konpetentzia.
+-   Zer da konpetentzia hori?
+-   Zer ezaugarri edo osagai ditu?
+-   Konpetentzia hori, Euskal Herriko hizkuntzen markoan nola gauzatzen da?
+
+**Azter-materiala**:
+
+<small> "Delors txostena"
+
+Hezkuntza, Unibertsitate eta Ikerketa Saila (2016). *Haur hezkuntzarako, lehen eta bigarren hezkuntzarako eta batxilergorako dekretu kurrikularrak Euskal Autonomia Erkidegoan*. Vitoria-Gasteiz: EJAZN
+
+Larrea, K.; Maia, J. (2010). *Galdera-erantzun batzuk hizkuntzaren didaktikaz*. UPV-EHU. Argitalpen elektronikoa: In http://testubiltegia.ehu.es/Galde-erantzun-hizkuntz-didaktika
+
+Europako Kontseilua. *Oinarrizko konpetentziak (key competences)*: http://europa.eu/legislation_summaries/education_training_youth/lifelong_learning/c11090_es.htm (ikusi zein diren oinarrizko konpetentziak eta haien azalpena)
+
+*Hizkuntzen Europako erreferentzia marko Bateratua (hizkuntza-komunikaziorako konpetentziak)* (5. kapituluan gaitasunaren osagaiak ageri dira)
+
+Ruiz Bikandi, Uri (2010). *Bigarren hizkuntzaren didaktika Haur eta Lehen Hezkuntzan.* Bilbo: UPV-EHUAZN (4. kapitulua: 103-132 or.) </small>
+
+::: footer
+azken ariketarako orientabidetzat
+:::

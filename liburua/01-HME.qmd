@@ -174,3 +174,23 @@ Dosierra proposatzen da aztertutako hizkuntzetan aritzeko gaitasunaren erakusgar
     Ikasleek, banaka edo bikoteetan, HEEEB maila bat aukeratu eta horri buruzko poster bat sortuko dute.
 -   Norberaren HPE:\
     Ikasleek beraien HPE propioa sortuko dute, hizkuntza ikaskuntza ibilbidea eta hizkuntza gaitasunak islatuz. [Etxerako lana]{style="color: darkred"}
+
+::: callout-tip
+## Gehiago jakiteko eta aztertzeko
+
+[@alariotriguerosNireLehenPortfolioa2000; @europakokontseiluaNireDosierraHizkuntzen2004; @europakokontseiluaNireHizkuntzeabiografiaHizkuntzen2004; @europakokontseiluaNireHizkuntzenPasaportea2004; @beaccoLanguageDimensionAll2016; @nafarroakogobernua.hizkuntzadepartamentuaPortfolioaNafarroanHastapenak2004]
+
+Alario Trigueros, M. del C., Alonso Ramirez, M. de la C., Gomez Romero, M. B., & Robledo Ortega, M. A. (2000). Nire lehen portfolioa. Gida Didaktikoa (Hezkuntza, Unibertsitate eta Ikerketa Saila, Itzul.). Europako Kontseilua. https://www.euskadi.eus/contenidos/documentacion/inn_doc_lenguas/eu_def/adjuntos/500004e_Pub_MEC_Portfolioa_02_e.pdf
+
+Beacco, J.-C., Fleming, M., Goullier, F., Thürmann, E., Vollmer, H., & Sheils, J. (2016). The language dimension in all subjects: A handbook for curriculum development and teacher training. Council of Europe Publishing. https://rm.coe.int/a-handbook-for-curriculum-development-and-teacher-training-the-languag/16806af387
+
+Bleichenbacher, L., Goullier, F., Rossner, R., Sura, A., Andrade, A., Candelier, M., de Carlo, M., Diederich, C., Kuster, W., & Vollmer, H. (2019). Teacher competences for languages in education: Conclusions of the project. https://www.ecml.at/Portals/1/5MTP/Bleichenbacher/CEFRLT-conclusions-EN.pdf?ver=2019-11-29-150323-533
+
+Europako Kontseilua. (2004a). Nire dosierra. Hizkuntzen Portfolio Europarra. Lehen Hezkuntza (8-12 urte). Egiaztatutako eredua: Nº 51.2003 zk. (euskara). Ministerio de Educación y Cultura (Esp). http://eibz.educacion.navarra.es/baliabideak/portfolioa/cda/doc/cap_I/portfolios/primaria/pel_primaria_biografia_eusk.pdf
+
+Europako Kontseilua. (2004b). Nire hizkuntzea-biografia. Hizkuntzen Portfolio Europarra. Lehen Hezkuntza (8-12 urte). Egiaztatutako eredua: Nº 51.2003 zk. (euskara). Ministerio de Educación y Cultura (Esp). http://eibz.educacion.navarra.es/baliabideak/portfolioa/cda/doc/cap_I/portfolios/primaria/pel_primaria_biografia_eusk.pdf
+
+Europako Kontseilua. (2004c). Nire hizkuntzen pasaportea. Hizkuntzen Portfolio Europarra. Lehen Hezkuntza (8-12 urte). Egiaztatutako eredua: Nº 51.2003 zk. (euskara). Ministerio de Educación y Cultura (Esp). http://eibz.educacion.navarra.es/baliabideak/portfolioa/cda/doc/cap_I/portfolios/primaria/pel_primaria_dossier_eusk.pdf
+
+Nafarroako Gobernua. Hizkuntza Departamentua. (2004). Portfolioa Nafarroan: Hastapenak / Fundamentos. Portfolioa Nafarroan: Hastapenak / Fundamentos. http://eibz.educacion.navarra.es/baliabideak/portfolioa/cda/doc/e/kap_01.html
+:::
