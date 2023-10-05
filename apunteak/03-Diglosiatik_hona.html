@@ -82,6 +82,10 @@ div.csl-indent {
     "search-label": "Aurkitu"
   }
 }</script>
+<script src="site_libs/htmlwidgets-1.6.2/htmlwidgets.js"></script>
+<script src="site_libs/viz-1.8.2/viz.js"></script>
+<link href="site_libs/DiagrammeR-styles-0.2/styles.css" rel="stylesheet">
+<script src="site_libs/grViz-binding-1.0.10/grViz.js"></script>
 
 
 </head>
@@ -237,6 +241,27 @@ div.csl-indent {
   <ul class="collapse">
   <li><a href="#landuko-diren-zenbait-puntu" id="toc-landuko-diren-zenbait-puntu" class="nav-link" data-scroll-target="#landuko-diren-zenbait-puntu"><span class="header-section-number">3.1.1</span> Landuko diren zenbait puntu</a></li>
   </ul></li>
+  <li><a href="#azken-50-urtean-elebakartasunetik-elebitasunerako-bidea." id="toc-azken-50-urtean-elebakartasunetik-elebitasunerako-bidea." class="nav-link" data-scroll-target="#azken-50-urtean-elebakartasunetik-elebitasunerako-bidea."><span class="header-section-number">3.2</span> Azken 50 urtean <br><small>Elebakartasunetik elebitasunerako bidea.</small></a>
+  <ul class="collapse">
+  <li><a href="#zenbakietatik-beha" id="toc-zenbakietatik-beha" class="nav-link" data-scroll-target="#zenbakietatik-beha"><span class="header-section-number">3.2.1</span> Zenbakietatik beha</a></li>
+  </ul></li>
+  <li><a href="#aldaketa" id="toc-aldaketa" class="nav-link" data-scroll-target="#aldaketa"><span class="header-section-number">3.3</span> Aldaketa</a>
+  <ul class="collapse">
+  <li><a href="#labur" id="toc-labur" class="nav-link" data-scroll-target="#labur">Labur</a></li>
+  </ul></li>
+  <li><a href="#egoera-berria" id="toc-egoera-berria" class="nav-link" data-scroll-target="#egoera-berria"><span class="header-section-number">3.4</span> Egoera berria</a>
+  <ul class="collapse">
+  <li><a href="#eleaniztasuna-eta-kulturartekotasuna" id="toc-eleaniztasuna-eta-kulturartekotasuna" class="nav-link" data-scroll-target="#eleaniztasuna-eta-kulturartekotasuna"><span class="header-section-number">3.4.1</span> Eleaniztasuna eta kulturartekotasuna</a></li>
+  <li><a href="#zer-panorama-dugu-eta-zer-egin-dezakeegin-behar-du-eskolak" id="toc-zer-panorama-dugu-eta-zer-egin-dezakeegin-behar-du-eskolak" class="nav-link" data-scroll-target="#zer-panorama-dugu-eta-zer-egin-dezakeegin-behar-du-eskolak"><span class="header-section-number">3.4.2</span> Zer panorama dugu eta zer egin dezake/egin behar du eskolak?</a></li>
+  </ul></li>
+  <li><a href="#ekarpenak" id="toc-ekarpenak" class="nav-link" data-scroll-target="#ekarpenak"><span class="header-section-number">3.5</span> Ekarpenak</a>
+  <ul class="collapse">
+  <li><a href="#hizkuntzalaritza-tradizionaletik" id="toc-hizkuntzalaritza-tradizionaletik" class="nav-link" data-scroll-target="#hizkuntzalaritza-tradizionaletik"><span class="header-section-number">3.5.1</span> Hizkuntzalaritza “tradizionaletik”:</a></li>
+  <li><a href="#soziolinguistika" id="toc-soziolinguistika" class="nav-link" data-scroll-target="#soziolinguistika"><span class="header-section-number">3.5.2</span> Soziolinguistika</a></li>
+  <li><a href="#psikolinguistika" id="toc-psikolinguistika" class="nav-link" data-scroll-target="#psikolinguistika"><span class="header-section-number">3.5.3</span> Psikolinguistika</a></li>
+  <li><a href="#hizkuntzaren-didaktika" id="toc-hizkuntzaren-didaktika" class="nav-link" data-scroll-target="#hizkuntzaren-didaktika"><span class="header-section-number">3.5.4</span> Hizkuntzaren didaktika</a></li>
+  </ul></li>
+  <li><a href="#laburpena" id="toc-laburpena" class="nav-link" data-scroll-target="#laburpena"><span class="header-section-number">3.6</span> Laburpena</a></li>
   </ul>
 </nav>
     </div>
@@ -260,7 +285,7 @@ div.csl-indent {
 
 </header>
 
-<p>Baliabideak: <span class="citation" data-cites="maiaHezkuntzaElebidunaEuskal2014 diazdegerenulasagaEuskaraOinarriEta2021 larranagaHezkuntzaEleaniztunaPrograma2005 cumminsLanguagePowerPedagogy2000 cumminsHipotesisInterdependencia252005 debotBilingualProductionModel1992">(<a href="references.html#ref-cumminsLanguagePowerPedagogy2000" role="doc-biblioref">Cummins, 2000</a>, <a href="references.html#ref-cumminsHipotesisInterdependencia252005" role="doc-biblioref">2005</a>; <a href="references.html#ref-debotBilingualProductionModel1992" role="doc-biblioref">De Bot, 1992</a>; <a href="references.html#ref-diazdegerenulasagaEuskaraOinarriEta2021" role="doc-biblioref">Diaz de Gereñu Lasaga et al., 2021</a>; <a href="references.html#ref-larranagaHezkuntzaEleaniztunaPrograma2005" role="doc-biblioref">Larrañaga et al., 2005</a>; <a href="references.html#ref-maiaHezkuntzaElebidunaEuskal2014" role="doc-biblioref">Maia, 2014</a>)</span></p>
+<p>Baliabideak: <span class="citation" data-cites="maiaHezkuntzaElebidunaEuskal2014 diazdegerenulasagaEuskaraOinarriEta2021 larranagaHezkuntzaEleaniztunaPrograma2005 cumminsLanguagePowerPedagogy2000 cumminsHipotesisInterdependencia252005 debotBilingualProductionModel1992">(<a href="references.html#ref-cumminsLanguagePowerPedagogy2000" role="doc-biblioref">Cummins, 2000</a>, <a href="references.html#ref-cumminsHipotesisInterdependencia252005" role="doc-biblioref">2005</a>; <a href="references.html#ref-debotBilingualProductionModel1992" role="doc-biblioref">De Bot, 1992</a>; <a href="references.html#ref-diazdegerenulasagaEuskaraOinarriEta2021" role="doc-biblioref">Diaz de Gereñu Lasaga et al., 2021</a>; <a href="references.html#ref-larranagaHezkuntzaEleaniztunaPrograma2005" role="doc-biblioref">Larrañaga et al., 2005</a>; <a href="references.html#ref-maiaHezkuntzaElebidunaEuskal2014" role="doc-biblioref">Maia, 2014</a>)</span> <a href="../diapoak/03-Eleaniztasunaren_trataeraren_eraikuntza.html">*</a></p>
 <p>Euskal hezkuntza sistemaren eleaniztasunaren historia eta oinarri teorikoak aztertzen dira. Ikasleek euskal hezkuntza sistemaren errealitatean hizkuntza erabilpenaren eta gizartearen eraginaren analisia egiten dute.</p>
 <p>Diglosia eta eleaniztasunaren azterketa: Ikasleek, talde txikietan, euskal hezkuntza sistemaren errealitatean diglosia eta eleaniztasunaren arteko aldeak aztertuko dituzte. Euskal hezkuntza sistemako hizkuntza ereduak: Ikasleek, talde txikietan, euskal hezkuntza sistemako hizkuntza eredu bat aukeratu eta horri buruzko azterketa txostena idatziko dute.</p>
 <section id="sarrera" class="level2" data-number="3.1">
@@ -282,12 +307,760 @@ div.csl-indent {
 </ul></li>
 <li><p>Hizkuntzaren Erabilpena eta Gizartearen Eragina</p></li>
 </ul>
+<hr>
+<ul>
+<li>Euskal Herriko Hezkuntza sisteman, elebitasunetik eleaniztasunera: gaur egungo egoera berriaren ezaugarriak eta norabideak.</li>
+<li>Eleaniztasuna eskolan: hiru/lau hizkuntza helburu (hezkuntza marko hirueleduna/ikastolen proiektua)</li>
+<li>Geletan hainbat hizkuntza (hizkuntza gehiago jendartean)</li>
+<li>Eskolan zer egin eta zergatik, hizkuntzak kudeatzeko: ikastetxearen hizkuntza proiektua.</li>
+</ul>
+<p>Gaiari kolpetzeko, zalantza batzuri argitzeko bidea estauko diegu:</p>
+<ul>
+<li>Elebakartasunetik eleaniztasunera: zer iradokitzen dizu horrek EHn gaur egun?</li>
+<li>Jendartea aldatzen ari bide da hizkuntza-kontuetan. Zertan nabaritzen da hori eskoletan? (konparatu beste belaunaldi batzuetako eskolarekin)</li>
+<li>Hizkuntzei dagokienez, zer alde dago oraingo eskolen eta lehenagokoen artean? Irakasle batek zer aurkitzen du hizkuntzen kontuan ikasgela “estandar” batean?</li>
+<li>Gogoeta-gai honetan sakontzeko, pentsatu zeuen (hurbileko) esperientzian:
+<ul>
+<li>ikasle bezala txikitan nolako “panorama” zenuten gelan edo/eta ikastetxean?</li>
+<li>orain irakasle-gai gisa praktiketan egon zaretenean, zer “panorama” ikusi dugu?</li>
+<li>Gainera, bildu informazioa taldean, zeuen gurasoei eta aitita-amamen denboraz.</li>
+</ul></li>
+<li>Zer ondorio ateratzen dugu konparazioa eginez?</li>
+<li>Zer eskatzen zaio EHko eskola-instituzioari gaur egun hizkuntza kontuetan? Zer helburu ezartzen zaizkio? Zeri jarri behar dio arreta, orain dela 20 urte jartzen ez ziona?</li>
+<li>Eskatzen zaiona, zer arrazoiri erantzuteko eskatzen zaio eskolari?</li>
+<li>Zer norabidetan abiatuko gara gaurko egoerari erantzuteko? Norantz joanen gara?</li>
+<li>Zer orientabide ditugu norabide berriak lantzeko?
+<ul>
+<li>linguistikoak</li>
+<li>soziolinguistikoak</li>
+<li>psikolinguistikoak</li>
+<li>hizkuntzaren didaktikaz</li>
+</ul></li>
+</ul>
+<p>Zalantzon argigarri, gai honetan honako bidea proposatzen da:</p>
+<ol type="1">
+<li>Azken 50 urte honetako norabidea</li>
+<li>Gaur egungo egoera</li>
+<li>Zertan aldatu da gaurko egoera?</li>
+<li>Zer eskatzen zaio eskolari hizkuntza-kontuetan?</li>
+<li>Egoerari erantzuteko, alor desberdinetatik ekarpenak
+<ul>
+<li>Hizkuntzalaritza</li>
+<li>Soziolinguistika</li>
+<li>Psikolinguistika</li>
+<li>Hizkuntzaren didaktika<br>
+</li>
+</ul></li>
+<li>Zer ekimen ageri dira Euskal Herrian egoerari erantzuteko?</li>
+</ol>
+</section>
+</section>
+<section id="azken-50-urtean-elebakartasunetik-elebitasunerako-bidea." class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="azken-50-urtean-elebakartasunetik-elebitasunerako-bidea."><span class="header-section-number">3.2</span> Azken 50 urtean <br><small>Elebakartasunetik elebitasunerako bidea.</small></h2>
+<dl>
+<dt>1965\</dt>
+<dd>
+Hego Euskal Herrian: eskolan gaztelania (ikastolak orduantxe hasten). Telebista hasita 10 bat urte. : Hezkuntza sistemaren helburua, gaztelania ikas-irakastea (atzerriko hizkuntzari arreta handirik ez)
+</dd>
+</dl>
+<p>Irakasle euskaldunak sisteman:</p>
+<dl>
+<dt>1976</dt>
+<dd>
+<p>Baskongadetan, %5 baino gutxiago (Siadeco-Euskaltzaindia 1979: 171; Zalbide 2010: 115)</p>
+</dd>
+<dt>1993</dt>
+<dd>
+<p>Internet Euskal Herrian hasi, gutxi gora beherakoa (Urberuaga 2001)</p>
+</dd>
+<dt>1995:</dt>
+<dd>
+<p>EAEn <strong>aukera</strong> eskolan gaztelania eta euskara parean izateko (+ kontaktu gutxi atzerriko hizkuntzarekin)</p>
+</dd>
+<dd>
+<p>NFKn: aukera mugatua gaztelania eta euskara maila berean ikasteko (+ kontaktu gutxi atzerriko hizkuntzarekin)</p>
+</dd>
+<dd>
+<p>Iparraldean: eskolan gehiena frantsesa, euskara poliki sartzen</p>
+</dd>
+</dl>
+<p><strong>Sistemaren helburua</strong></p>
+<p>Hegoaldean: euskara eta gaztelania ikas-irakastea (Nafarroan mugatua) (eta atzerriko hizkuntzarekiko arreta handitzen)</p>
+<p>Iparraldean: aukera mugatua euskaraz ere ikas-irakasteko (atzerriko hizkuntzarekiko arreta handitzen)</p>
+<p><strong>Irakasle euskaldunak sisteman, EAEn:</strong></p>
+<p>2006-2007: EAEn “irakasleen ia hiru laurdenak” EGA edo HE2dunak dira (publikoa eta pribatua)<br>
+EAEn beste %6k badu HE1 (publikoa eta pribatua) (Zalbide 2010:113) Publikoan: “ehuneko laurogei baino gehiago” (Zalbide 2010: 115)</p>
+<p>Zalbide (2010): Euskararen legeak hogeita bost urte. Eskola alorreko bilakaera: balioespen-saioa. Bilbo: Euskaltzaindia</p>
+<dl>
+<dt>2014</dt>
+<dd>
+<p>Internet Euskal Herrian hainbat etxetan (ikus datu batzuk Eurostat-en)</p>
+</dd>
+<dd>
+<p><strong>EAE</strong>n, eskolan gaztelania eta euskara aukeran, parean (helburu gisa) eta ingelesa gero eta gehiago (askoz ere kontaktu gehiago hizkuntza horrekin, interneten bidez batez ere)</p>
+</dd>
+<dd>
+<p><strong>NFK</strong>n, eskolan gaztelania eta euskara aukeran, parean (helburu gisa) lurraldearen zati batean, eta ingelesa gero eta gehiago (askoz ere kontaktu gehiago hizkuntza horrekin, interneten bidez batez ere)</p>
+</dd>
+<dd>
+<p><strong>Iparraldean</strong>, eskolan frantsesa eta euskara ikas-irakasteko aukera handitzen ari da (datuak non? “Euskararen Erakunde Publikoa” delakoan begiratu).</p>
+</dd>
+</dl>
+<p><strong>Sistemaren helburua</strong></p>
+<p>Hegoaldean: euskara eta gaztelania ikas-irakastea komunikazio maila onean, eta atzerriko hizkuntza modu “funtzionalean” (ikus curriculum dekretua)</p>
+<p>Iparraldean: frantsesa eta euskara irakastea (eta atzerriko hizkuntza ere bai)</p>
+<section id="zenbakietatik-beha" class="level3" data-number="3.2.1">
+<h3 data-number="3.2.1" class="anchored" data-anchor-id="zenbakietatik-beha"><span class="header-section-number">3.2.1</span> Zenbakietatik beha</h3>
+<p>Ikasleak: EAEko matrikula datuak 1982-1983ko datuak gutxi gorabeherakoak dira (iturria: Zalbide 2010)</p>
+<table class="table">
+<colgroup>
+<col style="width: 6%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+<col style="width: 7%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th><strong>1982-1983</strong></th>
+<th><strong>2000–2001</strong></th>
+<th><strong>2001–2002</strong></th>
+<th><strong>2002–2003</strong></th>
+<th><strong>2003–2004</strong></th>
+<th><strong>2004–2005</strong></th>
+<th><strong>2005–2006</strong></th>
+<th><strong>2006–2007</strong></th>
+<th><strong>2007–2008</strong></th>
+<th><strong>2008–2009</strong></th>
+<th><strong>2009–2010</strong></th>
+<th><strong>2010–2011</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>A eredua</strong></td>
+<td>A+X= %80</td>
+<td>119.954 (%37)</td>
+<td>114.219 (%36)</td>
+<td>109.945 (%34)</td>
+<td>107.698 (%33)</td>
+<td>103.979 (%32)</td>
+<td>99.862 (%30)</td>
+<td>95.902 (%28)</td>
+<td>93.426 (%27)</td>
+<td>92.569 (%26)</td>
+<td>93.591 (%25)</td>
+<td>92.332 (%24.5)</td>
+</tr>
+<tr class="even">
+<td><strong>B eredua</strong></td>
+<td>%8</td>
+<td>67.838 (%21)</td>
+<td>66.932 (%21)</td>
+<td>67.205 (%21)</td>
+<td>67.967 (%21)</td>
+<td>69.941 (%21)</td>
+<td>71.284 (%21)</td>
+<td>72.479 (%21)</td>
+<td>74.077 (%21)</td>
+<td>75.274 (%21)</td>
+<td>75.813 (%21)</td>
+<td>75.301 (%20)</td>
+</tr>
+<tr class="odd">
+<td><strong>D eredua</strong></td>
+<td>%12</td>
+<td>132.735 (%41)</td>
+<td>136.092 (%43)</td>
+<td>139.849 (%44)</td>
+<td>145.783 (%45)</td>
+<td>154.164 (%47)</td>
+<td>163.054 (%49)</td>
+<td>171.154 (%50)</td>
+<td>179.076 (%51)</td>
+<td>187.543 (%52)</td>
+<td>196.140 (%53)</td>
+<td>205.774 (%55)</td>
+</tr>
+<tr class="even">
+<td><strong>X eredua</strong></td>
+<td></td>
+<td>1.950 (%1)</td>
+<td>1.963 (%1)</td>
+<td>1.898 (%1)</td>
+<td>1.882 (%1)</td>
+<td>1.863 (%1)</td>
+<td>1.846 (%1)</td>
+<td>1.900 (%1)</td>
+<td>1.947 (%1)</td>
+<td>1.993 (%1)</td>
+<td>2.013 (%1)</td>
+<td>2.006 (%0.5)</td>
+</tr>
+</tbody>
+</table>
+<p>Iturria: EUSTAT; Zalbide 2010</p>
+<section id="datuak-eta-ariketak" class="level4" data-number="3.2.1.1">
+<h4 data-number="3.2.1.1" class="anchored" data-anchor-id="datuak-eta-ariketak"><span class="header-section-number">3.2.1.1</span> Datuak eta ariketak</h4>
+<p>Gaur eguneraino zuon eskutik iritsiko gara, horretarako segidan ematen diren datuok hiru ariketeren bitartez osatu behar dituzue:</p>
+<section id="hezkuntza-elebiduna-euskadiko-autonomia-erkidegoan-eaen." class="level5 unnumbered">
+<h5 class="unnumbered anchored" data-anchor-id="hezkuntza-elebiduna-euskadiko-autonomia-erkidegoan-eaen.">Hezkuntza elebiduna Euskadiko Autonomia Erkidegoan (EAEn).</h5>
+<p>Ereduen onarpena jendartean: matrikulazioaren bilakaera</p>
+<table class="table">
+<colgroup>
+<col style="width: 10%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 8%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th><strong>2000/2001</strong></th>
+<th><strong>2002/2003</strong></th>
+<th><strong>2004/2005</strong></th>
+<th><strong>2006/2007</strong></th>
+<th><strong>2008/2009</strong></th>
+<th><strong>2010/2011</strong></th>
+<th><strong>2013/2014</strong></th>
+<th>2019/2020</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>A eredua</strong></td>
+<td>119.954 (%37)</td>
+<td>109.945 (%34)</td>
+<td>103.979 (%32)</td>
+<td>95.902 (%28)</td>
+<td>92.569(%26)</td>
+<td>92.332 (% 25)</td>
+<td><strong>???</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>B eredua</strong></td>
+<td>67.838 (%21)</td>
+<td>67.205 (%21)</td>
+<td>69.941 (%21)</td>
+<td>72.479 (%21)</td>
+<td>75.274 (%21)</td>
+<td>75.301 (20%)</td>
+<td><strong>???</strong></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>D eredua</strong></td>
+<td>132.735 (%41)</td>
+<td>139.849 (%44)</td>
+<td>154.164 (%47)</td>
+<td>171.154 (%50)</td>
+<td>187.543 (%52)</td>
+<td>205.774 (%55)</td>
+<td><strong>???</strong></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>X eredua</strong></td>
+<td>1.950 (%1)</td>
+<td>1.898 (%1)</td>
+<td>1.863 (%1)</td>
+<td>1.900 (%1)</td>
+<td>1.993 (%1)</td>
+<td>2.006 (0,5%)</td>
+<td><strong>???</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Ikasleen matrikulazioaren bilakaera unibertsitatez besteko irakasmailetan, hezkuntza ereduen arabera (2000-2010-…). Iturria: EUSTAT</p>
+<pre><code>Ariketa: aurkitu azken hamar urteetako datuak (2013-2014, 2015-2016, 2017-2018, 2018-2019, 2019-2020, ikasturtekoak, adibidez)</code></pre>
+<p>Ariketa (1) egiteko tokia <a href="https://ethercalc.net/dryssi08679b">hau</a> da</p>
+</section>
+</section>
+<section id="hezkuntza-elebiduna-euskadiko-autonomia-erkidegoan-eaen.-1" class="level4 unnumbered">
+<h4 class="unnumbered anchored" data-anchor-id="hezkuntza-elebiduna-euskadiko-autonomia-erkidegoan-eaen.-1">Hezkuntza elebiduna Euskadiko Autonomia Erkidegoan (EAEn).</h4>
+<p>Joera norantz doan ikusteko, bilatu datuak beheko koadroa osatzeko:</p>
+<table class="table">
+<colgroup>
+<col style="width: 38%">
+<col style="width: 17%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+<col style="width: 11%">
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>2014-2015 ikasturtea.</strong></th>
+<th><strong>Ikasleak guztira</strong></th>
+<th><strong>A eredua</strong></th>
+<th><strong>B eredua</strong></th>
+<th><strong>D eredua</strong></th>
+<th><strong>X eredua</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Haur Hezkuntza</strong> <strong>(2-6 urte)</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Lehen Hezkuntza</strong> <strong>(6-12 urte)</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>Nahitaezko Bigarren Hezkuntza (12-16 urte)</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>Nahitaezko hezkuntza mailetako matrikula guztiak, EAEn (2019-2020 ikasturtea)</p>
+<section id="eaeko-eskolen-hizkuntz-ereduen-gainetiko-azterketa" class="level5 unnumbered">
+<h5 class="unnumbered anchored" data-anchor-id="eaeko-eskolen-hizkuntz-ereduen-gainetiko-azterketa">EAEko eskolen hizkuntz ereduen gainetiko azterketa</h5>
+<p>Zuon taldeko gehienak nongoak diren, inguru horretako lan eskaintzaren azterketa egingo dugu. Horretarako, baskongadetakoak zaretela pentsaturik, hurrengo <a href="https://www.euskadi.eus/onarpena-haur-lehen-eta-derrigorrezko-bigarren-hezkuntza/web01-a2hikast/eu/">web orrian</a> aurkitu behar duzu “dagokizuen” herrialdeko eskolen sailkapena eta horren azterketa egin behar duzue (joerari erreparatuta, lana ardaztuko dugu zuen titulazioak bideratzen zaituzten etapara begira).</p>
+<p>Azterketa labur hori egiteko dokumentua <strong>irakasleari eskatu</strong>.</p>
+</section>
+</section>
+</section>
+</section>
+<section id="aldaketa" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="aldaketa"><span class="header-section-number">3.3</span> Aldaketa</h2>
+<p>2.1. Faktore soziolinguistikoa:</p>
+<p>Beste itxaropen batzuk: jendearen hizkuntza-oharmena aldatzen? (Guasch, 2007) Immigrazioa (Afrikatik, Ekialdeko Europatik, Asiatik…): hizkuntza batzuk, ez dominanteak Bertoko hizkuntza indartu beharra (euskararen biziberritze prozesua)</p>
+<p>2.2. Faktore teknologikoa</p>
+<p>Ordenagailuaren erabilerak aldatu du idazketa prozesua mezu idatzi batzuk testuinguruari egokituak dira orain, ahozkora hurbildu dira (SMS,…) Ikasteko beste modu bat? Errealitatea hurrenez hurren barik, beste modu batean irudikatu?</p>
+<p>2.3. Faktore psikolinguistikoa</p>
+<p>Bi uste: Hizkuntzak erabiltzen ikas-irakatsi behar da; erabileraren bidez ikasten da, interakzioaren bidez Hiztun eleaniztunaren berezitasunak/ezaugarri bereziak</p>
+<ol start="2" type="1">
+<li>Eleaniztunen ezaugarriak (Guasch, 2007)</li>
+</ol>
+<ul>
+<li>Hizkuntzari buruzko jakintza handiagoa (hizkuntzen arteko konparazioa, itzulpen gaitasuna, bi kode txandaka erabiltzea…)</li>
+<li>Hizkuntza batean garaturiko jakintza batzuek hizkuntza guztietarako balio dute (azpiko gaitasun komun bat bakarra: Cummins, 1979)</li>
+<li>Ikuspegi psikolinguistiko desberdin batzuen arabera: hizkuntza berrietako gaitasunak (jakite berriak) erlazionatuta daude lehengo(ar)ekin (ez dira “paraleloki” garatzen, lehengoekin loturarik gabe)</li>
+<li>Bigarren hizkuntzan ikasiak birkontzeptualizazioa dakar, ez da lehen hizkuntzarako ikasiaren errepikatze hutsa; bigarren hizkuntzan ikasten denak aldatzen du hiztunaren jakintza linguistikoa</li>
+<li>Eta hortik etortzen da eleaniztunaren ezaugarri bereziena: haren oharmen linguistikoa (linguistic awareness, conciencia lingüística) eta trebetasun metalinguistikoak: hizkuntza gehiago kudeatu beharrak, arreta handiagoa eskatzen du eta trebetasun handiagoei ematen die bide.</li>
+</ul>
+<p>Cook, Vivian (AESLA, 2012): Elebidunen ezaugarri bereziak agertzen ditu</p>
+<blockquote class="blockquote">
+<p>…years suggests that they have unique characteristics, such as the following:</p>
+<ul>
+<li>L2 users think in slightly different ways from monolinguals</li>
+<li>L2 users use language in different ways from monolinguals</li>
+<li>L2 users have an increased awareness of language itself compared to monolinguals</li>
+<li>L2 users have a slightly different knowledge of their first language</li>
+<li>L2 users have different brain structures from monolinguals. (10-11 or.)</li>
+</ul>
+<p>– Cook, Vivian (2013): <em>The goals of language teaching in a globalised world</em> (Plenary Talk at AESLA May 2012). In Egile batzuk (2013): Actes del Congreso de AESLA, Lleida 2012: 9-14.</p>
+</blockquote>
+<section id="labur" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="labur">Labur</h3>
+<ul>
+<li>Eskoletan eta geletan, aniztasun handiagoa: ikasleek hizkuntza gehiago dakarte eskolara (immigrazioa, globalizazioa)</li>
+<li>Hizkuntzak jakiteaz, ideia berriak jendartean</li>
+<li>Hizkuntzaren erabilera berriak (teknologia berriak direla eta)</li>
+<li>Jendartearen itxaropen berriak hizkuntza-prestakuntzaz</li>
+<li>Eleaniztunen hizkuntza-jakintzei buruzko kontzepzio berriak</li>
+</ul>
+</section>
+</section>
+<section id="egoera-berria" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="egoera-berria"><span class="header-section-number">3.4</span> Egoera berria</h2>
+<p>Gelan heterogeneotasun handiagoa, ikasleen ezaugarri desberdinak</p>
+<p>Helburuak ikasle guztientzat berdinak:</p>
+<ul>
+<li>komunikazio gaitasuna handitzea</li>
+<li>hizkuntzaz gogoeta egiteko prozedurak lantzea</li>
+<li>jarrerak eta balioak</li>
+</ul>
+<p>Hizkuntzek erkide dutenari arreta</p>
+<p>Ondorioz: curriculumeko hizkuntzak ikuspegi global batetik landu beharra agertzen da, eta hizkuntza-prestakuntzako helburu konpartituak</p>
+<p>Koordinazioaren beharra:</p>
+<p>Hizkuntzak lantzeko orduan Beste edukiak lantzeko orduan (hizkuntza ere lantzen da)</p>
+<p>Gelan hizkuntza gehiagoko ikasleak: zer egin hizkuntza horiekin</p>
+<p>Helburuetan:</p>
+<p><strong>Euskara</strong>: hizkuntza ofizialaren tratamendua, gaztelaniaren pare: “autonomiaz eta sormenaz”</p>
+<p><strong>Gaztelania</strong>: hizkuntza ofizialaren tratamendua: “autonomiaz eta sormenaz”</p>
+<p><strong>Atzerriko hizkuntza</strong> bat (gehienetan ingelesa): “oinarrizko autonomiaz”</p>
+<p><strong>Immigrazioko hizkuntzak</strong> zer? helbururik?</p>
+<p>Hizkuntza ez ofizialetan:</p>
+<ul>
+<li>Ikas-helburuduna: atzerriko hizkuntza (prestigioduna)</li>
+<li>Ikas-helburu zehatzik gabeak: immigraziokoak (prestigiorik?)</li>
+</ul>
+<p>Elebitasun kengarriko egoera?</p>
+<p>Kontuan hartu: hizkuntzen egoerak desberdinak jendartean, prestigioz eta hiztunez, eta horrek ondorioak (zer helburu jartzen den, halako bidea egin behar).</p>
+<section id="eleaniztasuna-eta-kulturartekotasuna" class="level3" data-number="3.4.1">
+<h3 data-number="3.4.1" class="anchored" data-anchor-id="eleaniztasuna-eta-kulturartekotasuna"><span class="header-section-number">3.4.1</span> Eleaniztasuna eta kulturartekotasuna</h3>
+<p><strong>Lingua franca delakoen beharra</strong> Mundu mailan nazioarteko harremanak oso ugari: komunikazio bideak errazago (fisikoki eta birtualki) Mundua oso elkar-lotua (globalizazioa) Nazioarteko komunikazioa nola gauzatu? Lingua francak behar dira. Zein? Eleaniztasunaren eta eleaniztunaren kontzeptuak (Europako Kontseiluaren ikuspegia: 1+2)</p>
+<p><strong>Europako Erreferentzia Marko Bateratuaren ikuspegia</strong></p>
+<section id="zalantza-batzuk" class="level4" data-number="3.4.1.1">
+<h4 data-number="3.4.1.1" class="anchored" data-anchor-id="zalantza-batzuk"><span class="header-section-number">3.4.1.1</span> Zalantza batzuk:</h4>
+<p>Zenbat hizkuntza <em>dakigu</em> gutako bakoitzak?<br>
+Zenbat hizkuntzatan komunikatzen gara? Zenbat hizkuntzatan dugu (nolabaiteko) hizkuntza-komunikaziorako konpetentzia?<br>
+Hizkuntza guztietan maila berean komunikatzen gara?<br>
+Zenbateraino gaude zapuztuak/frustratuak gure “hizkuntzak-ikasteko-ibilbidearekin”? Zergatik ote da?</p>
+</section>
+<section id="europako-erreferentzia-marko-bateratuaren-arabera" class="level4" data-number="3.4.1.2">
+<h4 data-number="3.4.1.2" class="anchored" data-anchor-id="europako-erreferentzia-marko-bateratuaren-arabera"><span class="header-section-number">3.4.1.2</span> Europako Erreferentzia Marko Bateratuaren arabera</h4>
+<p>Eleaniztasuna eta komunikazio konpetentzia haztea:</p>
+<blockquote class="blockquote">
+<p>Hizkuntza(k) konpetentzia maila handian erabiltzea vs hizkuntza(k) eta orotariko aldaerak komunikatzeko erabiltzea</p>
+</blockquote>
+<p>Ikuspegi aldaketa: “zatikako” hizkuntza-jakintzak ere balioetsi, baliozkotzat hartu; norberaren hizkuntza-errepertorioa handitu</p>
+<p>Konpetentzia hori garatzeko, bizitza guztia; ondorioz, inportantea da hizkuntzak ikasteko jarrera</p>
+<p>Hizkuntzak eta kulturak ugariago gure jendartean<br>
+Jendartean hizkuntza-aniztasuna eta kultura-aniztasuna<br>
+Eskolan ere hizkuntza eta kultura anitz; hori nola kudeatu?<br>
+Kulturartekotasuna: zer da?<br>
+Zer egin daiteke hezkuntza sisteman? Zer baliabide dugu? Non aurki daiteke informazioa?<br>
+Galdera: non bilatu ahal dugun informazioa? Besteak beste, hurrengoetan</p>
+<ul>
+<li>http://www.hezkuntza.ejgv.euskadi.net/r43-2459/eu/contenidos/informacion/dif8/eu_2083/f8_e.html<br>
+</li>
+<li>http://www.hezkuntza.ejgv.euskadi.net/r43-5473/eu/contenidos/informacion/dif8/eu_2083/documentos_acogida_inmigrantes_e.html</li>
+</ul>
+</section>
+</section>
+<section id="zer-panorama-dugu-eta-zer-egin-dezakeegin-behar-du-eskolak" class="level3" data-number="3.4.2">
+<h3 data-number="3.4.2" class="anchored" data-anchor-id="zer-panorama-dugu-eta-zer-egin-dezakeegin-behar-du-eskolak"><span class="header-section-number">3.4.2</span> Zer panorama dugu eta zer egin dezake/egin behar du eskolak?</h3>
+<p>Egoera berriaren ardatz soziolinguistiko nagusiak eta eskolaren zeregina:</p>
+<ul>
+<li>Euskararen biziberritze prozesuan eragin (elebitasuna hedatzen)</li>
+<li>Komunikazio zabaleko hizkuntza jakin nahi da (ingelesa?): hirueletasuna nahi da, eta bide horretan egiten ari diren ahaleginak (Jaurlaritzak eta Ikastolen Elkarteak)</li>
+<li>Hainbat hizkuntza desberdin, immigrazioaren bidez batez ere. Zer egin horiekin?</li>
+</ul>
+<p>Jaurlaritzak dituen zerbitzuen berri jakin: harrera plana, eta bestelako baliabideak komunikazio maila gutxieneko bat lortzeko (jaurlaritzaren web orriak arakatu)</p>
+</section>
+</section>
+<section id="ekarpenak" class="level2" data-number="3.5">
+<h2 data-number="3.5" class="anchored" data-anchor-id="ekarpenak"><span class="header-section-number">3.5</span> Ekarpenak</h2>
+<p>Lau ardatz nagusitako ekarpenak ditu hezkuntza eleanitzaren ikuskerak:</p>
+<ul>
+<li>Linguistika</li>
+<li>Soziolinguistika</li>
+<li>Psikolinguistika</li>
+<li>Hizkuntzaren didaktika</li>
+</ul>
+<section id="hizkuntzalaritza-tradizionaletik" class="level3" data-number="3.5.1">
+<h3 data-number="3.5.1" class="anchored" data-anchor-id="hizkuntzalaritza-tradizionaletik"><span class="header-section-number">3.5.1</span> Hizkuntzalaritza “tradizionaletik”:</h3>
+<p>Hizkuntza bakoitzaren ezaugarriak eta hizkuntzen arteko antz-aldeak. Zer erkide, zer desberdin, maila guztietan (ikus Europako Erreferentzia Marko Bateratuan, 5. atala):</p>
+<ul>
+<li>Fonetiko-fonologikoan</li>
+<li>Morfologikoan</li>
+<li>Sintaktikoan</li>
+<li>Lexiko-semantikoan</li>
+<li>Ortografikoan</li>
+<li>Ortoepikoan</li>
+</ul>
+<p>Ikuspegi “berriagoetatik”:</p>
+<ul>
+<li>Pragmatika: Hizkuntzaren azterketa testuinguruarekin lotua</li>
+<li>Diskurtsoaren analisia: hizkuntzazko jardunaren azterketa (ikus Galdera-erantzun batzuk hizkuntzaren didaktikaz)</li>
+<li>Testu-hizkuntzalaritza: perpausetik gorago; testuaren tasunak, testu-motak, haien ezaugarriak… Testu-motak eta erabilesparruak konbinatuta: testu-generoak</li>
+</ul>
+</section>
+<section id="soziolinguistika" class="level3" data-number="3.5.2">
+<h3 data-number="3.5.2" class="anchored" data-anchor-id="soziolinguistika"><span class="header-section-number">3.5.2</span> Soziolinguistika</h3>
+<p>Hizkuntzen egoera eta haien arteko harremanak, kontuan harturik:</p>
+<ul>
+<li>prestigioa (zer prestigio-maila?)</li>
+<li>estatusa (ofiziala? Ez ofiziala?)</li>
+<li>egoera legala (babesik bai? Zenbatekoa? Toki guztietan edo zati batean?)</li>
+<li>funtzioak (bizitza “ofizialekoak” bai? Hau da, irakaskuntza, komunikabideak, administrazioa…? edo bakarrik familian eta lagunartean?)</li>
+<li>erabilesparruak (ofizialetan bai edo ez? Zer mailatan?)</li>
+<li>hiztun kopurua (datu orokorrak behar dira, baina eskualdekako datuak ere garrantzitsuak)</li>
+</ul>
+<p>Euskararen egoera orokorrari buruz datu asko non aurki daiteke?</p>
+<p>Hezkuntza sisteman nolako helburuak ezartzen diren hizkuntzarentzat, eta nolako egoeran den hizkuntza, halako trataera antolatu beharko da.</p>
+</section>
+<section id="psikolinguistika" class="level3" data-number="3.5.3">
+<h3 data-number="3.5.3" class="anchored" data-anchor-id="psikolinguistika"><span class="header-section-number">3.5.3</span> Psikolinguistika</h3>
+<p>Kontzeptu garrantzitsu batzuk:</p>
+<ul>
+<li>elebidunaren konpetentzien irudikapena: SUP vs CUP</li>
+<li>interdependentziaren printzipioa, transferentziaren kontzeptua<br>
+</li>
+<li>atalase mailak eta ondorio kognitiboak</li>
+<li>elebitasun gehigarria eta elebitasun kengarria</li>
+<li>komunikazio arrunta vs komunikazio akademikoa</li>
+<li>hizkuntz-oharmena</li>
+<li>elebiduna ez da bi pertsona elebakar buru batean</li>
+<li>eleaniztunaren konpetentzien irudikapena: konpetentzia erkideak eta bestelakoak (Pascual 2006, …)</li>
+<li>eleaniztuntasunaren eredu dinamikoa (Herdina eta Jessner 2002)</li>
+</ul>
+<section id="interdependentziaren-printzipioa" class="level4" data-number="3.5.3.1">
+<h4 data-number="3.5.3.1" class="anchored" data-anchor-id="interdependentziaren-printzipioa"><span class="header-section-number">3.5.3.1</span> Interdependentziaren printzipioa:</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="assets/3/2-cup_cummings.png" class="img-fluid figure-img"></p>
 <figcaption class="figure-caption">Common underlying proficiency and linguistic interdependence principle</figcaption>
 </figure>
 </div>
+<p>D ereduan ikasita (oso ordu gutxi gaztelaniaz), nola esplika daiteke ikasleak gaztelaniaz gaitasun ona lortzea?</p>
+<p><em>Interdependentziaren printzipioak</em> esplika dezake hori, hizkuntza batean lorturiko gaitasunak bestera transferitu baitaitezke, baldintza jakin batzuk gertatuz gero:</p>
+<blockquote class="blockquote">
+<p>Eskolako jardunak H<sub>x</sub>-n egitea eraginkorra baldin bada H<sub>x</sub>-ko hizkuntza-gaitasuna garatzeko, gaitasun hori H<sub>y</sub>-ra transferituko da beti ere esposizio egokia gertatzen bada H<sub>y</sub>-n (eskolan edo ingurumenean) eta H<sub>y</sub> ikasteko motibazio egokia baldin bada</p>
+</blockquote>
+<p>Elebiduna ez da bi pertsona elebakarren batura (Grosjean 1989)</p>
+<p>Elebidunak ez ditu bere bi hizkuntzak paraleloki “antolatuak” bere burmuinean</p>
+<ul>
+<li>Atleten konparazioa:
+<ul>
+<li>100 metroko lasterkaria</li>
+<li>Altura-jauziko atleta</li>
+<li>110 metro-hesiduneko lasterkaria</li>
+</ul></li>
+<li>110 metro-hesiduneko lasterkaria, zer da?
+<ul>
+<li>Bigarren mailako atleta bat 100 metroko lasterketan?</li>
+<li>Bigarren mailako atleta bat altura-jauzian?</li>
+<li>Lehen mailako atleta bat bere espezialitatean? Alegia, 110 metro hesidunetan?</li>
+</ul></li>
+</ul>
+</section>
+<section id="elebitasunak-gehigarria-eta-kengarria" class="level4" data-number="3.5.3.2">
+<h4 data-number="3.5.3.2" class="anchored" data-anchor-id="elebitasunak-gehigarria-eta-kengarria"><span class="header-section-number">3.5.3.2</span> Elebitasunak: gehigarria eta kengarria</h4>
+<p>Elebitasun gehigarrian: hiztuna bigarren hizkuntzarekin kontaktuan hasten denean, bigarren hizkuntzan lortzen duen gaitasuna gehitu egiten zaio lehen hizkuntzan zuenari, eta lehenengo hizkuntza ere garatzen segitzen da. Adibide bat?</p>
+<p>Elebitasun kengarrian: bigarren hizkuntzarekin harremanak hastean, hori lehen hizkuntzako konpetentziaren kaltean gertatzen da; lehenengo hizkuntza bazterrera uzten da, ez da lantzen. Adibide bat?</p>
+<p>Elebitasun gehigarrian: ikasleak bigarren hizkuntzan lortzen duen konpetentzia gehitu egiten zaio lehen hizkuntzan zuenari.</p>
+<p>Elebitasun kengarrian: bigarren hizkuntzako konpetentzia linguistikoa lehen hizkuntzako konpetentziaren kaltean gertatzen da.</p>
+<p>Elebitasun gehigarria gertatzeko, bi hizkuntzek (nolabaiteko) prestigioa izan behar dute.</p>
+<p>Elebitasun kengarrian, hizkuntza batek ez du prestigiorik.</p>
+</section>
+<section id="emaitza-desberdinak" class="level4" data-number="3.5.3.3">
+<h4 data-number="3.5.3.3" class="anchored" data-anchor-id="emaitza-desberdinak"><span class="header-section-number">3.5.3.3</span> Emaitza desberdinak</h4>
+<p>Batzuetan esperientzia elebidunek emaitza onak ematen dituzte, eta beste batzuetan ez. Nola azaldu hori?</p>
+<p>Zergatik? Non da diferentzia?</p>
+<ol type="1">
+<li>Hizkuntza bakoitzaren prestigioak desberdinak dira</li>
+<li>Gehiengo-hizkuntzako ikasleek badakite beren hizkuntza ongi balioesten dela</li>
+<li>Ikasle horiek auto-estimuan ez dute kalterik hartzen eskolan gutxiengoaren hizkuntzan ari direnean</li>
+<li>Ikasle horiek indargarri sozial asko dituzte euren hizkuntzaren ikasketa ongi bermatzeko, eskolaz kanpo ere.</li>
+</ol>
+</section>
+<section id="elebidunen-atalase-mailak-eta-ondorio-kognitiboak-hipotesia" class="level4" data-number="3.5.3.4">
+<h4 data-number="3.5.3.4" class="anchored" data-anchor-id="elebidunen-atalase-mailak-eta-ondorio-kognitiboak-hipotesia"><span class="header-section-number">3.5.3.4</span> Elebidunen atalase mailak eta ondorio kognitiboak (hipotesia)</h4>
+<p>Beste arreta gune bat: BICS vs CALP (Cummins)</p>
+<ul>
+<li>Basic Interpersonal Communication Skills vs Cognitive/Academic Language Proficiency</li>
+<li>Komunikazio arrunta vs komunikazio akademikoa (elkarrizketa maila vs maila akademikoa)</li>
+<li>Eskolako hizkuntza ikaslearen bigarren hizkuntza denean, komunikazio akademikoari arreta jarri beharra; ez da aski komunikazio arrunterako gaitasuna lortua izatea</li>
+<li>Eskolako hizkera berezia da eta bereziki zaindu eta landu behar da, batez ere bigarren hizkuntzan ari denak ongi uler dezan eta gaitasun hori gara dezan
+<ul>
+<li>Eduki batzuek ahalegin kognitibo handia eskatzen dute</li>
+<li>Komunikazio akademikoan testuinguruak “gutxiago” laguntzen du</li>
+</ul></li>
+</ul>
+</section>
+<section id="hizkuntz-oharmenaren-kontzeptua" class="level4" data-number="3.5.3.5">
+<h4 data-number="3.5.3.5" class="anchored" data-anchor-id="hizkuntz-oharmenaren-kontzeptua"><span class="header-section-number">3.5.3.5</span> Hizkuntz-oharmenaren kontzeptua</h4>
+<p><em>Metalinguistic awareness, conciencia metalingüística</em></p>
+<ul>
+<li>Ikuspegi eleaniztunetan garrantzia ematen zaio, hizkuntzak ikasteko gaitasuna handitzen duelako</li>
+<li>Elebidunak gaitasun hori garatuagoa izan ohi du, ohitua delako bi hizkuntza-sistemarekin aritzen</li>
+<li>Hiztun elebakarrak “esperientzia linguistikoa” mugatuagoa du</li>
+</ul>
+</section>
+<section id="irudikapena" class="level4" data-number="3.5.3.6">
+<h4 data-number="3.5.3.6" class="anchored" data-anchor-id="irudikapena"><span class="header-section-number">3.5.3.6</span> Irudikapena</h4>
+<p>Konpetentzia eleaniztunaren irudikapena: borobil bakoitzaren barrenean sartuak egonen lirateke hizkuntza bakoitzean pertsona batek garatu dituen hizkuntza-gaitasunak. Batzuk, hizkuntza bakoitzean jaso, ikasi eta landu behar dira; beste batzuk, berriz, hizkuntza guztietan (edo) balio diote hiztunari.</p>
+<p>Eleaniztunaren konpetentzien irudikapena: gaitasun erkideak eta bestelakoak (Pascual 2006, …)</p>
+<p>Badira hiztunaren gaitasun batzuk hizkuntza guztietarako (edo) balio diotenak (ikus Pascual 2006). Adibidez:</p>
+<ul>
+<li>Testu-generoei buruzko jakintza: itxura, egitura, funtzioa, baliabide erretorikoak eta hizkera berezitua (gutuna, berria, ipuina, iragarkia, web orria, jarraibide liburua, elaberria, saiakera, mitin politikoa, bertso saioa…). Inguru kultural batean normalean antzekoak izaten dira egitura horiek (desberdintasunak izan badaitezke ere)</li>
+</ul>
+<p>Baina beste batzuk, berriz, hizkuntza bakoitzaren berezitasunak dira. Adibidez:</p>
+<ul>
+<li>Euskaraz GU, gaztelaniaz NOSOTROS</li>
+<li>Euskaraz NI eta baina gaztelaniaz YO eta MÍ</li>
+</ul>
+</section>
+<section id="eredu-dinamikoa" class="level4" data-number="3.5.3.7">
+<h4 data-number="3.5.3.7" class="anchored" data-anchor-id="eredu-dinamikoa"><span class="header-section-number">3.5.3.7</span> Eredu dinamikoa</h4>
+<p>Eleaniztuntasunaren eredu dinamikoaren ezaugarriak (Herdina eta Jessner 2002)</p>
+<ul>
+<li>Ez lineala: hiztunaren gogoan edo burmuinean hizkuntza ez da garatzen modu uniforme eta linealean</li>
+<li>Hiztunaren hizkuntza-gaitasuna “behera” etor daiteke, txikiagotu daiteke, landu ezean</li>
+<li>Egonkortasuna landu egin behar da: gaitasunari eutsi egin behar zaio, ez da berez egoten “puntu” batean</li>
+<li>Interdependentzia: hizkuntzek elkarri eragiten diote burmuinean, ez dira autonomoki garatzen</li>
+<li>Konplexutasuna: gertakari jakin batzuek ez dute emaitza bera eman behar pertsona eleaniztun guztiengan</li>
+<li>Izaera-aldatzea: hiztun eleaniztunaren sistema psikolinguistikoa aldatu egiten da, eskakizun psikologiko eta sozial berriei erantzutean</li>
+</ul>
+</section>
+<section id="eleaniztasunera-iristeko-bide-egokia" class="level4" data-number="3.5.3.8">
+<h4 data-number="3.5.3.8" class="anchored" data-anchor-id="eleaniztasunera-iristeko-bide-egokia"><span class="header-section-number">3.5.3.8</span> Eleaniztasunera iristeko bide egokia</h4>
+<div class="cell">
+<div class="cell-output-display">
+<div class="grViz html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-a06e47076971b94de835" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-a06e47076971b94de835">{"x":{"diagram":"digraph flowchart {\n      # node definitions with substituted label text\n      node [fontname = Helvetica, shape = rectangle]        \n      tab1 [label = \"elebitasun gehigarria\"]\n      tab2 [label = \"abantaila kognitiboak\"]\n      tab3 [label = \"jabekuntza eleanitzaren onurak\"]\n\n      # edge definitions with the node IDs\n      tab1 -> tab2 -> tab3\n      }","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+<p>Eskuratze eleaniztunaren hipotesia</p>
+</div>
+</div>
+<blockquote class="blockquote">
+<p>La clau, per tant, per a un multiligüisme additiu que proporcione una competència real en les tres llengües a tot l’alumnat, consistirà en una articulaciò de les llengües que done un tractament prioritari i preferencial a la llengua minoritzada, pel que fa al moment d’incorporació, al temps d’ús vehicular i a l´ús social i administratiu en el centre</p>
+<p>– Vicent Pascual Granell, 2006:49</p>
+</blockquote>
+</section>
+</section>
+<section id="hizkuntzaren-didaktika" class="level3" data-number="3.5.4">
+<h3 data-number="3.5.4" class="anchored" data-anchor-id="hizkuntzaren-didaktika"><span class="header-section-number">3.5.4</span> Hizkuntzaren didaktika</h3>
+<ul>
+<li>Hurbilketa komunikatiboa, ikasketa aktiboa</li>
+<li>Hizkuntza lanabes gisa, hizkuntzaren erabilera instrumentala</li>
+<li>Nola ikas-irakasten da hobeto: formari arreta jarrita ala komunikazioari bakarrik erreparatuta? Oreka bilatu beharra</li>
+<li>Hizkuntzak banatuta eduki behar ditugu eginahal guztian ikasketa prozesu guztian?</li>
+<li>Zer transferitzen ahal da? Zer ikasi behar da hizkuntza bakoitzean, hizkuntza bakoitzeko gaitasuna garatzeko?</li>
+<li>Zenbateraino izan daitezke baliagarriak/kaltegarriak itzulpenak gelan?</li>
+<li>Noraino baliatu hiztun elebidunaren/eleaniztunaren hizkuntza-oharmena?</li>
+<li>…</li>
+<li>Hizkuntzen trataera bateratua</li>
+<li>Hizkuntzak eta edukiak batera ikastea</li>
+</ul>
+<section id="eskolaren-zereginaz" class="level4" data-number="3.5.4.1">
+<h4 data-number="3.5.4.1" class="anchored" data-anchor-id="eskolaren-zereginaz"><span class="header-section-number">3.5.4.1</span> Eskolaren zereginaz</h4>
+<section id="ekimenak-euskal-herrian" class="level5" data-number="3.5.4.1.1">
+<h5 data-number="3.5.4.1.1" class="anchored" data-anchor-id="ekimenak-euskal-herrian"><span class="header-section-number">3.5.4.1.1</span> Ekimenak Euskal Herrian</h5>
+<ul>
+<li>Eusko Jaurlaritza: curriculum dekretua eta Hezkuntza Marko Hirueleduna</li>
+<li>Nafarroako Gobernua: curriculum dekretua eta bestelako ekimenak (British, TILA, TILD)</li>
+<li>Iparraldea</li>
+<li>Ikastolen Elkartearen ekimena: Ikastolen hizkuntza proiektua</li>
+<li>Ekimen publikoa: 2007-2010ko curriculuma (ikus halaber azken dekretua, 2016)</li>
+</ul>
+<p>Eleaniztasunaz, hainbat aipamen:</p>
+<blockquote class="blockquote">
+<p>Egungo euskal gizartean eleaniztasuna eta kultura-aniztasuna existitzen direla onartzea…</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Ikasgelan, ikastetxean eta inguruan hitz egiten diren hainbat hizkuntzatan sortutako testuak irakurtzea eta entzutea, egungo euskal gizartearen eleaniztasun-egoera konplexuaz jabetzeko.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Elebitasuna oinarri hartuta, ikasle eleanitzak sortzeko xedea erdiesteko, atzerri-hizkuntzen ikaskuntza eta erabilerak finkatzeko neurriak ezarriko dituzte ikastetxeek, eta bermatu egingo dute bete egiten direla bi hizkuntzetarako ezarrita dauden gaitasun-mailak. Ikastetxeek aukera izango dute zenbait ikasgai atzerri-hizkuntza horietan irakasteko, horretarako arautzen diren baldintzak betez</p>
+</blockquote>
+<p>Metodologiaz:</p>
+<blockquote class="blockquote">
+<p>halaber, aintzat hartuko dute hizkuntzak komunikazio-hizkuntza gisa erabiltzea dela bide egokiena elebitasunaren helburua lortzeko eta jakintza-arlo eta ikasgai bakoitzeko curriculum-edukiak irakasteko</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Hizkuntzak ikas daitezen eta zenbait hizkuntzatan komunikatzeko gaitasuna lor dadin sustatzeko, hezkuntza-sistemak ekintzak bultzatu behar ditu, irakasleen artean metodologia komunikatiboak eta aktiboak zabaltzeko, eta metodologia horien barruan hizkuntzak irakasteko eta ikasteko prozesuak era koordinatuan lantzeko, Hizkuntzen Tratamendu Integratuaren proposamenari jarraituz</p>
+<p>– Hezkuntza Marko Hirueledunean</p>
+</blockquote>
+<p>Ikastetxeen autonomia maila handitu, eta hizkuntza proiektua (azken honi, 19. artikulua eskainia): &gt; &gt; …adierazitako helburuak lortzeko, ikastetxeek, beren hizkuntza-proiektua aintzat hartuta, beren ezaugarrietara moldatu eta egokituko dute dekretu honek egindako curriculum-planteamendua</p>
+</section>
+<section id="ekimen-pribatua-adibidez-ikastolen-elkartea" class="level5" data-number="3.5.4.1.2">
+<h5 data-number="3.5.4.1.2" class="anchored" data-anchor-id="ekimen-pribatua-adibidez-ikastolen-elkartea"><span class="header-section-number">3.5.4.1.2</span> Ekimen pribatua: adibidez, Ikastolen Elkartea</h5>
+<dl>
+<dt>Eleaniztasunaz</dt>
+<dd>
+<p>4 hizkuntza helburu gisa (euskara, gaztelania/frantsesa, ingelesa)</p>
+</dd>
+<dt>Metodologiaz</dt>
+<dd>
+<p>ikuspegi komunikatiboa, hizkuntzen trataera bateratua eta HEBI-CLIL</p>
+</dd>
+<dt>Ikastetxearen Hizkuntza Proiektua</dt>
+<dd>
+<p>xehetasunak ezartzeko dokumentua</p>
+</dd>
+</dl>
+<p>Iturria: Ikastolen hizkuntz proiektua (2009)</p>
+</section>
+</section>
+<section id="metodologia" class="level4" data-number="3.5.4.2">
+<h4 data-number="3.5.4.2" class="anchored" data-anchor-id="metodologia"><span class="header-section-number">3.5.4.2</span> Metodologia</h4>
+<p>Hizkuntzak ikas-irakasteko jardunbide batzuk:</p>
+<ul>
+<li>Elebitasun gehigarriko testuingurua</li>
+<li>Hizkuntza-komunikaziorako <strong>konpetentzia</strong> garatzeko Metodologia komunikatiboa eta aktiboa</li>
+<li>Hizkuntzen trataera bateratua CLIL-HEBI</li>
+</ul>
+<section id="zereginak" class="level5" data-number="3.5.4.2.1">
+<h5 data-number="3.5.4.2.1" class="anchored" data-anchor-id="zereginak"><span class="header-section-number">3.5.4.2.1</span> Zereginak</h5>
+<p>Agenteen zereginak, nori zer eskatu, nork zer eskaini, ekimenak denena izan behar baitu: gurasoak, ikasleak, irakasleak, administrazioa</p>
+<dl>
+<dt>Gurasoen zeregina</dt>
+<dd>
+<p>laguntza eta interesa, ikasleei motibazioa handitzeko.</p>
+</dd>
+<dt>Ikasleen zeregina</dt>
+<dd>
+<p>interesa, motibazioa</p>
+</dd>
+<dt>Irakasleen zeregina</dt>
+<dd>
+<p>hizkuntza-prestakuntza eta prestakuntza metodologiko ona erdiestea</p>
+</dd>
+<dt>Administrazioaren eta hezkuntzako eragileen zeregina</dt>
+<dd>
+<p>Irakasleen hizkuntza prestakuntzaz arduratu</p>
+</dd>
+<dd>
+<p>Irakasleen prestakuntza didaktikoaz arduratu</p>
+</dd>
+<dd>
+<p>Baliabideak antolatu materialak eskura izateko</p>
+</dd>
+</dl>
+</section>
+</section>
+</section>
+</section>
+<section id="laburpena" class="level2" data-number="3.6">
+<h2 data-number="3.6" class="anchored" data-anchor-id="laburpena"><span class="header-section-number">3.6</span> Laburpena</h2>
+<ul>
+<li>Euskal Herrian elebakartasunetik elebitasunera bidea egiten ari gara: 1965etik honat</li>
+<li>orain, munduan globalizazioa, IKTak, harremanak ugariago</li>
+<li>ondorioz, gure eskoletan hasierako egoerak eta azken helburuak aldatzen dira</li>
+<li>azken helburua: denak eleaniztun (elebitasuna gehi gehienetan ingelesa)</li>
+<li>hasierako egoera: hizkuntza eta kultura gehiago geletan (nola kudeatu?)</li>
+<li>eskolaren zereginak egungo egoeraren aurrean:
+<ul>
+<li>Euskararen biziberritze/normalizazio prozesuan laguntzen segitu</li>
+<li>Bigarren/hirugarren (eta laugarren) hizkuntza ikas-irakatsi</li>
+<li>Etorri berrien bestelako hizkuntzei trataera</li>
+</ul></li>
+<li>egoerari erantzuteko eta helburuetara heltzeko, diziplinen ekarpenak:
+<ul>
+<li>hizkuntzalaritzatik: hurbilketa egokiak bilatzea: pragmatika, diskurtsoaren analisia, testu-hizkuntzalaritza</li>
+<li>soziolinguistikatik: hizkuntzen egoerak eta harremanak</li>
+<li>psikolinguistika: elebidunaren/eleaniztunaren konpetentzien irudikapena</li>
+<li>hizkuntzaren didaktika: ikuspegi eta jardunbide egokiak</li>
+</ul></li>
+<li>egoerari erantzuteko, ekimen publikoak eta pribatuak:
+<ul>
+<li>Hezkuntza Marko Hirueleduna/laueledun proiektua</li>
+<li>Etorkinen eskolatze egokirako jarduerak eta baliabideak</li>
+</ul></li>
+</ul>
+<hr>
 <p><span class="citation" data-cites="cumminsHipotesisInterdependencia252005">Cummins (<a href="references.html#ref-cumminsHipotesisInterdependencia252005" role="doc-biblioref">2005</a>)</span></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -331,7 +1104,6 @@ Maia, J. (2014). <span>Hezkuntza elebiduna Euskal Herrian: 30 urteko ibilialdia<
 Segalowitz, N. (2010). <em>Cognitive <span>Bases</span> of <span>Second Language Fluency</span></em>. <span>Routledge</span>.
 </div>
 </div>
-</section>
 </section>
 
 </main> <!-- /main -->

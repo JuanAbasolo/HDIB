@@ -1,0 +1,553 @@
+---
+title: "Eleaniztasunaren trataeraren eraikuntza 🗨️"
+author: "Juan Abasolo"
+format: 
+    revealjs: 
+        theme: [dark, css/nire.scss]
+        # css: [/home/juan/Deskargak/EHU_Tipografia-webfontkit-20230924-111641/ehu_typographia.css]
+        footer: "Eleaniztasuna ikastetxeetan"
+        logo: '../liburua/assets/00/azala.png'
+        slide-number: true
+editor: visual
+---
+
+## Azterguneak
+
+-   Hizkuntzak Euskal Herriko hezkuntza sisteman, diglosiatik, elebitasunera eta orain eleaniztasunera: Ibilbidea
+-   Eleaniztasuna eskolan: hiru/lau hizkuntza helburu
+-   Geletan hainbat hizkuntza (hizkuntza gehiago jendartean)
+-   Eskolan zer egin eta zergatik, hizkuntzak kudeatzeko
+
+::: footer
+🧭 nondik nora
+:::
+
+## 
+
+Zer dela-eta kezka hori?
+
+Zergatik ari da ideia hau orain indartzen?
+
+Zeri erantzuten dio?
+
+[Zer puntu erabaki behar dira edo zer alderdi hartu behar dira kontuan?]{.fragment}
+
+::: footer
+mmm 🤔
+:::
+
+------------------------------------------------------------------------
+
+Eskolako hizkuntzak kudeatzea esaten dugunean, zer datorkigu burura?
+
+Zer hizkuntza ditugu eskolan, zer helburu bakoitzarentzat, zer aldaketa dakar horrek...? Horiei erantzun koherentea emanbeharra
+
+Erantzun koherentea eta globala emateko, zer alderdi zaindu behar dira? Zer galderari erantzun?
+
+::: footer
+mmm 🤔 🤔
+:::
+
+# Hasteko:
+
+. . .
+
+Diglosiaz hitz egiten zen
+
+. . .
+
+elebitasuna arautu da
+
+. . .
+
+eleaniztasuna omen dugu helburu
+
+# Diglosiaz
+
+##  {.scrollable}
+
+::: panel-tabset
+## Datuak
+
+1965
+
+:   Hego Euskal Herrian: eskolan gaztelania (ikastolak orduantxe hasten). Telebista hasita 10 bat urte. Hezkuntza sistemaren helburua, gaztelania ikas-irakastea (atzerriko hizkuntzari arreta handirik ez.
+
+1976
+
+:   Baskongadetan irakasle euskaldunak %5
+
+## Diskurtsua
+
+Cuando Dios se lleve a la media docena de ancianitas roncalesas que aún hablan el uskara del Valle, habrá muerto con ellas el dialecto vasco más singular y navarro: el dialecto roncales.
+
+Al paso actual es cosa de pocos años la muerte del vascuence navarro en el Salazar, la Aézcoa y otras comarcas de nuestra tierra
+
+Conviene fijarse en que el vascuence tardó sólo un siglo en retroceder desde las puertas de Tafalla hasta el pie del Pirineo. Eso sin televisión, sin medios rápidos de difusión, sin apenas tráfico humano.
+
+¿Cuánto tiempo le queda de vida al vascuence en Navarra?
+
+Después del réquiem vendrá sin duda una reacción.
+
+Una nueva generación más culta tachará nuestra época de barbarie: Se dejaron morir la «lingua navarrorum» después de milenios y milenios... Se la dejaron morir mientras ponían en marcha unos planes de desarrollo, donde la educación y la cultura eran metas principales
+
+-   En Navarra no existe una conciencia suficiente sobre la grave situación de la vieja lengua. Y de lo que significaría su extinción, como desprestigio propio y como lesión a la cultura nacional y a la universal.\
+    La verdad es que desde el plano de autoridad no se ha hecho lo suficiente para crear aquella conciencia.
+
+-   Lo que necesita urgentemente el vascuence es prestigio.\
+    El vascuence renacerá cuando lo hablen los hombres de cultura. Cuando existan aulas de vascuence en la enseñanza universitaria, en la media y en la primaria. Y cuando esos estudios, siempre voluntarios y sin interferencia en los programas generales didácticos, se reflejen en un mérito oficialmente reconocido.
+
+-- *Navarra y el Vascuence*, Miguel Javier Urmeneta \[[\*](https://www.culturanavarra.es/uploads/files/PVeus1967-21noviem22diciem.pdf)\]
+:::
+
+::: footer
+Diglosiaz
+:::
+
+# Elebitasuna
+
+##  {.scrollable}
+
+::: panel-tabset
+## Urteak
+
+1993
+
+:   Internet Euskal Herrian hasi, gutxi gora beherakoa (Urberuaga 2001)
+
+1995:
+
+:   EAEn **aukera** eskolan gaztelania eta euskara parean izateko (+ kontaktu gutxi atzerriko hizkuntzarekin)
+
+:   NFKn: aukera mugatua gaztelania eta euskara maila berean ikasteko (+ kontaktu gutxi atzerriko hizkuntzarekin)
+
+:   Iparraldean: eskolan gehiena frantsesa, euskara poliki sartzen
+
+2006-2007
+
+:   EAEn "irakasleen ia hiru laurdenak" EGA edo HE2dunak dira (publikoa eta pribatua)\
+    EAEn beste %6k badu HE1 (publikoa eta pribatua) (Zalbide 2010:113) Publikoan: "ehuneko laurogei baino gehiago" (Zalbide 2010: 115)
+
+Zalbide (2010): Euskararen legeak hogeita bost urte. Eskola alorreko bilakaera: balioespen-saioa. Bilbo: Euskaltzaindia
+
+2014
+
+:   Internet Euskal Herrian hainbat etxetan (ikus datu batzuk Eurostat-en)
+
+:   **EAE**n, eskolan gaztelania eta euskara aukeran, parean (helburu gisa) eta ingelesa gero eta gehiago (askoz ere kontaktu gehiago hizkuntza horrekin, interneten bidez batez ere)
+
+:   **NFK**n, eskolan gaztelania eta euskara aukeran, parean (helburu gisa) lurraldearen zati batean, eta ingelesa gero eta gehiago (askoz ere kontaktu gehiago hizkuntza horrekin, interneten bidez batez ere)
+
+:   **Iparraldean**, eskolan frantsesa eta euskara ikas-irakasteko aukera handitzen ari da (datuak non? "Euskararen Erakunde Publikoa" delakoan begiratu).
+
+## Helburuak
+
+**Hegoaldean**: euskara eta gaztelania ikas-irakastea (Nafarroan mugatua) (eta atzerriko hizkuntzarekiko arreta handitzen)
+
+**Iparraldean**: aukera mugatua euskaraz ere ikas-irakasteko (atzerriko hizkuntzarekiko arreta handitzen)
+
+## Hezkuntza elebidunaz
+
+Ereduen onarpena jendartean: matrikulazioaren bilakaera
+
+|              | **2000/2001** | **2002/2003** | **2004/2005** | **2006/2007** | **2008/2009** | **2010/2011** | **2013/2014** | 2022/2023 |
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| **A eredua** | 119.954 (%37) | 109.945 (%34) | 103.979 (%32) | 95.902 (%28)  | 92.569(%26)   | 92.332 (% 25) | **???**       |           |
+| **B eredua** | 67.838 (%21)  | 67.205 (%21)  | 69.941 (%21)  | 72.479 (%21)  | 75.274 (%21)  | 75.301 (20%)  | **???**       |           |
+| **D eredua** | 132.735 (%41) | 139.849 (%44) | 154.164 (%47) | 171.154 (%50) | 187.543 (%52) | 205.774 (%55) | **???**       |           |
+| **X eredua** | 1.950 (%1)    | 1.898 (%1)    | 1.863 (%1)    | 1.900 (%1)    | 1.993 (%1)    | 2.006 (0,5%)  | **???**       |           |
+
+Ikasleen matrikulazioaren bilakaera unibertsitatez besteko irakasmailetan, hezkuntza ereduen arabera (2000-2010-...). Iturria: EUSTAT
+:::
+
+::: footer
+Elebitasunaz
+:::
+
+# Aldaketa
+
+## Faktore soziolinguistikoa
+
+Beste itxaropen batzuk: jendearen hizkuntza-oharmena aldatzen? (Guasch, 2007)
+
+Immigrazioa (Afrikatik, Ekialdeko Europatik, Asiatik...): hizkuntza batzuk, ez dominanteak
+
+Bertoko hizkuntza indartu beharra (euskararen biziberritze prozesua)
+
+::: footer
+Aldaketa
+:::
+
+## Faktore teknologikoa
+
+Ordenagailuaren erabilerak aldatu du idazketa prozesua
+
+Mezu idatzi batzuk testuinguruari egokituak dira orain, ahozkora hurbildu dira (SMS,...)
+
+Ikasteko beste modu bat? Errealitatea hurrenez hurren barik, beste modu batean irudikatu?
+
+::: footer
+Aldaketa
+:::
+
+## Faktore psikolinguistikoa
+
+Bi uste:
+
+-   Hizkuntzak erabiltzen ikas-irakatsi behar da; erabileraren bidez ikasten da, interakzioaren bidez
+-   Hiztun eleaniztunaren berezitasunak/ezaugarri bereziak
+
+::: footer
+Aldaketa
+:::
+
+# Eleaniztasuna
+
+## baina hori zer eta zelan da 😱?
+
+[...edo *zer hartu behar dugu kontuan?*, ez bada ere]{.fragment}
+
+# Egoera berria
+
+## Heterogeneotasuna
+
+Gelan heterogeneotasun handiagoa, ikasleen ezaugarri desberdinak
+
+Helburuak ikasle guztientzat berdinak:
+
+-   komunikazio gaitasuna handitzea
+-   hizkuntzaz gogoeta egiteko prozedurak lantzea
+-   jarrerak eta balioak
+
+::: footer
+Egoera berria
+:::
+
+## Hizkuntzek erkide dutenari arreta
+
+Ondorioz: curriculumeko hizkuntzak ikuspegi global batetik landu beharra agertzen da, eta hizkuntza-prestakuntzako helburu konpartituak
+
+::: footer
+Egoera berria
+:::
+
+## Koordinazioaren beharra:
+
+-   Hizkuntzak lantzeko orduan
+-   Beste edukiak lantzeko orduan (hizkuntza ere lantzen da)
+
+[Gelan hizkuntza gehiagoko ikasleak<br>Zer egin hizkuntza horiekin?]{.fragment}
+
+::: footer
+Egoera berria
+:::
+
+## Helburuetan:
+
+**Euskara**: hizkuntza ofizialaren tratamendua, gaztelaniaren pare: "autonomiaz eta sormenaz"
+
+**Gaztelania**: hizkuntza ofizialaren tratamendua: "autonomiaz eta sormenaz"
+
+**Atzerriko hizkuntzak** bi (lehenengoa ingelesa): "oinarrizko autonomiaz", bigarrena?
+
+**Immigrazioko hizkuntzak** zer? helbururik? [[🚦](https://www.euskadi.eus/onarpena-haur-lehen-eta-derrigorrezko-bigarren-hezkuntza/web01-a2hikast/eu/)]{.fragment}
+
+::: footer
+Egoera berria
+:::
+
+## Hizkuntza ez ofizialetan:
+
+-   Ikas-helburuduna: atzerriko hizkuntza (prestigioduna)
+-   Ikas-helburu zehatzik gabeak: immigraziokoak (prestigiorik?)
+
+::: footer
+Egoera berria
+:::
+
+## Lingua franca
+
+::: footer
+Egoera berria
+:::
+
+## EEMB
+
+-   Eleaniztasuna eta komunikazio konpetentzia haztea:\
+    \> Hizkuntza(k) konpetentzia maila handian erabiltzea vs hizkuntza(k) eta orotariko aldaerak komunikatzeko erabiltzea
+
+-   Ikuspegi aldaketa: "zatikako" hizkuntza-jakintzak ere balioetsi, baliozkotzat hartu; norberaren hizkuntza-errepertorioa handitu
+
+-   Konpetentzia hori garatzeko, bizitza guztia; ondorioz, inportantea da hizkuntzak ikasteko jarrera
+
+::: footer
+Egoera berria
+:::
+
+##  {background-color="lightgray"}
+
+::: callout-note
+## Etentxoa:
+
+-   Zenbat hizkuntza dakigu gutako bakoitzak?
+-   Zenbat hizkuntzatan komunikatzen gara? Zenbat hizkuntzatan dugu (nolabaiteko) hizkuntza-komunikaziorako konpetentzia?
+-   Hizkuntza guztietan maila berean komunikatzen gara?
+-   "Hizkuntzak-ikasteko-ibilbideak" zer eragiten digu/die besteei?
+:::
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Ariketa: Aztertu ingurua
+
+Zuon taldeko gehienak nongoak diren, inguru horretako lan eskaintzaren azterketa egingo dugu. Horretarako, baskongadetakoak zaretela pentsaturik, hurrengo [web orrian](https://www.euskadi.eus/onarpena-haur-lehen-eta-derrigorrezko-bigarren-hezkuntza/web01-a2hikast/eu/) aurkitu behar duzu "dagokizuen" herrialdeko eskolen sailkapena eta horren azterketa egin behar duzue (joerari erreparatuta, lana ardaztuko dugu zuen titulazioak bideratzen zaituzten etapara begira).
+:::
+
+::: footer
+:::
+
+##  {background-color="lightgray"}
+
+::: callout-note
+### Beste etentxo bat
+
+-   Hizkuntzak eta kulturak ugariago gure jendartean
+-   Jendartean hizkuntza-aniztasuna eta kultura-aniztasuna
+-   Eskolan ere hizkuntza eta kultura anitz; hori nola kudeatu?
+-   Kulturartekotasuna: zer da?
+-   Zer egin daiteke hezkuntza sisteman? Zer baliabide dugu?
+-   Non aurki daiteke informazioa?
+
+Galdera: non bilatu ahal dugun informazioa? Besteak beste, hurrengoetan
+
+-   [Dokumentu eta argitalpenak \> Eskola inklusiboa](https://www.euskadi.eus/hezkuntza-berri-esk-inklusiboa-dokumentuak/web01-a2hberri/eu/)
+-   [Ikasle Etorkinentzako Hezkuntza Arretarako II. Plana, 2016-2020ko eskola-eredu inklusibo eta kulturartekoaren esparruan](https://www.euskadi.eus/sail-plana/39-ikasle-etorkinentzako-hezkuntza-arretarako-ii-plana-2016-2020ko-eskola-eredu-inklusibo-eta-kulturartekoaren-esparruan/web01-s1leheko/eu/)
+
+<small>
+
+Interesgarria: https://www.euskadi.eus/contenidos/documentacion/inn_doc_esc_inclusiva/es_def/adjuntos/diversidad/120004c_Doc_EJ_programa_alumnado_inmigrante_c.pdf https://www.euskadi.eus/contenidos/informacion/dia6/eu_2027/adjuntos/zubirik_zubi/materiales_educacion_primaria/HARRERA_DOKUMENTUAK/A_B\_\_\_Castellano.pdf
+
+</small>
+:::
+
+# Erronkak
+
+-   Euskararen biziberritze prozesuan eragin (elebitasuna hedatzen)
+-   Komunikazio zabaleko hizkuntza jakin nahi da (ingelesa?): hirueletasuna nahi da, eta bide horretan egiten ari diren ahaleginak (Jaurlaritzak eta Ikastolen Elkarteak)
+-   Hainbat hizkuntza desberdin, immigrazioaren bidez batez ere. Zer egin horiekin?
+
+## Aurre egiteko ekarpenak
+
+::: incremental
+-   Linguistika
+-   Soziolinguistika
+-   Psikolinguistika
+-   Hizkuntzaren didaktika
+:::
+
+## Hizkuntzalaritza
+
+::: panel-tabset
+## Ikuspegi "tradizionaletik"
+
+Hizkuntza bakoitzaren ezaugarriak eta hizkuntzen arteko antz-aldeak. Zer erkide, zer desberdin, maila guztietan (ikus Europako Erreferentzia Marko Bateratuan, 5. atala):
+
+-   Fonetiko-fonologikoan
+
+-   Morfologikoan
+
+-   Sintaktikoan
+
+-   Lexiko-semantikoan
+
+-   Ortografikoan
+
+-   Ortoepikoan
+
+## Ikuspegi "berriagoetatik":
+
+-   Pragmatika: Hizkuntzaren azterketa testuinguruarekin lotua
+-   Diskurtsoaren analisia: hizkuntzazko jardunaren azterketa (ikus Galdera-erantzun batzuk hizkuntzaren didaktikaz)
+-   Testu-hizkuntzalaritza: perpausetik gorago; testuaren tasunak, testu-motak, haien ezaugarriak... Testu-motak eta erabilesparruak konbinatuta: testu-generoak
+:::
+
+## Soziolinguistika {.scrollable}
+
+-   Hizkuntzen egoera eta haien arteko harremanak
+
+    -   prestigioa (zer prestigio-maila?)
+
+    -   estatusa (ofiziala? Ez ofiziala?)
+
+    -   egoera legala (babesik bai? Zenbatekoa? Toki guztietan edo zati batean?)
+
+    -   funtzioak (bizitza "ofizialekoak" bai? Hau da, irakaskuntza, komunikabideak, administrazioa...? edo bakarrik familian eta lagunartean?)
+
+    -   erabilesparruak (ofizialetan bai edo ez? Zer mailatan?)
+
+    -   hiztun kopurua (datu orokorrak behar dira, baina eskualdekako datuak ere garrantzitsuak)
+
+> Euskararen egoera orokorrari buruz datu asko non aurki daiteke?
+>
+> Hezkuntza sisteman nolako helburuak ezartzen diren hizkuntzarentzat, eta nolako egoeran den hizkuntza, halako trataera antolatu beharko da.
+
+## Psikolinguistika {.scrollable}
+
+::: panel-tabset
+## CUP
+
+elebidunaren konpetentzien irudikapena: SUP vs CUP
+
+![Common underlying proficiency and linguistic interdependence principle](../liburua/assets/3/2-cup_cummings.png)
+
+## int
+
+interdependentziaren printzipioa, transferentziaren kontzeptua
+
+![](http://2.bp.blogspot.com/-zDjkWH3w1VU/VCLhhe2-0VI/AAAAAAAAAAc/O94EAvck4PE/s1600/Imagen1.jpg)
+
+## Atalasea
+
+atalase mailak eta ondorio kognitiboak
+
+![](http://3.bp.blogspot.com/-UyWYRBp4ex0/VCBcoLU36OI/AAAAAAAAAAM/EAVjpSks0K8/s1600/Imagen1.jpg)
+
+## H~1~
+
+Hizkuntzaren prozesamendua
+
+![A blueprint for the speaker. Boxes represent processing components; circle and ellipse represent knowledge stores.](../liburua/assets/3/Levelt_.png){width="496"}
+
+## H~2~
+
+Hizkuntzen prozesamenduak
+
+![Model of the L2 speaker, adapted from Levelt's (1999, Figure 4.1) "blueprint" of the monolingual speaker and incorporating De Bot's (1992) points regarding the bilingual speaker. The dotted and dashed Lx and Ly circles refer to how information pertinent to languages (or registers) x and y are thought to be related to each other, where partially overlapping and fully overlapping circles indicate partially distinct and undifferentiated systems, respectively. \["Lx"\] refers to information that tags language-specific identity (i.e., this piece of knowledge is linked in some way to language X). The {ƒ } symbols (for ƒluency vulnerability points) refer to potentially critical points where underlying processing difficulties could be associated with L2 speech dysfluencies.](../liburua/assets/3/Levelt_Segalowitz.png){width="493"}
+
+## Beste
+
+-   elebitasun gehigarria eta elebitasun kengarria
+-   komunikazio arrunta vs komunikazio akademikoa
+-   hizkuntz-oharmena
+-   elebiduna ez da bi pertsona elebakar buru batean
+-   eleaniztunaren konpetentzien irudikapena: konpetentzia erkideak eta bestelakoak (Pascual 2006, ...)
+-   eleaniztuntasunaren eredu dinamikoa (Herdina eta Jessner 2002)
+:::
+
+## Hizkuntzaren Didaktika {.scrollable}
+
+::: incremental
+-   Hurbilketa komunikatiboa, ikasketa aktiboa
+-   Hizkuntza lanabes gisa, hizkuntzaren erabilera instrumentala
+-   Nola ikas-irakasten da hobeto: formari arreta jarrita ala komunikazioari bakarrik erreparatuta? Oreka bilatu beharra
+-   Hizkuntzak banatuta eduki behar ditugu eginahal guztian ikasketa prozesu guztian?
+-   Zer transferitzen ahal da? Zer ikasi behar da hizkuntza bakoitzean, hizkuntza bakoitzeko gaitasuna garatzeko?
+-   Zenbateraino izan daitezke baliagarriak/kaltegarriak itzulpenak gelan?
+-   Noraino baliatu hiztun elebidunaren/eleaniztunaren hizkuntza-oharmena?
+-   Hizkuntzen trataera bateratua
+-   Hizkuntzak eta edukiak batera ikastea
+:::
+
+## Gaur baskongadetan... {.scrollable}
+
+Heziberri2020ko Hezkuntza-eredu pedagogikoaren markotik[+](https://www.euskadi.eus/contenidos/documentacion/inn_doc_sist_educativo/eu_def/adjuntos/000009e_Pub_EJ_heziberri_2020_e.pdf) [++](https://www.euskadi.eus/elebitasuna-hezkuntza-eleaniztasunaren-baitan/web01-a3helebi/eu/)
+
+::: panel-tabset
+## 🗣️
+
+Erregio edo Gutxiengoen Hizkuntzen Europako Kartaren (1992) arabera, kontuan hartuz **ingurunearen baldintzek eta gizarte-harremanek gaztelania erabiltzera bultzatzen** dutela, eta --ebaluazioek erakutsi dutenez-- irakatsi eta ikasteko prozesuan **euskara erabiltzea funtsezkoa** dela ahoz eta idatziz behar bezala komunikatzeko gai izateko, sistema eleaniztun honek **euskara izango du ardatz**, era horretan **gainditu ahal izateko bi hizkuntza ofizialen arteko desoreka --gaur egun euskararen aurkakoa--**, eta bi hizkuntzen berdintasun soziala eta ikasleen aukera-berdintasuna sustatzeko. Horregatik, euskara ohituraz eta modu normalizatuan erabiltzen dela bermatuko da, barruko nahiz kanpoko jardueretan eta, oro har, eskolako ekintzetan.
+
+## 🗣️🗣️
+
+Irteera-profilean, ikasleak bizitzako eremu guztietan, **euskaraz eta gaztelaniaz** ahoz nahiz idatziz, modu egoki eta eraginkorrean komunikatzea nahi da.
+
+## 🇪🇺
+
+Halaber, gutxienez **atzerriko lehen hizkuntza bat**ean egoki komunikatzea, egoera eta eremu pertsonal, sozial eta akademikoetan. Era berean, ikasleak bere burua eta bere inguruko mundua hobeto ezagutzen lagunduko dion literatura heziketa izatea nahi da.
+
+Euskal eskolak elebitasuna bermatzeko duen erronkaz gain, badu beste **helburu** bat ere: **pertsona eleaniztunak lortzea**, gutxienez atzerriko hizkuntza bat behar adina dakitenak. Ikuspuntu eleaniztunean, pertsona baten esperientzia hedatu ahala hizkuntza baten kultur inguruneetara --[familiaren hizkuntza]{.underline}, gizarte osoarena, beste herri batzuetako hizkuntzak...--, pertsonak ez ditu hizkuntza eta kultura horiek gordetzen buruko konpartimentu bereizitan; aldiz, bere komunikaziorako konpetentzia osatzen dute hizkuntza-jakintza eta -esperientzia guztiek, eta hizkuntzak elkarrekin harremanetan daude. Ikuspuntu horrek erabat aldatzen du hizkuntza baten irakaskuntza. Kontua ez da bi edo hiru hizkuntza eskuratzea, zein bere aldetik. Aldiz, hizkuntza-gaitasun guztiak biltzen dituen hizkuntza-bilduma bat garatu nahi da.
+
+## 🏫
+
+Ikastetxe bakoitzak, hizkuntzen irakaskuntzarekin eta erabilerarekin lotutako alderdi guztiak ondo planifikatzeko, **Ikastetxeko Hizkuntza Proiektua** egin behar du. Ikaskuntza-prozesu osoan hizkuntzak irakastearekin eta erabiltzearekin lotutako irizpideak garatu behar ditu Proiektu horrek, bai eta Hezkuntza Proiektuan jaso ere, eta bestalde, Curriculum Proiektuan hizkuntzen trataera ere zehaztu behar du. Halaber, ikastetxeko dokumentu guztiek hartu beharko dituzte oinarri Proiektuan jasotako erabakiak.
+
+## 📘
+
+Ikasleek irteera-profileko eleaniztasun-maila lortzeko helburuak hizkuntza-irakasleak behartzen ditu **hizkuntzak modu integratuan tratatzera**, irakatsi eta ikastearen helburuaz gogoeta egitera eta, ondorioz, edukiak nahiz metodologia egokitzera.
+
+Hizkuntzak modu integratuan irakastea hainbat ebidentziaren emaitza da:
+
+```         
+Ikasle elebidunak edo eleaniztunak etengabe eskura ditu hainbat hizkuntza eta haietan ikasitakoa, hornidura kognitibo eta emozional moduan.
+Hizkuntza-ikasketak hizkuntza batzuetatik besteetara transferitzen dira.
+Hiztunek parte hartzen duten inguruneetan hainbat hizkuntza egotea aldi berean.
+```
+
+Ebidentzia horien ondorioz, hizkuntzen curriculum integratua egin behar da eta, horretarako, hizkuntza bakoitzarentzat hautatu behar dira egoera-familia esanguratsuak, bizitzaren eremu guztiekin lotuak, kontuan hartuz hizkuntza bakoitzaren estatusa, testuinguruaren errealitate soziolinguistikoa eta hizkuntza bakoitzarentzat irteera-profil orokorrean definitutako lorpen-maila. Hizkuntza bakoitzak berezkoa duena landu behar da, eta denen artean partekatua dutena, ikasleak egoki eta eraginkor erabili ahal izan dezan egoera bakoitzak eskatzen duen hizkuntza.
+
+Baina hizkuntza-irakasleak ez dira euskara ardatz hartuta eleaniztasuna garatzen konprometitutako bakarrak, eta eskola osoa dago inplikatua hizkuntzen trataera integralean. **Hizkuntza-gaiak ematen ez dituzten irakasleen ardura ere bada hizkuntza- konpetentzia garatzen laguntzea**, ikasleak arlo bakoitzeko egoerak egoki eta eraginkor ebatzi ahal izan ditzan. Arlo horietako oinarrizko konpetentziak lortzeko, ikasleak edukiekin batera ikasi behar ditu arloak berezko dituen esamoldeak, eta modu integratuan erabili behar ditu bakoitzeko egoerak/problemak ebazteko. Edukia eta hizkuntza integratzeko planteamenduak hizkuntza-konpetentzia garatzea dakar.
+:::
+
+# Azkenik {background-color="darkred"}
+
+::: callout-warning
+### Gaiari kolpetzeko aitzakia bila
+
+-   20 minutuko berbaldi bati zelan ekin gaiaz?
+-   Nork? Nori? Zergatik? Zertarako?
+
+**Zerrendatu bost egoera eta justifikatu zentzua**
+:::
+
+::: footer
+azken ariketa
+:::
+
+## Langai {.scrollable}
+
+Gaiari kolpetzeko, zalantza batzuri argitzeko bidea estauko diegu:
+
+-   Elebakartasunetik eleaniztasunera: zer iradokitzen dizu horrek EHn gaur egun?
+-   Jendartea aldatzen ari bide da hizkuntza-kontuetan. Zertan nabaritzen da hori eskoletan? (konparatu beste belaunaldi batzuetako eskolarekin)
+-   Hizkuntzei dagokienez, zer alde dago oraingo eskolen eta lehenagokoen artean? Irakasle batek zer aurkitzen du hizkuntzen kontuan ikasgela "estandar" batean?
+-   Gogoeta-gai honetan sakontzeko, pentsatu zeuen (hurbileko) esperientzian:
+    -   ikasle bezala txikitan nolako "panorama" zenuten gelan edo/eta ikastetxean?
+    -   orain irakasle-gai gisa praktiketan egon zaretenean, zer "panorama" ikusi dugu?
+    -   Gainera, bildu informazioa taldean, zeuen gurasoei eta aitita-amamen denboraz.
+-   Zer ondorio ateratzen dugu konparazioa eginez?
+-   Zer eskatzen zaio EHko eskola-instituzioari gaur egun hizkuntza kontuetan? Zer helburu ezartzen zaizkio? Zeri jarri behar dio arreta, orain dela 20 urte jartzen ez ziona?
+-   Eskatzen zaiona, zer arrazoiri erantzuteko eskatzen zaio eskolari?
+-   Zer norabidetan abiatuko gara gaurko egoerari erantzuteko? Norantz joanen gara?
+-   Zer orientabide ditugu norabide berriak lantzeko?
+    -   linguistikoak
+    -   soziolinguistikoak
+    -   psikolinguistikoak
+    -   hizkuntzaren didaktikaz
+
+::: footer
+azken ariketarako orientabidetzat
+:::
+
+## Bibliografia eta erreferentziak
+
+<small>
+
+Guasch, O. (2007): La educación multilingüe: un reto para el profesorado. In *Educación y Cultura*, *19*, 2: 135-147.
+
+Herdina & Jessner (2002): *A dynamic model of multilingualism*. Clevedon: Multilingual matters
+
+Hezkuntza, Unibertsitate eta Ikerketa Saila (2010): *Haur hezkuntzarako, lehen eta bigarren hezkuntzarako eta batxilergorako dekretu kurrikularrak Euskal Autonomia Erkidegoan*. Vitoria-Gasteiz: EJAZN
+
+Maia, J. (2015): *Hezkuntza elebiduna Euskal Herrian: 30 urteko ibilaldia*. Euskera, *59* (2): 578-624.
+
+Siadeco-Euskaltzaindia (1979) *Hizkuntza borroka Euskal Herrian*. Bilbo: Euskaltzaindia
+
+Pascual Granell, Vicent (2006): *El tractament de les llengües en un model d'educació plurilingüe per al sistema educatiu valencià*. València: Generalitat Valenciana --Conselleria de Cultura, Educació i Esport.
+
+Zalbide (2010): *Euskararen legeak hogeita bost urte. Eskola alorreko bilakaera: balioespen-saioa*. Bilbo: Euskaltzaindia
+
+Eusko Jaurlaritzaren eta Nafar Gobernuaren web orriak
+
+http://proyectolinguistico.webnode.es/
+
+</small>
