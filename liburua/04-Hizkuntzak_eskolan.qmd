@@ -15,3 +15,48 @@ Eskolan hizkuntzen tratamendua ez da soilik ikasleek hizkuntza bat edo beste bat
 -   Hizkuntza Indartzeko Programako Irakasleen Rola
 
 -   Hizkuntzen Tratamenduaren Erronkak
+
+::: {.callout-warning collapse="false" appearance="default" icon="true"}
+## Ariketa
+
+Lanak atal bi izango ditu. Bata banaka egin beharrekoa (aurre ezagutzak / aurre desezagutzak identifikatzeko) eta bigarrena, horien interpretazioa egiteko.
+
+**1. Banaka Egin Beharreko Atalak:**
+
+a.  **IHPren Azterketa** : Atal honetarako dokumentazioa aztertu beharko duzu
+
+-   Zer da IHP?
+
+-   Helburuak
+
+-   Osagaiak
+
+-   Zein garrantzi du?
+
+-   Nola eragiten du ikastetxe bakoitzeko egunerokoan?
+
+-   IHPren helburuek-eta nola eragiten duen ikastetxearen egunerokoan.
+
+b.  **Hikuntz-errefortzuko irakasle lanaren azterketa** (HIPI):
+
+-   Zer da hizkuntza-errefortzuko irakaslea?
+-   Rola eta garrantzia aztertu
+-   Zein dira lanerako esparruak?
+-   Zein dira haren eta helburuak?
+
+**2. Taldeka Egin Beharreko Atalak**: Atal honetarako dokumentuak erabili behar dira eta baieztapenak erreferentziatu.
+
+Ikastetxeko Hizkutza Proiektuen gainekoak aztertzeko erabili behar dira **derrigorrez** gutxienez hiru hizkuntza proiektu eta Ikastetxearen Hizkuntza Proiektua Egiteko Gida.
+
+Hizkuntza-errefortzurako irakaslearen rola, helburuak eta abar aztertzeko hezkuntzako hainbat dokumentu erabil daitezke aurrez aipatuaz gain: Dokumentu eta argitalpenak \> Eskola inklusiboa, Curriculum dekretuak eta dagozkien eranskinak, Heziberri2020ko marko pedagogikoa...
+
+-   Hezkuntzako dokumentazioaren argitara aztertu taldekideek aurrez idatzitakoak, usteak zuzentze aldera.
+
+-   Nabarmendu behar dira, beraz, uste orokortuak eta banaka baino ematen ez direnak, praktikak (esperientziak) eta arauak.
+
+-   Erabilitako bibliografia
+
+**Erreferentzia bila**
+
+Dudarik gabe, curriculum dekretuak eta Hezkuntza Saileko argitalpenak [@hezkuntzasaila752023DEKRETUA2023; @hezkuntzasaila772023DEKRETUA2023; @hezkuntzasailaHarreraPlanaIkasleBerrien2019; @berritzegunenagusiaIkastetxearenHizkuntzaProiektua2016; @hezkuntzahizkuntzapolitikaetakulturasailaHeziberri2020Hezkuntzaeredu2015]. Horiez gainera (eta euretariko batzuk bertatik jasota), [eskola inklusiboari dagokion atala](https://www.euskadi.eus/hezkuntza-berri-esk-inklusiboa-dokumentuak/web01-a2hberri/eu/), beste gairen batean ere aipatu duguna.
+:::
