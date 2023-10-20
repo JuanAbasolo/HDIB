@@ -304,7 +304,7 @@ https://sites.google.com/site/htbmintegia/\
 http://htbtil0809.wordpress.com/\
 http://nagusia.berritzeguneak.net/hizkuntzak/
 
-##  {background-color="darkred"}
+## {background-color="darkred"}
 
 ::: callout-warning
 ### Gaiari kolpetzeko aitzakia bila

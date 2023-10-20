@@ -1,0 +1,248 @@
+---
+title: "Mintegian:<small>AI, gu, gaur GrAL etab.</small>"
+author: "Juan Abasolo"
+format: 
+    revealjs: 
+        theme: [dark, css/nire_argia.scss]
+        footer: "Hizkuntzen Trataera Bateratua"
+        logo: '../liburua/assets/00/azala.png'
+        slide-number: true
+editor: visual
+---
+
+# LHko irakasleak
+
+## Erabilera gomendatuak {.scrollable}
+
+1.  **Baliabide Osagarria**:
+
+::: fragment
+ChatGPT ez da ordezkapen bat, baizik eta baliabide osagarri bat. Ikasleen galderak eta zalantzak argitzeko momentu zehatzetan erabil daiteke.
+:::
+
+2.  **Informazio Zabala**:
+
+::: fragment
+Gaur egungo informazioan sartzen den gai anitzetan laguntza eskaintzen du, irakasleari munduko azken jakintza edo ikuspegiak eskain diezazkoike.
+:::
+
+3.  **Lan Indibidualizatua**:
+
+::: fragment
+Ikasleen behar eta interesak kontuan hartuz, laguntza pertsonalizatua eskaintzen du.
+:::
+
+4.  **Hizkuntza Anitzeko Laguntza**:
+
+::: fragment
+Hainbat hizkuntzetan galderak erantzuteko gai da, hizkuntzak ikastearen prozesuan lagun dezake.
+:::
+
+5.  **Tutoretza Zabaldua**:
+
+::: fragment
+Eskola ordutegien kanpoan, ikasleek galderak badituzte, ChatGPT erabiliz, argibideak edo erantzunak jaso ditzakete.
+:::
+
+6.  **Heziketa Dinamikoa**:
+
+::: fragment
+Ikasleen interesa pizteko edo gai zehatz baten inguruko informazio gehigarria eskaintzeko erabil daiteke.
+:::
+
+7.  **Gaitasun Digitalen Sustapena**:
+
+::: fragment
+Teknologia erabilera arduratsuan trebatzeko balio du, gaitasun digitalak garatuz.
+:::
+
+8.  **Erabilera Erreaktiboa**:
+
+::: fragment
+Ikasle bakoitzak bere abiadura eta beharretan oinarritutako heziketa ahalbidetzen du, beren ikasteko prozesua hobetuz.
+:::
+
+## Arriskuak {.scrollable}
+
+::: fragment
+Lehen Hezkuntzan lanean ari diren maisu-maistren artean ChatGPT erabiltzearen arriskuak eta kontuz hartu beharreko aspektuak
+:::
+
+##  {.scrollable}
+
+1.  **Edukien Fidagarritasuna**:
+
+::: fragment
+Maisu-maistrek, ChatGPT erabiliz gero, fidagarriak direla pentsatu ditzaketen erantzunak jaso ditzakete. Hala ere, erantzun hauek beti ez dira egokiak edo zehatzak.
+:::
+
+2.  **Ikaslearen Autonomia**:
+
+::: fragment
+ChatGPTren erabilera gehiegizkoak ikasleen autonomia murriztu dezake, teknologia erabilera erraza gehiegi izan daitekeelako.
+:::
+
+3.  **Pribatutasunak**:
+
+::: fragment
+Ikasle edo maisu-maistren datu pribatuak sar daitezke. Informazio pribatua ez da sartu behar, eta aplikazioaren pribatutasun-politikei begiratu behar zaio.
+:::
+
+4.  **Heziketa Interaktiboa**:
+
+::: fragment
+Hezkuntzan, interakzioa oso garrantzitsua da. ChatGPT erabiliz gero, ikasleekin egindako interakzio soziala murriztu daiteke.
+:::
+
+5.  **Teknologia-mendekotasuna**:
+
+::: fragment
+Maisu-maistrek soilik teknologiara jomugan erabil dezakete, eta horrek teknologia-mendekotasuna sortu dezake.
+:::
+
+6.  **Erabilera Ez Adekuatua**:
+
+::: fragment
+Zerbitzu hauetan, ikasleekin elkarlanean erabiltzeko modu egokia identifikatzea ez da erraza. Horrek kontzeptu okerrak ikasteko arriskua dakar.
+:::
+
+7.  **Edukien Kontrola**:
+
+::: fragment
+Erabilera gehiegizkoa eragozten du maisu-maistrek beren hezkuntza-estrategia kontrolatzea, eta horrek kalitatea jaits dezake.
+:::
+
+8.  **Denbora-Kudeaketa**:
+
+::: fragment
+Maisu-maistrek teknologia erabilera gehiegizkoan erori daitezke, eta horrek beste lanak baztertu ditzakete.
+:::
+
+# Promptak
+
+##  {background-color="#444654"}
+
+![](irudiak/mintegia_01/CGPT01.png){fig-align="center"}
+
+``` txt
+Lehen Hezkuntzako irakasleen artean askok beldurrez begiratzen diote ChatGPT erabiltzeari, besteak beste, gizatasunik gabeko hezkuntza berri bat eraikitzen ari dela uste baitute.
+
+Eman maisu-maistra horientzako zortzi bat argudio ChatGPT erabiltzeak eman ahal dizkien aukerak nabarmenduta.
+```
+
+##  {background-color="#444654"}
+
+![](irudiak/mintegia_01/CGPT02.png){fig-align="center"}
+
+``` txt
+Lehen Hezkuntzan lanean ari diren maisu-maistren artean ChatGPT asko, gehiegi agian, hasi da erabiltzen; besteak beste produktibitatea igotzeko eta denboraren kudeaketan laguntzen dielako.
+
+Zein dira maisu-maistra horiek ChatGPT erabiltzearen arriskuak? Zeri  begiratu behar zaio kontu handiagoz?
+```
+
+## Orduan?
+
+::: callout-warning
+## Ariketa(txu)a {background-color="darkred"}
+
+Egin zure zerrenda bi:
+
+1.  Zer egin dezake LHko irakasleak AI erabilita?\
+    [2. Eta zer egin dezake LHko graduko 4. mailako ikasleak?]{.fragment}
+:::
+
+# Kontuan izatekoak, baliabideak eta abar
+
+## ChatGPT : Berbalapiko galanta
+
+::: incremental
+1.  2020tik atzera, ok... jakintza ezarrietan
+2.  Denaren gainean du zer esana, denari buruz jakin ez arren
+3.  Ez da inor
+4.  Benetan, ez da inor
+5.  Euskara ulertzen du, baina egiten ez da hain abila... eta ez hain traketsa ere.
+:::
+
+------------------------------------------------------------------------
+
+[![](irudiak/mintegia_01/When_use_ChatGPT.jpeg){fig-align="center"}](https://unesdoc.unesco.org/ark:/48223/pf0000385146_spa)
+
+## Eta zer gehiago?
+
+::: incremental
+1.  Gehigarriak arakatu
+    -   YouTube summary
+    -   ChatGPT for Google ...
+2.  Jenni, gure laguna da
+3.  Beste hamaika... ganoraz aztertzekoak 🙃
+:::
+
+# Bestelako teknologiak
+
+## Bilaketez
+
+------------------------------------------------------------------------
+
+`> berba_gakoa site:ehu.eus`
+
+. . .
+
+... edo
+
+`> filetype:pdf`
+
+. . .
+
+`> "berba gakoak" -kentzeko_berba -site:kentzeko.eremua.da`
+
+## APA 7th...
+
+[[[**Z**]{style="color: #800"}](https://zbib.org/)]{.centered}
+
+## Kromo gaitzak
+
+##  {background-color="#ffffff"}
+
+[![](https://www.enriquedans.com/wp-content/uploads/2021/01/Sci-Hub-768x488.jpg)](https://www.science.org/content/article/sci-hub-s-cache-pirated-papers-so-big-subscription-journals-are-doomed-data-analyst)
+
+##  {background-color="#000"}
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/85/Library_Genesis_Logo.png){fig-align="center"}
+
+##  {background-color="darkred"}
+
+::: callout-warning
+## [Eta gurea zer?]{style="color: #300"}
+
+Zerrendatu eta deskribatu labur GrALera begirako zure premiak
+:::
+
+## Bibliografia
+
+<small>
+
+McKenzie, L. (2017). Sci-Hub's cache of pirated papers is so big, subscription journals are doomed, data analyst suggests. *Science*. https://doi.org/10.1126/science.aan7164
+
+Sabzalieva, E., & Valentini, A. (2023). ChatGPT e inteligencia artificial en la educación superior: Guía de inicio rápido. UNESCO. https://unesdoc.unesco.org/ark:/48223/pf0000385146_spa
+
+Torres-Salinas, D., & Arroyo-Machado, W. (2023). Manual de ChatGPT: Aplicaciones en investigacióny educación universitaria (v1.1.). https://doi.org/10.5281/ZENODO.10025784
+
+</small>
+
+**eta estekaren bat**
+
+<small>
+
+-   UNESCOko Latinoamerika eta Karibean Adimen Artifizialaren gaineko mintegiko gehiago [hemen](https://www.iesalc.unesco.org/2023/04/14/chatgpt-e-inteligencia-artificial-en-la-educacion-superior-guia-de-inicio-rapido/ "ChatGPT, inteligencia artificial y educación superior: ¿Qué deben saber las instituciones de educación superior?")
+
+Aipamenei formatua emateko:
+
+-   https://zbib.org/
+
+-   https://www.bibme.org/
+
+Bibliografia multzo handiagoak kodeatzeko
+
+-   https://www.zotero.org/
+
+</small>
