@@ -8,7 +8,8 @@ book:
   author: 
     name: "Irakaslea: Juan Abasolo"
     affiliation: UPV/EHU
-  date: "2023/2024"
+  date: "`r Sys.Date()`"
+  date-format: "YYYY MM DD"
   favicon: "assets/00/azala.png"
   url: 'https://juanabasolo.github.io/HDIB/apunteak/'
   search: true

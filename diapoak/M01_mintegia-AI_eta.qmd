@@ -122,7 +122,9 @@ Maisu-maistrek teknologia erabilera gehiegizkoan erori daitezke, eta horrek best
 
 ##  {background-color="#444654"}
 
-![](irudiak/mintegia_01/CGPT01.png){fig-align="center"}
+![](irudiak/mintegia_01/CGPT02.png){fig-align="center"}
+
+
 
 ``` txt
 Lehen Hezkuntzako irakasleen artean askok beldurrez begiratzen diote ChatGPT erabiltzeari, besteak beste, gizatasunik gabeko hezkuntza berri bat eraikitzen ari dela uste baitute.
@@ -132,7 +134,7 @@ Eman maisu-maistra horientzako zortzi bat argudio ChatGPT erabiltzeak eman ahal 
 
 ##  {background-color="#444654"}
 
-![](irudiak/mintegia_01/CGPT02.png){fig-align="center"}
+![](irudiak/mintegia_01/CGPT01.png){fig-align="center"}
 
 ``` txt
 Lehen Hezkuntzan lanean ari diren maisu-maistren artean ChatGPT asko, gehiegi agian, hasi da erabiltzen; besteak beste produktibitatea igotzeko eta denboraren kudeaketan laguntzen dielako.
@@ -183,7 +185,7 @@ Egin zure zerrenda bi:
 
 ------------------------------------------------------------------------
 
-`> berba_gakoa site:ehu.eus`
+`> berba_gakoa site:interesekoa.eus`
 
 . . .
 
@@ -193,7 +195,15 @@ Egin zure zerrenda bi:
 
 . . .
 
-`> "berba gakoak" -kentzeko_berba -site:kentzeko.eremua.da`
+`> "berba gakoak"`
+
+. . .
+
+`> -kentzeko_berba -site:kentzeko.eremua.da`
+
+. . .
+
+Do you know GoogleScholar [button]{.fragment}?
 
 ## APA 7th...
 
