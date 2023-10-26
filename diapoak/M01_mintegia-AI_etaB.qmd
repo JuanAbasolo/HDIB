@@ -4,7 +4,7 @@ author: "Juan Abasolo"
 format: 
     revealjs: 
         theme: [dark, css/nire_argia.scss]
-        footer: "Hizkuntzen Trataera Bateratua"
+        footer: "Lehenengo mintegia"
         logo: '../liburua/assets/00/azala.png'
         slide-number: true
 editor: visual
@@ -46,6 +46,8 @@ Lehen Hezkuntzan lanean ari diren maisu-maistren artean ChatGPT erabiltzearen ar
 
 ##  {.scrollable}
 
+<small>
+
 1.  **Fidagarritasuna**:[ChatGPTk ez du informazio guztia, eta ez du beti erantzun egokiena ematen. Irakasleek informazioa egiaztatu behar dute eta ezin dute so egin ChatGPT-rekin]{.fragment}.
 
 2.  **Independentzia galera**: [Irakasleek beren gaitasunak garatu behar dituzte eta ezin dute erabat jarri teknologia batean, bestela dependentzia handi bat sortuko da]{.fragment}.
@@ -61,6 +63,8 @@ Lehen Hezkuntzan lanean ari diren maisu-maistren artean ChatGPT erabiltzearen ar
 7.  **Desmotibazioa**: [Teknologia erabiliz, irakasleek beren gaitasunetan konfiantza galtzen duten arriskua dago]{.fragment}.
 
 8.  **Gehiegizko sinplifikazioa**: [ChatGPT-k batzuetan erantzun sinpleak eman ditzake, eta horrek hezkuntzako prozesua pobretu dezake]{.fragment}.
+
+</small>
 
 # Promptak
 
@@ -81,8 +85,8 @@ Zein dira maisu-maistra horiek ChatGPT erabiltzearen arriskuak? Zeri  begiratu b
 
 Egin zure zerrenda bi:
 
-1.  Zer egin dezake LHko irakasleak AI erabilita?\
-    [2. Eta zer egin dezake LHko graduko 4. mailako ikasleak?]{.fragment}
+1.  Zer egin dezake HH edo LHko irakasleak AI erabilita?\
+    [2. Eta zer egin dezake HHko edo LHko graduko 4. mailako ikasleak?]{.fragment}
 :::
 
 # Kontuan izatekoak, baliabideak eta abar
@@ -105,9 +109,15 @@ Egin zure zerrenda bi:
 
 ## Artikuluren bat...
 
+<small>
+
 🤪 Alkaissi, H., McFarlane, S. I., Alkaissi, H., & McFarlane, S. I. (2023). Artificial Hallucinations in ChatGPT: Implications in Scientific Writing. *Cureus*, *15*(2). <https://doi.org/10.7759/cureus.35179>
 
-Carabantes, D., Gonzí¡lez-Geraldo, J. L., & Jover, G. (2023). ChatGPT could be the reviewer of your next scientific paper. Evidence on the limits of AI-assisted academic reviews. *Profesional de la información*, *32*(5), Article 5. https://doi.org/10.3145/epi.2023.sep.16
+Carabantes, D., González-Geraldo, J. L., & Jover, G. (2023). ChatGPT could be the reviewer of your next scientific paper. Evidence on the limits of AI-assisted academic reviews. *Profesional de la información*, *32*(5), Article 5. https://doi.org/10.3145/epi.2023.sep.16
+
+Nordling, L. (2023). How ChatGPT is transforming the postdoc experience. *Nature*, *622*(7983), 655--657. <https://doi.org/10.1038/d41586-023-03235-8>
+
+</small>
 
 ## Eta zer gehiago?
 
@@ -153,7 +163,7 @@ Do you know GoogleScholar [button]{.fragment}?
 
 ##  {background-color="#ffffff"}
 
-[![](https://www.enriquedans.com/wp-content/uploads/2021/01/Sci-Hub-768x488.jpg)](https://www.science.org/content/article/sci-hub-s-cache-pirated-papers-so-big-subscription-journals-are-doomed-data-analyst)
+[![](https://www.enriquedans.com/wp-content/uploads/2021/01/Sci-Hub-768x488.jpg){fig-alt="artikuluak-eta..."}](https://doi.org/10.1126/science.352.6285.508)
 
 ##  {background-color="#000"}
 
@@ -171,11 +181,15 @@ Zerrendatu eta deskribatu labur GrALera begirako zure premiak
 
 <small>
 
-McKenzie, L. (2017). Sci-Hub's cache of pirated papers is so big, subscription journals are doomed, data analyst suggests. *Science*. https://doi.org/10.1126/science.aan7164
+Bohannon, J. (2016). Who's downloading pirated papers? Everyone. *Science*, *352*(6285), 508--512. <https://doi.org/10.1126/science.352.6285.508>
 
-Sabzalieva, E., & Valentini, A. (2023). ChatGPT e inteligencia artificial en la educación superior: Guía de inicio rápido. UNESCO. https://unesdoc.unesco.org/ark:/48223/pf0000385146_spa
+McKenzie, L. (2017). Sci-Hub's cache of pirated papers is so big, subscription journals are doomed, data analyst suggests. *Science*. <https://doi.org/10.1126/science.aan7164>
 
-Torres-Salinas, D., & Arroyo-Machado, W. (2023). Manual de ChatGPT: Aplicaciones en investigacióny educación universitaria (v1.1.). https://doi.org/10.5281/ZENODO.10025784
+Nordling, L. (2023). How ChatGPT is transforming the postdoc experience. *Nature*, *622*(7983), 655--657. <https://doi.org/10.1038/d41586-023-03235-8>
+
+Sabzalieva, E., & Valentini, A. (2023). ChatGPT e inteligencia artificial en la educación superior: Guía de inicio rápido. UNESCO. <https://unesdoc.unesco.org/ark:/48223/pf0000385146_spa>
+
+Torres-Salinas, D., & Arroyo-Machado, W. (2023). Manual de ChatGPT: Aplicaciones en investigacióny educación universitaria (v1.1.). <https://doi.org/10.5281/ZENODO.10025784>
 
 </small>
 

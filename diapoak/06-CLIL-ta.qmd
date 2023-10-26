@@ -1,0 +1,438 @@
+---
+title: "HEBI / CLIL 🗨"
+author: "Juan Abasolo"
+format: 
+    revealjs: 
+        theme: [dark, css/nire.scss]
+        footer: "Hizkuntza eta Edukiak Batera Ikastea"
+        logo: '../liburua/assets/00/azala.png'
+        slide-number: true
+editor: visual
+---
+
+# Sarrera
+
+## CLIL/HEBI: Hizkuntza eta Edukiak Batera Ikastea" {.scrollable}
+
+::: incremental
+-   Zer den: CLIL/HEBI da ikasleek hizkuntza bat ikasten duten bitartean eduki zehatz batzuk ikasten duten metodoa
+-   Garrantzia: Hizkuntza eta edukiak batera ikasteko aukera ematen du, kultura-aniztasuna sustatuz
+-   Zergatik: Hizkuntza gaitasunak hobetzeko, edukiak hizkuntza batean ikasteko eta kultura-aniztasuna sustatzeko
+-   Abantailak:
+    1.  "Hizkuntza gaitasunak hobetzen dira."
+    2.  "Pentsamendu-kritikoa garatzen da."
+    3.  "Kultura-aniztasuna sustatzen da."
+-   Desabantailak:
+    1.  "Hizkuntza zailtasunak."
+    2.  "Irakasleen prestakuntza berezia behar da."
+    3.  "Baliabideen falta."
+:::
+
+# Historia-edo
+
+## **Hasierak**
+
+-   CLIL/HEBI metodologiaren oinarriak 1990eko hamarkadan zehar Europako hainbat herrialdeetan garatu ziren, hizkuntza aniztasuna eta hizkuntza ikaskuntza hobetzeko helburuarekin.
+
+-   Europako Batzordeak eta hainbat hezkuntza erakundeek sustatu zuten hizkuntza aniztasunaren eta kultura arteko ulermenaren garrantzia kontuan hartuz.
+
+## **Nork Asmatu:**
+
+-   CLIL moduan aipatzea David Marsh eta Anne Maljers-ek 1994an ezarri zuten, hizkuntza eta edukiaren integrazioaren garrantzia azpimarratzeko.
+
+-   Hala ere, metodologiaren ideia berria ez zen; hainbat herrialdean antzeko praktikak garatu ziren mendeetan zehar.
+
+## **Erreferentzia historikoak**
+
+-   **David Marsh:** CLIL metodologiaren aitzindari nagusietako bat da. Bere lanak hizkuntza ikaskuntza eta edukiaren integrazioaren garrantzia azpimarratu du.
+
+-   **Anne Maljers:** Hizkuntzaren didaktikaren arloko ikerlaria da eta Marsh-ekin batera CLIL terminoa ezarri zuen.
+
+-   **Do Coyle:** *4Cs Framework* eredua proposatu zuen, CLILen lau osagai garrantzitsuak azpimarratzeko: edukia, komunikazioa, kognizioa eta kultura.
+
+-   **Phil Ball** eta **Keith Kelly:** Biak CLILen aldekoak dira eta hainbat liburu eta artikulu idatzi dituzte gai honi buruz, irakasleentzat baliabide gisa.
+
+## **CLIL/HEBI-ren Helburuak: Hizkuntza eta Edukiak Batera Ikastea**
+
+------------------------------------------------------------------------
+
+**Hizkuntza Ikaskuntza:**
+
+-   CLIL/HEBIren bidez, ikasleek hizkuntza bat ikasten dute modu naturalago batean, eduki espezifikoak ikasten duten bitartean.
+
+-   Hizkuntza ikaskuntza ez da isolatuta gertatzen, baizik eta testuinguru zehatz batean, hau da, edukiaren barruan.
+
+------------------------------------------------------------------------
+
+**Edukiaren Ikaskuntza:**
+
+-   Ikasleek edukiak ikasten dituzte hizkuntza batean, hizkuntza horretan ikasteko gaitasuna garatzen duten bitartean.
+
+-   Hizkuntza eta edukiaren arteko integrazioak ikasleentzat ulertzeko errazagoa egiten du edukia.
+
+------------------------------------------------------------------------
+
+## CLIL/HEBI-ren Abantailak
+
+------------------------------------------------------------------------
+
+**Hizkuntza Gaitasunak:**
+
+-   Ikasleek hizkuntza gaitasun handiagoa garatzen dute, hizkuntza bat modu naturalagoan eta testuinguruztatuan erabiliz.
+
+-   Hizkuntza aniztasuna sustatzen da, hizkuntza ezberdinak ikasteko aukera emanez.
+
+------------------------------------------------------------------------
+
+**Pentsamendu kritikoa:**
+
+-   Ikasleek edukiak hizkuntza ezberdinetan ikasten dituztenean, ikuspegi anitzekoak bihurtzen dira.
+
+-   Hizkuntza ezberdinak erabiliz gogoeta sakonagoa egiten dute.
+
+------------------------------------------------------------------------
+
+**Kultura-Aniztasuna:**
+
+-   Ikasleek hizkuntza ezberdinetako kulturak ezagutzen dituzte, hizkuntza horietan ematen diren edukiak ikasten dituztenean.
+
+-   Kultura arteko ulermen handiagoa eta errespetua sustatzen da.
+
+------------------------------------------------------------------------
+
+## **CLIL/HEBI-ren Erronkak**
+
+------------------------------------------------------------------------
+
+**Hizkuntza Zailtasunak:**
+
+-   Ikasleek zailtasunak izan ditzakete hizkuntza berri bat erabiliz eduki zailak ikasten hastean.
+
+-   Hizkuntza barreirak izan daitezke hasieran.
+
+------------------------------------------------------------------------
+
+**Irakasleen Prestakuntza:**
+
+-   Irakasleek prestakuntza berezia behar dute CLIL/HEBI metodologia erabiltzeko.
+
+-   Hizkuntza eta edukiaren integrazioa egokia izateko estrategiak ikasi behar dira.
+
+------------------------------------------------------------------------
+
+**Baliabideen Falta:**
+
+-   Ikastetxe askok ez dute beti baliabide egokirik CLIL/HEBI metodologia erabiltzeko.
+
+-   Hizkuntza ezberdinak erabiliz edukiak irakasteko materialak sortzea beharrezkoa izan daiteke.
+
+# Oinarrizko ideiak
+
+## **CLIL compedium**
+
+Umeak eta gazteak hizkuntzak erraz ikasten dituzte, batez ere etxean erabiltzen direnean. Hizkuntza-ikasketan arrakasta izaten da jendeak irakaskuntza jasotzen duenean egiazko bizitzako egoerak baliatuta hizkuntza ikasteko. CLILek eskaintzen duen ikaste-ingurua naturala da, ikasleen motibazioa handitzeko eta hizkuntzak ikastearen aurrean jarrera positiboak indartzeko.
+
+## Coyle (2010) {.scrollable}
+
+CLIL ez da hizkuntza eta edukiak batera jartzea soilik. Bi alderdiak zaindu behar dira, eta bi alderdietan helburuak ezarri behar dira. CLIL beste hurbiltze modu bat da, eta ez da modu bakar bat. Testuinguruak desberdinak dira eta CLIL malgua da, testuinguru desberdinetan egokitu daiteke.
+
+. . .
+
+-   Garrantzia handia ematen zaio irakaslearen jarrera ohartuari. Irakasleak berak egin eta probatu behar du hurbiltze modu hau.
+-   CLIL ez da hizkuntza eta edukiak batera jartzea, besterik gabe: bi alderdiak zaindu behar dira. Bietan helburuak ezarri behar dira. Bien aitzinamendua programatu behar da.
+-   CLIL ez da "beste hizkuntza batean ikastea", besterik gabe; beste hizkuntza batean ikaste oro ez da CLIL planteamendu bat.
+-   Adibidez, atzerriko unibertsitate batean eskolak hartzea, berez CLIL da?
+-   Hizkuntza-helburuak eta beste edukien helburuak zaindu behar dira.
+-   CLIL beste hurbiltze modu bat da, gauzak egiteko beste ikuspegi bat.
+-   CLIL ezartzeko, ez da modu bakar bat. Testuinguruak desberdinak dira eta bakoitzaren ezaugarriak analizatu behar dira. CLIL malgua da, testuinguru desberdinetan egokitu daiteke. (Coyle, 2010)
+
+## *4C* markoa Content, Communication, Cognition, Culture {.scrollable}
+
+Edukia, Komunikazioa, Kognizioa, Kultura. Edukiak lehenbiziko garrantzia du, baina hizkuntza-gaitasunean hobera egin behar da. HEBIn batera bildu behar dira edukiak eta hizkuntza kognizio mailan eta kultura mailan.
+
+. . .
+
+-   Edukia (content): eduki berrietan progresioa: jakintzetan, trebetasunetan, ulerkuntzan (ez bakarrik esan-edukietan, jakintza soilean)
+-   Komunikazioa (communication): Interakzioa, aitzinamendua hizkuntzaren erabileran eta ikasketan. Learning to use language and using language to learn.
+    -   Hizkuntza erabili egiteari garrantzi handia (eta ez horrenbeste gramatikaren araberako antolamendua)
+-   Kognizioa (cognition): Goi-mailako gaitasunak lantzeko ideia: arazoak ebaztea, desafioak onartzea eta haietaz gogoeta egitea.
+    -   Erronka giroa, zailtasunak gainditzeko gogoa
+    -   Ez da irakasleak ikasleari jakintza transmititzea eta bai ikasleak bere jakintza eraikitzea
+-   Kultura (culture): beste kultura batekin harremana
+    -   Beste hizkuntza batean ikastean besteak ulertzeko gaitasuna lantzen da, nazioartekotasunaz ohartzeko ona
+    -   Egiazko materiala erabiltzean, besteen kulturaz ohartzen gara, eta ondorioz geure burua ere hobeki ezagutzen dugu
+    -   Ingurugiroan, hizkuntza-aniztasuna eta kultura-aniztasuna. (Coyle 2010: 53 eta hurr.)
+
+Content, Communication, Cognition, Culture - Edukia, komunikazioa, kognizioa, kultura: laurak lotuta
+
+**Edukiak** "tiratzen du" lehenbiziko (besteetan ere aurrera egiteko).
+
+Hizkuntza-gaitasunean hobera egin behar da, "**eskatu**" egin behar da, ez egoteko beti lehengo tokian
+
+HEBIn batera bildu behar dira edukiak eta hizkuntza **kognizio** mailan eta kultura mailan
+
+HEBIn arretaz zaindu behar dira aitzinamenduak lau ataletan: edukia, komunikazioa, kognizioa, kultura
+
+## Langé, Gisella 2001 {.scrollable}
+
+::: panel-tabset
+## 1
+
+Hizkuntza bera ez beste eduki bat irakastea beste atzerriko" hizkuntza baten bidez. Oreka bilatzen da edukien eta hizkuntzaren ikastearen artean. HEBI hainbat modutan egin daiteke
+
+## 2
+
+EBI hainbat modutan egin daiteke: urte batez gai bat edo gehiago irakats daiteke horrela, ikasgai bat edo gehiago, moduluren bat, proiekturen bat, ikasturtearen zati bat...
+
+## 3
+
+### Kontuan hartzeko ideia batzuk
+
+-   Esposizioaren zenbatekoa
+-   Esposizioaren nolakoa, kalitatea
+-   Ikasteko motibazioa
+
+## 4
+
+### Esposizioaren zenbatekoa
+
+<small>
+
+-   Bigarren (edo "beste") hizkuntza bat ikasteko faktore oinarrizko bat da esposizioa.
+-   Ikasleek hizketa espontaneoarekin, "naturalarekin" harremana izan behar lukete.
+-   Hobe testuinguru interaktibo batean baldin bada, non informazio asko jaso daitekeen beste hizkuntzaren estrukturaz eta funtzionamenduaz. Ikasleak horrelakoetan hipotesiak ere egiten ditu, ikasten ari den hizkuntzaz.
+-   Ikasteko prozesua luzea izan ohi da. Ikasleak hizkuntzaren jakite "okerrak" izanen ditu hizkuntza horren alderdi ugariak beretu arte. HEBIk aukera ematen du esposizio denbora handitzeko.
+
+</small>
+
+## 5
+
+### Esposizioaren nolakoa, kalitatea
+
+<small>
+
+-   HEBIk, esposizio denbora gehiago ez ezik, kalitate handiagoko esposizioa eskaintzen du.
+-   HEBIko eskoletan oso kontuan hartzen da interakzioa, estilo hori da nagusi. Ikasleek aukera ona behar dute irakaslearekin eta ikaskideekin harremana izateko. Horrela ikasleek praktikatzen dute dakitena eta "behartuta" daude beren hizkuntza baliabideak "handitzera", edukia ikasteak dakartzan eskakizunei aurre egiteko.
+-   Gainera, atzerriko hizkuntza (edo "gainerako" hizkuntza, "beste hizkuntza") erabiltzen denez eduki ez linguistikoak jasotzeko, horrek eskatzen du sakonagoko prozesamendua, eta azkenean hizkuntzaren "ikaste hobetua" lortzen da.
+-   HEBIan sarritan arazoak konpondu behar izaten dira hizkuntza erabilita. Ikasleak erabiltzen duelarik ikasten ari den hizkuntza bat zertarako-eta hizkuntza bera ez den beste ikasgai baten edukia ulertzeko eta ikasteko, beste kognizio prozesu batzuk abiatzen dira 2Hn (lehen hizkuntzaren ikastean gertatzen den gauza bera).
+
+</small>
+
+## 6
+
+### Ikasteko motibazioa
+
+-   HEBIk bilatzen du motibazio intrinsekoa, barne-motibazioa
+-   Ikaslea ari da hizkuntza erabiltzen zeregin interesgarri eta esanguratsuetan
+-   Hau da: HEBIk aukera anitz eskaintzen ditu *zeharbidezko hizkuntz ikasketa*[^1] gertatzeko
+    -   Ikaslearen arreta beste zerbaiti begira dagoenean, orduan gertatzen da ikasketa sakona, eta luze irauten duena
+    -   Positiboki osatzen du berariazko hizkuntza ikasketa (ohiko hizkuntz eskola emanaldietan gertatu ohi dena)
+
+## 7
+
+### Zein ikasgaitan
+
+<small>
+
+-   Edozein gai irakats daiteke atzerriko hizkuntzaren bidez, baina gaiek ezaugarri desberdinak dituzte
+-   Batzuetan hizkuntzak berak pisu handia du: historia, filosofia, politika...
+-   Beste batzuetan berbaz besteko komunikazioak pisu handiagoa izan dezake (material grafikoak, ikustekoak...): heziketa fisikoa, geografia, ...
+    -   Mapa baten laguntzarekin erraz landu daitezke honelako esapideak: "Rome is the capital city of Italy" edo "The capital of Italy is Rome".
+    -   Heziketa fisikoko irakasleak erakuts ditzake zuzenean mugimendu modu batzuk eta haiei dagozkien aditzak irakatsi: running, jumping, turning round, climbing.
+-   Kontu handiarekin sartu behar dira ikasgai berriak: testuinguruaren esanguratsutasunari arreta jarri behar zaio eta zuzen ulertzen dela bermatzen saiatu (ikasi-behar berria ongi aurkeztu, haren ulertze zuzena bermatzeko).
+
+</small>
+
+## 8
+
+### Denetarako hizkuntza eta berariazkoa
+
+-   Ikasgai guztiek badute orotariko hizkuntzaren oinarriaren beharra eskolako ohiko jardunetarako.
+-   Giza-zientzien eta ikasgai zientifiko eta teknikoen artean desberdindu daiteke?
+-   Giza-zientzietako hizkuntza, oro har, hizkuntza arruntetik "hurbilago" dago (egunkarietan, komunikabideetan entzun daiteke, elkarrizketetan...). **Ados?**
+-   Hizkuntza tekniko-zientifikoan, berriz, alor horretan besterik entzuten ez diren hitz asko ageri da, eta egitura sintaktiko bereziagoak ere bai
+
+**Alderatu historiako eta kimikako hiztegiak. Nazioarteko hitz asko?**
+:::
+
+[^1]: Zeharbidezko hizkuntz ikasketa, bidenabarreko hizkuntz ikasketa, ikasketa intzidentala = incidental learning.<br> Ikus zer esan nahi duen termino horrek, beste dokumentu batean ("Incidental learning dela eta")
+
+## 
+
+::: {.callout-warning collapse="false" appearance="default" icon="true"}
+## Ariketatxua
+
+Zein ikasgai zergatik? Zein mailatan?
+:::
+
+## Gisella (jarraipena) {.scrollable}
+
+::: {.panel-tabset} 
+
+## Ikasleak
+
+-   HEBIk ez du izan nahi hezkuntza elitista; edozein ikaslek har dezake onura HEBItik
+-   Ikasleek eta gurasoek libreki hautatuta, hobe
+-   Ikastetxe bakoitzak erabaki nola osatu taldeak, nola hautatu ikasleak, zer hizkuntz (eta bestelako) eskakizun ezarri sartzeko
+
+Ikasleentzako onurak:
+
+-   Motibazioa hazi ohi da, eduki interesgarriagoak eta autentikoagoak baliatu ohi direlako (*benetako materialaren* aurreko esposizioa)
+-   Interakzio handiagoak eta lankidetzarako joerak auto-konfiantza eta auto-estimua zabaltzen du; ikasle independenteagoak eta lana antolatzeko gaitasunak gehiago garatzeko bidea
+-   Hizkuntza gehigarrian esposizio denbora handiagoak hizkuntza-konpetentzia sendotzen du
+-   Ikasteko baldintza aldekoagoak izanik, HEBIk laguntzen du **ikasten ikasteko** gaitasuna garatzen
+-   Edukiak eta hizkuntza bateratzean, eta ikasleak ari direlarik akademikoki eta kognitiboki eskakizun handiagokoak diren jardunetan, HEBIk bizitu egiten ditu sormenezko pentsamendu prozesuak; aukera hobeak izaten dira konstruktibismoaren eta ikasketa kooperatiboa bezalako orientabideak modu autentikoagoan integratzeko eta aplikatzeko
+-   HEBIk aukera eman nahi du komunikazioa hobetzeko pertsonen eta kulturen artean. Hizkuntza gehigarriarekin izaten den kontaktuak eta haren ikasketan jasotzen den ikuspegiak laguntzen du garatzen komunikazio konpetentzia beste hizkuntza batean, eta gainera hizkuntzak ikasteko eta irakasteko beste ikuspegi bat eskaintzen du
+
+## Irakasleak
+
+Biziki gomendaturiko ezaugarriak HEBIko irakasle izateko[^2]
+
+[^2]: ea zer iduritzen zaizkigun
+
+-   Ongi erabiltzea hizkuntza gehigarria, beste hizkuntza.
+-   Ikasleen lehen hizkuntza jakitea ere onuragarria da (irakasleek igar lezake non izan daitezkeen ikasteko eragozpenak).
+-   HEBIko irakasleak aditua izan beharko luke edukiaren jakintza-alorrean eta gainera jakintza beharko luke *beste* hizkuntza bat ikastean parte diren osagai kognitibo, soziokultural eta psikologikoez.
+-   On litzateke HEBIko irakasleak lan-taldean aritzeko gaitasunak garatzea (eduki-irakasleen eta hizkuntza-adituen arteko lankidetza). Lankidetza-giro on batek hagitz handitu eginen du ikaslearen ikastea.
+-   HEBIko irakasleak prest egon behar luke ikasgelan ikerketan aritzeko. Garrantzi handikoak dira, orobat, luzera begirako konpromisoa, edukian eta hizkuntzan prestakuntza bikoitza, edo behinik behin, interesa eta trebetasuna edukia eta hizkuntza bateratzeko, eta halaber metodologia interaktiboak baliatzeko gaitasuna.
+
+Onurak irakasleentzat:
+
+-   Elkarrekin lan eginez, eduki-irakasleek eta hizkuntza-irakasleek konpartitu dezakete beren norbanako-jakintza eta eraiki dezakete elkar-jakintza.
+-   Garapen profesionala izateko aukerarik?
+
+:::
+
+## Euskal Herrian
+
+Euskal Herriaren desafioa da 3. hizkuntza ikas-irakastea CLIL ikuspegi honetatik. 1996an hasi zen, eta 2003an Hezkuntza marko hirueleduna (HMH) sortu zen. Gaur egun, hainbat ikastetxe proiektuan sartuak daude.
+
+## Eleaniztasunaren oinarri teorikoak
+
+Eleaniztunak hizkuntza-errepertorioa handitzen du, hiru hizkuntzatan. Eleaniztasunak kontzientzia metalinguistikoa (hizkuntz-oharmena) areagotzen du.
+
+...
+
+## Eleaniztasunaren oinarri teorikoak {.scrollable}
+
+-   Denbora gehiago ematen da atzerriko hizkuntzaren eraginpean (esposizio handiagoa)
+-   Hizkuntza bat beste edukiak ikasteko tresna gisa hartzen bada, beste gaitasun-alderdi batzuk aktibatzen dira
+-   Eleaniztasunak kontzientzia metalinguistikoa (hizkuntz-oharmena) areagotzen du
+-   Baldintzak egokiak badira, elebitasunak ahalmen kognitiboa handitzen du
+-   Azpian dagoen gaitasun erkidea dela eta, errazagoa da bestelako hizkuntza-errepertorioak gehitzea
+-   Ikasteko zereginekiko jarrera positiboak indartzen dira
+
+## Ikas-materialak {.scrollable}
+
+Motibagarria
+
+Egokia
+
+. . .
+
+Eusko Jaurlaritza:
+
+\+ INEBI: <https://nagusia.berritzeguneak.net/hizkuntzak/inebi-1-1.php>
+
+\+ BHINEBI: <https://nagusia.berritzeguneak.net/hizkuntzak/bhinebi-2.php>
+
+Andaluziako Gobernua:
+
+\+ <https://www.juntadeandalucia.es/educacion/descargasrecursos/aicle/html/pdf/004.pdf>
+
+\+ <https://www.juntadeandalucia.es/educacion/webportal/web/aicle/contenidos/>
+
+## Glosategia {.scrollable}
+
+Hizkuntza gehigarria (Additional Language)\\
+
+:   Gero eta gehiago erabiltzen da beste hitz batzuen ordez (atzerriko hizkuntza, bigarren hizkuntza, gutxiengo-hizkuntza), lehen hizkuntza ez den beste edozein hizkuntzari erreferentzia egiteko.
+
+Ingurune elebiduna (Bilingual Environment)\\
+
+:   Bi hizkuntza erabiltzen diren ingurunea
+
+Esposizioa (Exposure)\\
+
+:   Ikasle batek urte akademiko batean jasotzen duen HEBI-CLIL esperientziaren proportzioa
+
+Apala/Txikia (Low)\\
+
+:   eskola-denboraren %5-15 (teaching time)
+
+Tartekoa (Medium)\\
+
+:   eskola-denboraren %15-50
+
+Handia (High)\\
+
+:   eskola-denboraren % 50 baino gehiago (Euskal Herriko D eredu batzuk)
+
+Atzerriko hizkuntza (Foreign Language)\\
+
+:   Normalean ingurune sozialean erabili ohi ez den hizkuntza bat.
+
+Murgiltze metodoa (Immersion Method)\\
+
+:   HEBI-CLIL modu bat, bigarren hizkuntza batean esposizio handia izan ohi duena (ikasleen lehen hizkuntza gaztelania duen D eredu asko)
+
+Jakintza eta ulerkuntza kulturartekoa/Kulturartekotasuna (Intercultural Knowledge & Understanding)\\
+
+:   Nork bere kultura ulertzea beste kultura batzuekin harremanetan
+
+Hizkuntza-oharmena (Language Awareness)\\
+
+:   Hizkuntzen arteko antz-aldeez ohartzeko erraztasuna, sentsibilitatea
+
+Gehiengo-hizkuntza (Majority Language)\\
+
+:   Inguruneko jendartean erabiltzen den hizkuntza handiena, indartsuena.
+
+Gutxiengo-hizkuntza (Minority Language)\\
+
+:   Inguruneko jendartean gutxiengoak erabiltzen duen hizkuntza
+
+Ingurune elebakarra (Monolingual Environment)\\
+
+:   Ingurune bat non hizkuntza bat bakarra erabili ohi den nagusiki
+
+Ama-hizkuntza (Mother Tongue)\\
+
+:   Gehienean, ume batek ikasten eta erabiltzen duen lehen hizkuntzari esaten zaio hala, baina batzuetan umea elebidun osoa da eta beharbada bi hizkuntza (edo gehiago) izan ditzake lehen hizkuntzatzat
+
+Ingurune eleaniztuna/Eleaniztun ingurunea/Eleanitzeko ingurunea (Multilingual Environment)\\
+
+:   Ingurune bat non hiru hizkuntza edo gehiago egiazki erabiltzen diren
+
+Jatorrizko hiztuna/hiztun natiboa (Native Speaker)\\
+
+:   Helburu-hizkuntza (CLILen landu-gai den hizkuntza) bere lehen hizkuntzatzat duen pertsona
+
+Jarrera eleaniztunak (Plurilingual Attitudes)\\
+
+:   Jarrera hori dutenek balioa ematen diote hiru hizkuntza edo gehiago maila batean edo bestean erabiltzeko gaitasunari
+
+Bigarren hizkuntza (Second Language)\\
+
+:   Termino hori erabiltzen da deskribatzeko hizkuntza bat ingurunean ugari erabiltzen dena eta atzerriko hizkuntzatzat hartzen ez dena
+
+Xede-hizkuntza (Target Language)\\
+
+:   HEBI-CLILerako erabiltzen den hizkuntza
+
+Trans-languaging\\
+
+:   Hizkuntza bat baino gehiago erabiltzen denean HEBI-CLILeko ikasgela-lanetan
+
+Gehiago jakiteko: http://www.clilcompendium.com/keyt.htm
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Gaiari kolpetzeko aitzakia bila
+
+-   20 minutuko berbaldi bati zelan ekin gaiaz?
+-   Nork? Nori? Zergatik? Zertarako?
+
+**Zerrendatu bost egoera eta justifikatu zentzua**
+:::
