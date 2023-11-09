@@ -1,0 +1,165 @@
+---
+title: "IKTak hezkuntza eta Hizkuntza 📔"
+author: "Juan Abasolo"
+format: 
+    revealjs: 
+        theme: [dark, css/nire.scss]
+        footer: "Hizkuntza eta Edukiak Batera Ikastea"
+        logo: '../liburua/assets/00/azala.png'
+        slide-number: true
+editor: visual
+---
+
+### curriculum-edo hori... zer zen?
+
+## Erantzun eta alderatu zure ikaskideekin {.scrollable}
+
+-   Ordenagailu portatila noiz uzten duzu? Eta telefonoa/superordenagailu/superkontrolerako hori?
+
+-   Zertarako erabiltzen duzu ordenagailua? \[zerrenda\]
+
+-   Noizero begiratzen duzu zure e-posta? Wasap, Instagram, TikTok...
+
+-   Zer aplikazio informatiko erabiltzen dituzu? \[zerrenda\]
+
+    ::: incremental
+    -   Nabigatzeko
+
+    -   Idazteko
+
+        -   Banaka, taldeka, garatu, aurkeztu ...
+
+    -   PDFak lantzeko
+
+    -   Irudiak lantzeko (bideoak, soinua...)
+    :::
+
+-   Zertarako
+
+-   Zer web-orri erabiltzen dituzu?
+
+-   Zertarako?
+
+-   Zein bilatzaile erabiltzen d(it)uzu?
+
+-   Erabiltzen duzu euskarazko web-orririk?
+
+-   Zertarako?
+
+-   Nola erabili IKT-ak hezkuntzan?
+
+# Datuak
+
+## 👁️
+
+. . .
+
+Sartu [hemen](https://myactivity.google.com/myactivity?pli=1) eta ea zer dakien 👁️‍🗨️k
+
+. . .
+
+> Hodeia, beste baten ordenagailua da
+
+# Hezkuntzan
+
+## 🤑 hezkuntzaren erabilera
+
+. . .
+
+Enpresa teknologikoak eta gure erabaki(ez)ak
+
+## Baina IKTen presentzia 💻📱🖨️...
+
+🇸🇪 [+](https://bbkfamily.bbk.eus/eu/suediak-eskola-digitalizazioa-geldiarazi-du-gauza-bera-egin-beharko-genuke/) [++](https://pt.wikipedia.org/wiki/Minist%C3%A9rio_da_Educa%C3%A7%C3%A3o_(Su%C3%A9cia)) [!](https://sv.wikipedia.org/wiki/Lotta_Edholm) [!!](https://sv-m-wikipedia-org.translate.goog/wiki/Lotta_Edholm?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=eu&_x_tr_pto=wapp)
+
+. . .
+
+🤔
+
+. . .
+
+Noiz nork erabili + horren eraginak
+
+## Noiz eta zelan
+
+. . .
+
+Ikasleek: guk bideratuta
+
+. . .
+
+Guk lanak hobeto egiteko
+
+## Hizkuntza e-paisaia
+
+::: incremental
+-   Classroom
+
+-   Eki Plataforma Digitala
+
+-   Duolingo
+
+-   Chrome
+
+-   ChromeOS
+
+-   Windows
+
+-   ...
+:::
+
+# Euskaraz
+
+## WebGuneak
+
+-   Txikipedia: https://eu.wikipedia.org/wiki/Txikipedia:Azala
+-   IKTeroak, EuskalJakintza...
+-   Jokotuber Vs Game erauntsia
+
+## Baliabide libreak hezkuntzan
+
+Luberri [\*](https://luberrilinux.eus/)
+
+Euskarabildua [\*\*](Euskarabildua: https://euskarabildua.eus/aurreko-edizioak/)
+
+## Euskara zuzentasunez erabiltzeko interneteko baliabideak
+
+Tresnak
+
+-   AzkueFundazioa (jausita gaur)
+-   EJ: https://www.euskadi.eus/eusko-jaurlaritza/euskara-tresnak/
+    -   Hiztegiak
+    -   Euskarazko IKT produktuak
+-   Cryptpad
+-   Moodle
+
+## Etorkizuna eraikitzeaz...
+
+[CommonVoice](08-2023_cv-MJ.pdf) ⏯️
+
+## Euskara buruan eta ibili munduan
+
+-   Lehen Hitza
+-   Xuxen
+-   Euskalbar
+
+# Zenbait webgune
+
+[Iazkoetan](09-IKT2022V0.pdf) ⏯️
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Ariketa
+
+Euskaraz (ere ba)diren webguneen zerrenda sailkatu.
+
+Zerrenda horri taldekide bakoitzak beste bostekin hornitu beharko du. Bost horiek gehitzeko honako ezaugarriak izan behar dira kontuan:
+
+-   Izena
+-   Esteka
+-   Egilea
+-   Helburua
+-   Datuak batzea
+-   Erabilera didaktiko posibleak
+:::
