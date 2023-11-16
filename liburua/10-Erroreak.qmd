@@ -1,1 +1,3 @@
- 
+# Lapsusak, huts egiteak eta erroreak
+
+Baliabideak: [\*](../diapoak/10-Erroreak01.pdf) [\*\*](../diapoak/10-Erroreak02.pdf)

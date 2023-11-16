@@ -1,0 +1,180 @@
+---
+title: "Zenbait tresna teknologiko 📔"
+author: "Juan Abasolo"
+format: 
+    revealjs: 
+        theme: [dark, css/nire.scss]
+        footer: "IKTen erabilera, tresnak eta aukerak"
+        logo: '../liburua/assets/00/azala.png'
+        slide-number: true
+editor: visual
+---
+
+# IKTak aukera
+
+## Hizkuntza idatziaz
+
+------------------------------------------------------------------------
+
+{{< video https://youtu.be/d9D7wiwWv8M >}}
+
+## Ariketa bat HHko gelan: *Zer du gogoko umeak?*
+
+[+](http://munitibarkoeskolahlhi.blogspot.com/search?updated-max=2016-05-04T15:20:00%2B02:00&max-results=7) - [++](http://munitibarkoeskolahlhi.blogspot.com/search?updated-max=2016-04-13T15:48:00%2B02:00&max-results=7&start=7&by-date=false)
+
+## 
+
+### KJO9I874ºGHU
+
+![](https://3.bp.blogspot.com/-WaASfY4W9xQ/VyNe3wCa69I/AAAAAAAADHg/qugElR2vz9I0ocM0W7qndYENcG8RKSo8wCLcB/s400/00000001.jpg "pelikula bat mounstroana")
+
+3 urte eta 5 hile
+
+## 
+
+### OCIEA UEX OAEA
+
+![](https://2.bp.blogspot.com/-N5cl93A8OHs/VyNdyKTU39I/AAAAAAAADHQ/GONzy_0K2rMXmRLQ3YlHDYdmCegQJkgvgCLcB/s400/00000001.jpg "lo egitea eta muinekakaz jolastea")
+
+4 urte eta hilabete
+
+## 
+
+### LORAK BIE
+
+![](https://1.bp.blogspot.com/-rZ1z8axBA5Y/Vx4aCMOQxMI/AAAAAAAADEQ/CEY-vPGqSoo9Bn6axXLC0MYjbwAjQUEzACKgB/s1600/00000001.jpg "lorak batzie"){width="50%"}
+
+4 urte eta 5 hile
+
+## 
+
+### DANSA EGTA
+
+![](https://2.bp.blogspot.com/-RdW9-J-z2Nc/Vw5MIvlnMAI/AAAAAAAAC6Y/2Pk1a5irrgY0tkNLsTAKDrDQBsi_ma9awCLcB/s400/Aina.jpg "dantza egitea")
+
+4 urte eta 7 hile
+
+## 
+
+### KOPAKO COKOA
+
+![](https://3.bp.blogspot.com/-xwrzNIpACVQ/VxonJpwxWOI/AAAAAAAADCU/R77z7uaHf6QrFFdFtX_A4yBdTwy4ZGxrACLcB/s1600/00000001.jpg "kopako jokoa"){width="40%"}
+
+4 urte eta 9 hile
+
+## 
+
+### MUEAI JOLSTA
+
+![](https://3.bp.blogspot.com/-XQahBvBqyuk/Vx4aHbbEODI/AAAAAAAADEM/1me_0Z3tY9Ux0BfZS-0zyP4uGwipkAw2wCLcB/s400/00000001.jpg "muinekakin jolastea")
+
+4 urte eta 9 hile
+
+## 
+
+### PAIOJ OLASTEA
+
+![](https://3.bp.blogspot.com/-Fub22OuPfoA/VxDRnRv94oI/AAAAAAAAC7E/N5j5XE36F_A53NWct5P_3vgtpo32-oppACLcB/s400/Lander.jpg "Playmobilakin jolastea")
+
+5 urte eta 4 hile
+
+## 
+
+### ESKUPPILOTAN GOLSTEA
+
+![](https://3.bp.blogspot.com/-8f0IDZWlwAQ/VxDR13b4toI/AAAAAAAAC7M/NTvaQtPlnqofNZX57LPx8snK29JC7qYpwCLcB/s400/Aner.jpg "eskupilotan jolastea")
+
+6 urte eta hile bi
+
+## Atzo
+
+[Lurralde ezberdinak](https://munitibarkoeskola456.blogspot.com/)
+
+# Bestelako erreminta batzuk
+
+##  
+
+Hipertesuak eta hiper-estekak
+
+. . .
+
+Ideiak mapeatzeko softwarea
+
+. . .
+
+Idazketan aztertzeko tresnak eta IDAT
+
+## {background-color="darkred"}
+
+::: callout-warning
+### Ariketa (1/3)
+
+framapad.org helbidean sartu eta sortu dokumentu bat hor honako idatzia egiteko:
+
+Berbazko diskurtso irakurria idatzi behar duzu, lanean hasi berria zaren ikastetxeak IKTen erabilera beste era batera bideratzearen onurez konbentzitzeko.
+
+**Nork**: Irakasle hasi berria  
+**Norentzat**: Irakasle zahar eta ohituraz erratuak  
+**Zertarako**: Claustroan irakurtzeko  
+**Helburua**: Aldaketaren beharraz konbentzitzea  
+
+Hori idazten ez zenuke pasatu beharko 20 minutu baino gutxiago ezta 30 baino askoz gehiago ere.
+:::
+
+## {background-color="darkred"}
+
+::: callout-warning
+Jaitsi fitxategia
+:::
+
+## IDAT
+
+[Aurkezpen sui generisa](IDAT-Aurkezpena.html) ⏯️
+
+## Idazketaren modeloa
+
+![](08-Flower-Hayes1980modeloa.png)
+
+##
+
+![](08-Conijn-2022.png)
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Ariketa 2/3
+
+Taldekideon artean aztertu binaka edo hirunaka zuon idatziak IDATapp erabilita
+
+labur.eus/HDIBidatapp
+:::
+
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Ariketa 3/3
+
+Taldekideon artean eztabaidatu zuok baliabideon erabilgarritasuna gelan.
+
+Zerk lagunduko lioke gelako irakasleari ikasleen idazketa prozesuan aurrera egiten
+:::
+
+
+
+
+# Taldean idaztea
+
+## 
+
+![](08-Sharples_et_al_93.png)
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Aztertu taldeko idatzia
+
+Deskribatu eta azaldu taldeko jardunaren nondik norakoa, ebidentzietan oinarriturik (taldeka?)
+
+Azaldu horretan ikusten duzuena (banaka)
+:::

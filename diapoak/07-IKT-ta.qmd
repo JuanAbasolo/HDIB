@@ -4,7 +4,7 @@ author: "Juan Abasolo"
 format: 
     revealjs: 
         theme: [dark, css/nire.scss]
-        footer: "Hizkuntza eta Edukiak Batera Ikastea"
+        footer: "IKTen erabilera eta hizkuntza"
         logo: '../liburua/assets/00/azala.png'
         slide-number: true
 editor: visual
@@ -120,7 +120,7 @@ Guk lanak hobeto egiteko
 
 Luberri [\*](https://luberrilinux.eus/)
 
-Euskarabildua [\*\*](Euskarabildua: https://euskarabildua.eus/aurreko-edizioak/)
+Euskarabildua [\*\*](Euskarabildua:%20https://euskarabildua.eus/aurreko-edizioak/)
 
 ## Euskara zuzentasunez erabiltzeko interneteko baliabideak
 
