@@ -172,7 +172,7 @@ Elkarrekiko koordinazioan
 
 :   Honelako jardunetan idazle guztiek idazten dute testu bakar batean elkarren lanak eta ekarpenak kontuan izanda, hartara bakoitzak bera ari den inguruan egokitzapenak egin ditzake
 
-![Talde lana batzuetan UPV/EHUn](assets/9/Talde_lana.jpg)
+![Talde lana batzuetan UPV/EHUn](assets/9/Talde_lana.jpg){width="322"}
 
 Egiletzarako estrategiak Posnerrek eta Baekerrek -[@posnerHowPeopleWrite1992] honela sailkatu zuten:
 
@@ -216,9 +216,9 @@ Ariketa honetan espero da zuk azken testuaren ezaugarriez gain, ekoizpen prozesu
 1.  Idatzi Etherpad instantzia batean[^09-ikt(2tresnak-2] testua:\
     *Berbazko diskurtso irakurria idatzi behar duzu, lanean hasi berria zaren ikastetxeak IKTen erabilera beste era batera bideratzearen onurez konbentzitzeko.*
 
-    **Nork**: Irakasle hasi berria  
-    **Norentzat**: Irakasle zahar eta ohituraz erratuak  
-    **Zertarako**: Claustroan irakurtzeko  
+    **Nork**: Irakasle hasi berria\
+    **Norentzat**: Irakasle zahar eta ohituraz erratuak\
+    **Zertarako**: Claustroan irakurtzeko\
     **Helburua**: Aldaketaren beharraz konbentzitzea
 
 2.  Jaitsi testua formatu irakurgarrian eta `etherpad` formatuan, horretarako eskaintzen den esportazio - inportazio aukera erabilita (gezi bi elkarren gainean)
