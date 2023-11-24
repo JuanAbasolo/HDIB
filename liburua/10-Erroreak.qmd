@@ -6,6 +6,10 @@ Hizkuntz erroreen aurrean irakaskuntzak hainbat jarrera hartu ditu. Erabat bazte
 
 Ikasleak hizkuntza-ikasle diren neurrian, hizkuntza hutsegitez ederto jantziak izango dira haien ekoizpen linguistiko asko eta asko. Horiek aztertzeko markoa gai honetan eraikitzen ahaleginduko gara.
 
+{{< video https://www.youtube.com/embed/q7YsiBEax0Y >}}
+
+------------------------------------------------------------------------
+
 Hizkuntza ikaskuntzaren testuinguruan, erroreak ez dira soilik ezagutza formalaren nork beretzat egitearen emaitza, baizik eta, askotan, benetako baldintzetan aritzeko abileziaren adierazle gisa ulertzen dira. Hizkuntza trebetasuna, beste norbaitek baino hobeto aritzen denari arretaz behatuz hobetzen da, eta horrek hizkuntza ikaskuntzan erroreen zeregina berrikusteko beharra azpimarratzen du. Historikoki, hizkuntza irakaskuntzaren planteamendu behavioristek ikusi-ahala-menderatu printzipioa erabili zuten; horretan errorea porrotzat hartzen zen; hartara, sentimendu negatiboak sortzen zituen ikasle zein irakasleen artean. Ellis-ek adierazten du errorea eta zuzenketa hutsegite moral gisa ikusi daitezkeela, ikasleen jarrera pasiboa eta arriskurik ez hartzekoa eraginez.Azken urteetan erroreen inguruko ikuspegia aldatu egin da.
 
 Ikasleak bigarren hizkuntzan egiten dituzten erroreak, orain, hizkuntza eskuratzen ari diren seinaletzat hartzen dira, ez ikaskuntza ezaren adierazletzat. Beraz, erroreak ikaskuntza prozesuaren beharrezko parte gisa eta baliagarri gisa ikusten dira. Horrek planteamendu berria eragin du, horretan erroreak ulertzen dira ikasleentzat hipotesiak egokitzeko aukera moduan eta birformulatzeko informazio-iturri gisa balioesten dira. Horrek ikaslearen ziurtasuna eta performantzia arrakastatsuaren ekarpena balioztatzen du, eta aldi berean, irakasleak emandako feedback egokiaren bidez performantzia ez-arrakastatsuaren balioa ere aitortzen du.
