@@ -1,5 +1,7 @@
 # Hizkuntzen Ikaskuntza Irakaskuntza eta Ebaluaziorako Europako Erreferentzia Markoa eta *Hizkuntzen Portfolio Europarra*
 
+📔
+
 Baliabideak: [@europakokontseiluaHizkuntzenIkaskuntzaIrakaskuntza2005; @europakokontseiluaCommonEuropeanFramework2020; @davisHizkuntzenPortfolioEuroparra2004; @alariotriguerosPortfolioEuropeoLenguas2004] [\*](../diapoak/00-EEMB-HPE.html)
 
 Saio honetan, Europako hizkuntza politikaren oinarriak aztertzen dira. Ikasleek hizkuntza mailak eta hizkuntza portfolioa ulertzeko tresnak hartuko dituzte, eta beraien hizkuntza ibilbidea aztertzeko aukera izango dute.

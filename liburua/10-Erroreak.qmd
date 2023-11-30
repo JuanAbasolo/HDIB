@@ -1,5 +1,7 @@
 # Lapsusak, huts egiteak eta erroreak
 
+📔
+
 Baliabideak: [@larreaErroreakBigarrenHizkuntzaren2008; @corderErrorAnalysisInterlanguage1981; @esnalErroreakHelduenEuskalduntzearen1988; @corderErrorAnalysisInterlanguage1975; @onederraEuskaltzaindiarenAhoskeraBatzordearen2015; @torijanoErroresAprendizajeAprendizaje2004; @larreaIkasleenHizkuntzaErroreak2009; @selinkerTartekoHizkera1996; @selinkerInterlanguage1972; @bleichenbacher2016teacher] [\*](../diapoak/10-Erroreak01.pdf) [\*\*](../diapoak/10-Erroreak02.pdf)
 
 Hizkuntz erroreen aurrean irakaskuntzak hainbat jarrera hartu ditu. Erabat baztertu beharreko ezaugarritzat hartzetik gaur eguneko jarrera analitikoetara.
@@ -133,7 +135,7 @@ Hutsegiteak ikaskuntza prozesuaren parte naturala dira eta irakasleek hori ulert
 Irakasleek erroreak zuzentzeko zenbait teknika erabil ditzakete, Grymonprezek eta beste adituek proposatutako irizpideak jarraituz, hala nola ikaslearen autonomia garatzea, ikasleei pertsonalizatutako irtenbideak eskaintzea, eguneroko jardueretan txertatzea eta errore berari egoera ezberdinetan aurre egitea. Teknika horien artean, portfolioen erabilera, lexiko berriaren bilketa, web-blogen sortzea, "Eguneko errorea" lantzea, ikasleen arteko idazlanen trukaketa, klasean zuzenketak egitea, talde-lanak, ahozkotasuna lantzeko grabazioak, hutsegiteen artxiboa, idazkera eredugarrien bilduma, testuen itzulpena eta beridazketa, eta ikasleen elkarrizketak aipatzen dira. Garrantzitsua da teknika hauek ikasgelan modu egokian aplikatzea, ikasleen hizkuntza gaitasuna hobetzea xede dutelarik.
 
 | Teknika                    | Azalpen Laburra                                        |
-|----------------------------|--------------------------------------------------------|
+|------------------------|-----------------------------------------------|
 | Portfolioa                 | Ikasleen lanak bildu eta berrikusteko.                 |
 | Lexiko Berriaren Egunkaria | Hitz berriak eta gakoak jasotzeko.                     |
 | Interneteko Baliabideak    | Feedbacka eskatzen duten baliabideak erabiltzea.       |
@@ -158,7 +160,7 @@ Irakasleek erroreak zuzentzeko zenbait teknika erabil ditzakete, Grymonprezek et
 ### Zenbait iradokizun
 
 | Puntu/Iradokizuna                           | Laburpena                                                                                                          |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+|---------------------|---------------------------------------------------|
 | Huts-egiteak eta erroreak bereiztea         | Ikasleek hutsegiteak beren kabuz zuzen ditzakete; erroreak beste baten laguntzarekin egin behar dute.              |
 | Erroreen balioa eta larritasunaz            | Erroreen eta hutsegiteen balioa eta larritasuna testuaren testuinguruan ulertzen da, ez esaldi solteetan.          |
 | Irakasleen arduraz hizkuntzaren erabileran  | Hizkuntzaren erabilera zuzen eta egokia irakasle guztien ardura da.                                                |

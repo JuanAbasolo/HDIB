@@ -1,5 +1,7 @@
 # IKTak eta (gure) hizkuntza
 
+📔
+
 Diapositibekin esandakorako iturri batzuk, sakondu nahi izanez gero: @carmichaelOpenSourceAppropriate2002; @delacuevagonzalez-coteraConfiguracionSoftwareComo2019; @lakhanOpenSourceSoftware2008a; @pankajaProprietarySoftwareOpen2013; @yuEducationDomainNatural2022 [\*](../diapoak/07-IKT-ta.html)
 
 Arazo teknikoak direla eta, dipositibetan zabalduta dago informazioa. Eskerrik asko pazientziagatik.

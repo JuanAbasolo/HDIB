@@ -92,7 +92,7 @@ editor: visual
 
 # Bestelako erreminta batzuk
 
-##  
+## 
 
 Hipertesuak eta hiper-estekak
 
@@ -104,7 +104,7 @@ Ideiak mapeatzeko softwarea
 
 Idazketan aztertzeko tresnak eta IDAT
 
-## {background-color="darkred"}
+##  {background-color="darkred"}
 
 ::: callout-warning
 ### Ariketa (1/3)
@@ -113,15 +113,15 @@ framapad.org helbidean sartu eta sortu dokumentu bat hor honako idatzia egiteko:
 
 Berbazko diskurtso irakurria idatzi behar duzu, lanean hasi berria zaren ikastetxeak IKTen erabilera beste era batera bideratzearen onurez konbentzitzeko.
 
-**Nork**: Irakasle hasi berria  
-**Norentzat**: Irakasle zahar eta ohituraz erratuak  
-**Zertarako**: Claustroan irakurtzeko  
-**Helburua**: Aldaketaren beharraz konbentzitzea  
+**Nork**: Irakasle hasi berria\
+**Norentzat**: Irakasle zahar eta ohituraz erratuak\
+**Zertarako**: Claustroan irakurtzeko\
+**Helburua**: Aldaketaren beharraz konbentzitzea
 
 Hori idazten ez zenuke pasatu beharko 20 minutu baino gutxiago ezta 30 baino askoz gehiago ere.
 :::
 
-## {background-color="darkred"}
+##  {background-color="darkred"}
 
 ::: callout-warning
 Jaitsi fitxategia
@@ -135,7 +135,7 @@ Jaitsi fitxategia
 
 ![](08-Flower-Hayes1980modeloa.png)
 
-##
+## 
 
 ![](08-Conijn-2022.png)
 
@@ -149,7 +149,6 @@ Taldekideon artean aztertu binaka edo hirunaka zuon idatziak IDATapp erabilita
 labur.eus/HDIBidatapp
 :::
 
-
 ##  {background-color="darkred"}
 
 ::: callout-warning
@@ -160,28 +159,25 @@ Taldekideon artean eztabaidatu zuok baliabideon erabilgarritasuna gelan.
 Zerk lagunduko lioke gelako irakasleari ikasleen idazketa prozesuan aurrera egiten
 :::
 
-
-
-
 # Taldean idaztea
 
 ## 
 
 ![](08-Sharples_et_al_93.png)
 
-## Egiletzarako estrategiak 
+## Egiletzarako estrategiak
 
 <small>Posner & Baecker (1992)</small>
 
 . . .
 
-Idazle bakarreko estrategia 
+Idazle bakarreko estrategia
 
 . . .
 
-Idazle banatuen estrategia 
+Idazle banatuen estrategia
 
-. . . 
+. . .
 
 Eskribaren estrategia
 
@@ -197,15 +193,14 @@ Aholku estrategia
 
 . . .
 
-+ Idazle nagusia
-+ Egiletza banatua
-+ Berrikuspen kooperatiboa
-+ Baterako idazketaren estrategia
+-   Idazle nagusia
+-   Egiletza banatua
+-   Berrikuspen kooperatiboa
+-   Baterako idazketaren estrategia
 
-::: {.notes}
+::: notes
 Posner & Baecker (1992)
 :::
-
 
 ##  {background-color="darkred"}
 
