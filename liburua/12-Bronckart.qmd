@@ -1,1 +1,125 @@
- 
+# Testua irakasgunea
+
+📔
+
+Baliabideak:[@bronckartAmahizkuntzarenDidaktikaDerrigorrezko1992; @bronckartEnsenanzaLenguasPara2007; @larringanSekuentziaDidaktikoaEkintza2012; @ibarluzeasantistebanTestuGeneroetanOinarritutako2019] [\*](../diapoak/12-Testu_generoak-eta.html)
+
+------------------------------------------------------------------------
+
+Honetan, testu generoen irakaskuntza aitzakia, didaktikaz eta komunikazioaz jardungo dugu. HHko irakaskuntzatik Doktoregoetaraino hartuta
+
+## Nondik gatozen
+
+Zer uste izan da dela hizkuntzaren irakaskuntza?
+
+Zer hizkuntza? Zer irakaskuntza?
+
+## Hizkuntza-ekintza / Komunikazio ekintz
+
+Ekintza da
+
+Ekintzok testuinguru batean egiten dira eta honako osagarriok ditu:
+
+1.   Enuntziatzailea: nork (rola).
+
+2.  Enuntziatarioa: nori (rola).
+
+3.  Erabilera-esparrua: lanekoa, familiakoa, komunikabideetakoa... *Toki soziala*
+
+4.  Testu-generoa: hizkuntzaren forma
+
+5.  Xedea: zertarako sortu dugun testua: informatzeko, eragiteko... *zertarakoa*
+
+6.  enuntziatzailea eta enuntziatarioaren arteko hartu-emanen nolakotasuna
+
+::: callout-warning
+## Ariketa
+
+Taula batean zehaztu bosna ekintza komunikatibo, zu barne hartzen zaituenak irakaskuntzako subjektu legez eta zure ikasle izango direnak barne hartzen dutenak.
+:::
+
+## Sekuentzia didaktikoa
+
+Ikuskera didaktikoari oratzeko didaktikaz pentsa beharra.
+
+Liburu ez-erakargarri baina bai interesgarri bat:
+
+Bronckart, J.-P. (2007). *Desarrollo del lenguaje y didáctica de las lenguas.* Miño y Davila Editores. 🔍
+
+1.  Testuak eraikuntza sozialak dira: \
+    Bronckart autorearen ustez testuak kultura eta gizarte praktiketan sakonki errotutako gizarte eraikuntzatzat hartzen dira. Bere ustez, testuak ez dira soilik objektu linguistiko gisa ikusi behar, baizik eta esanahi sozial eta kulturala duten giza jardueraren produktu gisa.
+
+2.  Testuen benetakotasuna: \
+    Hizkuntzaren irakaskuntzan benetako testuak erabiltzearen alde egiten du. Benetako testuak benetako komunikazioan erabiltzen direnak dira, eta ez daude soilik hezkuntza-helburuetarako sortuak. Ikuspegi horrek ikasleei hainbat gizarte-testuingurutan hizkuntzaren erabilera praktikoa ulertzen laguntzen die.
+
+3.  Testuak: Ikaskuntzarako tresnak: \
+    Bronckarten ustez, testuak ikaskuntzarako tresna garrantzitsuak dira. Ikasleek hizkuntzarekin modu esanguratsuan elkarreragiteko testuinguru bat eskaintzen dute, beren hizkuntza-gaitasunak bizitza errealeko komunikazio-agertokietan garatzeko aukera emanez.
+
+4.  Generoetan oinarritutako ikuspegia: \
+    Hizkuntza irakasteko generoetan oinarritutako ikuspegia babesten du. Ikuspegi hori hainbat testu-generotan oinarritzen da, bakoitzak bere hizkuntza-ezaugarri eta -konbentzio multzoarekin. Genero horiek ulertzen dituztenean, ikasleek hobeto uler dezakete hizkuntza nola erabiltzen den hainbat testuingurutan.
+
+5.  Ikaskuntza interaktiboa: \
+    Bronckart-ek interakzioak hizkuntzaren ikaskuntzan duen zeregina azpimarratzen du. Testu didaktikoak ikaskuntza interaktiboko jardueretarako oinarri gisa erabili behar direla iradokitzen du, ikasleek eztabaidetan eta bestelako komunikazio-egoeretan parte har dezaten.
+
+6.  Pentsamendu kritikoa eta testuen analisia: Pentsamendu kritikoa eta testuen analisia ere sustatzen ditu. Ikasleek hizkuntza ikasteaz gain, testuen edukia, egitura eta hizkuntza aztertzeko eta kritikatzeko gaitasuna garatu behar dute.
+
+Bronckart-en ikuspegia bat dator ideia honekin: hizkuntzaren ikaskuntza ez da soilik hizkuntza-egiturak eskuratzea, baizik eta hizkuntzaren erabilera soziala eta kulturala ulertzea ere. Benetako testuak eta ikaskuntza interaktiboa azpimarratzen badira, ikasleek hizkuntzaren ulermen osoagoa eta praktikoagoa izango dute.
+
+::: callout-caution
+## Ariketa
+
+Bibliografiako artikuluen @bronckartEnsenanzaLenguasPara2007 (laugarren atala); @larringanSekuentziaDidaktikoaEkintza2012 (hirugarren eta laugarren atalak) oinarrizko kontzeptuen ideia mapa sortu.
+:::
+
+## Oro har
+
+-   Ardatza genero diskurtsiboak dira.
+
+-   Generoak  hiztun komunitate bakoitzeko \"gizarte-jarduerarako esferak\" dira.
+
+-   Forma diskurtsibo estereotipatuak dira.
+
+-   Erabilera esparru bakoitzean genero-errepertorio mugagabea dago komunikazio egoeraren mende.
+
+-   Genero diskurtsibo bereko testuak hiztunen komunitate jakin batean garatu dira, esparru sozial edo profesionalean.
+
+-   Gizabanakoak hizkuntzaren erabiltzaile gisa duen ideiatik harago doa gizarte osoak partekatutako portaera-eredua da.
+
+-   Generoak aldatu eta garatu egiten dira gizarte-aldaketei erantzuteko.
+
+-   Hizkuntza menperatu behar da eta generoaren berezitasunak zeintzuk diren ere ikasi behar da.
+
+-   Genero bereko testuak ekoiztean generoari buruzko ezagutza linguistikoak eta ezagutza diskurtsibo tipikoak erabiltzen dira, hau da, generoa estandarizatzen duten ezaugarriak.
+
+-   Beraz, genero diskurtsiboak identifikatu egin daitezke baina idazle edo hiztunaren arabera eta egoeraren, une historikoaren eta ingurune sozialaren eta instituzionalaren arabera aldatzen dira.
+
+### Faseak
+
+1.  Des-eraikuntza
+2.  Elakrren arteko eraikuntza
+3.  Eraikuntza independentea
+
+### Irakasleak
+
+-   Gaiaz aditua
+
+-   Gidari
+
+### Gaur egungo hezkuntza-ikuspegiarekin bat
+
+1.  Soziokonstruktibista: Ikasleari agindu ordez, estrategiak irakasten zaizkio, egoeren arabera beti aldakorrak diren hartzaile, testuinguru eta helburuak ulertzeko. Horrela, ikasleak genero jakin baten ezaugarriak identifikatzen, eztabaidatzen, lantzen eta barneratzen ditu.
+2.  Esplizitua: Irakasleak ikaskuntza-prozesuak bultzatzen, gidatzen eta modelatzen ditu une oro, teorikoki sendoak diren proposamen pedagogikoen bidez.
+3.  Artikulatua: Esplizituki adierazten da nolako harremanak dauden generoak definitzen dituzten berariazko ezaugarrien eta orokorren artean, eta zer-nolako aldeak dauden generoen artean. Horrek jakintzen transferentzia errazten du
+4.  Parte-hartzailea: ikasleek erakundearen, prestakuntzaren eta diziplinen berezko praktikak eta ekimenak egitea sustatzen delako; irakaslearekin elkarrizketak egitea edo ikaslearen inguruko errealitatea ikertzea.
+5.  Esanguratsua: testuinguru jakinei lotutako helburuetara eta egokitasunera bideratuta dago.
+6.  Kritikoa: Generoak naturalak, organikoak eta aldakorrak dira. Ez dago nagusitasunik euren artean eta tentsioan, aldakor eta batzuetan kontraesanean daude.
+
+------------------------------------------------------------------------
+
+::: callout-warning
+## Ariketa
+
+Sortu Sekuentzia Didaktiko baten zirriborroa dagokizun etaparako nahi duzun ziklorako.
+
+Banaka
+:::
