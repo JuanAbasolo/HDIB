@@ -20,7 +20,7 @@ Ekintza da
 
 Ekintzok testuinguru batean egiten dira eta honako osagarriok ditu:
 
-1.   Enuntziatzailea: nork (rola).
+1.  Enuntziatzailea: nork (rola).
 
 2.  Enuntziatarioa: nori (rola).
 
@@ -46,19 +46,19 @@ Liburu ez-erakargarri baina bai interesgarri bat:
 
 Bronckart, J.-P. (2007). *Desarrollo del lenguaje y didáctica de las lenguas.* Miño y Davila Editores. 🔍
 
-1.  Testuak eraikuntza sozialak dira: \
+1.  Testuak eraikuntza sozialak dira:\
     Bronckart autorearen ustez testuak kultura eta gizarte praktiketan sakonki errotutako gizarte eraikuntzatzat hartzen dira. Bere ustez, testuak ez dira soilik objektu linguistiko gisa ikusi behar, baizik eta esanahi sozial eta kulturala duten giza jardueraren produktu gisa.
 
-2.  Testuen benetakotasuna: \
+2.  Testuen benetakotasuna:\
     Hizkuntzaren irakaskuntzan benetako testuak erabiltzearen alde egiten du. Benetako testuak benetako komunikazioan erabiltzen direnak dira, eta ez daude soilik hezkuntza-helburuetarako sortuak. Ikuspegi horrek ikasleei hainbat gizarte-testuingurutan hizkuntzaren erabilera praktikoa ulertzen laguntzen die.
 
-3.  Testuak: Ikaskuntzarako tresnak: \
+3.  Testuak: Ikaskuntzarako tresnak:\
     Bronckarten ustez, testuak ikaskuntzarako tresna garrantzitsuak dira. Ikasleek hizkuntzarekin modu esanguratsuan elkarreragiteko testuinguru bat eskaintzen dute, beren hizkuntza-gaitasunak bizitza errealeko komunikazio-agertokietan garatzeko aukera emanez.
 
-4.  Generoetan oinarritutako ikuspegia: \
+4.  Generoetan oinarritutako ikuspegia:\
     Hizkuntza irakasteko generoetan oinarritutako ikuspegia babesten du. Ikuspegi hori hainbat testu-generotan oinarritzen da, bakoitzak bere hizkuntza-ezaugarri eta -konbentzio multzoarekin. Genero horiek ulertzen dituztenean, ikasleek hobeto uler dezakete hizkuntza nola erabiltzen den hainbat testuingurutan.
 
-5.  Ikaskuntza interaktiboa: \
+5.  Ikaskuntza interaktiboa:\
     Bronckart-ek interakzioak hizkuntzaren ikaskuntzan duen zeregina azpimarratzen du. Testu didaktikoak ikaskuntza interaktiboko jardueretarako oinarri gisa erabili behar direla iradokitzen du, ikasleek eztabaidetan eta bestelako komunikazio-egoeretan parte har dezaten.
 
 6.  Pentsamendu kritikoa eta testuen analisia: Pentsamendu kritikoa eta testuen analisia ere sustatzen ditu. Ikasleek hizkuntza ikasteaz gain, testuen edukia, egitura eta hizkuntza aztertzeko eta kritikatzeko gaitasuna garatu behar dute.
@@ -75,7 +75,7 @@ Bibliografiako artikuluen @bronckartEnsenanzaLenguasPara2007 (laugarren atala); 
 
 -   Ardatza genero diskurtsiboak dira.
 
--   Generoak  hiztun komunitate bakoitzeko \"gizarte-jarduerarako esferak\" dira.
+-   Generoak  hiztun komunitate bakoitzeko "gizarte-jarduerarako esferak" dira.
 
 -   Forma diskurtsibo estereotipatuak dira.
 
@@ -116,8 +116,8 @@ Bibliografiako artikuluen @bronckartEnsenanzaLenguasPara2007 (laugarren atala); 
 
 ------------------------------------------------------------------------
 
-::: callout-warning
-## Ariketa
+::: callout-note
+## Aukerakoa
 
 Sortu Sekuentzia Didaktiko baten zirriborroa dagokizun etaparako nahi duzun ziklorako.
 

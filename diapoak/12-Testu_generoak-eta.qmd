@@ -153,10 +153,10 @@ Bibliografiako artikuluen @bronckartEnsenanzaLenguasPara2007 (laugarren atala); 
 
 </small>
 
-##  {background-color="darkred"}
+##  {background-color="darkblue"}
 
-::: callout-warning
-## Ariketa
+::: callout-note
+## Aukerakoa
 
 Sortu Sekuentzia Didaktiko baten zirriborroa dagokizun etaparako nahi duzun ziklorako.
 
