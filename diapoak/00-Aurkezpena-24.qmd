@@ -140,7 +140,15 @@ Egindako lanen txosten antolatua, bakoitzak berea. Sarrera eta ondorioak ataleki
 
 ## Ebaluazio / kalifikazioa
 
-Role playinga (1/3) + Portfolioa (1/3) + Azterketa (1/3) = Nota (1)
+- Proba idatzia %40
+- Ahozko defentsa %4
+- Praktikak %5
+- Banakako lanak %6
+- Talde lanak %15
+- Lanen aurkezpenak: %15
+- Portfolioa %15
+
+ 
 
 . . .
 
