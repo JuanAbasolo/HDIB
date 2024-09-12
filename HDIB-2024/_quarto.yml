@@ -1,0 +1,63 @@
+project:
+  type: book
+  output-dir: ../apunteak
+book:
+  title: "Hizkuntzen Didaktikako Ikuspegi Berriak (minorra) V:0.4"
+  author: 
+    name: "Irakaslea: Juan Abasolo"
+    affiliation: UPV/EHU
+    orcid: 0000-0002-1911-4118
+  date: today
+  date-format: "YYYY MM DD"
+  favicon: "assets/00/azala.png"
+  url: 'https://juanabasolo.github.io/HDIB/apunteak/'
+  search: true
+  downloads: [pdf, epub]
+  chapters:
+    - index.qmd
+    - 00-Curriculumaz-ta.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+csl: '../../eu/apa-eu.csl'
+language: '../../eu/_language-eu.yml'
+lang: eu
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  epub: default
+
+editor: visual
+
+biblio-style: apalike
+
+  # sharing: [twitter, facebook]
+  # chapters:
+  #  - index.qmd
+  #  - 00-TaldeakEtaLegeak.qmd
+  #  - 01-HME.qmd
+  #  - 02-Lau_zutabeak.qmd
+  #  - 03-Diglosiatik_hona.qmd
+  #  - 04-Hizkuntzak_eskolan.qmd
+  #  - 05-Hizkuntzen_Trataera_Bateratua.qmd
+  #  - 06-HEBI.qmd
+  #  - 07-Role_playing.qmd
+  #  - 08-IKT(1)eus.qmd
+  #  - 09-IKT(2)tresnak.qmd
+  #  - 10-Erroreak.qmd
+  #  - 11-Estrategiak.qmd
+  #  - 12-Bronckart.qmd
+    # - 12-Ebaluazioa.qmd
+    # - 13-Azterketa.qmd
+  #  - references.qmd
+
+description: "Hizkuntzaren Didaktika ikasgaiko apunteak dira hauek. Ikasgaian aurrera egin ahala egokitzen joango dira"
+cover-image: "assets/00/azala.png"  # relative to index
+github-repo: JuanAbasolo/HDIB
+
+
+

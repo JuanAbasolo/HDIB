@@ -1,0 +1,165 @@
+---
+title: "Hizkuntzen Didaktikarako Ikuspegi Berriak"
+author: 
+    - name : "Juan Abasolo"
+      filiation: UPV/EHU
+date: 2024-09-13
+format: 
+    revealjs:
+        theme: dark
+        logo: '../HDIB-2023/assets/00/azala.png'
+        css: 'css/logo.css'
+        embed-resources: true
+        slide-number: true
+editor: visual
+bibliography: '../HDIB-2023/references.bib'
+csl: '../../eu/apa-eu.csl'
+---
+
+I(ra)kasgaiaren inguruko ikuspegia
+
+... lekua
+
+... antolamendua eta egitura
+
+... gaiak, edukiak eta denboralizazioa
+
+... irakaslea
+
+## I(ra)kasgaiaren inguruko ikuspegia
+
+Hizkuntzen Didaktikarako Ikuspegi ~~Berriak~~...
+
+. . .
+
+bainoago
+
+. . .
+
+*Gaur* Hizkuntzen Didaktikarako *erabiltzen diren* Ikuspegiak
+
+. . .
+
+Lagunartean: **HDIB**
+
+## Lekua {.scrollable}
+
+Prestakuntzaren garrantzia: hurrengo belaunaldien hezitzaile
+
+. . .
+
+Edukia jakitea (hizkuntza prestakuntza)
+
+. . .
+
+Irakasten jakitea: prestakuntza didaktikoa (hizkuntza irakasteko)
+
+. . .
+
+Esparrua mugatu, ideia garrantzitsu batzuen berri jakin
+
+Hori dena, gogoeta egiteko jarrerarekin (\[errezeta gutxi\])
+
+. . .
+
+### Ikasgaiaren lekua ikasketa planetan
+
+4.  ikasturtean\
+    Hizkuntzen ikas-irakaskuntzaren eremuan Gaur egun indarrean diren ikuspegi, jardunbide eta baliabide batzuen inguruan gogoeta
+
+## Antolamendua eta egitura
+
+. . .
+
+14 aste [(13?)]{style="color:lightgrey;"}
+
+Bi zati (jatorrizko diseinuan bi irakasle)
+
+Alde teorikoa
+
+Alde praktikoa
+
+. . .
+
+Aurton, mix
+
+## Gaiak, edukiak eta denboralizazioa
+
+## {.scrollable}
+
+::: panel-tabset
+### 1-3 📹
+
+1.  Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma 📹
+    -   Europako Erreferentzi Markoa: Hizkuntzen Ikaskuntza Irakaskuntza eta Ebaluaziorako Europako Erreferentzia Markoa `(2)`
+    -   Immigrazio hizkuntzen trataera `(barria)`
+    -   IKTak eta hizkuntza `(9 eta 10)`
+
+### 4-7 🗨️
+
+2.  Ikastetxeko hizkuntzen antolakuntza 🗨️
+    -   Gaitasunak eta hezkuntza sistema – Hizkuntza-komunikaziorako gaitasuna `(3)`
+    -   Euskal hezkuntza sistemako eleaniztasuna: Diglosiatik elebitasunera eta handik eleaniztasunera `(4)`
+    -   Hizkuntzen Trataera bateratua (HTB) `(6)`\
+        [Aste honetan lehenengo mintegia]{style="color: darkred"}
+    -   Hizkuntzak eta Edukiak Batera Ikastea (HEBI) *CLIL* `(7)`
+
+### 8-13 🧑‍🏫
+
+3.  Gelako praktikaren antolakuntza eta hizkuntza
+    -   Hizkuntzen irakaskuntzarako metodologien bilakaera `(12 a)`
+    -   Irakaskuntzarako Diseinu Unibertsala (IDU) eta hizkuntza `(barria)`
+    -   Proiektuak, atazak eta hizkuntza `(12 b)`\
+        [Aste honetan bigarren mintegia]{style="color: darkred"}
+    -   Interakzionismo-soziodiskursiboaren ikuskera. Testua ikasgunea.
+    -   Sekuentzia Didaktikoak `(12 c + barri)`
+    -   Hizkuntzan akatsak. Lapsusak, erroreak `(11)`
+:::
+
+## 📹 Bideoak
+
+Talde bakoitzak lan bat, interesaren neurrien eta taldearen neurriaren araberakoa.
+
+Hizkuntza eta eskola ikuskera kritikotik kolpeta, bideo sorta bat. Bakoitza minutu batetik beherakoa. Dagokion txostenarekin.
+
+## 🗨️ Role playing
+
+Talde bakoitzak lan bat, zerrendako gai banari buruz
+
+20 minutuko hitzaldi bat aurkeztu (maila ertaineko prestakuntza duen publikoaren aurrean)
+
+Hitzaldi horren diapositibak oharrekin edota baliabideak
+
+## 🧑‍🏫 Diseinu didaktikoa
+
+Hizkuntzen didaktikan erabiltzen diren ikuskeratik bideratuta, proposamen didaktikoa.
+
+## 📔 Portfolioa
+
+Egindako lanen txosten antolatua, bakoitzak berea. Sarrera eta ondorioak atalekin.
+
+## Ebaluazio / kalifikazioa
+
+Role playinga (1/3) + Portfolioa (1/3) + Azterketa (1/3) = Nota (1)
+
+. . .
+
+::: {.callout-important collapse="false" appearance="default" icon="true"}
+## Gogoan izan:
+
+Irakasgaia gainditzeko ezinbestekoa da hizkuntza koherentziaz, zuzentasunez eta egokitasunez erabiltzea, ahoz eta idatziz
+:::
+
+## Irakaslea...
+
+`juan.abasolo@ehu.eus`
+
+Telegram: `@JuanAbasolo`
+
+3S40B
+
+Tutoretzak: [labur.eus/JAbasolo-tutoretzak](http://labur.eus/JAbasolo-tutoretzak)
+
+Apunteak: [labur.eus/HDIBapunteak](https://labur.eus/HDIBapunteak)
+
+Taldea: [eskatu irakasleari]{style="color:blue"}

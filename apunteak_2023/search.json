@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hizkuntzen Didaktikako Ikuspegi Berriak (minorra) V:0.4",
+    "section": "",
+    "text": "Aurretikoak\nIkasturte honetarako apunteak eguneratzen ari naiz; beraz, izan kontuan aldaketak egingo direla apunteotan ikastaroan zehar.\nInformazio legal, ofizial eta abar: Fakultateko webgunean.",
+    "crumbs": [
+      "Aurretikoak"
+    ]
+  },
+  {
+    "objectID": "index.html#kontaktua-tutoretzak-eta-abar",
+    "href": "index.html#kontaktua-tutoretzak-eta-abar",
+    "title": "Hizkuntzen Didaktikako Ikuspegi Berriak (minorra) V:0.4",
+    "section": "Kontaktua, tutoretzak eta abar",
+    "text": "Kontaktua, tutoretzak eta abar\n\nEmaila\n\njuan[dot]abasolo[at]ehu[dot]eus\n\nTelegram\n\n@JuanAbasolo\n\nBulegoa\n\n3S40B\n\nTelefonoa\n\n(+34) 94 601 7567\n\nTutoretzak\n\nhttp://labur.eus/JAbasolo-tutoretzak",
+    "crumbs": [
+      "Aurretikoak"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, D. E. (1984). Literate Programming. Comput. J., 27(2), 97–111. or. https://doi.org/10.1093/comjnl/27.2.97",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, D. E. (1984). Literate programming. Comput. J.,\n27(2), 97–111. pp. https://doi.org/10.1093/comjnl/27.2.97",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
