@@ -16,7 +16,8 @@ book:
   chapters:
     - index.qmd
     - 00-Curriculumaz-ta.qmd
-    - summary.qmd
+    - 01-HME.qmd
+    # - summary.qmd
     - references.qmd
 
 bibliography: references.bib

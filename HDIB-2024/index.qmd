@@ -4,7 +4,7 @@ Ikasturte honetarako apunteak eguneratzen ari naiz; beraz, izan kontuan aldaketa
 
 Informazio legal, ofizial eta abar: [Fakultateko webgunean](https://www.ehu.eus/eu/web/bilboko-hezkuntza-fakultatea/graduak/lehen-hezkuntza).
 
-# Gaiak eta denboralizazio proposamena
+## Gaiak eta denboralizazio proposamena
 
 Grebak, interesak, premiak eta abar tarteko, ikusteko dago ea zenbatean segitzen diogun hurrengo astez asteko proposamenari:
 
