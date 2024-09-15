@@ -39,22 +39,14 @@ Mintegiak ebaluaziorako erabiliko dira.
 
 ## Kontaktua, tutoretzak eta abar
 
-Emaila
+[ ](mailto:juan.abasolo@ehu.eus){.bi-envelope} juan . abasolo \@ ehu . eus
 
-:   **juan**\[dot\]**abasolo**\[at\]**ehu**\[dot\]**eus**
+[ ](http://t.me/JuanAbasolo){.bi-telegram} Telegram[^index-1]: \@JuanAbasolo
 
-Telegram
+[^index-1]: Komentatzekoa pertsonala bada; bestelakoetarako erabili klaseko Telegrameko taldea, mesedez.
 
-:   \@JuanAbasolo
+[ ](){.bi-building} Bulegoa: 3S40B
 
-Bulegoa
+[ ](tel:+34946017567){.bi-telephone} (+34) 94 601 7567
 
-:   3S40B
-
-Telefonoa
-
-:   (+34) 94 601 **7567**
-
-Tutoretzak
-
-:   <http://labur.eus/JAbasolo-tutoretzak>
+[ ](https://labur.eus/JAbasolo-tutoretzak){.bi-clock} Tutoretzak: <http://labur.eus/JAbasolo-tutoretzak>
