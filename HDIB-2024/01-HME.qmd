@@ -1,6 +1,8 @@
-# Hizkuntzen Ikaskuntza Irakaskuntza eta Ebaluaziorako Europako Erreferentzia Markoa eta *Hizkuntzen Portfolio Europarra*
+# EEMB eta Hizkuntzen Portfolio Europarra
 
-📔
+Hizkuntzen Ikaskuntza Irakaskuntza eta Ebaluaziorako Europako Erreferentzia Markoa eta *Hizkuntzen Portfolio Europarra*
+
+📹
 
 Baliabideak: [@europakokontseiluaHizkuntzenIkaskuntzaIrakaskuntza2005; @europakokontseiluaCommonEuropeanFramework2020; @davisHizkuntzenPortfolioEuroparra2004; @alariotriguerosPortfolioEuropeoLenguas2004] [\*](../diapoak/00-EEMB-HPE.html)
 
@@ -172,8 +174,8 @@ Dosierra proposatzen da aztertutako hizkuntzetan aritzeko gaitasunaren erakusgar
 
 ## Zereginak 📔
 
--   HEEEB mailen analisia:\
-    Ikasleek, banaka edo bikoteetan, HEEEB maila bat aukeratu eta horri buruzko poster bat sortuko dute.
+-   EEMB mailen analisia:\
+    Ikasleek, banaka edo bikoteetan, EEMB maila bat aukeratu eta horri buruzko poster bat sortuko dute.
 -   Norberaren HPE:\
     Ikasleek beraien HPE propioa sortuko dute, hizkuntza ikaskuntza ibilbidea eta hizkuntza gaitasunak islatuz. [Etxerako lana]{style="color: darkred"}
 

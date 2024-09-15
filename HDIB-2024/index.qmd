@@ -17,14 +17,14 @@ Grebak, interesak, premiak eta abar tarteko, ikusteko dago ea zenbatean segitzen
 2.  Ikastetxeko hizkuntzen antolakuntza
     -   Gaitasunak eta hezkuntza sistema – Hizkuntza-komunikaziorako gaitasuna `(3)`
     -   Euskal hezkuntza sistemako eleaniztasuna: Diglosiatik elebitasunera eta handik eleaniztasunera `(4)`
-    -   Hizkuntzen Trataera bateratua (HTB) `(6)`  
-    [Aste honetan lehenengo mintegia]{style="color: darkred"}
+    -   Hizkuntzen Trataera bateratua (HTB) `(6)`\
+        [Aste honetan lehenengo mintegia]{style="color: darkred"}
     -   Hizkuntzak eta Edukiak Batera Ikastea (HEBI) *CLIL* `(7)`
 3.  Gelako praktikaren antolakuntza eta hizkuntza
     -   Hizkuntzen irakaskuntzarako metodologien bilakaera `(12 a)`
     -   Irakaskuntzarako Diseinu Unibertsala (IDU) eta hizkuntza `(barria)`
-    -   Proiektuak, atazak eta hizkuntza `(12 b)`  
-    [Aste honetan bigarren mintegia]{style="color: darkred"}
+    -   Proiektuak, atazak eta hizkuntza `(12 b)`\
+        [Aste honetan bigarren mintegia]{style="color: darkred"}
     -   Interakzionismo-soziodiskursiboaren ikuskera. Testua ikasgunea.
     -   Sekuentzia Didaktikoak `(12 c + barri)`
     -   Hizkuntzan akatsak. Lapsusak, erroreak `(11)`
@@ -35,7 +35,7 @@ Mintegiak ebaluaziorako erabiliko dira.
 
 1.  Lehenengo proiektuko bideoak
 
-2. Role Playing
+2.  Role Playing
 
 ## Kontaktua, tutoretzak eta abar
 

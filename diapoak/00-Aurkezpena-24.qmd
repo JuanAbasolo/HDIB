@@ -6,7 +6,7 @@ author:
 date: 2024-09-13
 format: 
     revealjs:
-        theme: dark
+        theme: [dark, css/nire.scss]
         logo: '../HDIB-2023/assets/00/azala.png'
         css: 'css/logo.css'
         embed-resources: true

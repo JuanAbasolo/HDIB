@@ -1,0 +1,245 @@
+# IKTak eta (gure) hizkuntza
+
+📹
+
+\(a\) Diapositibekin esandakorako iturri batzuk, sakondu nahi izanez gero: @carmichaelOpenSourceAppropriate2002; @delacuevagonzalez-coteraConfiguracionSoftwareComo2019; @lakhanOpenSourceSoftware2008a; @pankajaProprietarySoftwareOpen2013; @yuEducationDomainNatural2022 [\*](../diapoak/07-IKT-ta.html)
+
+Arazo teknikoak direla eta, dipositibetan zabalduta dago informazioa. Eskerrik asko pazientziagatik.
+
+\(b\) [@conijnHowProvideAutomated2022; @wengelinInvestigatingWritingProcesses2023; @castelloSynchronousAsynchronousCollaborative2023; @abasoloIDATTaldeLaneko2023; @stromqvistWhatKeystrokeloggingCan2006] [\*](../diapoak/08-IKT-ta-IDAT.html)
+
+Gai hau aurrekoarekin lotuta dagoen arren, IKTen beste dimentsio batez ari da: Teknologiaren erabilera hizkuntza idatzia erabiltzeko, hizkuntzaren erabilera bideratzeko eta hizkuntza idatziaren erabilera aztertzeko.
+
+<iframe src="https://mastodon.eus/@euwikipedia/109501055412174555/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen">
+
+</iframe>
+
+```{=html}
+<script src="https://mastodon.eus/embed.js" async="async"></script>
+```
+
+------------------------------------------------------------------------
+
+## Idazkeraren lehenengo pausuetan
+
+Bizkaiko ikastetxe bateko esperientzia aberasgarri bat dakargu.
+
+Ikastetxean blog bat zabaldu zen orain dela urte batzuk ikastetxean egiten diren jardueren-eta berri emateko.
+
+Orain dela zenbait ikasturte HHko bigarren zikloko irakasleak hurrengo ariketa proposatu zien ikasleei:
+
+> Orri zuri batean marraztu behar duzue zuek zer duzuen gogoko, marrazki hori ordenagailuan sartuko dugu eta eskolako blogean ipiniko dugu etxekoek ikusi ahal izateko. Hori bai, marrazkia ordenagailuan sartutakoan zuok idatzi beharko duzue zer marraztu duzuen --zer duten gogoko-- eta, bide batez, zuen argazki bat ere ipiniko dugu etxekoek ikusteko zelako polito zabiltzaten eskolan.
+
+Ariketa horren bitartez:
+
+-   Umeek marrazkia egin zuten
+-   Umeek teklatuaz idazten saiatu ziren
+-   Umeak motibatu ziren (etxetik ikkusiko bai zituzten)
+-   Eskola - etxea zubia ere landu zen.
+
+Umeek teklatuaz idaztearen alderdi batzuk nabarmendu ahal dira:
+
+-   Baliabide manipulagarria da
+-   Idazketaz duten aurrezagutzak erabil ditzakete, kaligrafiaren menpeko izan barik
+-   Mundu digitalean sortzaile egiten dira (lehenengoz asko)
+
+Umeen marrazkiak, adinak eta eurek egindakoa erakusten da segidan.
+
+::: {#fig-marrazkiak layout-ncol="2"}
+![3 urte eta 5 hile: KJO9I874ºGHU](https://3.bp.blogspot.com/-WaASfY4W9xQ/VyNe3wCa69I/AAAAAAAADHg/qugElR2vz9I0ocM0W7qndYENcG8RKSo8wCLcB/s400/00000001.jpg "pelikula bat munstruana"){#fig-mpy}
+
+![4 urte eta hilabete: OCIEA UEX OAEA](https://2.bp.blogspot.com/-N5cl93A8OHs/VyNdyKTU39I/AAAAAAAADHQ/GONzy_0K2rMXmRLQ3YlHDYdmCegQJkgvgCLcB/s400/00000001.jpg "lo egitea eta muinekakaz jolastea"){#fig-sa}
+
+![4 urte eta 5 hile: LORAK BIE](https://1.bp.blogspot.com/-rZ1z8axBA5Y/Vx4aCMOQxMI/AAAAAAAADEQ/CEY-vPGqSoo9Bn6axXLC0MYjbwAjQUEzACKgB/s1600/00000001.jpg "lorak batzie"){#fig-nra}
+
+![4 urte eta 7 hile: DANSA EGTA](https://2.bp.blogspot.com/-RdW9-J-z2Nc/Vw5MIvlnMAI/AAAAAAAAC6Y/2Pk1a5irrgY0tkNLsTAKDrDQBsi_ma9awCLcB/s400/Aina.jpg "dantza egitea"){#fig-ina fig-alt="dantza egitea"}
+
+![4 urte eta 9 hile: KOPAKO COKOA](https://3.bp.blogspot.com/-xwrzNIpACVQ/VxonJpwxWOI/AAAAAAAADCU/R77z7uaHf6QrFFdFtX_A4yBdTwy4ZGxrACLcB/s1600/00000001.jpg "kopako jokoa"){#fig-xbr}
+
+![6u 2h: *ESKUPPILOTAN GOLSTEA*](https://3.bp.blogspot.com/-8f0IDZWlwAQ/VxDR13b4toI/AAAAAAAAC7M/NTvaQtPlnqofNZX57LPx8snK29JC7qYpwCLcB/s400/Aner.jpg "eskupilotan jolastea"){#fig-ner}
+
+Haur Hezkuntzako gela bateko zenbait irudi eta idatzi. Idatziak ordenagailua egin zituzten haurrek
+:::
+
+Umeen idatzien izenburuak erabili dira:
+
+-   3 urte eta 5 hileko haurrak @fig-mpy dekribatzeko ***KJO9I874ºGHU*** idatzi zuen, adierazi zuenez *pelikula bat munstruena* esan nahi du horrek.
+-   4 urte eta hilabeteko beste ume batek ***OCIEA UEX OAEA*** idatzi zuen @fig-sa azaltzeko; horrek *lo egitea eta muinekakaz jolastea* esan nahi du.
+-   4 urte eta 5 hileko umeak ***LORAK BIE*** izenburu eman zion [-@fig-nra] irudiari, *lorak biltzea* irakurri zuen.
+-   4 urte eta 7 hileko beste haur batek idatzitako ***DANSA EGTA*** testuak argi erakusten du [-@fig-ina] irudiak *dantza egitea* iradoki behar duela.
+-   4 urte eta bederatzi urteko beste ume batek ***KOPAKO COKOA*** idatzita [-@fig-xbr] irudikoak, *kopako jokoa* adierazi nahi zuela jakinarazi zuen.
+-   Amaitzeko, 6 urte eta hile biko umeak ***ESKUPPILOTAN GOLSTEA*** testu gardenaren itzulpentzat *eskupilotan jolastea* eman zuen [-@fig-ner] irudian. Azken irudi horretan eskuz idatzitako beste hainbat testu ere irakur daitezke.
+
+Bistan denez, umeen idazteko gaitasuna nahikoa garatua dute umeek, euren kaligrafiak eta marrazkien trazuak iradoki dezakeenaren aldean.
+
+Lanok aurren argazkiekin argitaratu ziren jatorrizko blogean, familiek etxetik ere ikus zezaten.
+
+Hainbat tokitan sor eta ostatu daitezke blogak, ikastetxeko zerbitzarietatik hasita.
+
+Softwareen artean zabalduena: Worpdress
+
+## Bestelako zenbait erreminta ikasleek erabiltzeko
+
+Tresna talde bi soilik aipatuko ditugu, biak oso erabiliak izan diren arren, gutxiago erabiltzeko joera ikusi da aspaldion. Ez da baztertzekoa, baina, enpresa handiek gure erabilera ohituretan sortzen duten lilurak baztertu izana.
+
+### Wiki formatuko datu base estekadunak
+
+Testu edukietan oinarritu ohi dira eta ikasleek, zein irakasleek, erruz erabiltzen dugu Wikipedia edo Txikipedia erabiltzen ditugunean. Baina, irakurle legez egiten den erabilera horri ez zaio lagun egin wikifikatutako edukien sorkuntzarekin. Nahiz eta aspaldi ez dela, asko erabili den, gure inguruko eskoletan gutxiago erabiltzeko joera antzematen da. Nazioartean hainbat lanetan azaltzen dira holako tresnen erabileraren onura [@lau2016; @fu], aukera izatera irakasleak ebaluatu beharrekoa dela pentsarazi behar duena.
+
+Hala eta guztiz ere, esteken bitartez aberastutako testuen sorkuntzan ere trebatzen dira gure ikasgeletako ume asko, ikastetxe barrutik era horretako erabilera bultzatuta zein [bideojokoen-eta industriak bultzatu](https://mountandblade.fandom.com/wiki/Morningstar)ta.
+
+Software asko dagoen arren, nagusiena Wikipedia eraikitzeko erabiltzen den [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) dela esateko arazorik ez dago. Beste bide posible bat izan daiteke HTML teknologia eskulan-legez hartuta, esteka eta web orrien bitartez testu interaktiboak sortzea.
+
+### Ideiak maparatzeko softwarea
+
+Hizkuntzaren erabilerarako zuzenean pentsatuak izan ez arren, ezagutzaren errepresentazio grafikorako ereduak eraikitzeko erabiltzen diren ideia-mapak, kontzeptu mapak eta abarrek hiztunari lagun diezaiokete hizkuntza jardueretan, sortzen diren kontzeptuen irudikapen horiek baliabide kognitibo asko askatzen baitizkiote.
+
+![Harrien sailkapen bat, IHMC-ko webgunean](https://cmapspublic2.ihmc.us/rid=1KBCVYYD2-1CHYFT4-1W1/1KBCTWZP0ICCT2PRI7TIimage?rid=1KBCVYYD2-1CHYFT4-1W1&partName=htmljpeg){fig-align="center"}
+
+Kontzeptuak hizkuntza artikulatuaren lerro-izaeratik askatzen ditu Novaken kontzeptu mapen planteametuak @novak1984, bere eskutik garatu zen Softwarea @cañas2008, [IHMC CMapTools](https://cmap.ihmc.us). Tresna horren erabilera urririk uzten da, baina ez da Software Librea.
+
+Tresnok [Berritzeguneetan sailkatu dira](https://irakurgune.euskadi.eus/documents/28359408/0/Irakurritakoa+ebaluatzeko+IKT+aplikazioak.pdf/fa8db296-b513-2b56-625e-cfdfa7a4b99c) irakurri ondorengo baliabide egokitzat.
+
+Ideia mapen kontzeptua sinpleagoa da kontzeptu maparena baino, eta, agian, horregatik zabalduagoa da horren erabilera. Besteak beste, elementu gutxiagok hartzen du parte eta ikuskera hierarkikoa gailentzen zaio kontzeptu mapen sare ikuskerari. Seguruenik Software Libre eta irekiko [FreeMind](https://sourceforge.net/projects/freemind/)[^03-ikt-1] izango da pisurik handiena duena; eurek ezarritako formatua delako gaur egunean ere aplikazio berdintsuen arteko esportazio eta inportazioa bideratzeko.
+
+[^03-ikt-1]: https://sourceforge.net/projects/freemind/
+
+Gaur badira alderdi estetikoa landuagoa duten hainbat baliabide eta besteren bat online erabil daitekeena: Mindomo eta MindMap, besteak beste.
+
+## Idazketa prozesua aztertzeko tekleatzearen erregistroa
+
+Oinarritzat har ezazu kontuan idazketako eredu kognitiboaren nondik norakoa @flowerCognitiveProcessTheory1981
+
+![Idazketaren modeloa (Flower & Hayes, 1981)](images/08-Flower-Hayes1980modeloa.png)
+
+Idazkuntza prozesua aztertzeko hainbat tresna digital garatu dira. Euretariko gehienak ordenagailuan era lokalean instalatutako programaren baten bitartez. Datu lapurrek erabiltzen duten erako programak dira, baina beste helburu baterako sortuak. Hitz gakoak zein diren jakiteko baino, tekleatze prozesu osoa berreraikitzeko.
+
+Lehen Hezkuntzako gelan teknika hori gutxi erabili den arren @gnachChildrenWritingProcesses2007, bide luzea du eginda teknikak lehenengo zein bigarren hizkuntzan [@allenENTERingTimeSeries2016; @lacelleFormationEcritureNumerique2016; @leijtenKeystrokeLoggingWriting2013; @kerzUnderstandingDynamicsSecond2020; @vanwaesKeystrokeLoggingWriting2009].
+
+Orain arte aipatutako tresnek gelan erabiltzeko arazo praktikoak dituzte oinarrian, erabili behar den baliabideak ordenagailuan egiten den guztiaren erregistroa gordetzen baitu. Horri erantzun nahirik online datuak batzen duen softwarea ere garatu berri da @chukharev-hudilainenEmpoweringAutomatedWriting2019 eta momentu berean Europako bazter desberdinetan hasi da erabiltzen beste software bat, horretarako propio garatu ez arren, tekleatze prozesuaren erregistroa zerbitzarian gordetzen duena [@kerzUnderstandingDynamicsSecond2020; @abasoloCaracteristicasCuantitativasProceso2020].
+
+Talde idazketa egiteko garatutako aplikazio libre batek; baina, aukera ematen du idazketa prozesuaren berreraikuntza egiteko. Aplikazio horrek, Etherpad izenekoak, aukera ematen du, gainera idazkuntza prozesuaren berri ematen duen fitxategia jaitsi eta aztertzeko. Horren azterketan oinarritua R lengoaian IDAT- Idazkuntza Aztertzeko Tresna paketearen garapena hasi da [@abasoloOnlinekoIdazkuntzaProzesua2020; @abasoloIDAT2023].
+
+IDAT erabilita idazketa prozesuaren hainbat ezaugarri eskuratu daitezke:
+
+-   Idazketa prozesuaren denbora luzera
+
+-   Idazketa prozesuan idatzitako guztiaren kopurua
+
+-   Ezabatutakoaren guztiaren kopurua
+
+-   Idazkuntza abiadura
+
+-   Hausnarketan igarotako denbora
+
+-   Ekitaldi kopurua (hausnarketa umeen artean jarraian idatzitako tarteak), luzera eta iraupena
+
+-   Egileak identifika litezke
+
+-   ...
+
+Neurgarrien arteko batzuen berri ematen du IDATapp web aplikazioak (`labur.eus/HDIBidatapp` URLan eskuragai 25 orduz hilean).
+
+IDATapp-k egun honakoen berri ematen du:
+
+-   Prozesuan erabilitako karaktere kopuru osoa
+
+-   Zenbat itsatsi den (talde handietan ez dabil ondo)
+
+-   Zenbat karaktere ezabatu den
+
+-   Zenbat denbora igaro da idazketan eta zenbat hausnarrean; horretarako denbora muga aukeratzen ere uzten du.
+
+-   Idazketa abiaduraren berri ere ematen du zenbat karaktere idazten den minutuko kalkulatuta.
+
+-   Azken testua osorik ematen du
+
+-   Idazketa prozesuaren irudi bat ere ematen du, zeinetan irudikatzen den :
+
+    -   Aldaketa bakoitza gehiketa ala kenketa ekintza izan den,
+
+    -   Zenbat karaktere hartzen duen aldaketak, sarrera ordenagailua ere identifikatzen du,
+
+    -   Agileak identifikatzeko balio izan lezakeena
+
+    -   Aldaketa zein lerrotan eman den
+
+-   Ordenagailu bakoitzetik zenbat aldaketa egin zaizkion dokumentuari, egileen ekarpen tamaina irudikatzeko balio du horrek.
+
+## Talde idazketari ere begiratzea
+
+Aurrez aipatutako sistemak, bistan denez, aukera ematen du talde idatzietako datuak ere batu eta aztertzeko. Interesgarria da, horri talde idazketaren argitan aztertzea, beraz.
+
+Kolaborazioa elkarrekin egitea bada, idazketa kolaboratiboa azaltzeko elkarrekin sortutako idatzia da. Hori egiteko hiru estrategia nagusi azaldu zituen Sharplesek [@sharplesAddingLittleStructure1993].
+
+![Era kolaboratiboan idazteko estrategiak (Sharples, 1993)](images/08-Sharples_et_al_93.png)
+
+Paraleloki idaztea
+
+:   Idazleen artean, gaitasunen-edo arabera banatzen da idaztekoa. Batzuetan talde buru batek batu ditzake eta moldatu osotasun koherentea lortzeko
+
+Sekuentzialki idaztea
+
+:   Idazketa lerroa/biribila dela esan liteke. Bat hasten da idazten eta amaitu bako testua bigarren bati pasatzen dio, horrek osatzen eta egokitzen segi dezan, hurrengo hirugarren bati pasatzeko. Prozesu hau ziklikoki edo linealki gara daiteke
+
+Elkarrekiko koordinazioan
+
+:   Honelako jardunetan idazle guztiek idazten dute testu bakar batean elkarren lanak eta ekarpenak kontuan izanda, hartara bakoitzak bera ari den inguruan egokitzapenak egin ditzake
+
+![Talde lana batzuetan UPV/EHUn](assets/9/Talde_lana.jpg){width="322"}
+
+Egiletzarako estrategiak Posnerrek eta Baekerrek -[@posnerHowPeopleWrite1992] honela sailkatu zuten:
+
+Idazle bakarreko estrategia
+
+:   Taldeko bakarrak idazten du eta besteek lagundu
+
+Idazle banatuen estrategia
+
+:   Unitateetan banatzen da egin beharrekoa eta egile bakoitzak dagokion zatia idatzi
+
+Eskribaren estrategia
+
+:   Taldeak elkarrekin egiten du eta bakarrak idatzi
+
+Taldekako idazketarako estrategia
+
+:   Taldekide guztiek berbarik berba erabaki idatzia
+
+### IDAT taldeko idatziekin
+
+Aurrez aipatutako R-rako pakete hori erabil daiteke taldeko idatziak aztertzeko ere @abasoloIDATTaldeLaneko2023; horixe erabilita irakasleak aukera izan dezake taldekideen jarduna aztertzeko azken testuaren azterketaz gain.
+
+::: {#fig-taldelanakidaten layout-ncol="3"}
+![Idazle banatuen estrategia](assets/9/Talde_testuaren_eraikuntza(01-betiko-bostak).png)
+
+![Idazketaren erdian esrategia aldaketa](assets/9/Talde_testuaren_eraikuntza(Eskarmentua-BetiGu).png)
+
+![Elkarrekiko koordinazioan idatzia, antza.](assets/9/Talde_testuaren_eraikuntza(Txepetx2).png)
+
+Hiru taldetako hiru lan estrategia motaz, IDAT V0.1 erabilita aztertuta
+:::
+
+------------------------------------------------------------------------
+
+::: callout-warning
+## Ariketak
+
+Ariketa honetan espero da zuk azken testuaren ezaugarriez gain, ekoizpen prozesuaz hausnarketa egiteko. Horretarako:
+
+1.  Idatzi Etherpad instantzia batean[^03-ikt-2] testua:\
+    *Berbazko diskurtso irakurria idatzi behar duzu, lanean hasi berria zaren ikastetxeak IKTen erabilera beste era batera bideratzearen onurez konbentzitzeko.*
+
+    **Nork**: Irakasle hasi berria\
+    **Norentzat**: Irakasle zahar eta ohituraz erratuak\
+    **Zertarako**: Claustroan irakurtzeko\
+    **Helburua**: Aldaketaren beharraz konbentzitzea
+
+2.  Jaitsi testua formatu irakurgarrian eta `etherpad` formatuan, horretarako eskaintzen den esportazio - inportazio aukera erabilita (gezi bi elkarren gainean)
+
+3.  Aztertu IDATapp erabilita eta alderatu beste taldekide batzuen idazketa prozesuaz eta ondorioak idatzi.
+
+4.  Aztertu irakasleak pasatuko dizun zuen taldeko lana eta ondorioak idatzi, norbanakoaren idazkeraz eta talde lanaren eraikuntzaz.
+:::
+
+[^03-ikt-2]: framapad.org gomendatu dugu klasean

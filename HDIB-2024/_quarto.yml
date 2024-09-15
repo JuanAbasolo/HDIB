@@ -1,12 +1,17 @@
 project:
   type: book
   output-dir: ../apunteak
+
+  
 book:
   title: "Hizkuntzen Didaktikako Ikuspegi Berriak (minorra) V:0.4"
   author: 
     name: "Irakaslea: Juan Abasolo"
     affiliation: UPV/EHU
     orcid: 0000-0002-1911-4118
+  # sidebar:
+  #   style: docked
+  #   background: dark
   date: today
   date-format: "YYYY MM DD"
   favicon: "assets/00/azala.png"
@@ -14,11 +19,38 @@ book:
   search: true
   downloads: [pdf, epub]
   chapters:
-    - index.qmd
-    - 00-Curriculumaz-ta.qmd
-    - 01-HME.qmd
-    # - summary.qmd
-    - references.qmd
+   - index.qmd
+   - 00-Curriculumaz-ta.qmd
+   - part: A_zatia.qmd
+     chapters:
+       - 01-HME.qmd
+       - 02-Immigrazio_hizkuntzak.qmd
+       - 03-IKT.qmd
+       # - summary.qmd
+   - part: B_zatia.qmd
+     chapters:
+       - 04-Lau_zutabeak.qmd
+       - 05-Diglosiatik_hona.qmd
+       - 06-Hizkuntzen_Trataera_Bateratua.qmd
+       - 07-HEBI.qmd
+   - part: C_zatia.qmd
+     chapters:
+       - 08-Metodologiak.qmd
+       - 09-IDU_hizkuntza.qmd
+       - 10-Proiektuak_ataza_hizkuntza.qmd
+       - 11-Bronckart.qmd
+       - 12-SD.qmd
+       - 13-Erroreak.qmd
+       # - 07-Role_playing.qmd
+       # - 08-IKT(1)eus.qmd
+       # - 09-IKT(2)tresnak.qmd
+       # - 10-Erroreak.qmd
+       # - 11-Estrategiak.qmd
+       # - 12-Bronckart.qmd
+       # - 13-Ebaluazioa.qmd
+       # - 14-Azterketa.qmd
+   - references.qmd
+
 
 bibliography: references.bib
 csl: '../../eu/apa-eu.csl'

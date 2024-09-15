@@ -1,0 +1,288 @@
+# Lehenengo gaia {#sec-E1gaia}
+
+Gaia: Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma
+
+Erronka: TikTok erako bideoak sortu edukien gaineko zuon argudioak erakutsiaz
+
+::: callout-caution
+### Erronka: Hezkuntza Sistemaren Hizkuntzen Trataeraren Analisi Kritikoa
+
+**Deskribapena:**
+
+Talde bakoitzak TikTok erako bideo sorta bat sortuko du, hezkuntza sistemaren hizkuntza trataera modu kritikoan aztertuz. Bideoek eduki desberdinak barne hartuko dituzte eta ikuspegi integrala eskainiko du sortak. Helburua da ikasleek hizkuntzen irakaskuntzan, ikaskuntzan eta, zehazki, didaktikan dauden erronkak eta aukerak aztertzea, hausnartzea, iritzia sortzea eta berori aurkeztea.
+
+**Helburuak:**
+
+-   Ikasleek hezkuntza sistemaren hizkuntza trataeraren inguruko ikuspegi kritikoa garatzea.
+-   Eduki teoriko-praktikoak modu dinamiko eta erakargarrian azaltzea.
+-   Ikasleen argumentazio eta komunikazio gaitasunak garatzea.
+
+**Egitekoak:**
+
+-   Talde bakoitzak gutxienez gaiko bideo bat eta kideko bideo bat eta gehienez hamar bideo sortu behar dituzte.
+-   Bideo sortek eduki teorikoak eta praktikoak barne hartu behar dituzte
+-   Ikasleen bideo sortek argudioak eta ikuspegi kritikoa erakutsi behar dituzte
+-   Bideoak beste ikasleek ere ikusiko dituzte, eta talde bakoitzak bere ikuspegi osoa aurkeztu behar du.
+-   Txostena prozesuaren berri emanaz idatzi behar da
+:::
+
+### Pedagogia mota eta azalpena
+
+Orrialde hauetan aurkezten da “Hizkuntzen Didaktikarako Ikuspegi Berriak” ikasgaiaren barruan gauzatuko den Erronketan Oinarritutako Proiektua. Erronketan Oinarritutako Ikaskuntza metodologia didaktikoa da, ikasleriari *erronka* izendatutako proiektu zabala aurkezten zaio, erronka erdietsi dezaten. Errealitateko hutsune eta ahulgune bati erantzun nahi dion proiektua da, irtenbide anitz onartzen dituena eta lankidetzan garatzen dena. Proiektu bidezko ikaskuntzaren metodologia berritzailea da. Nahiz eta metodologia hau 2000. urtean hasi zen garatzen, Vanderbilt, Northwestern, Texas eta Harvard/MITeko Ingeniaritza Ikerketa Zentroaren bidez [@harrisChallengebasedInstructionBiomedical2005].
+
+Ikaskuntza mota honen abantailak hauek dira: ikaslearen motibazioa indartzea, problema errealak ebaztea, ikasleen lana eta ikaskuntza probetxugarriak eta mesedegarriak direla ikustea, gizartean dauden arazoekin ikaslearengan sentsibilizazioa eragitea, ingurunearen ezagutza areagotzea eta komunikazio konpetentziak garatzea. Metodologia honek zuzen-zuzenean egiten du bat UPV/EHUk proposatzen duen IKD Ikaskuntza Kooperatibo eta Dinamikoa ereduarekin [@universidaddelpaisvasco/euskalherrikounibertsitateaEnsenarUPVEHU2015]. Bai eta Garapen Iraunkorrerako Helburuen arteko 17+1 edo 18. helburuarekin ere, UPV/EHUk Nazio Batuen Erakundeak proposatutakoei gehitutako azkenengoarekin, alegia: “hizkuntza eta kultura aniztasuna” [@euskalherrikounibertsitateaEHUagenda2030Garapen2019].
+
+Ikaskuntza metodologia hau aukeratu da ikerketa askotan erakutsi duelako erabilgarritasuna beste metodologia batzuekin alderatu denean. @cordrayResearchSynthesisEffectiveness2009 ikerketan, bioingeniaritzan erronketan oinarritutako moduluen eraginkortasuna aztertu zen. Emaitzen arabera, metodologia honek ikasleen errendimendua nabarmen hobetzen du. Monterreyko Teknologikoaren txostenak [@observatoriodeinnovacioneducativadeltecnologicodemonterreyAprendizajeBasadoRetos2016] (2016) EOI-ren egitura azaldu eta metodo honek ikasleen motibazio eta inplikazioa nola handitzen duen erakusten du. Era berean, @abasoloValoracionTrabajoCooperativo2021 ikerketak ikasleen komunikazio gaitasunak garatzeko videocast-en erabilera aztertzen du, ikasleek taldeko lana eta teknologia berrien erabilera nola baloratzen duten erakutsiz.
+
+![Erronkan Oinarritutako Ikaskuntzaren egituraren irudikapena The Legacy Cycle, Cordray et all. (2009)](images/clipboard-2757486841.png){#fig-TheLegacyCycle fig-align="center" width="500"}
+
+Erronketan Oinarritutako Ikaskuntzaren ekarpenak eta abantailak kontuan hartuta, ikasgai honetan hainbat eduki metodologia honi jarraiki landuko dira. Horrenbestez, proiektu honetan, ikasleei planteatzen zaien erronka hauxe da: TikTok erako bideoak sortzea, ikasgaiaren eduki teoriko eta praktikoak jorratuz eta ikuspegi kritikoa erabiliz. Bideo horiek besteek ere ikusiko dituzte, eta gaiaren inguruko osotasun ikuskeraren bat irudikatu beharko dute.
+
+Erronka horri erantzuteko ikasleek taldean egingo dute lan, ohiko talde txikietan, 5-6 kideko taldeetan. Proiektu honetan Cordrayk-eta [-@cordrayResearchSynthesisEffectiveness2009] definitutako bost uneak, @fig-TheLegacyCycle, lau fasetan ulertzen da. Hasiera batean ikasleei erronka aurkeztuko zaie; hurrengo bigarren pausuan ikasleek testuingurua definituko dute, testuinguru horri nola erantzun pentsatu, askotariko informazioa bildu eta proposamena diseinatuko dute. Diseinu hori gauzatu eta sortu egingo dute hirugarren fase batean, eta laugarren fasean lorpenen komunikazioa egingo da, ahoz eta idatziz.
+
+1.  fasea: Erronkaren aurkezpena
+2.  fasea: Ideiak garatu - Askotariko ikuspegiak
+3.  fasea: Ikertu, diseinatu eta sortu
+4.  fasea: Materialaren azalpena eta dibulgazioa: ahoz eta idatziz
+
+Esan bezala, lehenengo fasean erronka aurkeztuko da eta horrekin lotutako antolakuntza eta akademia alderdiak xehetuko.
+
+Bigarren fasean, ikasleek erronkaren inguruko ideiak garatuko dituzte taldeka. Horretarako, askotariko ikuspegiak hartuko dituzte kontuan: ikasgaian aurretik landutakoak, euren esperientzia propioa, irakaslearen laguntza eta ikuspuntua, iturri bibliografiko anitzak eta abar.
+
+Hirugarren fasean, taldetan testuingurua definitu ostean, testuingurura egokitzen den material didaktikoa diseinatu eta sortuko dute ikasleek, horretarako, informazio bilketa eta aukeraketa kritikoa egin beharko dute.
+
+Laugarren fasean, egindako materialaren berri emango dute idatziz eta ahoz. Idatziz, osatuko duten txosten idatzian eta ahoz ikasgelaren aurrean egingo duten proiektuaren aurkezpenean.
+
+### Justifikazioa
+
+Laster izango dira 60 urte hezkuntzan Phillip W. Jackson-ek ikastetxeetan egindako etnografia lanetan hezkuntza-gertaera zenbait identifikatu zituela [@jacksonLifeClassroom1968]. Inplizituki eta ikas-irakats prozesu antolatuen pare, garatzen diren bestelako prozesuak erakutsi zituen; *ezkutuko curriculum* izendatu zituen.
+
+Hartara, eta pedagogia kritikoak seinalatu dituen hainbat curriculum elementu baliokotzat jota, esan dezakegu curriculumaz berba egiten dugunean ez dagoela hain argi zer ari garen aipatzen, baldin eta zehazteko ahalegina ez badugu egiten [@eisnerConflictingConceptionsCurriculum1974; @cabreraCurriculumOcultoMensajes2016]. Agerikoa zein ezkutuko curriculumak bat egiten dute eskola erakundearen produkzioa den neurrian. Hain da ze, eskolak, eskola den neurri horretan, curriculuma baino besterik ez du egiten [@bilbaobilbaoKulturaErreferenteakOinarrizko2002]. Diseinatu nork egiten duen eta zein elementuri tokia eman edo zeini ez, bestelako kontua da. Elementu desberdintzat hartu behar ditugu curriculum agerikoaren diseinua, eta curriculuma bera. Izan ere, oraingo legedian lausotu den arren, legean ere hala zuen izena, *Oinarrizko Curriculum Diseinua* [@hezkuntzaunibertsitateetaikerketasailaEuskalAutonomiElkarteko1992a]*–*. Orain berriro lausotu da zeinua eta adierazitako objektuaren[^a_zatia-1] arteko aldea; gaur Euskadin *curriculum* diseinua eta diseinuari dagozkion irakasleen eginkizunak direla esan liteke, legearen prismatik begiratuta. Hartara, aukeraketa horri begiratu behar zaio ez soilik bere testualtasunean, baizik eta pragmatikan hartzen duten formatik ere bai.
+
+[^a_zatia-1]: designatum
+
+> \[Curriculuma\] gertaera soziala eta historikoa da, beraz, zeren, modu eta eduki batzuk hautatuz eta beste batzuk baztertuz, une historiko jakin bateko tresna ideologiko eta eragile garrantzitsu bihurtzen baita. Arazoaren muina, ordea, honetan datza: balekotzat edo baliozkotzat onartzen diren ezagutzak eta moduak zeintzuk diren eta zeintzuk baztertzen diren ezagutzea, baina nork erabakita eta zertarako egiten den jakitea ere.
+>
+> – [@ezkurdiaarteagaCurriculumaEtaIngurunea2004]
+
+<!--# Ahalegindu ondo bilbatzen hau guztiau : Azken biak penagarri-->
+
+Egun hezkuntza sistemarako zehazten diren ikasleen irteera profilari begiratu behar zaio ageriko curriculumaren izaeraz hitz egiteko eta, zehazki horrek eraman behar gaitu arauari begiratzera, hizkuntzen jakintzaren akreditazioa arautzen duen Europako Erreferentzia Marko Bateratuari, hizkuntza-komunikazio gaitasunari eta hizkuntzen komunikazio esparruaren eraikuntzari. Horrela, lehenengo gai hau hornitu da lau eduki eta horien lanketaz.
+
+Ikasleek iritzi bat eraiki behar du hizkuntzak zein toki hartzen duen indarrean dagoen Curriculum Diseinuan, horretarako talde lanean hizkuntza-komunikazioa, Hizkuntza-Komunikaziorako Konpetentzia eta Konpetentzia Eleaniztun deituek zer liratekeen eta zein toki hartzen duten aztertu eta mapeatu beharko dute.
+
+-   Gai guztiaren hasieran curriculumaren ikuskera azaltzeko testu hau landuko da, curriculumaren nondik norakoaz eta hezkuntzaz pentsatzeko markorako aurrejakintzak kontzientziara ekartzeko: @santosguerraEfectosSecundariosSistema1992
+-   Hurrengo, hezkuntza jardunaren antolaketarako uneko curriculum-arauak landuko dira: [@hezkuntzasaila752023DEKRETUA2023; @hezkuntzasaila772023DEKRETUA2023].
+
+Irakasle lanerako formazioan ari direnek ezagutu eta erabili behar dute haien lana eta jarduna izango (ahal) dena arautuko duten ideiak eta idatziak. Ikasgaiaren erreferentziazko edukia izango da, neurri handi batean, ikasleak lehenengo klase honetan egingo duen azterketa. Eta ez soilik ikasgairako, baita ere laugarren mailan egingo duten praktikaldian eta etorkizuneko enpleguan ere, beste dekretu batek hauek baliogabetzen ez baditu.
+
+Hizkuntzen didaktikari buruz mintzo bagara, europar ikuskera zein den jakin beharra dago. Hezkuntza inguruko legeen diseinua zein, zehazki, irakats-ikas egoeren diseinurako, laneko aukeretarako akreditatzeko eta abar, Europako Erreferentzia Marko Bateratua (EEMB) erabiltzen da. Ikasleak hori ezagutu behar dute. Problematizazio mailan, europar markoan nola erabili diren hizkuntzak EEMB eraikuntzan eta inguruko hainbat erabakitan. Maila praktikoan, berriz, artean ikasle direnek ezagutu behar dute zer den *Advance* edo *EGA* akreditazioz gainera EEMBko mailak. Eta, zehazki, ezagutu behar dute euren ikasleek erdietsi behar luketen irteera profileko komunikazio gaitasun maila hizkuntza bakoitzean. Horretarako, hiru zeregin izango dituzte; EEMBarekin zabaldu zen hizkuntz portfolioan oinarritutako autoazterketa bat, mailen maila batzuen deskribapena eta ikasleen ekoizpenek izan beharreko ezaugarrien deskripzioaz azkena.
+
+-   Hizkuntz komunikazioa aztertzeko eta ebaluatzeko egun erabiltzen den EEMB eta horrekin lotutako portfolioa:\
+    @davisHizkuntzenPortfolioEuroparra2004\
+    @europakokontseiluaHizkuntzenEuropakoErreferentzia2022 @europakokontseiluaHizkuntzenIkaskuntzaIrakaskuntza2005
+
+Aipatu arren, curriculum diseinutik aparte geratzen diren hainbat hizkuntza "ez-curricular" ere bada. Horrekin zer gertatzen den, arauak zer dioen, zein toki izan lezakeen eta zein ematen zaion eskolan eta gizartean. Zalantzoi nolabaiteko erantzunak emateko eskatuko zaie proiektuko hirugarren astean. Horretarako Hezkuntza Saileko zenbait weborri eta dokumentu bi erabiliko dira, aurreko klaseetako dokumentuez eta apunteez gain.
+
+-   Immigrazio hizkuntzak eta ikastetxeak\
+    Emigrazioko doluetan bigarrena hizkuntza @achoteguiloizateDuelosMigracionAproximacion2000\
+    @hezkuntzasailaEleaniztasunaZer2017\
+    @hezkuntzasailaEAEkoHezkuntzaSistema2019\
+    @larreaHizkuntzaEtorkinakAzterketa2013
+
+Gai honetan kolpeko zaion azken edukia *Informazio eta Komunikaziorako Tresnak* da. Edukiak izena du plural eta pluralak ere badira oratzeko ikuskera posibleak. Honetan problematizatuko dira hiru inguru: (1) erabiltzen diren teknologiok nork eta zelan ekarri dituen gelara,(2) zer egiten duen irakasleak eta zer eragiten duen; eta, azkenik, (3) zein hizkuntzatan erabiltzen den, zergatik, eta horrek zein ikaskuntza motara bideratzen duen.
+
+Aurkeztuko dira zenbait baliabide; gehienbat euskararen erabilera eta datuen babesa bultzatze aldera. Egin beharreko klaseko ariketetan aztertu beharko dute euskara nola jar daitezkeen eurek erabiltzen dituzten tramankulu digitaletan. Hizkuntzaren eta euskararen lanketarako egokiak diren online baliabideak aztertu eta sailkatu beharko dituzte.
+
+-   Informazio eta Komunikaziorako Tresnen erabilerak\
+    @pankajaProprietarySoftwareOpen2013\
+    @julioEuskaraEtaTeknologia2015\
+    @julioAhalduntzeTeknologikoIntegralerako2015 @euskararenaholkubatzordeaEuskarazkoIKTakGomendioak2016
+
+### Lantzen diren konpetentziak
+
+Erronka honen garapenaz ikasleak landuko ditu zehaztutako zenbait gaitasun, ikasgaiko bat, mailako bi eta UPV/EHUk zehaztutako zeharkako bost.
+
+Ikasgaian: (C) Ikastetxean hizkuntzen presentziaz aztertzea eta arrazoibideak ematea, hezkuntza premiei eta helburuei egokitasunez erantzuteko, ebidentzietan oinarrituta.
+
+Maila: 4) Hausnartzeko eta argumentatzeko autonomia-gaitasuna garatzea ikasketen eta lanaren gaineko iritziak emateko, erabakitzeko eta hezkuntzari lotutako arazoak konpontzeko, bai bakarka bai elkarlanean. *Komunikazioa eta arloak* ardatzarekin lotua. 5) Komunikazio-gaitasunak erabiltzea Autonomia Erkidegoaren bi hizkuntza ofizialetan erreferentziako Europako esparruaren C1 maila eskuratu arte. *Komunikazioa eta arloak* ardatzarekin lotua.
+
+UPV/EHU zeharkakoak: Pentsamendu Kritikoa, Komunikazioa eta Eleaniztasuna, Talde Lana, Gizarte Konpromisoa, Informazioaren Kudeaketa eta Herritartasun Digitala.
+
+#### Ikaskuntza emaitzak
+
+A)  Hezkuntza-errealitatearen hizkuntz dimentsioa aztertzen du ebidentzietan oinarrituta.
+
+B)  Arrazoibideetan hezkuntzaren hizkuntz dimentsioko elementuak erabiltzen ditu, hezkuntza helburuei buruz ari denean.
+
+C)  Hezkuntza-premiei eta helburuei erantzuteko arrazoibideak ematen ditu hezkuntza inguruaren hizkuntz-dimentsioa kontuan hartuta.
+
+PK01 Behaketa sistematikoa erabiltzen du, hainbat egoerari buruzko gogoeta egiteko oinarrizko teknika gisa. PK02 Egoera baten azpian dagoen arazoa identifikatzen du; hura objektiboki ulertzeko beharrezkoa den informazioa biltzen du, eta elementu esanguratsuak aukeratzen ditu. PK03 Egoera edo arazo bat azaltzeko hipotesiak adierazten ditu, hura definitzen duten alderdi objektiboak eta subjektiboak identifikatuta. PK05 Hainbat iturritatik eskuratutako informazioa interpretatzen du, haren egokitasuna eta irismena ikuspegi kritiko batez baloratuta. PK06 Inguruan duen errealitatea zalantzan jartzen du, eta horren baitan dauden printzipioak, gertaerak, jarrerak eta balioak analizatzen ditu, bere jarrera propioa definitzeko. PK09 Aldez aurretik ezarritako helburuak lortzeko bete beharreko lanerako plana sistematikoki diseinatzen du. PK15 Hainbat arlotako ezagutzak erlazionatzen ditu, egoera konplexuen aurrean diziplinarteko erantzun bat emateko.
+
+TL05 Lankidetza lanerako plan errealista eta egingarri baten diseinuan parte hartzen du, berari eta taldeari dagozkion zereginak identifikatuta. TL06 Dagozkion zereginak erantzukizunez betetzen ditu, helburu eta emaitza kolektiboak lortzeko. TL11 Bere gogoetak eta argudioak partekatzen ditu, taldeak egindako prozesuaren eta lortutako emaitzen baterako ebaluazioa egiteko. TL12 Ikasketa eta/edo ikerketa proiektu bat garatzen du aniztasunaren ikuspegitik, diziplinarteko taldeetan egindako lana oinarri hartuta. TL13 Beste talde batzuekin lankidetzan dihardu, sare zientifikoen eta profesionalen eraikuntzan.
+
+KO01 Arau ortografikoak eta gramatikalak errespetatzen ditu, testu akademikoak idaztean. KO02 Idatzizko komunikazio espezializatuan egiturak eta arauak erabiltzen ditu, bai hizkuntza ofizialetan bai atzerriko hizkuntzetan, dokumentu akademikoak eta zientifikoak egiteko. KO04 Komunikazio eraginkorraren printzipioak identifikatzen ditu, bere testuinguru pertsonalean eta sozialean. KO06 Ideiak eta argudioak era ulergarrian komunikatzen ditu, ezarritako irizpide formalekin bat etorrita. KO07 Bere ideiak komunikazio eraginkortasunez adierazten ditu, hitzezko eta ez-hitzezko hizkuntzaren arteko koherentziari eutsita. KO08 Hitzezko eta ez-hitzezko adierazpena entzuleriari egokitzeko gai da, ahozko aurkezpen publiko batean, bai hizkuntza ofizialetan bai atzerriko hizkuntzetan. KO10 Ahozko azalpen batean, testuinguruaren beharren baitan kudeatzen ditu denbora eta erritmoa. KO11 Euskara eta/edo gaztelaniaren erabilera testuinguru akademiko eta/edo profesionalera egokitzen du.
+
+GK01 Gizarte desberdintasuneko portaerak identifikatzen ditu, diseinatutako jardueretan eta/edo proiektuetan. GK02 Bere ikasketa arloaren testuinguruan, hizkuntza eta kultura aniztasuna errespetatzen duten ekintzak eta portaerak deskribatzen ditu. GK08 Jakintza arloko politika, programa edo jardun espezifikoek maila indibidualean, sozialean, kulturalean, ekologikoan eta globalean dituzten inplikazioak argudiatzen ditu. GK09 Gizarte gai esanguratsuei buruzko zentzuzko iritziak ematen ditu, bere jakintza arloko datuen interpretaziotik abiatuta.
+
+IF05 Arduraz jokatzen du hainbat ingurune digitaletan, oinarrizko portaera arauak, entzuleak eta/edo ikusleak errespetatuz. IF06 Datuak eta informazioa eskuratzeko eta partekatzeko moduak bere identitate digitalean eta ongizate psikologikoan dituen ondorioak identifikatzen ditu. IF07 Egoki baloratzen du hainbat ingurunetan eskuratutako informazioa, haren fidagarritasuna eta garrantzi zientifikoa oinarri hartuta. IF09 Ingurune digitalak lankidetzan erabiltzen ditu, lan akademikoak eta ikerketak egiteko.
+
+### Aurrezagutzak
+
+Ikasgaiaren hasieran helduko zaio proiektu honi, horretagatik, beharrezko aurrezagutzak ez dira izango aurreko ikasgaietan jaso beharrekoak baino. Bereziki esanguratsuak dira "curriculum" kontzeptua bere zabalean, ikastetxeen antolaera, komunikazio gaitasunaren garapena eta hizkuntzaren didaktika.
+
+### Landutako eduki teoriko-praktikoak
+
+Hizkuntzen Didaktikarako Ikuspegi Berriak ikasgaiko hasieran egin beharreko lan honetan lehenengo gaia landu beharko da, *Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma*; zehazki gai honen barruan lantzekoak diren lau edukiak erabiliko ditu ikasleak horren gaineko hausnarketaz ikaskuntza esanguratsuak erdiesteko.
+
+-   Curriculuma zer den eta Curriculum dekretuak zer dioen
+-   Hizkuntza eta komunikazioa, definizioen argitara: Hizkuntzen Ikaskuntza Irakaskuntza eta Ebaluaziorako Europako Erreferentzia Markoa
+-   Gure hezkuntza sistemari zeharka hizkuntzatik begiratu: Immigrazio hizkuntzen trataera
+-   IKTak eta hizkuntza
+
+Laburbilduz, ikasleak lan hau eginaz, ikasgairako markoa eregiteaz batera, hezkuntzan hizkuntzaren agerreraren nolakotasunari sistematikoki begiratuko dio eta bere iritzi oinarritua ematen trebatuko da.
+
+### Taldekatzeak
+
+Ikas taldea 5 laguneko taldetan banatuko da, jakinaz, matrikularen arabera, laukoren bat edo seikoren bat gerta litekeena. Bataz beste eta aurreko matrikulan oinarrituta zortzi edo bederatzi talde izango direla aurreikusten da.
+
+### Lan zama
+
+Ikasgaiko lehenengo lau astetan garatuko da lanaren zatirik handiena. Espero izatekoa da ikasleek eskolatik kanpo ere lan egitea, laugarren astetik aurrera, ikasgaiko eduki guztiak ikusiak izanda osatu ahal izateko.
+
+Zazpigarren asteko mintegietan aurkeztuko dira grabaketak eta horren gaineko eztabaida egingo da ostean, hurrengo gaiko lehenengo bi edukiren argitara ere.
+
+### Plangintza
+
+Erronka hau aurrera eramateko prozesua lau fasetan antolatu da:
+
+Lehenengo faseak zikloko (@fig-TheLegacyCycle) aurkezpenarekin bat egiten du eta lehenengo eskola-astean egiteko da, erronkaren aurkezpena; bigarren faseak zikloko bigarren eta hirugarren elementuak batzen ditu, eta lau klase asteetan zehar egingo da; bigarren faseak ziklo barruko begiztari dagokio, eta laugarren astea eta zazpigarrenaren artean eskolaz kanpo egingo da; azkenik, laugarren fasea dagokio aurkezpena eta debateari, zazpigarren astean egin beharreko mintegietan garatuko dena.
+
+#### Lehenengo fasea
+
+Faseon erronka aurkeztuko zaie ikasleei.
+
+Taldeka zein banaka ikasgaian garatu beharreko zereginen bitartez, arian arian, ikasleak joango dira identifikatzen erronkarako egoki deritzen aukerak.
+
+#### Bigarren fasea
+
+Bigarren fase honek lau bat aste iraungo du. Ikasleek baliatuko dituzte klasean erabilitako gaiak zein aurretik eginak dituzten bi praktikaldiak edo bestelako hezkuntza-esperientziak izan ditzakeenak.
+
+Fasearen amaieran lehenengo entregagarria idatzi beharko dute ikasleek eta irakasleari entregatu EHUbox-en karpetaren bidez. Irakasleak hurrengo saiora orduko egingo du zuzenketa eta ikasleei feedbacka emango. Feedback hori aurrez aurre egingo da eta taldeko-tutoretzara deituak izango dira aste horretan zehar. Bigarren fasea ezinbestekoa da horren gainean eraikiko baita gainerakoa.
+
+#### Hirugarren fasea
+
+Hirugarren fase honetan, ikasleek bideo ekoizpena bideratu beharko dute. Horretarako, eurek ezarri nahi duten komunikazio erarako egokientzat deritzen ikuskera eta modua garatu beharko dute, teknikoki zein komunikazio ikuskeratik.
+
+Ikasgelan eskolak diseinurako probestu behar izan dutenez, ez da espero denbora gehiegi eskaini behar izaterik. Hala ere, irakaslearekin tutoretzak egin ahal izango dituzte astean zehar eskola-ordutik aparte.
+
+#### Laugarren fasea
+
+Azken fasean taldeek sortutako baliabideak aurkeztuko dituzte mintegietan beste ikasleen aurrean, debatea sortzea helburu. Sortutako baliabideak sare sozialetan partekatuz gero, parte hartzen duten ikasleen arteko partekatzea bultzatuko da.
+
+Bideozko ekoizpenez gain, irakasleari idatzizko txosten/protfolioa ere emango diote, bideoetako nondik norakoak azalduaz; zein mintegian bizitakoen laburpen batekin.
+
+### Kronograma
+
++-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+---+---+---+---+---+
+| Fasea | Urratsa                                                               | Irakasleak                                                                 | 1 | 2 | 3 | 4 | 7 |
++=======+=======================================================================+============================================================================+===+===+===+===+===+
+| 1     | Erronkaren aurkezpena                                                 | Aurkezpena egingo du                                                       | x |   |   |   |   |
++-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+---+---+---+---+---+
+| 2     | Talde bakoitzak edukien lanketan oinarritutako proposamena egingo du  | Irakasleak ikasleen lanak gainbegiratuko ditu eta feedbacka emago die ahoz | x | x | x | x |   |
++-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+---+---+---+---+---+
+| 3     | Taldekideek komunikazio proposamenak idatzi eta bideoz grabatuko ditu | Tutoretzak egingo ditu behar duten ikasleekin                              |   |   |   | x |   |
++-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+---+---+---+---+---+
+| 4     | Sortutako bideoen aurkezpena\                                         | Irakasleak azken kalifikazioa emango die ikasleei                          |   |   |   |   | x |
+|       | Eztabaida\                                                            |                                                                            |   |   |   |   |   |
+|       | Lan idatziak                                                          |                                                                            |   |   |   |   |   |
++-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+---+---+---+---+---+
+
+### Entregagaiak eta balioa
+
+Proiektuak sei entregagai ditu, eduki bakoitzeko bat gehi komunikazioaren lanketari dagozkion biak. Horrela, segidako taulan zehazten den moduan banatzen da kalifikazioarekiko proiektuaren ekarpena.
+
+-   Astean asteko entregagaiak
+-   Bideoak
+-   Txosten idatzia
+
+| Fasea | Astea | Entregagaia                                                   |  \% | Ikasgaian |
+|------:|------:|---------------------------------------------------------------|----:|----------:|
+|     2 |     1 | Curriculum Dekretuan hizkuntzaren kokapenaren mapeoa          |   1 |       0.1 |
+|     2 |     2 | EEMBen mailen araberako testuak identifikatu                  |   1 |       0.1 |
+|     2 |     3 | Hizkuntza ez-ofizialetako baliabide eta informazioaren mapeoa |   1 |       0.1 |
+|     2 |     4 | IKTen baliabideen sailkapena                                  |   1 |       0.1 |
+|     4 |     7 | Bideoak                                                       |   5 |       0.5 |
+|     4 |     7 | Txostena, aurkezpena eta debatea                              |   5 |       0.5 |
+
+: Lehenengo eskola-proiektuko entregagaien hurrenkera
+
+### Ebaluazio irizpideak
+
+Lanaren ebaluazioak egiteko hiru errubrika sortu dira. Bat bideoak banaka ebaluatzeko, beste bat talde lana oro-har hartuta eta, azkenik, hirugarrena idatzizko lana ebaluatzeko.
+
+```{=tex}
+\begin{landscape}
+```
+|                                         | **0-2**                                          | **3-5**                                                           | **6-8**                                                                   | **9-10**                                                      |
+|-----------------------------------------|--------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------|
+| **Ikuspegi Kritikoa**                   |                                                  |                                                                   |                                                                           |                                                               |
+|                                         | Ez dago ikuspegi kritikorik.                     | Ikuspegi kritikoa azalekoa da.                                    | Ikuspegi kritikoaren adierazpena argia da, baina hobetu daiteke.          | Ikuspegi kritikoa oso garatua eta sakona da.                  |
+| **Edukiaren Kalitatea**                 |                                                  |                                                                   |                                                                           |                                                               |
+|                                         | Edukiak ez dira koherenteak edo desegokiak dira. | Edukiak oinarrizkoak dira eta argitasun falta dute.               | Edukiak onak dira eta argiak, baina hobetu daitezke.                      | Edukiak oso ondo egituratuak eta informazioz beteak dira.     |
+| **Originaltasuna eta Sormena**          |                                                  |                                                                   |                                                                           |                                                               |
+|                                         | Ez dago originaltasun edo sormenik.              | Originaltasuna eta sormena gutxi dira.                            | Originaltasun eta sormen puntu batzuk daude, baina gehiago landu daiteke. | Originaltasuna eta sormena oso agerikoak dira eta nabarmenak. |
+| **Ahozkotasuna eta Ahozko Adierazpena** |                                                  |                                                                   |                                                                           |                                                               |
+|                                         | Ahozkotasuna eta adierazpena oso eskasak dira.   | Ahozkotasuna eta adierazpena nahikoak dira baina hobetu daitezke. | Ahozkotasuna eta adierazpena onak dira baina hobetu daitezke.             | Ahozkotasuna eta adierazpena oso onak eta argiak dira.        |
+| **Baliabideen Erabilera**               |                                                  |                                                                   |                                                                           |                                                               |
+|                                         | Baliabide gutxi edo desegokiak erabili dira.     | Baliabideak nahikoak dira baina ez dira ondo integratu.           | Baliabideak ondo erabili dira, baina hobetu daiteke.                      | Baliabideak oso ondo aukeratu eta erabili dira.               |
+| **Hausnarketa Eragiteko Gaitasuna**     |                                                  |                                                                   |                                                                           |                                                               |
+|                                         | Ez du hausnarketa eragiten.                      | Hausnarketa eragiteko gaitasuna mugatua da.                       | Hausnarketa eragiteko gaitasuna ona da baina hobetu daiteke.              | Hausnarketa eragiteko gaitasuna oso ona eta argia da.         |
+
+: Bideoak banaka ebaluatzeko errubrika
+
+|                                         | **0-2**                                | **3-5**                                                 | **6-8**                                                      | **9-10**                                                    |
+|-----------------------------------------|----------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------|
+| **Taldeko Koordinazioa eta Lankidetza** |                                        |                                                         |                                                              |                                                             |
+|                                         | Ez dago koordinazio edo lankidetzarik. | Koordinazioa eta lankidetza gutxi dira.                 | Koordinazioa eta lankidetza onak dira baina hobetu daitezke. | Koordinazioa eta lankidetza oso onak eta eraginkorrak dira. |
+| **Ekoizpen Orokorraren Kalitatea**      |                                        |                                                         |                                                              |                                                             |
+|                                         | Ekoizpenaren kalitatea oso eskasa da.  | Ekoizpenaren kalitatea nahikoa da baina hobetu daiteke. | Ekoizpenaren kalitatea ona da baina hobetu daiteke.          | Ekoizpenaren kalitatea oso ona eta zaindua da.              |
+| **Bideoen Arteko Koherentzia**          |                                        |                                                         |                                                              |                                                             |
+|                                         | Ez dago koherentziarik bideoen artean. | Koherentzia gutxi dago bideoen artean.                  | Koherentzia ona da baina hobetu daiteke.                     | Bideoen arteko koherentzia oso ona da eta argia.            |
+| **Hausnarketa Eragiteko Gaitasuna**     |                                        |                                                         |                                                              |                                                             |
+|                                         | Ez du hausnarketa eragiten.            | Hausnarketa eragiteko gaitasuna mugatua da.             | Hausnarketa eragiteko gaitasuna ona da baina hobetu daiteke. | Hausnarketa eragiteko gaitasuna oso ona eta argia da.       |
+
+: Taldearen bideo sorta ebaluatzeko errubrika
+
+| Kategoria                                | 0-2                                                                                                          | 3-4                                                                                                                       | 5-8                                                                                                                             | 9-10                                                                                                                                                 |
+|------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Edukiaren Sakontasuna eta Analisia**   |                                                                                                              |                                                                                                                           |                                                                                                                                 |                                                                                                                                                      |
+|                                          | Edukiak azalekoak dira eta ez dute sakontasunik. Ez dago analisi kritikorik edo oso mugatua da.              | Edukiak oinarrizkoak dira eta sakontasun nahikorik gabe. Analisi kritikoa azalekoa da.                                    | Edukiak onak dira eta sakontasun nahikoa dute. Analisi kritikoa egokia da baina hobetu daiteke.                                 | Edukiak oso sakonak dira eta informazio zehatza eskaintzen dute. Analisi kritikoa oso ona eta sakona da, ideiak argi eta garbi azaltzen dira.        |
+| **Argudioen Koherentzia eta Estruktura** |                                                                                                              |                                                                                                                           |                                                                                                                                 |                                                                                                                                                      |
+|                                          | Argudioak ez dira koherenteak eta txostena ez dago ondo estrukturatua. Ideiak nahasirik daude.               | Argudioak koherentzia gutxi dute eta txostenaren estruktura hobetu daiteke. Ideiak modu nahikoan antolatuak daude.        | Argudioak koherenteak dira eta txostenaren estruktura ona da, baina hobetu daiteke. Ideiak modu logiko batean antolatuak daude. | Argudioak oso koherenteak dira eta txostenaren estruktura oso ona da. Ideiak modu argi eta ordenatu batean aurkezten dira, irakurlea gidatuz.        |
+| **Idazkera**                             |                                                                                                              |                                                                                                                           |                                                                                                                                 |                                                                                                                                                      |
+|                                          | Idazkera oso eskasa da, akats ortografiko eta gramatikal ugari ditu. Adierazpena ez da argia eta ulergarria. | Idazkera nahikoa da baina akats ortografiko eta gramatikal batzuk ditu. Adierazpena nahiko argia da baina hobetu daiteke. | Idazkera ona da, akats gutxi ditu eta adierazpena argia da.                                                                     | Idazkera oso ona da, akats ortografiko eta gramatikalik gabekoa. Adierazpena oso argia eta ulergarria da, irakurleari ideiak ondo helarazten dizkio. |
+
+: Txostenerako Ebaluazio Errubrika
+
+```{=tex}
+\end{landscape}
+```
+### Beharrezko materialak
+
+-   Lau eskoletan landutako bibliografia zein horrekin lotutako bestelako ebidentziak
+-   Bideokamera bat, telefonoak erabiliko direlakoan horretarako
+-   Ordenagailua eta bideo ediziorako aplikazioak, telefonoa erabiliko delakoan horretarako
+-   Ikasgaiko apunteak
+
+### Irakaslearen funtzioak
+
+Irakasleak erronkaren aurkezpena egingo du. Aurrera eroateko egin beharreko pausuak, garatu beharreko lanak zein izango diren, nolako lan banaketa egin beharko duten eta ebaluazio eta kalifikaziorako irizpideak zein diren.
+
+Hasierako azalpenen ondoren, irakasleak tutore rola hartu beharko du motibatu, gidatu eta, oro har, lagunduaz lanean parte hartzea bultzatuaz; ikasleekiko laguntza pertsonalizatua bideratuaz.
+
+Amaitzeko, irakaslea arduratuko da lanen ebaluazio adostuaz eta, azken-azkenik, kalifikazioaz.
+
+### Emaitzak
+
+Proiektuaren azken emaitza izango da hizkuntzaren didaktika markoaren inguruko hainbat puntu interesgarriren zerrenda heterodoxo eta sakona sortzea, ikasleek ikasitakoa aplikatuz eta hausnarketa kritikoa eginez lortutakoa. Horrek ikasleei aukera emango die hizkuntzen didaktika eta hezkuntza sistemaren inguruko ikuspegi zabala eta kritikoa garatzeko oinarriak ezartzen, baita ere jakin beharreko hainbat ezaugarriren berri jakiten ere.

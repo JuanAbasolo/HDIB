@@ -1,0 +1,256 @@
+## Hirugarren gaia
+
+Gaia: **Gelako praktikaren antolakuntza eta hizkuntza**
+
+Erronka: Sekuentzia Didaktikoaren diseinua
+
+::: callout-caution
+### Erronka: Sekuentzia Didaktikoaren diseinua
+
+**Deskribapena:** Erronka honetan, ikasleek Sekuentzia Didaktiko bat (SD) diseinatu behar dute, Erronketan Oinarritutako Ikaskuntzaren paradigmatik abiatuta. Horrek aurreko gaietan eta hirugarren gai teorikoan ikasitakoa praktikan jartzeko aukera emango die, hizkuntzen didaktikarako egungo ikuskerak erabilita.
+
+**Helburuak:**
+
+-   Ikasleek Sekuentzia Didaktikoa diseinatzea, hizkuntzaren erabileran ardaztuta.
+-   Eskola teorikoetan aztertutako eduki teorikoak erabiltzea praktikaren eraikuntzan
+-   Hizkuntzen erabilerara bideratutako diseinuetan teorian oinarritzea
+
+**Egitekoak:**
+
+-   <!--# ALDATU HAU- HONEEK TXARTO DOZ-TA!!! -->Hainbat baliabide didaktiko aztertu.
+-   Hezkuntzan erabiltzen diren testuen sailkapena.
+-   Argitaratutako baliabideen oraingo markorako egokitzapena.
+-   Testuen eraikuntzan oinarritutako Sekuentzia Didaktikoaren eraikuntza eta ebaluazioa.
+-   Hizkuntzaren dimentsiotik Ikaskuntzarako Diseinu Unibertsalaren (IDU) erabiltzea.
+:::
+
+### Pedagogia mota
+
+Lehenengo gaian (@sec-E1gaia) aukeratutako eredua aukeratu da hirugarren gai honetarako, Erronketan Oinarritutako Ikaskuntza (EOI). Irakurleak jo beza horra horren oinarriez sakonago irakurtzeko. Laburki, gogoratu ditzagun hurrengook:
+
+<!--# Geppetto -->
+
+Erronketan Oinarritutako Ikaskuntza (EOI) hezkuntza ereduak ikaslea ikaskuntza prozesuaren erdigunean jartzen du. Metodologia honek, ikasleek erronka eta arazo errealak ebazten dituzten bitartean, ezagutza eta konpetentziak garatzen laguntzen die.
+
+EOIren oinarrizko printzipioak hauek dira: ikasleak aktiboki parte hartzea, arazo errealak eta praktikoak lantzea, eta talde-lanaren bidez ikaskuntza kolektiboa bultzatzea. Metodologia horrek ikasleen autonomia sustatzen du, eta pentsamendu kritikoa eta arazoen ebazpen gaitasuna garatzen lagundu.
+
+EOI ikasgelan aplikatzeko, irakasleak erronkak diseinatu eta aurkeztu behar ditu. Ikasleek erronkak identifikatu, planifikatu, exekutatu eta ebaluatuko dituzte. Irakasleak gidari gisa jardun behar du, ikasleen ikaskuntza prozesua zuzenduaz eta bideratuaz.
+
+EOIren aurrean aurki daitezkeen erronkak baliabide eta denbora mugak dira. Hala ere, irakasleen eta ikasleen arteko elkarlanarekin, erronkoi aurre egin dakieke.
+
+<!--# Geppetto honaino -->
+
+### Justifikazioa
+
+<!--# Geppetto -->
+
+Curriculum dekretuak argi uzten du ikasleek hizkuntza-gaitasun eta konpetentziak garatu behar dituztela [@hezkuntzasaila772023DEKRETUA2023]. Helburu horiek lortzeko, Sekuentzia Didaktikoak erabiltzea funtsezkoa da, izan ere, ikasleek modu sistematiko eta integratuan ikasteko aukera ematen dute [@bronckartDesarrolloLenguajeDidactica2007]. Sekuentzia Didaktikoek ikaskuntza prozesua modu progresiboan eta egituratuan antolatzen dute [@bainApportModeleFonctionnement1981], edukiak eta trebetasunak mailaz maila garatuz. Horrela, ikasleek curriculum dekretuan eskatzen diren konpetentziak eskuratzen dituzte, hizkuntza-gaitasunak garatuz eta erabiltzeko gaitasuna areagotuz. Gainera, Sekuentzia Didaktikoek ikaskuntza esperientzia osatua eta koherentea eskaintzen dute, edukiak modu integratuan eta esanguratsuan barneratzeko aukera emanez [@ortegaIntegracionLenguasAreas2015].
+
+Curriculum dekretuak hizkuntza-konpetentzia garatzea funtsezkotzat jotzen du, eta horrek didaktika egokia erabiltzea eskatzen du. Sekuentzia Didaktikoak ikasleen hizkuntza-gaitasunak modu eraginkorrean garatzen dituzten tresna didaktikoak dira, prozesu sekuentziatu eta antolatu baten bidez [@garcia-azkoagaParaIngenieriaDidactica2015]. Horrela, ikasleek edukiak progresiboki barneratu eta aplikatzeko aukera izaten dute. Horrez gain, Sekuentzia Didaktikoek konpetentzia eleaniztuna garatzeko bidea ematen dute, hizkuntzetan trebatuz eta haien arteko konexioa indartuz. Horrela, ikasleek hizkuntzak erabiltzeko gaitasunak era koherente eta integratuan garatzen dituzte, curriculum dekretuak ezarritako helburuak eta konpetentziak lortuz.
+
+Sekuentzia didaktikoak didaktika plangintza zehatz eta antolatuak dira, ikasleek edukiak modu koherentean eta progresiboan ikas ditzaten. Horiek modu sistematikoan antolatutako jardueren segidak dira, eta edukiak pixkanaka konplexutasun handiagoko mailara igotzen joaten dira [@anakabeonaindiaConstruccionSecuenciasDidacticas2013], ikasleen ulermena eta trebetasunak etengabe garatuaz. Interakzionismo sozio-diskurtsiboan oinarritzen diren sekuentziek ikasleen arteko elkarreragina eta diskurtsoa sustatzen dute [@larringanMintzairaTestuaGeneroa2021], ikaskuntza kolektiboa eta elkarlanaren bidezko ikaskuntza erraztuz. Ikasleek elkarrekin lan egitea eta ideiak trukatzea ahalbidetzen dute, horrek ezagutza sakonagoa eta erabilgarriagoa sortuz. Horrela, ikasleek ezagutza berriak eraikitzen dituzte, ikasitakoa testuinguru praktikoetan aplikatuz eta gaitasun eleaniztunaren garapena indartuz.
+
+Proiektuetan oinarritutako ikaskuntza eta ikaskuntza kooperatiboa bezalako metodologiek Sekuentzia Didaktikoak erabiltzea eskatzen dute, eraginkortasuna maximizatzeko. Metodologia hauek ikasleen partaidetza aktiboa eta kolaborazioa bultzatzen dituzte, ikaskuntza esperientzia aberastuz. Proiektuetan oinarritutako ikaskuntzak, esate baterako, ikasleak benetako proiektuetan murgiltzen ditu, arazoak identifikatu eta irtenbideak proposatu behar baitituzte. Horrek ikasleen ikaskuntza prozesua esanguratsuagoa eta praktikoagoa bihurtzen du, pentsamendu kritikoa eta arazoak konpontzeko gaitasunak garatuz. Bestalde, ikaskuntza kooperatiboak ikasleen arteko elkarreragina sustatzen du, talde lana eta komunikazio trebetasunak indartuz. Metodologia hauek, beraz, ikasleen motibazioa eta inplikazioa areagotzen dute, eta horrek haien ikaskuntza emaitzak nabarmen hobetzen ditu, testuinguru berritzaile eta dinamiko batean.
+
+Interakzionismo sozio-diskurtsiboak ikasleen arteko elkarreragina eta diskurtsoa bultzatzen ditu, horrela, ezagutza eraikuntza kolektiboa eta ikaskuntza sakona sustatuz. Metodologia honek ikasleek beraien ideiak trukatzeko eta eztabaidatzeko espazioak sortzen ditu, horrela, pentsamendu kritikoa eta argumentazio trebetasunak garatuz. Sekuentzia Didaktikoak interakzionismo sozio-diskurtsiboaren esparruan urrats eta jarduera planifikatuekin lotzen dira, eta horrek ikasleek edukiak modu koherente eta progresiboan barneratzeko aukera ematen du [@alegriasusperreguiCapacidadesArgumentacionInteracciones2015; @garcia-azkoagaSecuenciasDidacticasLengua2016]. Horrela, Sekuentzia Didaktikoek ikasleen autonomia eta ikaskuntza prozesuaren norabidea indartzen dute, ikasleak prozesuaren protagonistak bihurtuz eta ikaskuntza kolektiboa erraztuz.
+
+Esandakoaren argira, esan daiteke Sekuentzia Didaktikoak tresna benetan egokiak direla Curriculum Dekretuak ezarritako hizkuntza-gaitasun eta konpetentziak garatzeko. Prozesu sekuentziatu eta antolatuen bidez, ikasleek edukiak modu koherentean eta progresiboan barneratzen dituzte, horrela, ikaskuntza prozesua aberats eta esanguratsu bihurtuz. Metodologia berriek, hala nola Proiektuetan Oinarritutako Ikaskuntza eta ikaskuntza kooperatiboa, ikasleen partaidetza aktiboa eta kolaborazioa bultzatzen dute, ikaskuntza esperientzia aberastuz eta emaitzak hobetuz. Interakzionismo sozio-diskurtsiboaren ikuspegiak, bestalde, ikasleen arteko elkarreragina eta diskurtsoa sustatzen ditu, ikaskuntza kolektiboa eta sakona bermatuz. Horrela, ikasleek hizkuntza-konpetentziak modu eraginkorrean garatzen dituzte, curriculum dekretuak ezarritako helburuak eta konpetentziak lortuz, eta etorkizuneko erronkei aurre egiteko prest daudela ziurtatuz.
+
+<!--# Geppetto honaino -->
+
+### Lantzen diren konpetentziak
+
+Erronka honen garapenaz ikasleak landuko ditu zehaztutako zenbait gaitasun, ikasgaiko bat, mailako bi eta UPV/EHUk zehaztutako zeharkako bost.
+
+Ikasgaian: (B) Hizkuntzaren lanketara zuzendutako proposamen didaktikoak ebaluatzea eta eraikitzea, hizkuntzen didaktikarako gaurko ikuspegia erabilita eta dagozkien konpetentziak helburu dela.
+
+Maila: 4) Hausnartzeko eta argumentatzeko autonomia-gaitasuna garatzea ikasketen eta lanaren gaineko iritziak emateko, erabakitzeko eta hezkuntzari lotutako arazoak konpontzeko, bai bakarka bai elkarlanean. *Komunikazioa eta arloak* ardatzarekin lotua. 5) Komunikazio-gaitasunak erabiltzea Autonomia Erkidegoaren bi hizkuntza ofizialetan erreferentziako Europako esparruaren C1 maila eskuratu arte. *Komunikazioa eta arloak* ardatzarekin lotua.
+
+UPV/EHU zeharkakoak: Autonomia eta Autoerregulazioa, Gizarte Konpromisoa, Komunikazioa eta Eleaniztasuna, Pentsamendu Kritikoa, Talde Lana.
+
+#### Ikaskuntza emaitzak
+
+(B) gaitasunari dagozkionak.
+
+    A)  Hizkuntza-Komunikaziorako Konpetentziaren garapena bultzatzeko, proposamen didaktikoak kritikoki ebaluatzen ditu egungo ikuskerak aintzat hartuta.
+    B)  Proposamen didaktikoak eraikitzen ditu, egungo joera pedagogikoak eta hizkuntza-komunikaziorako konpetentziaren zehartasuna aintzat hartuta.
+
+AA02 Bizitzaren hainbat unetan eraikitako ikaskuntza estrategiak eta esperientzia pertsonalak identifikatzen ditu, beste ikaskuntza testuinguru batean aplikatzeko, AA03 Zeregin konplexu bat autonomiaz egiteko gai da, norberaren kudeaketa eta erregulazioko teknikak erabilita, AA05 Proposatutako helburuak lortzeko egin beharreko ahalegina eta denbora autonomiaz kudeatzen ditu, AA07 Argudio sendoak erabiliz defendatzen ditu proiektu bat garatzean berak hartutako erabakiak eta onartutako arriskuak.
+
+GK02 Bere ikasketa arloaren testuinguruan, hizkuntza eta kultura aniztasuna errespetatzen duten ekintzak eta portaerak deskribatzen ditu, GK05 Modu jasangarrian kudeatzen ditu arazo edo egoera bat konpontzeko eskura dauden baliabideak, GK07 Ekintza zientifiko-teknikoek eta erabaki eta proposamen profesionalek gizartean eta ingurumenean duten inpaktua aztertzen du.
+
+KO01 Arau ortografikoak eta gramatikalak errespetatzen ditu, testu akademikoak idaztean, KO05: Entzumen aktiboa mantentzen du askotariko lantaldeetan, enpatiaz eta asertibitatez, KO08: Hitzezko eta ez-hitzezko adierazpena entzuleriari egokitzeko gai da, ahozko aurkezpen publiko batean, bai hizkuntza ofizialetan bai atzerriko hizkuntzetan.
+
+PK02 Egoera baten azpian dagoen arazoa identifikatzen du; hura objektiboki ulertzeko beharrezkoa den informazioa biltzen du, eta elementu esanguratsuak aukeratzen ditu, PK05 Hainbat iturritatik eskuratutako informazioa interpretatzen du, haren egokitasuna eta irismena ikuspegi kritiko batez baloratuta, PK09 Aldez aurretik ezarritako helburuak lortzeko bete beharreko lanerako plana sistematikoki diseinatzen du.
+
+TL02 Helburu komunak lortu nahi dituen lan talde baten rolak eta eraketa eta funtzionamendu arauak identifikatzen ditu, TL04 Informazioa trukatzen du, baliabide pertsonalak partekatuz, eta lanerako ideiak eta proposamenak ematen ditu, taldea eraginkorragoa izan dadin, TL10 Gatazkei irtenbide bat emateko konponbide kolektiboak bilatzen laguntzen du, adostutako helburuak lortzeko.
+
+### Aurrezagutzak
+
+Proiektua burutzeko, ikasleek aurretik landuta izan beharko dituzte gaiari dagozkion edukiak, 1. mailako Didaktika Orokorra ikasgaiko batzuk (*Curriculumaren diseinua, garapena eta osagaiak* eta *Ebaluazioa: kontzeptua eta helburua. Ebaluatzeko prozedurak eta tresnak*) eta 3. mailako Hizkuntzaren Didaktikakoak (*Ahozko hizkuntzaren didaktika*, *Idatzizko hizkuntzaren didaktika*) ikasgai honetako oinarriak ere behar dira proiektuan autonomiaz aurreratzeko.
+
+### Landutako eduki teoriko-praktikoak
+
+Hizkuntzen Didaktikarako Ikuspegi Berriak ikasgaian egin beharreko hirugarren lan honetan hirugarren gaia landu beharko da, Gelako praktikaren antolakuntza eta hizkuntza hain zuzen ere. Zehazki, gai honetan lantzekoak diren sei edukiak erabiliko dituzte ikastaldeko talde guztiek. Ikasleak eduki guztiak erabiliko dituen arren, oso litekeena da gehiago ardaztea era eduki horietariko batean.
+
+-   Hizkuntzen irakaskuntzarako metodologien bilakaera
+-   Interakzionismo sozio-diskursiboaren ikuskera. Testua ikasgunea.
+-   Proiektuak, atazak eta hizkuntza
+-   Sekuentzia Didaktikoak
+-   Irakaskuntzarako Diseinu Unibertsala (IDU) eta hizkuntza
+-   Hizkuntzan akatsak. Lapsusak, huts egiteak eta erroreak.
+
+Lan honekin, ikasleek gelako praktikaren antolakuntzan hizkuntzaren inguruko erabakiek nolako eragina duten ulertuko dute, eta, era berean, ikasleen ikaskuntzarako egokienak izan litezkeen erabakiak zientzia ezagutzan oinarrituta hartzen ikasiko dute. Proiektu honek, gainera, ikasleek hizkuntzen irakaskuntzaren alorrean metodologiak eta ikuspegi berritzaileak aplikatuz, haien pentsamendu kritikoa eta didaktika gaitasunak garatzeko aukera emango die, ikaskuntza prozesua aberastuz eta etorkizuneko erronkei aurre egiteko prest egongo diren irakasleak formatuz.
+
+### Taldekatzeak: partaideen kopurua eta antolaketa
+
+Ikasleak 5 kideko taldeetan banatuko dira.
+
+Espero da aurreko proiektuko taldeak izango direla, baina aldatu beharra egon litekeela ere ikusten da; horrelako kasuetan berregituratu daiteke gelako taldekatzea, taldekako ikasle kopuruko ber irizpideekin.
+
+### Lan zama
+
+Ikasgaiko bigarren zazpi astetan garatuko da lanaren edukizko atala, 9. astetik 15.era. Ikasleek eskolatik kanpoko lana ere egin beharko dutela aurreikusten da, 13. astetik aurrera gehien bat, behin gaiko giltz edukiak ikusitakoan.
+
+### Plangintza
+
+Proiektua aurrera eramateko lau fase zehaztu dira, ikasgaiko lehenengo gaian egindako planteamenduaren taxuzkoa da berau ere, erronkan oinarritua Cordrayk-eta [-@cordrayResearchSynthesisEffectiveness2009] definitutako bost uneak, @fig-TheLegacyCycle, lau fasetan ulertzen dira:
+
+1.  fasea: Erronkaren aurkezpena
+2.  fasea: Ideiak garatu - Askotariko ikuspegiak
+3.  fasea: Ikertu, diseinatu eta sortu
+4.  fasea: Materialaren azalpena eta dibulgazioa: ahoz eta idatziz
+
+Lehenengo fasea erronkaren beraren aurkezpena izango da. Sei astean zeharreko proiektua aurkeztuko zaio ikasle taldeari. Erronkaren bigarren fasea gaiari dagozkien eduki teoriko-praktikoen lanketarekin hasiko da, ideiak garatzea eta askotariko ikuspegiak izatea xede dela. Hirugarren fasea SD baten diseinuarekin lotua da eta SD horren garapenarekin. Kasu honetan klasean segituko da eduki teoriko praktikoen lanketarekin, baina horiek estuago egongo dira SDaren diseinuarekin lotuta. Laugarren fasea SD horien aurkezpen eta partekatzea izango da.
+
+#### Lehenengo fasea
+
+Erronkaren aurkezpenari dagokion fase laburra da. Bederatzigarren asteko lehenengo klasean aurkeztuko zaizkie erronka, erronka erdiesteko kronograma eta ebaluazio irizpideak.
+
+Taldeka zein banaka ikasgaian garatu beharreko zereginen bitartez, arian arian, ikasleak joango dira identifikatzen erronkarako egoki deritzen aukerak.
+
+#### Bigarren fasea
+
+Bigarren fase honek hiru klase aste iraun behar du. Horietan aurkeztuko dira eta landuko dira SDaren diseinurako behar dituzten hainbat elementu teoriko-praktiko.
+
+Eskola bakoitza eduki batean ardaztuko da eta eduki horren lanketa bideratzeko banakako ariketak egin beharko dira, irakasleari EHUboxeko buzoi baten bitartez aurkeztuko dizkiotenak astearen amaieran.
+
+#### Hirugarren fasea
+
+Hirugarren fase honetan ikasleek SDaren diseinuari ekingo diote. Horretarako baliatuko dira aurretik landutako edukiez zein eskoletan landuko diren eduki berriez; Sekuentzia Didaktikoen egitura hirugarren faseko lehenengo eskolan eta bigarrenean eskolan Irakaskuntzarako Diseinu Unibertsalari hizkuntzaren eta bereziki HKKtik begiratuta.
+
+#### Laugarren fasea
+
+Azken fase honetan ikasleek sortutako Sekuentzia Didaktikoak aurkeztuko dituzte. Ikasgelan eskolak diseinurako probestu behar izan dutenez, ez da espero denbora gehiegi eskaini behar izaterik. Hala ere, irakaslearekin tutoretzak egin ahal izango dituzte astean zehar eskola-ordutik aparte.
+
+### Kronograma
+
++-------+-------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+----+
+| Fasea | Urratsa                                                           | Irakasleak                                                                 | 9  | 10 | 12 | 13 | 14 | 15 |
++=======+===================================================================+============================================================================+====+====+====+====+====+====+
+| 1     | Erronkaren aurkezpena                                             | Aurkezpena egingo du                                                       | x  |    |    |    |    |    |
++-------+-------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+----+
+| 2     | Ikasle bakoitzak edukiak landuko ditu taldekideekin koordinazioan | Irakasleak ikasleen lanak gainbegiratuko ditu eta feedbacka emago die ahoz | x  | x  | x  |    |    |    |
++-------+-------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+----+
+| 3     | Taldekideek SDaren diseinua egingo dute                           | Berdin. Eta behar dituzten tutoretzak                                      |    |    |    | x  | x  | x  |
++-------+-------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+----+
+| 4     | Sortutako Sekuentzia Didaktikoen aurkezpena                       | Irakasleak azken kalifikazioa emango die ikasleei                          |    |    |    |    |    | x  |
++-------+-------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+----+
+
+### Entregagaiak eta balioa
+
+Proiektuan zazpi entregagai egongo dira; sei banakakoak, eskola bakoitzean egin beharrekoa izango dena eta azken entregagai nagusia, taldekakoa Sekuentzi Didaktikoa bera izango dena.
+
+-   Astean asteko entregagaiak
+
+-   Sekuentzia Didaktikoa
+
++--------+--------+------------------------------------------------+--------+-----------+
+| Fasea  | Astea  | Entregagaia                                    | \%     | Ikasgaian |
++=======:+=======:+================================================+=======:+==========:+
+| 2      | 9      | Baliabide didaktikoen azterketa                | 1      | 0.1       |
++--------+--------+------------------------------------------------+--------+-----------+
+| 2      | 10     | Hezkuntzako testu moten azterketa              | 1      | 0.1       |
++--------+--------+------------------------------------------------+--------+-----------+
+| 2      | 12     | Baliabide didaktikoen egokitzapen proposamenak | 1      | 0.1       |
++--------+--------+------------------------------------------------+--------+-----------+
+| 3      | 13     | SD baten hezurdura                             | 1      | 0.1       |
++--------+--------+------------------------------------------------+--------+-----------+
+| 3      | 14     | IDUrako egokitzapena                           | 1      | 0.1       |
++--------+--------+------------------------------------------------+--------+-----------+
+| 3      | 15     | Hizkuntza erroreen txostena                    | 1      | 0.1       |
++--------+--------+------------------------------------------------+--------+-----------+
+| 4      | 15     | Sekuentzia Didaktikoa                          | 10     | 1         |
++--------+--------+------------------------------------------------+--------+-----------+
+
+: Hirugarren eskola-proiektuko entregagaien hurrenkera
+
+### Ebaluazio irizpideak
+
+<!--# Geppetto hamendik -->
+
+```{=tex}
+\begin{landscape}
+```
+
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|                                            | **0-2**                                              | **3-5**                                                    | **6-8**                                                                  | **9-10**                                                     |
++============================================+======================================================+============================================================+==========================================================================+==============================================================+
+| **Helburu Didaktikoak eta Ikaskuntza**    
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|                                            | Helburuak ez dira argiak edo neurgarriak.            | Helburuak azalekoak edo partzialki neurgarriak dira.       | Helburuak argiak dira, baina neurtzea hobetu daiteke.                    | Helburuak oso argiak eta neurgarriak dira.                   |
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+| **Edukiaren Egituraketa eta Koherentzia**  
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|                                            | Edukiak ez dira koherenteak edo logikoki antolatuak. | Edukiak oinarrizkoak dira eta antolaketa falta dute.       | Edukiak koherenteak eta nahiko ondo antolatuak dira.                     | Edukiak oso ondo egituratuak eta koherenteak dira.           |
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+| **Metodologia eta Jarduerak**             
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|                                            | Metodologia eta jarduerak desegokiak dira.           | Metodologia eta jarduerak oinarrizkoak dira.               | Metodologia eta jarduerak onak dira, baina hobetu daitezke.              | Metodologia eta jarduerak bikainak dira.                     |
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+| **Diskurtsoaren Kalitatea eta Aniztasuna** 
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|                                            | Diskurtsoa ez da kalitatezkoa edo anitza.            | Diskurtsoaren kalitatea eta aniztasuna mugatuak dira.      | Diskurtsoaren kalitatea eta aniztasuna onak dira, baina hobetu daitezke. | Diskurtsoaren kalitatea eta aniztasuna bikainak dira.        |
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+| **Ebaluazioa eta Autoebaluazioa**         
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|                                            | Ez dago ebaluazio edo autoebaluazio argirik.         | Ebaluazio eta autoebaluazio irizpideak mugatuak dira.      | Ebaluazio eta autoebaluazio irizpideak onak dira, baina hobetu daitezke. | Ebaluazio eta autoebaluazio irizpideak bikainak dira.        |
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+| **Ikaskuntza Ingurunea eta Motibazioa**    
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|                                            | Ingurunea eta motibazioa ez dira egokiak.            | Ingurunea eta motibazioa nahikoak dira, baina ez bikainak. | Ingurunea eta motibazioa onak dira, baina hobetu daitezke.               | Ingurunea eta motibazioa oso egokiak eta motibagarriak dira. |
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+
+: Sekuentzia Didaktikoen Diseinua ebaluatzeko errubrika
+
+```{=tex}
+\end{landscape}
+```
+<!--# Geppetto honaino -->
+
+### Beharrezko materiala
+
+-   Sei eskoletan landutako bibliografia zein horrekin lotutako bestelako baliabideak
+-   Interneterako konexioa eta terminala (ordenagailua hobetsita)
+-   Diziplina anitzeko laborategia (1S03T)
+-   Liburuak, fotokopiak, bideoak...
+
+### Irakaslearen funtzioa
+
+Irakasleak erronkaren aurkezpena egingo du. Aurrera eroateko egin beharreko pausuak, garatu beharreko lanak zein izango diren, nolako lan banaketa egin beharko duten eta ebaluazio eta kalifikaziorako irizpideak zein diren.
+
+Hasierako azalpenen ondoren, irakasleak tutore rola hartu beharko du motibatu, gidatu eta, oro har, lagunduaz lanean parte hartzea bultzatuaz; ikasleekiko laguntza pertsonalizatua bideratuaz.
+
+Amaitzeko, irakaslea arduratuko da lanen ebaluazio adostuaz eta, azken-azkenik, kalifikazioaz.
+
+### Emaitzak
+
+Proiektu honen azken emaitza izango da ikasleek diseinatutako eta aplikatutako Sekuentzia Didaktikoen inguruko azterketa aplikatua. Azken emaitza hauek barne hartuko ditu:
+
+1.  Sekuentzia Didaktikoen txostenak: Ikasleek sortutako txosten bakoitzean, hizkuntza didaktikaren marko teorikoa aplikatuko dute, edukien analisia eta sintesia eginez.
+2.  Ahozko aurkezpenak: Ikasleek Sekuentzia Didaktikoen diseinua eta aplikazioa taldean aurkeztuko dute, komunikazio eta argumentazio trebetasunak garatuz.
+3.  Hausnarketa kritikoa: Prozesu osoan zehar, ikasleek hausnarketa kritikoa eta autoebaluazioa egingo dute, lanaren kalitatea hobetzeko eta ikaskuntza sakontzeko.
+4.  Talde-lana eta kooperazioa: Ikasleek talde-lanean eta kooperazioan erakutsiko dituzten gaitasunak azpimarratuko dira, proiektuaren garapenean egindako elkarlanaren emaitza nabarmenduz.
+
+Emaitza hauek guztiek ikasleen ikaskuntza eta garapena modu integralean islatuko dute, etorkizuneko erronkei aurre egiteko prestakuntza praktikoa eskuratuta.
+
