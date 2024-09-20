@@ -31,9 +31,7 @@ Bereziki, saiatu behar dugu ulertzen zer ari garen esaten *A1*, *B2* edo *C1* es
 
 -   Sarrera Hizkuntza politikaren garrantzia Europako testuinguruan
 
-```{=html}
 <!-- -->
-```
 -   HIIEEEM-ren Historia: Nola sortu zen, zein helburu dituen eta nola erabil daitekeen
 
 -   Hizkuntza mailak
@@ -53,7 +51,7 @@ Dokumentuak: [@europakokontseiluaComunicacionComisionParlamento2005; @europakoko
 
 ## Kohesioa, hazkundea eta enplegua atalean (3.)[^1]
 
-[^1]: https://www.europarl.europa.eu/ftu/pdf/es/FTU_3.6.6.pdf
+[^1]: <https://www.europarl.europa.eu/ftu/pdf/es/FTU_3.6.6.pdf>
 
 Kultura, hezkuntza eta kirola (3.6.)
 
@@ -171,7 +169,7 @@ Sarrera honetan ezin izan daiteke gure helburua horren zabalari oratzea. Bai, be
 
 # Hizkuntzen Portfolio Europarra[^2]
 
-[^2]: https://www.euskadi.eus/contenidos/documentacion/inn_doc_lenguas/eu_def/adjuntos/500003e_Pub_Europa_Portfolioa_01_e.pdf
+[^2]: <https://www.euskadi.eus/contenidos/documentacion/inn_doc_lenguas/eu_def/adjuntos/500003e_Pub_Europa_Portfolioa_01_e.pdf>
 
 ---
 
@@ -180,11 +178,11 @@ Jatorriz hizkuntza-ikasleari laguntzeko pentsatua da HPE. Helburua Europan ezart
 ## Atalak {.scrollable}
 
 ::: panel-tabset
-## Hizkuntza-Biografia
+## Biografia
 
 Lau atalek osatzen dute: (1) Hizkuntzen ikaskuntzarako helburuen zehaztapena, (2) ikaskuntza-ibilbidearen azterketa, (3) hizkuntza eta kultura bizipen nagusienen gaineko hausnarketa eta (4) momentuko hizkuntzen ikasketen inguruko lehentasunak esplizitu egiteko tartea
 
-## Hizkuntzen pasaportea
+## Pasaportea
 
 Dokumentu hau hizkuntza-trebetasunen, hizkuntza-agirien eta hizkuntza-esperientzien bilduma da.
 
@@ -215,12 +213,24 @@ Dosierra proposatzen da aztertutako hizkuntzetan aritzeko gaitasunaren erakusgar
 
 Analisia eta eraikuntza
 
-## EEMB mailen analisia
+##
 
-Ikasleek, banaka edo bikoteetan, HEEEB maila bat aukeratu eta horri buruzko poster bat sortuko dute.
+::: {.callout-caution collapse="true"}
+## EEMB mailak
 
-## Norberaren HPE
+Ikasle taldek EEMB mailak eta haien hezkuntza jardunaren arteko lotura erakutsiko dute akademia-posterbaten bitartez.
+
+Gutxienez hiru mailaren deskribapena hartuko da eta horiei dagozkien adibideak erakutsiko dira.
+
+:::
+
+## 
+
+::: {.callout-caution collapse="true"}
+## Norberaren HPEko gaitasun komunikatiboaren mapa hizkuntzaka
 
 Ikasleek beraien HPE propioa sortuko dute, hizkuntza ikaskuntza ibilbidea eta hizkuntza gaitasunak islatuz. [Etxerako lana]{style="color: red"}
+
+:::
 
 # Erreferentziak
