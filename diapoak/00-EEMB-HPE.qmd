@@ -1,5 +1,5 @@
 ---
-title: "EEMB eta HPE 📔"
+title: "EEMB eta HPE 📹"
 author: 
     - name : "Juan Abasolo"
       filiation: UPV/EHU
@@ -227,7 +227,7 @@ Gutxienez hiru mailaren deskribapena hartuko da eta horiei dagozkien adibideak e
 ## 
 
 ::: {.callout-caution collapse="true"}
-## Norberaren HPEko gaitasun komunikatiboaren mapa hizkuntzaka
+## Norberaren HPEko gaitasun komunikatiboaren mapa hizkuntzaka 📔
 
 Ikasleek beraien HPE propioa sortuko dute, hizkuntza ikaskuntza ibilbidea eta hizkuntza gaitasunak islatuz. [Etxerako lana]{style="color: red"}
 

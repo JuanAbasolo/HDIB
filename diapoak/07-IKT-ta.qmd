@@ -1,11 +1,12 @@
 ---
-title: "IKTak hezkuntza eta Hizkuntza 📔"
+title: "IKTak hezkuntza eta Hizkuntza 📹"
 author: "Juan Abasolo"
 format: 
     revealjs: 
         theme: [dark, css/nire.scss]
+        logo: '../HDIB-2024/assets/00/azala.png'
+        css: 'css/logo.css'
         footer: "IKTen erabilera eta hizkuntza"
-        logo: '../liburua/assets/00/azala.png'
         slide-number: true
 editor: visual
 ---
@@ -108,11 +109,15 @@ Guk lanak hobeto egiteko
 -   ...
 :::
 
+##
+
+<iframe src="https://mastodon.eus/@euwikipedia/109501055412174555/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="1000" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.eus/embed.js" async="async"></script>
+
 # Euskaraz
 
 ## WebGuneak
 
--   Txikipedia: https://eu.wikipedia.org/wiki/Txikipedia:Azala
+-   Txikipedia: <https://eu.wikipedia.org/wiki/Txikipedia:Azala>
 -   IKTeroak, EuskalJakintza...
 -   Jokotuber Vs Game erauntsia
 
@@ -120,17 +125,19 @@ Guk lanak hobeto egiteko
 
 Luberri [\*](https://luberrilinux.eus/)
 
-Euskarabildua [\*\*](Euskarabildua:%20https://euskarabildua.eus/aurreko-edizioak/)
+TxikiLinux [\*\*](https://www.elkartenet.eus/txikilinux-eus/)
 
-## Euskara zuzentasunez erabiltzeko interneteko baliabideak
+Euskarabildua [\*\*\*](Euskarabildua:%20https://euskarabildua.eus/aurreko-edizioak/)
+
+## Euskara zuzentasunez erabiltzeko interneteko baliabideak {.scrollable}
 
 Tresnak
 
--   AzkueFundazioa (jausita gaur)
--   EJ: https://www.euskadi.eus/eusko-jaurlaritza/euskara-tresnak/
+-   AzkueFundazioa (<https://azkuefundazioa.eus/>)
+-   EJ: <https://www.euskadi.eus/eusko-jaurlaritza/euskara-tresnak/>
     -   Hiztegiak
     -   Euskarazko IKT produktuak
--   Cryptpad
+-   Cryptpad (<https://cryptpad.fr/>)
 -   Moodle
 
 ## Etorkizuna eraikitzeaz...
