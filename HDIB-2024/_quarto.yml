@@ -14,7 +14,7 @@ book:
   #   background: dark
   date: today
   date-format: "YYYY MM DD"
-  favicon: "assets/00/azala.png"
+  favicon: "assets/00/hdib-logoa_zurirako.png"
   url: 'https://juanabasolo.github.io/HDIB/apunteak/'
   search: true
   downloads: [pdf, epub]
@@ -89,7 +89,7 @@ biblio-style: apalike
   #  - references.qmd
 
 description: "Hizkuntzaren Didaktika ikasgaiko apunteak dira hauek. Ikasgaian aurrera egin ahala egokitzen joango dira"
-cover-image: "assets/00/azala.png"  # relative to index
+cover-image: "assets/00/hdib-logoa_zurirako.png"  # relative to index
 github-repo: JuanAbasolo/HDIB
 
 

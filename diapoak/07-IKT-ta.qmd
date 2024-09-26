@@ -4,10 +4,11 @@ author: "Juan Abasolo"
 format: 
     revealjs: 
         theme: [dark, css/nire.scss]
-        logo: '../HDIB-2024/assets/00/azala.png'
+        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
         css: 'css/logo.css'
         footer: "IKTen erabilera eta hizkuntza"
         slide-number: true
+        embed-resources: true
 editor: visual
 ---
 

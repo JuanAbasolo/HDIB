@@ -4,10 +4,11 @@ author: "Juan Abasolo"
 format: 
     revealjs: 
         theme: [dark, css/nire.scss]
-        css: [/home/juan/Deskargak/EHU_Tipografia-webfontkit-20230924-111641/ehu_typographia.css]
+        css: [css/logo.css]
         footer: "Konpetentzien inguruko diskurtsua"
-        logo: '../liburua/assets/00/azala.png'
+        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
         slide-number: true
+        embed-resources: true
 editor: visual
 ---
 
@@ -181,7 +182,7 @@ Sortu taula bat konpetentzien definizioen alderaketa aztertzeko:
 
 ## Celce & Murcia (1995)
 
-![](../liburua/assets/1/celce-murcia1995.png)
+![](../HDIB-2024/assets/1/celce-murcia1995.png)
 
 ::: footer
 Definizioa
@@ -192,7 +193,7 @@ Definizioa
 
 ## Canale & Swain (1981)
 
-![](../liburua/assets/1/canale-swain1981.png)
+![](../HDIB-2024/assets/1/canale-swain1981.png)
 
 ::: footer
 Definizioak
@@ -200,7 +201,7 @@ Definizioak
 
 ## EEMB (#23)
 
-![](../liburua/assets/2/EEMB-23_131or.png){fig-align="center"}
+![](../HDIB-2024/assets/2/EEMB-23_131or.png){fig-align="center"}
 
 ::: footer
 131.orritik aurrera definizioak-eta
@@ -353,8 +354,8 @@ Adierazleak:
 
 <small>
 
-| Hasierako maila                                                                                                                                                                           | Erdi maila                                                                                                                                                                                                                                                                                                                                       | Maila aurreratua                                                                                                                                                                                                                                                                                                                                                                        |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hasierako maila | Erdi maila | Maila aurreratua |
+|-----------------|--------------------------|-----------------------------|
 | \+ Komunikazio-trukean arreta zailtasunez mantentzen du.<br> + Bere komunikazio-trukeetan inhibizioa agertzen du.<br> + Lagunduta, komunikazio-egoeraren ezaugarriak kontuan izaten ditu. | \+ Komunikazio-trukean arreta mantentzen du. <br> + Naturaltasunez, komunikazio-trukeak hasten eta mantentzen ditu. <br> + Komunikazio-egoeraren ezaugarriak kontuan izaten ditu. <br> + Solaskidearen aurrean erantzuna modu nahiko eraginkorrean egokitzen du.<br> + Hizkuntza-aldaera modu nahiko eraginkorrean egokitzen du elkarrekintzara. | \+ Komunikazio-trukean arreta mantentzen eta esku hartzen du.<br> + Naturaltasunez eta modu eraginkorrean, komunikazio-trukeak hasten eta mantentzen ditu.<br> + Komunikazio-egoeraren ezaugarrietara modu eraginkorrean egokitzen da.<br> + Erregistro egokia erabiltzen du.<br> + Solaskidearen aurrean erantzuna egokitzen du.<br> + Hizkuntza-aldaera elkarrekintzara egokitzen du. |
 
 </small>

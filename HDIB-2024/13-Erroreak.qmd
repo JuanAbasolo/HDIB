@@ -134,39 +134,39 @@ Hutsegiteak ikaskuntza prozesuaren parte naturala dira eta irakasleek hori ulert
 
 Irakasleek erroreak zuzentzeko zenbait teknika erabil ditzakete, Grymonprezek eta beste adituek proposatutako irizpideak jarraituz, hala nola ikaslearen autonomia garatzea, ikasleei pertsonalizatutako irtenbideak eskaintzea, eguneroko jardueretan txertatzea eta errore berari egoera ezberdinetan aurre egitea. Teknika horien artean, portfolioen erabilera, lexiko berriaren bilketa, web-blogen sortzea, "Eguneko errorea" lantzea, ikasleen arteko idazlanen trukaketa, klasean zuzenketak egitea, talde-lanak, ahozkotasuna lantzeko grabazioak, hutsegiteen artxiboa, idazkera eredugarrien bilduma, testuen itzulpena eta beridazketa, eta ikasleen elkarrizketak aipatzen dira. Garrantzitsua da teknika hauek ikasgelan modu egokian aplikatzea, ikasleen hizkuntza gaitasuna hobetzea xede dutelarik.
 
-| Teknika                    | Azalpen Laburra                                        |
-|----------------------------|--------------------------------------------------------|
-| Portfolioa                 | Ikasleen lanak bildu eta berrikusteko.                 |
-| Lexiko Berriaren Egunkaria | Hitz berriak eta gakoak jasotzeko.                     |
-| Interneteko Baliabideak    | Feedbacka eskatzen duten baliabideak erabiltzea.       |
-| Web-Bloga                  | Ikaskideen arteko lanketa, idazlanak eta eztabaidak.   |
-| "Eguneko Errorea"          | Ohiko akatsen azterketa eta konponbideen bilaketa.     |
-| Zantzuak Ematea            | Ikasleek zuzenketa egokia aurkitu arte.                |
-| Idazlanen Trukaketa        | Ikaskideen lanak ezagutzeko.                           |
-| Zuzenketen Trukaketa       | Batak besteari zuzendu.                                |
-| Klaseko Zuzenketa          | Pantailan idazlanak proiektatu eta elkarrekin zuzendu. |
-| Talde-lana                 | Talde txikietan idazlanak egin.                        |
-| Grabazioak                 | Ahozkotasuna lantzeko.                                 |
-| Hutsegiteen Artxiboa       | Erroreen sailkapena eta konponketak.                   |
-| Idazkera Ereduen Artxiboa  | Idazkera eredugarrien bilduma.                         |
-| Ikasleen Berregitea        | Irakasleak zuzendutako testua ikasleek berregin.       |
-| Negoziazioa                | Zer eta nola zuzendu erabakitzea.                      |
-| Kontrol Zerrendak          | Urratsez urrats lanak egitea eta berrikustea.          |
-| Testuen Itzulpena          | Testuak hizkuntza bitan itzultzeko.                    |
-| Testuen Berridazketa       | Testuak modu ezberdinez berridaztea.                   |
-| Idazketa Tailerra          | Lan-taldeak hizkuntza lantzeko.                        |
-| Elkarrizketak              | Ikasleekiko elkarrizketak egin.                        |
+| Teknika | Azalpen Laburra |
+|----|----|
+| Portfolioa | Ikasleen lanak bildu eta berrikusteko. |
+| Lexiko Berriaren Egunkaria | Hitz berriak eta gakoak jasotzeko. |
+| Interneteko Baliabideak | Feedbacka eskatzen duten baliabideak erabiltzea. |
+| Web-Bloga | Ikaskideen arteko lanketa, idazlanak eta eztabaidak. |
+| "Eguneko Errorea" | Ohiko akatsen azterketa eta konponbideen bilaketa. |
+| Zantzuak Ematea | Ikasleek zuzenketa egokia aurkitu arte. |
+| Idazlanen Trukaketa | Ikaskideen lanak ezagutzeko. |
+| Zuzenketen Trukaketa | Batak besteari zuzendu. |
+| Klaseko Zuzenketa | Pantailan idazlanak proiektatu eta elkarrekin zuzendu. |
+| Talde-lana | Talde txikietan idazlanak egin. |
+| Grabazioak | Ahozkotasuna lantzeko. |
+| Hutsegiteen Artxiboa | Erroreen sailkapena eta konponketak. |
+| Idazkera Ereduen Artxiboa | Idazkera eredugarrien bilduma. |
+| Ikasleen Berregitea | Irakasleak zuzendutako testua ikasleek berregin. |
+| Negoziazioa | Zer eta nola zuzendu erabakitzea. |
+| Kontrol Zerrendak | Urratsez urrats lanak egitea eta berrikustea. |
+| Testuen Itzulpena | Testuak hizkuntza bitan itzultzeko. |
+| Testuen Berridazketa | Testuak modu ezberdinez berridaztea. |
+| Idazketa Tailerra | Lan-taldeak hizkuntza lantzeko. |
+| Elkarrizketak | Ikasleekiko elkarrizketak egin. |
 
 ### Zenbait iradokizun
 
-| Puntu/Iradokizuna                           | Laburpena                                                                                                          |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| Huts-egiteak eta erroreak bereiztea         | Ikasleek hutsegiteak beren kabuz zuzen ditzakete; erroreak beste baten laguntzarekin egin behar dute.              |
-| Erroreen balioa eta larritasunaz            | Erroreen eta hutsegiteen balioa eta larritasuna testuaren testuinguruan ulertzen da, ez esaldi solteetan.          |
-| Irakasleen arduraz hizkuntzaren erabileran  | Hizkuntzaren erabilera zuzen eta egokia irakasle guztien ardura da.                                                |
-| Irakasgaiaren hobekuntza hizkuntzaren bidez | Hizkuntzaren erabilera zuzen eta egokia irakasgaiak hobetzeko eta lantzeko txertatu behar da.                      |
-| Hizkuntza akatsak saihestzeaz               | Hizkuntza akatsei aurrea hartzeak ez du esan nahi akatsak erabat saihestuko direnik.                               |
-| Ikerlan eta sailkapenez                     | Testu barruko hizkuntza erroreak ere aztertu, sailkatu eta hobetzeko proposamenak egin behar dira.                 |
-| Erroreen zuzenketen metodologiez            | Erroreen zuzenketak lantzeko metodologia, teknika eta prozedurak garatu behar dira.                                |
-| Erroreen tratamenduaz                       | Errorea erakustea beharrezkoa bada ere, horretaz ohar dadin prozedura bat eskaini behar zaio.                      |
-| Jarraibideen diseinuaz                      | Irakasleek ikasgaiaren eta taldearen ezaugarrien arabera erroreak tratatzeko jarraibideak diseinatu behar dituzte. |
+| Puntu/Iradokizuna | Laburpena |
+|----|----|
+| Huts-egiteak eta erroreak bereiztea | Ikasleek hutsegiteak beren kabuz zuzen ditzakete; erroreak beste baten laguntzarekin egin behar dute. |
+| Erroreen balioa eta larritasunaz | Erroreen eta hutsegiteen balioa eta larritasuna testuaren testuinguruan ulertzen da, ez esaldi solteetan. |
+| Irakasleen arduraz hizkuntzaren erabileran | Hizkuntzaren erabilera zuzen eta egokia irakasle guztien ardura da. |
+| Irakasgaiaren hobekuntza hizkuntzaren bidez | Hizkuntzaren erabilera zuzen eta egokia irakasgaiak hobetzeko eta lantzeko txertatu behar da. |
+| Hizkuntza akatsak saihestzeaz | Hizkuntza akatsei aurrea hartzeak ez du esan nahi akatsak erabat saihestuko direnik. |
+| Ikerlan eta sailkapenez | Testu barruko hizkuntza erroreak ere aztertu, sailkatu eta hobetzeko proposamenak egin behar dira. |
+| Erroreen zuzenketen metodologiez | Erroreen zuzenketak lantzeko metodologia, teknika eta prozedurak garatu behar dira. |
+| Erroreen tratamenduaz | Errorea erakustea beharrezkoa bada ere, horretaz ohar dadin prozedura bat eskaini behar zaio. |
+| Jarraibideen diseinuaz | Irakasleek ikasgaiaren eta taldearen ezaugarrien arabera erroreak tratatzeko jarraibideak diseinatu behar dituzte. |

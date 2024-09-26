@@ -1,12 +1,14 @@
 ---
-title: "Zenbait tresna teknologiko 📔"
+title: "Zenbait tresna teknologiko 📹"
 author: "Juan Abasolo"
 format: 
     revealjs: 
         theme: [dark, css/nire.scss]
+        css: 'css/logo.css'
         footer: "IKTen erabilera, tresnak eta aukerak"
-        logo: '../liburua/assets/00/azala.png'
+        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
         slide-number: true
+        embed-resources: true
 editor: visual
 ---
 

@@ -206,14 +206,14 @@ Proiektuak sei entregagai ditu, eduki bakoitzeko bat gehi komunikazioaren lanket
 -   Bideoak
 -   Txosten idatzia
 
-| Fasea | Astea | Entregagaia                                                   |  \% | Ikasgaian |
-|------:|------:|---------------------------------------------------------------|----:|----------:|
-|     2 |     1 | Curriculum Dekretuan hizkuntzaren kokapenaren mapeoa          |   1 |       0.1 |
-|     2 |     2 | EEMBen mailen araberako testuak identifikatu                  |   1 |       0.1 |
-|     2 |     3 | Hizkuntza ez-ofizialetako baliabide eta informazioaren mapeoa |   1 |       0.1 |
-|     2 |     4 | IKTen baliabideen sailkapena                                  |   1 |       0.1 |
-|     4 |     7 | Bideoak                                                       |   5 |       0.5 |
-|     4 |     7 | Txostena, aurkezpena eta debatea                              |   5 |       0.5 |
+| Fasea | Astea | Entregagaia | \% | Ikasgaian |
+|---:|---:|----|---:|---:|
+| 2 | 1 | Curriculum Dekretuan hizkuntzaren kokapenaren mapeoa | 1 | 0.1 |
+| 2 | 2 | EEMBen mailen araberako testuak identifikatu | 1 | 0.1 |
+| 2 | 3 | Hizkuntza ez-ofizialetako baliabide eta informazioaren mapeoa | 1 | 0.1 |
+| 2 | 4 | IKTen baliabideen sailkapena | 1 | 0.1 |
+| 4 | 7 | Bideoak | 5 | 0.5 |
+| 4 | 7 | Txostena, aurkezpena eta debatea | 5 | 0.5 |
 
 : Lehenengo eskola-proiektuko entregagaien hurrenkera
 
@@ -221,53 +221,51 @@ Proiektuak sei entregagai ditu, eduki bakoitzeko bat gehi komunikazioaren lanket
 
 Lanaren ebaluazioak egiteko hiru errubrika sortu dira. Bat bideoak banaka ebaluatzeko, beste bat talde lana oro-har hartuta eta, azkenik, hirugarrena idatzizko lana ebaluatzeko.
 
-```{=tex}
 \begin{landscape}
-```
-|                                         | **0-2**                                          | **3-5**                                                           | **6-8**                                                                   | **9-10**                                                      |
-|-----------------------------------------|--------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------|
-| **Ikuspegi Kritikoa**                   |                                                  |                                                                   |                                                                           |                                                               |
-|                                         | Ez dago ikuspegi kritikorik.                     | Ikuspegi kritikoa azalekoa da.                                    | Ikuspegi kritikoaren adierazpena argia da, baina hobetu daiteke.          | Ikuspegi kritikoa oso garatua eta sakona da.                  |
-| **Edukiaren Kalitatea**                 |                                                  |                                                                   |                                                                           |                                                               |
-|                                         | Edukiak ez dira koherenteak edo desegokiak dira. | Edukiak oinarrizkoak dira eta argitasun falta dute.               | Edukiak onak dira eta argiak, baina hobetu daitezke.                      | Edukiak oso ondo egituratuak eta informazioz beteak dira.     |
-| **Originaltasuna eta Sormena**          |                                                  |                                                                   |                                                                           |                                                               |
-|                                         | Ez dago originaltasun edo sormenik.              | Originaltasuna eta sormena gutxi dira.                            | Originaltasun eta sormen puntu batzuk daude, baina gehiago landu daiteke. | Originaltasuna eta sormena oso agerikoak dira eta nabarmenak. |
-| **Ahozkotasuna eta Ahozko Adierazpena** |                                                  |                                                                   |                                                                           |                                                               |
-|                                         | Ahozkotasuna eta adierazpena oso eskasak dira.   | Ahozkotasuna eta adierazpena nahikoak dira baina hobetu daitezke. | Ahozkotasuna eta adierazpena onak dira baina hobetu daitezke.             | Ahozkotasuna eta adierazpena oso onak eta argiak dira.        |
-| **Baliabideen Erabilera**               |                                                  |                                                                   |                                                                           |                                                               |
-|                                         | Baliabide gutxi edo desegokiak erabili dira.     | Baliabideak nahikoak dira baina ez dira ondo integratu.           | Baliabideak ondo erabili dira, baina hobetu daiteke.                      | Baliabideak oso ondo aukeratu eta erabili dira.               |
-| **Hausnarketa Eragiteko Gaitasuna**     |                                                  |                                                                   |                                                                           |                                                               |
-|                                         | Ez du hausnarketa eragiten.                      | Hausnarketa eragiteko gaitasuna mugatua da.                       | Hausnarketa eragiteko gaitasuna ona da baina hobetu daiteke.              | Hausnarketa eragiteko gaitasuna oso ona eta argia da.         |
+
+|   | **0-2** | **3-5** | **6-8** | **9-10** |
+|----|----|----|----|----|
+| **Ikuspegi Kritikoa** |  |  |  |  |
+|  | Ez dago ikuspegi kritikorik. | Ikuspegi kritikoa azalekoa da. | Ikuspegi kritikoaren adierazpena argia da, baina hobetu daiteke. | Ikuspegi kritikoa oso garatua eta sakona da. |
+| **Edukiaren Kalitatea** |  |  |  |  |
+|  | Edukiak ez dira koherenteak edo desegokiak dira. | Edukiak oinarrizkoak dira eta argitasun falta dute. | Edukiak onak dira eta argiak, baina hobetu daitezke. | Edukiak oso ondo egituratuak eta informazioz beteak dira. |
+| **Originaltasuna eta Sormena** |  |  |  |  |
+|  | Ez dago originaltasun edo sormenik. | Originaltasuna eta sormena gutxi dira. | Originaltasun eta sormen puntu batzuk daude, baina gehiago landu daiteke. | Originaltasuna eta sormena oso agerikoak dira eta nabarmenak. |
+| **Ahozkotasuna eta Ahozko Adierazpena** |  |  |  |  |
+|  | Ahozkotasuna eta adierazpena oso eskasak dira. | Ahozkotasuna eta adierazpena nahikoak dira baina hobetu daitezke. | Ahozkotasuna eta adierazpena onak dira baina hobetu daitezke. | Ahozkotasuna eta adierazpena oso onak eta argiak dira. |
+| **Baliabideen Erabilera** |  |  |  |  |
+|  | Baliabide gutxi edo desegokiak erabili dira. | Baliabideak nahikoak dira baina ez dira ondo integratu. | Baliabideak ondo erabili dira, baina hobetu daiteke. | Baliabideak oso ondo aukeratu eta erabili dira. |
+| **Hausnarketa Eragiteko Gaitasuna** |  |  |  |  |
+|  | Ez du hausnarketa eragiten. | Hausnarketa eragiteko gaitasuna mugatua da. | Hausnarketa eragiteko gaitasuna ona da baina hobetu daiteke. | Hausnarketa eragiteko gaitasuna oso ona eta argia da. |
 
 : Bideoak banaka ebaluatzeko errubrika
 
-|                                         | **0-2**                                | **3-5**                                                 | **6-8**                                                      | **9-10**                                                    |
-|-----------------------------------------|----------------------------------------|---------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------|
-| **Taldeko Koordinazioa eta Lankidetza** |                                        |                                                         |                                                              |                                                             |
-|                                         | Ez dago koordinazio edo lankidetzarik. | Koordinazioa eta lankidetza gutxi dira.                 | Koordinazioa eta lankidetza onak dira baina hobetu daitezke. | Koordinazioa eta lankidetza oso onak eta eraginkorrak dira. |
-| **Ekoizpen Orokorraren Kalitatea**      |                                        |                                                         |                                                              |                                                             |
-|                                         | Ekoizpenaren kalitatea oso eskasa da.  | Ekoizpenaren kalitatea nahikoa da baina hobetu daiteke. | Ekoizpenaren kalitatea ona da baina hobetu daiteke.          | Ekoizpenaren kalitatea oso ona eta zaindua da.              |
-| **Bideoen Arteko Koherentzia**          |                                        |                                                         |                                                              |                                                             |
-|                                         | Ez dago koherentziarik bideoen artean. | Koherentzia gutxi dago bideoen artean.                  | Koherentzia ona da baina hobetu daiteke.                     | Bideoen arteko koherentzia oso ona da eta argia.            |
-| **Hausnarketa Eragiteko Gaitasuna**     |                                        |                                                         |                                                              |                                                             |
-|                                         | Ez du hausnarketa eragiten.            | Hausnarketa eragiteko gaitasuna mugatua da.             | Hausnarketa eragiteko gaitasuna ona da baina hobetu daiteke. | Hausnarketa eragiteko gaitasuna oso ona eta argia da.       |
+|   | **0-2** | **3-5** | **6-8** | **9-10** |
+|----|----|----|----|----|
+| **Taldeko Koordinazioa eta Lankidetza** |  |  |  |  |
+|  | Ez dago koordinazio edo lankidetzarik. | Koordinazioa eta lankidetza gutxi dira. | Koordinazioa eta lankidetza onak dira baina hobetu daitezke. | Koordinazioa eta lankidetza oso onak eta eraginkorrak dira. |
+| **Ekoizpen Orokorraren Kalitatea** |  |  |  |  |
+|  | Ekoizpenaren kalitatea oso eskasa da. | Ekoizpenaren kalitatea nahikoa da baina hobetu daiteke. | Ekoizpenaren kalitatea ona da baina hobetu daiteke. | Ekoizpenaren kalitatea oso ona eta zaindua da. |
+| **Bideoen Arteko Koherentzia** |  |  |  |  |
+|  | Ez dago koherentziarik bideoen artean. | Koherentzia gutxi dago bideoen artean. | Koherentzia ona da baina hobetu daiteke. | Bideoen arteko koherentzia oso ona da eta argia. |
+| **Hausnarketa Eragiteko Gaitasuna** |  |  |  |  |
+|  | Ez du hausnarketa eragiten. | Hausnarketa eragiteko gaitasuna mugatua da. | Hausnarketa eragiteko gaitasuna ona da baina hobetu daiteke. | Hausnarketa eragiteko gaitasuna oso ona eta argia da. |
 
 : Taldearen bideo sorta ebaluatzeko errubrika
 
-| Kategoria                                | 0-2                                                                                                          | 3-4                                                                                                                       | 5-8                                                                                                                             | 9-10                                                                                                                                                 |
-|------------------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Edukiaren Sakontasuna eta Analisia**   |                                                                                                              |                                                                                                                           |                                                                                                                                 |                                                                                                                                                      |
-|                                          | Edukiak azalekoak dira eta ez dute sakontasunik. Ez dago analisi kritikorik edo oso mugatua da.              | Edukiak oinarrizkoak dira eta sakontasun nahikorik gabe. Analisi kritikoa azalekoa da.                                    | Edukiak onak dira eta sakontasun nahikoa dute. Analisi kritikoa egokia da baina hobetu daiteke.                                 | Edukiak oso sakonak dira eta informazio zehatza eskaintzen dute. Analisi kritikoa oso ona eta sakona da, ideiak argi eta garbi azaltzen dira.        |
-| **Argudioen Koherentzia eta Estruktura** |                                                                                                              |                                                                                                                           |                                                                                                                                 |                                                                                                                                                      |
-|                                          | Argudioak ez dira koherenteak eta txostena ez dago ondo estrukturatua. Ideiak nahasirik daude.               | Argudioak koherentzia gutxi dute eta txostenaren estruktura hobetu daiteke. Ideiak modu nahikoan antolatuak daude.        | Argudioak koherenteak dira eta txostenaren estruktura ona da, baina hobetu daiteke. Ideiak modu logiko batean antolatuak daude. | Argudioak oso koherenteak dira eta txostenaren estruktura oso ona da. Ideiak modu argi eta ordenatu batean aurkezten dira, irakurlea gidatuz.        |
-| **Idazkera**                             |                                                                                                              |                                                                                                                           |                                                                                                                                 |                                                                                                                                                      |
-|                                          | Idazkera oso eskasa da, akats ortografiko eta gramatikal ugari ditu. Adierazpena ez da argia eta ulergarria. | Idazkera nahikoa da baina akats ortografiko eta gramatikal batzuk ditu. Adierazpena nahiko argia da baina hobetu daiteke. | Idazkera ona da, akats gutxi ditu eta adierazpena argia da.                                                                     | Idazkera oso ona da, akats ortografiko eta gramatikalik gabekoa. Adierazpena oso argia eta ulergarria da, irakurleari ideiak ondo helarazten dizkio. |
+| Kategoria | 0-2 | 3-4 | 5-8 | 9-10 |
+|----|----|----|----|----|
+| **Edukiaren Sakontasuna eta Analisia** |  |  |  |  |
+|  | Edukiak azalekoak dira eta ez dute sakontasunik. Ez dago analisi kritikorik edo oso mugatua da. | Edukiak oinarrizkoak dira eta sakontasun nahikorik gabe. Analisi kritikoa azalekoa da. | Edukiak onak dira eta sakontasun nahikoa dute. Analisi kritikoa egokia da baina hobetu daiteke. | Edukiak oso sakonak dira eta informazio zehatza eskaintzen dute. Analisi kritikoa oso ona eta sakona da, ideiak argi eta garbi azaltzen dira. |
+| **Argudioen Koherentzia eta Estruktura** |  |  |  |  |
+|  | Argudioak ez dira koherenteak eta txostena ez dago ondo estrukturatua. Ideiak nahasirik daude. | Argudioak koherentzia gutxi dute eta txostenaren estruktura hobetu daiteke. Ideiak modu nahikoan antolatuak daude. | Argudioak koherenteak dira eta txostenaren estruktura ona da, baina hobetu daiteke. Ideiak modu logiko batean antolatuak daude. | Argudioak oso koherenteak dira eta txostenaren estruktura oso ona da. Ideiak modu argi eta ordenatu batean aurkezten dira, irakurlea gidatuz. |
+| **Idazkera** |  |  |  |  |
+|  | Idazkera oso eskasa da, akats ortografiko eta gramatikal ugari ditu. Adierazpena ez da argia eta ulergarria. | Idazkera nahikoa da baina akats ortografiko eta gramatikal batzuk ditu. Adierazpena nahiko argia da baina hobetu daiteke. | Idazkera ona da, akats gutxi ditu eta adierazpena argia da. | Idazkera oso ona da, akats ortografiko eta gramatikalik gabekoa. Adierazpena oso argia eta ulergarria da, irakurleari ideiak ondo helarazten dizkio. |
 
 : Txostenerako Ebaluazio Errubrika
 
-```{=tex}
 \end{landscape}
-```
+
 ### Beharrezko materialak
 
 -   Lau eskoletan landutako bibliografia zein horrekin lotutako bestelako ebidentziak

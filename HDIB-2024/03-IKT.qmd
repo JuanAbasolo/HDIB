@@ -14,9 +14,7 @@ Gai hau aurrekoarekin lotuta dagoen arren, IKTen beste dimentsio batez ari da: T
 
 </iframe>
 
-```{=html}
 <script src="https://mastodon.eus/embed.js" async="async"></script>
-```
 
 ------------------------------------------------------------------------
 
