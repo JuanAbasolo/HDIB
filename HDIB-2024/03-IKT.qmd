@@ -1,22 +1,61 @@
-# IKTak eta (gure) hizkuntza
+Sakondu nahi izanez gero: @carmichaelOpenSourceAppropriate2002; @delacuevagonzalez-coteraConfiguracionSoftwareComo2019; @lakhanOpenSourceSoftware2008a; @pankajaProprietarySoftwareOpen2013; @yuEducationDomainNatural2022 @conijnHowProvideAutomated2022; @wengelinInvestigatingWritingProcesses2023; @castelloSynchronousAsynchronousCollaborative2023; @abasoloIDATTaldeLaneko2023; @stromqvistWhatKeystrokeloggingCan2006 [\*](../diapoak/02-24-IKT-ta.html)
 
-📹
+Gaia aurreko ikasturtean bitan zabaltzen nuen eta aurten bakarrean. Horregatik, eta denbora kontuengatik, ez da koherenteegia dokumentu honetakoa eta diapositibetakoa. Gaiaren hasiera diapositibetan dago eta hemen oso gutxi landuta dago.
 
-\(a\) Diapositibekin esandakorako iturri batzuk, sakondu nahi izanez gero: @carmichaelOpenSourceAppropriate2002; @delacuevagonzalez-coteraConfiguracionSoftwareComo2019; @lakhanOpenSourceSoftware2008a; @pankajaProprietarySoftwareOpen2013; @yuEducationDomainNatural2022 [\*](../diapoak/07-IKT-ta.html)
+## IKT hizkuntzaren erabilera eta hizkuntz paisaia
 
-Arazo teknikoak direla eta, dipositibetan zabalduta dago informazioa. Eskerrik asko pazientziagatik.
-
-\(b\) [@conijnHowProvideAutomated2022; @wengelinInvestigatingWritingProcesses2023; @castelloSynchronousAsynchronousCollaborative2023; @abasoloIDATTaldeLaneko2023; @stromqvistWhatKeystrokeloggingCan2006] [\*](../diapoak/08-IKT-ta-IDAT.html)
-
-Gai hau aurrekoarekin lotuta dagoen arren, IKTen beste dimentsio batez ari da: Teknologiaren erabilera hizkuntza idatzia erabiltzeko, hizkuntzaren erabilera bideratzeko eta hizkuntza idatziaren erabilera aztertzeko.
+-   Gogoratu beharrekoa: Curriculuma, zer da?\
+    Ikaslearen esperientziak nola eragiten du bere ikaskuntzan?
 
 <iframe src="https://mastodon.eus/@euwikipedia/109501055412174555/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen">
 
 </iframe>
 
+-   Baldin eta hizkuntza paisaia errealitatea bada, hizkuntzaren e-paisaiari ere begiratu behar diogu horri buruz ere hausnartzeko
+
+    -   Apple-k, ChromeBook-ak, Chrome web nabigatzaileak... zein paisaia irudikatzen dute?
+
+-   Eta hizkuntzaren e-paisaiari begiratzen badiegu, ez dago txarto e-paisaiari orokorki hartzea ere.
+
+    -   Hezkuntza erakundeak eta ikasleen datuen erabilera.
+
+    -   Datuen batze eta prozesatzetik bizi eta aberasten diren enpresa pribatuen *dohaineko* zerbitzuak.
+
+    -   Ohituren menpekotasuna eta enpresa nagusien aldeko diskurtsua
+
+    -   Bertoko irtenbide libre eta euskalduak: LuberriOS eta Txiki Linux
+
+-   Hizkuntza txikion tresnak eta hizkuntza nagusienak
+
+<iframe src="https://mastodon.eus/@kilkerra/112831252777621624/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.eus/embed.js" async="async"></script>
+
+::: callout-warning
+## Ariketa (1/2)
+
+Ariketa honetan espero da zuk azken testuaren ezaugarriez gain, ekoizpen prozesuaz hausnarketa egiteko. Horretarako:
+
+1.  Idatzi Etherpad instantzia batean[^03-ikt-1] testua:\
+    *Berbazko diskurtso irakurria idatzi behar duzu, lanean hasi berria zaren ikastetxeak IKTen erabilera beste era batera bideratzearen onurez konbentzitzeko.*
+
+    **Nork**: Irakasle hasi berria\
+    **Norentzat**: Irakasle zahar eta ohituraz erratuak\
+    **Zertarako**: Claustroan irakurtzeko\
+    **Helburua**: Aldaketaren beharraz konbentzitzea
+
+2.  Jaitsi testua formatu irakurgarrian eta `etherpad` formatuan, horretarako eskaintzen den esportazio - inportazio aukera erabilita (gezi bi elkarren gainean)
+
+3.  Aztertu IDATapp erabilita eta alderatu beste taldekide batzuen idazketa prozesuaz eta ondorioak idatzi.
+
+4.  Aztertu irakasleak pasatuko dizun zuen taldeko lana eta ondorioak idatzi, norbanakoaren idazkeraz eta talde lanaren eraikuntzaz.
+:::
+
+[^03-ikt-1]: <https://framapad.org> gomendatu dugu klasean
+
 <script src="https://mastodon.eus/embed.js" async="async"></script>
 
 ------------------------------------------------------------------------
+
+Gai hau aurrekoarekin lotuta dagoen arren, IKTen beste dimentsio batez ari da: Teknologiaren erabilera hizkuntza idatzia erabiltzeko, hizkuntzaren erabilera bideratzeko eta hizkuntza idatziaren erabilera aztertzeko.
 
 ## Idazkeraren lehenengo pausuetan
 
@@ -98,9 +137,9 @@ Kontzeptuak hizkuntza artikulatuaren lerro-izaeratik askatzen ditu Novaken kontz
 
 Tresnok [Berritzeguneetan sailkatu dira](https://irakurgune.euskadi.eus/documents/28359408/0/Irakurritakoa+ebaluatzeko+IKT+aplikazioak.pdf/fa8db296-b513-2b56-625e-cfdfa7a4b99c) irakurri ondorengo baliabide egokitzat.
 
-Ideia mapen kontzeptua sinpleagoa da kontzeptu maparena baino, eta, agian, horregatik zabalduagoa da horren erabilera. Besteak beste, elementu gutxiagok hartzen du parte eta ikuskera hierarkikoa gailentzen zaio kontzeptu mapen sare ikuskerari. Seguruenik Software Libre eta irekiko [FreeMind](https://sourceforge.net/projects/freemind/)[^03-ikt-1] izango da pisurik handiena duena; eurek ezarritako formatua delako gaur egunean ere aplikazio berdintsuen arteko esportazio eta inportazioa bideratzeko.
+Ideia mapen kontzeptua sinpleagoa da kontzeptu maparena baino, eta, agian, horregatik zabalduagoa da horren erabilera. Besteak beste, elementu gutxiagok hartzen du parte eta ikuskera hierarkikoa gailentzen zaio kontzeptu mapen sare ikuskerari. Seguruenik Software Libre eta irekiko [FreeMind](https://sourceforge.net/projects/freemind/)[^03-ikt-2] izango da pisurik handiena duena; eurek ezarritako formatua delako gaur egunean ere aplikazio berdintsuen arteko esportazio eta inportazioa bideratzeko.
 
-[^03-ikt-1]: https://sourceforge.net/projects/freemind/
+[^03-ikt-2]: <https://sourceforge.net/projects/freemind/>
 
 Gaur badira alderdi estetikoa landuagoa duten hainbat baliabide eta besteren bat online erabil daitekeena: Mindomo eta MindMap, besteak beste.
 
@@ -164,6 +203,18 @@ IDATapp-k egun honakoen berri ematen du:
 
 -   Ordenagailu bakoitzetik zenbat aldaketa egin zaizkion dokumentuari, egileen ekarpen tamaina irudikatzeko balio du horrek.
 
+::: callout-warning
+### Ariketa 2/2
+
+Taldekideon artean aztertu binaka edo hirunaka zuon idatziak IDATapp erabilita
+
+labur.eus/idat-app
+
+Taldekideon artean eztabaidatu zuok baliabideon erabilgarritasuna gelan.
+
+Zerk lagunduko lioke gelako irakasleari ikasleen idazketa prozesuan aurrera egiten
+:::
+
 ## Talde idazketari ere begiratzea
 
 Aurrez aipatutako sistemak, bistan denez, aukera ematen du talde idatzietako datuak ere batu eta aztertzeko. Interesgarria da, horri talde idazketaren argitan aztertzea, beraz.
@@ -218,26 +269,22 @@ Aurrez aipatutako R-rako pakete hori erabil daiteke taldeko idatziak aztertzeko 
 Hiru taldetako hiru lan estrategia motaz, IDAT V0.1 erabilita aztertuta
 :::
 
-------------------------------------------------------------------------
+----------------------------------------------------------------------
 
 ::: callout-warning
-## Ariketak
+### Etxerako ariketa
 
-Ariketa honetan espero da zuk azken testuaren ezaugarriez gain, ekoizpen prozesuaz hausnarketa egiteko. Horretarako:
+Euskaraz (ere ba)diren webguneen zerrenda sailkatu.
 
-1.  Idatzi Etherpad instantzia batean[^03-ikt-2] testua:\
-    *Berbazko diskurtso irakurria idatzi behar duzu, lanean hasi berria zaren ikastetxeak IKTen erabilera beste era batera bideratzearen onurez konbentzitzeko.*
+Zerrenda horri taldekide bakoitzak beste bostekin hornitu beharko du. Bost horiek gehitzeko honako ezaugarriak izan behar dira kontuan:
 
-    **Nork**: Irakasle hasi berria\
-    **Norentzat**: Irakasle zahar eta ohituraz erratuak\
-    **Zertarako**: Claustroan irakurtzeko\
-    **Helburua**: Aldaketaren beharraz konbentzitzea
+-   Izena
+-   Esteka
+-   Egilea
+-   Helburua
+-   Datuak batzea
+-   Erabilera didaktiko posibleak
 
-2.  Jaitsi testua formatu irakurgarrian eta `etherpad` formatuan, horretarako eskaintzen den esportazio - inportazio aukera erabilita (gezi bi elkarren gainean)
-
-3.  Aztertu IDATapp erabilita eta alderatu beste taldekide batzuen idazketa prozesuaz eta ondorioak idatzi.
-
-4.  Aztertu irakasleak pasatuko dizun zuen taldeko lana eta ondorioak idatzi, norbanakoaren idazkeraz eta talde lanaren eraikuntzaz.
+Eskatu zerrenda niri
 :::
 
-[^03-ikt-2]: framapad.org gomendatu dugu klasean

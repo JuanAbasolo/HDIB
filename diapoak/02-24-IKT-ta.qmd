@@ -1,0 +1,395 @@
+---
+title: "IKTak Hezkuntza eta Hizkuntza 📹"
+author: "Juan Abasolo"
+format: 
+    revealjs: 
+        theme: [dark, css/nire.scss]
+        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
+        css: 'css/logo.css'
+        footer: "IKTen erabilera eta hizkuntza"
+        slide-number: true
+        embed-resources: true
+editor: visual
+---
+
+### curriculum-edo hori... zer zen?
+
+## Erantzun eta alderatu zure ikaskideekin {.scrollable}
+
+-   Ordenagailu portatila noiz uzten duzu? Eta telefonoa/superordenagailu/superkontrolerako hori?
+
+-   Zertarako erabiltzen duzu ordenagailua? \[zerrenda\]
+
+-   Noizero begiratzen duzu zure e-posta? Wasap, Instagram, TikTok...
+
+-   Zer aplikazio informatiko erabiltzen dituzu? \[zerrenda\]
+
+    ::: incremental
+    -   Nabigatzeko
+
+    -   Idazteko
+
+        -   Banaka, taldeka, garatu, aurkeztu ...
+
+    -   PDFak lantzeko
+
+    -   Irudiak lantzeko (bideoak, soinua...)
+    :::
+
+-   Zertarako
+
+-   Zer web-orri erabiltzen dituzu?
+
+-   Zertarako?
+
+-   Zein bilatzaile erabiltzen d(it)uzu?
+
+-   Erabiltzen duzu euskarazko web-orririk?
+
+-   Zertarako?
+
+-   Nola erabili IKT-ak hezkuntzan?
+
+:::
+
+# Datuak
+
+## 👁️
+
+. . .
+
+Sartu [hemen](https://myactivity.google.com/myactivity?pli=1) eta ea zer dakien 👁️‍🗨️k
+
+{gelako taldean esteka}
+
+. . .
+
+> Hodeia, beste baten ordenagailua da
+
+# Hezkuntzan
+
+## 🤑 hezkuntzaren erabilera
+
+. . .
+
+Enpresa teknologikoak eta gure erabaki(ez)ak
+
+## Baina IKTen presentzia 💻📱🖨️...
+
+🇸🇪 [+](https://bbkfamily.bbk.eus/eu/suediak-eskola-digitalizazioa-geldiarazi-du-gauza-bera-egin-beharko-genuke/) [++](https://pt.wikipedia.org/wiki/Minist%C3%A9rio_da_Educa%C3%A7%C3%A3o_(Su%C3%A9cia)) [!](https://sv.wikipedia.org/wiki/Lotta_Edholm) [!!](https://sv-m-wikipedia-org.translate.goog/wiki/Lotta_Edholm?_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=eu&_x_tr_pto=wapp)
+
+. . .
+
+🤔
+
+. . .
+
+Noiz nork erabili + horren eraginak
+
+## Noiz eta zelan
+
+. . .
+
+Ikasleek: guk bideratuta
+
+. . .
+
+Guk lanak hobeto egiteko
+
+## Hizkuntza e-paisaia
+
+::: incremental
+-   Classroom
+
+-   Eki Plataforma Digitala
+
+-   Duolingo
+
+-   Chrome
+
+-   ChromeOS
+
+-   Windows
+
+-   ...
+:::
+
+##  {.scrollable}
+
+![](images/clipboard-2590304674.png)
+
+<small>[https://mastodon.eus/\@euwikipedia/109501055412174555](https://mastodon.eus/@euwikipedia/109501055412174555){.uri}</small>
+
+![](images/clipboard-49162036.png)
+
+<small>[https://mastodon.eus/\@gorkaazk/112830810481108084/](https://mastodon.eus/@gorkaazk/112830810481108084/){.uri}</small>
+
+![](images/clipboard-2510854317.png)
+
+</small>[https://mastodon.eus/\@kilkerra/112831252777621624](https://mastodon.eus/@kilkerra/112831252777621624){.uri}</small>
+
+# Euskaraz
+
+## WebGuneak
+
+-   Txikipedia: <https://eu.wikipedia.org/wiki/Txikipedia:Azala>
+-   IKTeroak, EuskalJakintza...
+-   Jokotuber Vs Game erauntsia
+
+## Baliabide libreak hezkuntzan
+
+Luberri [\*](https://luberrilinux.eus/)
+
+TxikiLinux [\*\*](https://www.elkartenet.eus/txikilinux-eus/) [XILABA](https://www.kazeta.eus/eu/info_kz/20220222/txikilinus-xilaba-donibane-lohizuneko-ikastolako-hezkuntza-tresna-berria)
+
+Euskarabildua [\*\*\*](https://euskarabildua.eus/)
+
+## Euskaraz eta euskararako {.scrollable}
+
+Tresnak
+
+-   AzkueFundazioa (<https://azkuefundazioa.eus/>)
+-   EJ: <https://www.euskadi.eus/eusko-jaurlaritza/euskara-tresnak/>
+    -   Hiztegiak
+    -   Euskarazko IKT produktuak
+-   Cryptpad (<https://cryptpad.fr/>)
+-   Moodle
+
+## Etorkizuna eraikitzeaz...
+
+[CommonVoice](08-2023_cv-MJ.pdf) ⏯️
+
+## Euskara buruan eta ibili munduan
+
+-   Lehen Hitza
+-   Xuxen
+-   Euskalbar
+
+# Zenbait webgune
+
+[Iazkoetan](09-IKT2022V0.pdf) ⏯️
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Ariketa (1/3)
+
+\<framapad.org\> helbidean sartu eta sortu dokumentu bat hortxe honako idatzia egiteko:
+
+> Berbazko diskurtso irakurria idatzi behar duzu, lanean hasi berria zaren ikastetxeak IKTen erabilera beste era batera bideratzearen onurez konbentzitzeko.
+
+**Nork**: Irakasle hasi berria\
+**Norentzat**: Irakasle zahar eta ohituraz erratuak\
+**Zertarako**: Claustroan irakurtzeko\
+**Helburua**: Aldaketaren beharraz konbentzitzea
+
+Lan hau idazten ez zenuke pasatu beharko 20 minutu baino gutxiago ezta 30 baino askoz gehiago ere.
+:::
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Gorde `.etherpad` fitxategia
+
+Jaitsi fitxategia eta gorde
+:::
+
+# IKTak aukera
+
+## Hizkuntza idatziaz
+
+------------------------------------------------------------------------
+
+{{< video https://youtu.be/d9D7wiwWv8M >}}
+
+## Ariketa bat HHko gelan: *Zer du gogoko umeak?*
+
+[+](http://munitibarkoeskolahlhi.blogspot.com/search?updated-max=2016-05-04T15:20:00%2B02:00&max-results=7) - [++](http://munitibarkoeskolahlhi.blogspot.com/search?updated-max=2016-04-13T15:48:00%2B02:00&max-results=7&start=7&by-date=false)
+
+## 
+
+### KJO9I874ºGHU
+
+![](https://3.bp.blogspot.com/-WaASfY4W9xQ/VyNe3wCa69I/AAAAAAAADHg/qugElR2vz9I0ocM0W7qndYENcG8RKSo8wCLcB/s400/00000001.jpg "pelikula bat mounstroana")
+
+3 urte eta 5 hile
+
+## 
+
+### OCIEA UEX OAEA
+
+![](https://2.bp.blogspot.com/-N5cl93A8OHs/VyNdyKTU39I/AAAAAAAADHQ/GONzy_0K2rMXmRLQ3YlHDYdmCegQJkgvgCLcB/s400/00000001.jpg "lo egitea eta muinekakaz jolastea")
+
+4 urte eta hilabete
+
+## 
+
+### LORAK BIE
+
+![](https://1.bp.blogspot.com/-rZ1z8axBA5Y/Vx4aCMOQxMI/AAAAAAAADEQ/CEY-vPGqSoo9Bn6axXLC0MYjbwAjQUEzACKgB/s1600/00000001.jpg "lorak batzie"){width="50%"}
+
+4 urte eta 5 hile
+
+## 
+
+### DANSA EGTA
+
+![](https://2.bp.blogspot.com/-RdW9-J-z2Nc/Vw5MIvlnMAI/AAAAAAAAC6Y/2Pk1a5irrgY0tkNLsTAKDrDQBsi_ma9awCLcB/s400/Aina.jpg "dantza egitea")
+
+4 urte eta 7 hile
+
+## 
+
+### KOPAKO COKOA
+
+![](https://3.bp.blogspot.com/-xwrzNIpACVQ/VxonJpwxWOI/AAAAAAAADCU/R77z7uaHf6QrFFdFtX_A4yBdTwy4ZGxrACLcB/s1600/00000001.jpg "kopako jokoa"){width="40%"}
+
+4 urte eta 9 hile
+
+## 
+
+### MUEAI JOLSTA
+
+![](https://3.bp.blogspot.com/-XQahBvBqyuk/Vx4aHbbEODI/AAAAAAAADEM/1me_0Z3tY9Ux0BfZS-0zyP4uGwipkAw2wCLcB/s400/00000001.jpg "muinekakin jolastea")
+
+4 urte eta 9 hile
+
+## 
+
+### PAIOJ OLASTEA
+
+![](https://3.bp.blogspot.com/-Fub22OuPfoA/VxDRnRv94oI/AAAAAAAAC7E/N5j5XE36F_A53NWct5P_3vgtpo32-oppACLcB/s400/Lander.jpg "Playmobilakin jolastea")
+
+5 urte eta 4 hile
+
+## 
+
+### ESKUPPILOTAN GOLSTEA
+
+![](https://3.bp.blogspot.com/-8f0IDZWlwAQ/VxDR13b4toI/AAAAAAAAC7M/NTvaQtPlnqofNZX57LPx8snK29JC7qYpwCLcB/s400/Aner.jpg "eskupilotan jolastea")
+
+6 urte eta hile bi
+
+## Atzo
+
+[Lurralde ezberdinak](https://munitibarkoeskola456.blogspot.com/)
+
+# Bestelako erreminta batzuk
+
+## 
+
+Hipertesuak eta hiper-estekak
+
+. . .
+
+Ideiak mapeatzeko softwarea
+
+. . .
+
+Idazketan aztertzeko tresnak eta IDAT
+
+## IDAT
+
+[Aurkezpen sui generisa](IDAT-Aurkezpena.html) ⏯️
+
+## Idazketaren modeloa
+
+![](08-Flower-Hayes1980modeloa.png)
+
+## 
+
+![](08-Conijn-2022.png)
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Ariketa 2/3
+
+Taldekideon artean aztertu binaka edo hirunaka zuon idatziak IDATapp erabilita
+
+labur.eus/HDIBidatapp
+:::
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Ariketa 3/3
+
+Taldekideon artean eztabaidatu zuok baliabideon erabilgarritasuna gelan.
+
+Zerk lagunduko lioke gelako irakasleari ikasleen idazketa prozesuan aurrera egiten
+:::
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Ariketa
+
+Euskaraz (ere ba)diren webguneen zerrenda sailkatu.
+
+Zerrenda horri taldekide bakoitzak beste bostekin hornitu beharko du. Bost horiek gehitzeko honako ezaugarriak izan behar dira kontuan:
+
+-   Izena
+-   Esteka
+-   Egilea
+-   Helburua
+-   Datuak batzea
+-   Erabilera didaktiko posibleak
+:::
+
+# Taldean idaztea
+
+---
+
+![](08-Sharples_et_al_93.png)
+
+---
+
+![](images/clipboard-603215346.png)
+
+## Egiletzarako estrategiak
+
+<small>Posner & Baecker (1992)</small>
+
+. . .
+
+Idazle bakarreko estrategia
+
+. . .
+
+Idazle banatuen estrategia
+
+. . .
+
+Eskribaren estrategia
+
+. . .
+
+Taldekako idazketarako estrategia
+
+. . .
+
+Aholku estrategia
+
+## Egiletza
+
+. . .
+
+-   Idazle nagusia
+-   Egiletza banatua
+-   Berrikuspen kooperatiboa
+-   Baterako idazketaren estrategia
+
+::: notes
+Posner & Baecker (1992)
+:::
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Aztertu taldeko idatzia
+
+Deskribatu eta azaldu taldeko jardunaren nondik norakoa, ebidentzietan oinarriturik (taldeka?)
+
+Azaldu horretan ikusten duzuena (banaka)
+:::

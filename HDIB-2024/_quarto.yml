@@ -24,8 +24,8 @@ book:
    - part: A_zatia.qmd
      chapters:
        - 01-HME.qmd
-       - 02-Immigrazio_hizkuntzak.qmd
        - 03-IKT.qmd
+       - 02-Immigrazio_hizkuntzak.qmd
        # - summary.qmd
    - part: B_zatia.qmd
      chapters:
