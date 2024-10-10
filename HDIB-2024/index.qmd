@@ -12,7 +12,7 @@ Grebak, interesak, premiak eta abar tarteko, ikusteko dago ea zenbatean segitzen
     -   Zer den eta litzatekeen curriculuma [\*](../diapoak/00-Aurkezpena-24.html) `(1)`
 1.  Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma
     -   Europako Erreferentzi Markoa: Hizkuntzen Ikaskuntza Irakaskuntza eta Ebaluaziorako Europako Erreferentzia Markoa `(2)`
-    -   Immigrazio hizkuntzen trataera `(barria)`
+    -   ~~Immigrazio hizkuntzen trataera~~ `(barria)`
     -   IKTak eta hizkuntza `(9 eta 10)`
 2.  Ikastetxeko hizkuntzen antolakuntza
     -   Gaitasunak eta hezkuntza sistema – Hizkuntza-komunikaziorako gaitasuna `(3)`

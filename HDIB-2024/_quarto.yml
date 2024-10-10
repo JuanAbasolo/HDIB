@@ -20,13 +20,12 @@ book:
   downloads: [pdf, epub]
   chapters:
    - index.qmd
-   - 00-Curriculumaz-ta.qmd
    - part: A_zatia.qmd
      chapters:
+       - 00-Curriculumaz-ta.qmd
        - 01-HME.qmd
        - 03-IKT.qmd
-       - 02-Immigrazio_hizkuntzak.qmd
-       # - summary.qmd
+       # - 02-Immigrazio_hizkuntzak.qmd
    - part: B_zatia.qmd
      chapters:
        - 04-Lau_zutabeak.qmd
@@ -41,6 +40,12 @@ book:
        - 11-Bronckart.qmd
        - 12-SD.qmd
        - 13-Erroreak.qmd
+   - part: "Erreferentziak"
+     chapters:
+       - references.qmd
+    
+  appendices:
+   - E01-Bideo_txorten_ebaluazio_errubrikak.qmd
        # - 07-Role_playing.qmd
        # - 08-IKT(1)eus.qmd
        # - 09-IKT(2)tresnak.qmd
@@ -49,7 +54,6 @@ book:
        # - 12-Bronckart.qmd
        # - 13-Ebaluazioa.qmd
        # - 14-Azterketa.qmd
-   - references.qmd
 
 
 bibliography: references.bib

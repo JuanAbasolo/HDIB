@@ -168,7 +168,7 @@ Sortu taula bat konpetentzien definizioen alderaketa aztertzeko:
 -   Parisekoak
 -   Gasteizkoak
 -   Iruñekoak
--   Londresekoak
+-   Ez Espainia - Ez Frantziak agintzen duten nonbaitekoak
 :::
 
 # Communicative competence... & co.
@@ -337,9 +337,11 @@ Adierazleak dira dimentsio horien garapenak ustez erakutsi behar duen modua.
 
 </small>
 
-## Adierazleak eta lortze-mailak:
+## Adierazleak eta lortze-mailak: {.small .scrollable}
 
 > (19) Ikaskuntzarako eta gizarte-harremanetarako (hau da, ikasgelan, ikastetxean eta ingurunean eguneroko bizitzan ohikoak diren) komunikazio-trukeetan modu aktibo eta egokian parte hartzea.
+
+. . .
 
 Adierazleak:
 
@@ -355,7 +357,7 @@ Adierazleak:
 <small>
 
 | Hasierako maila | Erdi maila | Maila aurreratua |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | \+ Komunikazio-trukean arreta zailtasunez mantentzen du.<br> + Bere komunikazio-trukeetan inhibizioa agertzen du.<br> + Lagunduta, komunikazio-egoeraren ezaugarriak kontuan izaten ditu. | \+ Komunikazio-trukean arreta mantentzen du. <br> + Naturaltasunez, komunikazio-trukeak hasten eta mantentzen ditu. <br> + Komunikazio-egoeraren ezaugarriak kontuan izaten ditu. <br> + Solaskidearen aurrean erantzuna modu nahiko eraginkorrean egokitzen du.<br> + Hizkuntza-aldaera modu nahiko eraginkorrean egokitzen du elkarrekintzara. | \+ Komunikazio-trukean arreta mantentzen eta esku hartzen du.<br> + Naturaltasunez eta modu eraginkorrean, komunikazio-trukeak hasten eta mantentzen ditu.<br> + Komunikazio-egoeraren ezaugarrietara modu eraginkorrean egokitzen da.<br> + Erregistro egokia erabiltzen du.<br> + Solaskidearen aurrean erantzuna egokitzen du.<br> + Hizkuntza-aldaera elkarrekintzara egokitzen du. |
 
 </small>
@@ -368,7 +370,7 @@ Adierazleak:
 -   20 minutuko berbaldi bati zelan ekin gaiaz?
 -   Nork? Nori? Zergatik? Zertarako?
 
-**Zerrendatu bost egoera eta justifikatu zentzua**
+**Zerrendatu taldekideko egoera bana, bat aukeratu eta justifikatu**
 :::
 
 ::: footer

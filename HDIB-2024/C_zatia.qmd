@@ -17,10 +17,16 @@ Erronka: Sekuentzia Didaktikoaren diseinua
 
 **Egitekoak:**
 
--   <!--# ALDATU HAU- HONEEK TXARTO DOZ-TA!!! -->Hainbat baliabide didaktiko aztertu.
+-   <!--# ALDATU HAU- HONEEK TXARTO DOZ-TA!!! -->
+
+    Hainbat baliabide didaktiko aztertu.
+
 -   Hezkuntzan erabiltzen diren testuen sailkapena.
+
 -   Argitaratutako baliabideen oraingo markorako egokitzapena.
+
 -   Testuen eraikuntzan oinarritutako Sekuentzia Didaktikoaren eraikuntza eta ebaluazioa.
+
 -   Hizkuntzaren dimentsiotik Ikaskuntzarako Diseinu Unibertsalaren (IDU) erabiltzea.
 :::
 
@@ -145,17 +151,12 @@ Azken fase honetan ikasleek sortutako Sekuentzia Didaktikoak aurkeztuko dituzte.
 
 ### Kronograma
 
-+-------+-------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+----+
-| Fasea | Urratsa                                                           | Irakasleak                                                                 | 9  | 10 | 12 | 13 | 14 | 15 |
-+=======+===================================================================+============================================================================+====+====+====+====+====+====+
-| 1     | Erronkaren aurkezpena                                             | Aurkezpena egingo du                                                       | x  |    |    |    |    |    |
-+-------+-------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+----+
-| 2     | Ikasle bakoitzak edukiak landuko ditu taldekideekin koordinazioan | Irakasleak ikasleen lanak gainbegiratuko ditu eta feedbacka emago die ahoz | x  | x  | x  |    |    |    |
-+-------+-------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+----+
-| 3     | Taldekideek SDaren diseinua egingo dute                           | Berdin. Eta behar dituzten tutoretzak                                      |    |    |    | x  | x  | x  |
-+-------+-------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+----+
-| 4     | Sortutako Sekuentzia Didaktikoen aurkezpena                       | Irakasleak azken kalifikazioa emango die ikasleei                          |    |    |    |    |    | x  |
-+-------+-------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+----+
+| Fasea | Urratsa | Irakasleak | 9 | 10 | 12 | 13 | 14 | 15 |
+|----|----|----|----|----|----|----|----|----|
+| 1 | Erronkaren aurkezpena | Aurkezpena egingo du | x |  |  |  |  |  |
+| 2 | Ikasle bakoitzak edukiak landuko ditu taldekideekin koordinazioan | Irakasleak ikasleen lanak gainbegiratuko ditu eta feedbacka emago die ahoz | x | x | x |  |  |  |
+| 3 | Taldekideek SDaren diseinua egingo dute | Berdin. Eta behar dituzten tutoretzak |  |  |  | x | x | x |
+| 4 | Sortutako Sekuentzia Didaktikoen aurkezpena | Irakasleak azken kalifikazioa emango die ikasleei |  |  |  |  |  | x |
 
 ### Entregagaiak eta balioa
 
@@ -165,23 +166,15 @@ Proiektuan zazpi entregagai egongo dira; sei banakakoak, eskola bakoitzean egin 
 
 -   Sekuentzia Didaktikoa
 
-+--------+--------+------------------------------------------------+--------+-----------+
-| Fasea  | Astea  | Entregagaia                                    | \%     | Ikasgaian |
-+=======:+=======:+================================================+=======:+==========:+
-| 2      | 9      | Baliabide didaktikoen azterketa                | 1      | 0.1       |
-+--------+--------+------------------------------------------------+--------+-----------+
-| 2      | 10     | Hezkuntzako testu moten azterketa              | 1      | 0.1       |
-+--------+--------+------------------------------------------------+--------+-----------+
-| 2      | 12     | Baliabide didaktikoen egokitzapen proposamenak | 1      | 0.1       |
-+--------+--------+------------------------------------------------+--------+-----------+
-| 3      | 13     | SD baten hezurdura                             | 1      | 0.1       |
-+--------+--------+------------------------------------------------+--------+-----------+
-| 3      | 14     | IDUrako egokitzapena                           | 1      | 0.1       |
-+--------+--------+------------------------------------------------+--------+-----------+
-| 3      | 15     | Hizkuntza erroreen txostena                    | 1      | 0.1       |
-+--------+--------+------------------------------------------------+--------+-----------+
-| 4      | 15     | Sekuentzia Didaktikoa                          | 10     | 1         |
-+--------+--------+------------------------------------------------+--------+-----------+
+| Fasea | Astea | Entregagaia                                    |  \% | Ikasgaian |
+|------:|------:|------------------------------------------------|----:|----------:|
+|     2 |     9 | Baliabide didaktikoen azterketa                |   1 |       0.1 |
+|     2 |    10 | Hezkuntzako testu moten azterketa              |   1 |       0.1 |
+|     2 |    12 | Baliabide didaktikoen egokitzapen proposamenak |   1 |       0.1 |
+|     3 |    13 | SD baten hezurdura                             |   1 |       0.1 |
+|     3 |    14 | IDUrako egokitzapena                           |   1 |       0.1 |
+|     3 |    15 | Hizkuntza erroreen txostena                    |   1 |       0.1 |
+|     4 |    15 | Sekuentzia Didaktikoa                          |  10 |         1 |
 
 : Hirugarren eskola-proiektuko entregagaien hurrenkera
 
@@ -189,43 +182,27 @@ Proiektuan zazpi entregagai egongo dira; sei banakakoak, eskola bakoitzean egin 
 
 <!--# Geppetto hamendik -->
 
-```{=tex}
 \begin{landscape}
-```
 
-+--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
-|                                            | **0-2**                                              | **3-5**                                                    | **6-8**                                                                  | **9-10**                                                     |
-+============================================+======================================================+============================================================+==========================================================================+==============================================================+
-| **Helburu Didaktikoak eta Ikaskuntza**    
-+--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
-|                                            | Helburuak ez dira argiak edo neurgarriak.            | Helburuak azalekoak edo partzialki neurgarriak dira.       | Helburuak argiak dira, baina neurtzea hobetu daiteke.                    | Helburuak oso argiak eta neurgarriak dira.                   |
-+--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
-| **Edukiaren Egituraketa eta Koherentzia**  
-+--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
-|                                            | Edukiak ez dira koherenteak edo logikoki antolatuak. | Edukiak oinarrizkoak dira eta antolaketa falta dute.       | Edukiak koherenteak eta nahiko ondo antolatuak dira.                     | Edukiak oso ondo egituratuak eta koherenteak dira.           |
-+--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
-| **Metodologia eta Jarduerak**             
-+--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
-|                                            | Metodologia eta jarduerak desegokiak dira.           | Metodologia eta jarduerak oinarrizkoak dira.               | Metodologia eta jarduerak onak dira, baina hobetu daitezke.              | Metodologia eta jarduerak bikainak dira.                     |
-+--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
-| **Diskurtsoaren Kalitatea eta Aniztasuna** 
-+--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
-|                                            | Diskurtsoa ez da kalitatezkoa edo anitza.            | Diskurtsoaren kalitatea eta aniztasuna mugatuak dira.      | Diskurtsoaren kalitatea eta aniztasuna onak dira, baina hobetu daitezke. | Diskurtsoaren kalitatea eta aniztasuna bikainak dira.        |
-+--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
-| **Ebaluazioa eta Autoebaluazioa**         
-+--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
-|                                            | Ez dago ebaluazio edo autoebaluazio argirik.         | Ebaluazio eta autoebaluazio irizpideak mugatuak dira.      | Ebaluazio eta autoebaluazio irizpideak onak dira, baina hobetu daitezke. | Ebaluazio eta autoebaluazio irizpideak bikainak dira.        |
-+--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
-| **Ikaskuntza Ingurunea eta Motibazioa**    
-+--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
-|                                            | Ingurunea eta motibazioa ez dira egokiak.            | Ingurunea eta motibazioa nahikoak dira, baina ez bikainak. | Ingurunea eta motibazioa onak dira, baina hobetu daitezke.               | Ingurunea eta motibazioa oso egokiak eta motibagarriak dira. |
-+--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|   | **0-2** | **3-5** | **6-8** | **9-10** |
+|----|----|----|----|----|
+| **Helburu Didaktikoak eta Ikaskuntza** |  |  |  |  |
+|  | Helburuak ez dira argiak edo neurgarriak. | Helburuak azalekoak edo partzialki neurgarriak dira. | Helburuak argiak dira, baina neurtzea hobetu daiteke. | Helburuak oso argiak eta neurgarriak dira. |
+| **Edukiaren Egituraketa eta Koherentzia** |  |  |  |  |
+|  | Edukiak ez dira koherenteak edo logikoki antolatuak. | Edukiak oinarrizkoak dira eta antolaketa falta dute. | Edukiak koherenteak eta nahiko ondo antolatuak dira. | Edukiak oso ondo egituratuak eta koherenteak dira. |
+| **Metodologia eta Jarduerak** |  |  |  |  |
+|  | Metodologia eta jarduerak desegokiak dira. | Metodologia eta jarduerak oinarrizkoak dira. | Metodologia eta jarduerak onak dira, baina hobetu daitezke. | Metodologia eta jarduerak bikainak dira. |
+| **Diskurtsoaren Kalitatea eta Aniztasuna** |  |  |  |  |
+|  | Diskurtsoa ez da kalitatezkoa edo anitza. | Diskurtsoaren kalitatea eta aniztasuna mugatuak dira. | Diskurtsoaren kalitatea eta aniztasuna onak dira, baina hobetu daitezke. | Diskurtsoaren kalitatea eta aniztasuna bikainak dira. |
+| **Ebaluazioa eta Autoebaluazioa** |  |  |  |  |
+|  | Ez dago ebaluazio edo autoebaluazio argirik. | Ebaluazio eta autoebaluazio irizpideak mugatuak dira. | Ebaluazio eta autoebaluazio irizpideak onak dira, baina hobetu daitezke. | Ebaluazio eta autoebaluazio irizpideak bikainak dira. |
+| **Ikaskuntza Ingurunea eta Motibazioa** |  |  |  |  |
+|  | Ingurunea eta motibazioa ez dira egokiak. | Ingurunea eta motibazioa nahikoak dira, baina ez bikainak. | Ingurunea eta motibazioa onak dira, baina hobetu daitezke. | Ingurunea eta motibazioa oso egokiak eta motibagarriak dira. |
 
 : Sekuentzia Didaktikoen Diseinua ebaluatzeko errubrika
 
-```{=tex}
 \end{landscape}
-```
+
 <!--# Geppetto honaino -->
 
 ### Beharrezko materiala
@@ -253,4 +230,3 @@ Proiektu honen azken emaitza izango da ikasleek diseinatutako eta aplikatutako S
 4.  Talde-lana eta kooperazioa: Ikasleek talde-lanean eta kooperazioan erakutsiko dituzten gaitasunak azpimarratuko dira, proiektuaren garapenean egindako elkarlanaren emaitza nabarmenduz.
 
 Emaitza hauek guztiek ikasleen ikaskuntza eta garapena modu integralean islatuko dute, etorkizuneko erronkei aurre egiteko prestakuntza praktikoa eskuratuta.
-
