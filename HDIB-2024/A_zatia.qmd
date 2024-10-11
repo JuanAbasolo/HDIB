@@ -1,4 +1,4 @@
-# Lehenengo gaia {#sec-E1gaia}
+# Lehenengo gaia {#sec-lehenengo-gaia}
 
 Gaia: Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma
 
@@ -184,19 +184,19 @@ Bideozko ekoizpenez gain, irakasleari idatzizko txosten/protfolioa ere emango di
 
 ### Kronograma
 
-+-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+---+---+---+---+---+
-| Fasea | Urratsa                                                               | Irakasleak                                                                 | 1 | 2 | 3 | 4 | 7 |
-+=======+=======================================================================+============================================================================+===+===+===+===+===+
-| 1     | Erronkaren aurkezpena                                                 | Aurkezpena egingo du                                                       | x |   |   |   |   |
-+-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+---+---+---+---+---+
-| 2     | Talde bakoitzak edukien lanketan oinarritutako proposamena egingo du  | Irakasleak ikasleen lanak gainbegiratuko ditu eta feedbacka emago die ahoz | x | x | x | x |   |
-+-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+---+---+---+---+---+
-| 3     | Taldekideek komunikazio proposamenak idatzi eta bideoz grabatuko ditu | Tutoretzak egingo ditu behar duten ikasleekin                              |   |   |   | x |   |
-+-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+---+---+---+---+---+
-| 4     | Sortutako bideoen aurkezpena\                                         | Irakasleak azken kalifikazioa emango die ikasleei                          |   |   |   |   | x |
-|       | Eztabaida\                                                            |                                                                            |   |   |   |   |   |
-|       | Lan idatziak                                                          |                                                                            |   |   |   |   |   |
-+-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+---+---+---+---+---+
++-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+
+| Fasea | Urratsa                                                               | Irakasleak                                                                 | 1  | 2  | 3  | 4  | 7  |
++=======+=======================================================================+============================================================================+====+====+====+====+====+
+| 1     | Erronkaren aurkezpena                                                 | Aurkezpena egingo du                                                       | x  |    |    |    |    |
++-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+
+| 2     | Talde bakoitzak edukien lanketan oinarritutako proposamena egingo du  | Irakasleak ikasleen lanak gainbegiratuko ditu eta feedbacka emago die ahoz | x  | x  | x  | x  |    |
++-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+
+| 3     | Taldekideek komunikazio proposamenak idatzi eta bideoz grabatuko ditu | Tutoretzak egingo ditu behar duten ikasleekin                              |    |    |    | x  |    |
++-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+
+| 4     | Sortutako bideoen aurkezpena\                                         | Irakasleak azken kalifikazioa emango die ikasleei                          |    |    |    |    | x  |
+|       | Eztabaida\                                                            |                                                                            |    |    |    |    |    |
+|       | Lan idatziak                                                          |                                                                            |    |    |    |    |    |
++-------+-----------------------------------------------------------------------+----------------------------------------------------------------------------+----+----+----+----+----+
 
 ### Entregagaiak eta balioa
 
@@ -206,14 +206,21 @@ Proiektuak sei entregagai ditu, eduki bakoitzeko bat gehi komunikazioaren lanket
 -   Bideoak
 -   Txosten idatzia
 
-| Fasea | Astea | Entregagaia | \% | Ikasgaian |
-|---:|---:|----|---:|---:|
-| 2 | 1 | Curriculum Dekretuan hizkuntzaren kokapenaren mapeoa | 1 | 0.1 |
-| 2 | 2 | EEMBen mailen araberako testuak identifikatu | 1 | 0.1 |
-| 2 | 3 | Hizkuntza ez-ofizialetako baliabide eta informazioaren mapeoa | 1 | 0.1 |
-| 2 | 4 | IKTen baliabideen sailkapena | 1 | 0.1 |
-| 4 | 7 | Bideoak | 5 | 0.5 |
-| 4 | 7 | Txostena, aurkezpena eta debatea | 5 | 0.5 |
++---------+---------+---------------------------------------------------------------+---------+-----------+
+| Fasea   | Astea   | Entregagaia                                                   | \%      | Ikasgaian |
++========:+========:+===============================================================+========:+==========:+
+| 2       | 1       | Curriculum Dekretuan hizkuntzaren kokapenaren mapeoa          | 1       | 0.1       |
++---------+---------+---------------------------------------------------------------+---------+-----------+
+| 2       | 2       | EEMBen mailen araberako testuak identifikatu                  | 1       | 0.1       |
++---------+---------+---------------------------------------------------------------+---------+-----------+
+| 2       | 3       | Hizkuntza ez-ofizialetako baliabide eta informazioaren mapeoa | 1       | 0.1       |
++---------+---------+---------------------------------------------------------------+---------+-----------+
+| 2       | 4       | IKTen baliabideen sailkapena                                  | 1       | 0.1       |
++---------+---------+---------------------------------------------------------------+---------+-----------+
+| 4       | 7       | Bideoak                                                       | 5       | 0.5       |
++---------+---------+---------------------------------------------------------------+---------+-----------+
+| 4       | 7       | Txostena, aurkezpena eta debatea                              | 5       | 0.5       |
++---------+---------+---------------------------------------------------------------+---------+-----------+
 
 : Lehenengo eskola-proiektuko entregagaien hurrenkera
 

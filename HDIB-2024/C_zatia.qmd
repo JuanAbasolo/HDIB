@@ -32,7 +32,7 @@ Erronka: Sekuentzia Didaktikoaren diseinua
 
 ### Pedagogia mota
 
-Lehenengo gaian (@sec-E1gaia) aukeratutako eredua aukeratu da hirugarren gai honetarako, Erronketan Oinarritutako Ikaskuntza (EOI). Irakurleak jo beza horra horren oinarriez sakonago irakurtzeko. Laburki, gogoratu ditzagun hurrengook:
+Lehenengo gaian (@sec-lehenengo-gaia) aukeratutako eredua aukeratu da hirugarren gai honetarako, Erronketan Oinarritutako Ikaskuntza (EOI). Irakurleak jo beza horra horren oinarriez sakonago irakurtzeko. Laburki, gogoratu ditzagun hurrengook:
 
 <!--# Geppetto -->
 
@@ -54,7 +54,7 @@ Curriculum dekretuak argi uzten du ikasleek hizkuntza-gaitasun eta konpetentziak
 
 Curriculum dekretuak hizkuntza-konpetentzia garatzea funtsezkotzat jotzen du, eta horrek didaktika egokia erabiltzea eskatzen du. Sekuentzia Didaktikoak ikasleen hizkuntza-gaitasunak modu eraginkorrean garatzen dituzten tresna didaktikoak dira, prozesu sekuentziatu eta antolatu baten bidez [@garcia-azkoagaParaIngenieriaDidactica2015]. Horrela, ikasleek edukiak progresiboki barneratu eta aplikatzeko aukera izaten dute. Horrez gain, Sekuentzia Didaktikoek konpetentzia eleaniztuna garatzeko bidea ematen dute, hizkuntzetan trebatuz eta haien arteko konexioa indartuz. Horrela, ikasleek hizkuntzak erabiltzeko gaitasunak era koherente eta integratuan garatzen dituzte, curriculum dekretuak ezarritako helburuak eta konpetentziak lortuz.
 
-Sekuentzia didaktikoak didaktika plangintza zehatz eta antolatuak dira, ikasleek edukiak modu koherentean eta progresiboan ikas ditzaten. Horiek modu sistematikoan antolatutako jardueren segidak dira, eta edukiak pixkanaka konplexutasun handiagoko mailara igotzen joaten dira [@anakabeonaindiaConstruccionSecuenciasDidacticas2013], ikasleen ulermena eta trebetasunak etengabe garatuaz. Interakzionismo sozio-diskurtsiboan oinarritzen diren sekuentziek ikasleen arteko elkarreragina eta diskurtsoa sustatzen dute [@larringanMintzairaTestuaGeneroa2021], ikaskuntza kolektiboa eta elkarlanaren bidezko ikaskuntza erraztuz. Ikasleek elkarrekin lan egitea eta ideiak trukatzea ahalbidetzen dute, horrek ezagutza sakonagoa eta erabilgarriagoa sortuz. Horrela, ikasleek ezagutza berriak eraikitzen dituzte, ikasitakoa testuinguru praktikoetan aplikatuz eta gaitasun eleaniztunaren garapena indartuz.
+Sekuentzia didaktikoak didaktika plangintza zehatz eta antolatuak dira, ikasleek edukiak modu koherentean eta progresiboan ikas ditzaten. Horiek modu sistematikoan antolatutako jardueren segidak dira, eta edukiak pixkanaka konplexutasun handiagoko mailara igotzen joaten dira [@anakabeonaindiaConstruccionSecuenciasDidacticas2013], ikasleen ulermena eta trebetasunak etengabe garatuaz. Interakzionismo sozio-diskurtsiboan oinarritzen diren sekuentziek ikasleen arteko elkarreragina eta diskurtsoa sustatzen dute [@diazdegerenulasagaEuskaraOinarriEta2021], ikaskuntza kolektiboa eta elkarlanaren bidezko ikaskuntza erraztuz. Ikasleek elkarrekin lan egitea eta ideiak trukatzea ahalbidetzen dute, horrek ezagutza sakonagoa eta erabilgarriagoa sortuz. Horrela, ikasleek ezagutza berriak eraikitzen dituzte, ikasitakoa testuinguru praktikoetan aplikatuz eta gaitasun eleaniztunaren garapena indartuz.
 
 Proiektuetan oinarritutako ikaskuntza eta ikaskuntza kooperatiboa bezalako metodologiek Sekuentzia Didaktikoak erabiltzea eskatzen dute, eraginkortasuna maximizatzeko. Metodologia hauek ikasleen partaidetza aktiboa eta kolaborazioa bultzatzen dituzte, ikaskuntza esperientzia aberastuz. Proiektuetan oinarritutako ikaskuntzak, esate baterako, ikasleak benetako proiektuetan murgiltzen ditu, arazoak identifikatu eta irtenbideak proposatu behar baitituzte. Horrek ikasleen ikaskuntza prozesua esanguratsuagoa eta praktikoagoa bihurtzen du, pentsamendu kritikoa eta arazoak konpontzeko gaitasunak garatuz. Bestalde, ikaskuntza kooperatiboak ikasleen arteko elkarreragina sustatzen du, talde lana eta komunikazio trebetasunak indartuz. Metodologia hauek, beraz, ikasleen motibazioa eta inplikazioa areagotzen dute, eta horrek haien ikaskuntza emaitzak nabarmen hobetzen ditu, testuinguru berritzaile eta dinamiko batean.
 
@@ -152,7 +152,7 @@ Azken fase honetan ikasleek sortutako Sekuentzia Didaktikoak aurkeztuko dituzte.
 ### Kronograma
 
 | Fasea | Urratsa | Irakasleak | 9 | 10 | 12 | 13 | 14 | 15 |
-|----|----|----|----|----|----|----|----|----|
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | 1 | Erronkaren aurkezpena | Aurkezpena egingo du | x |  |  |  |  |  |
 | 2 | Ikasle bakoitzak edukiak landuko ditu taldekideekin koordinazioan | Irakasleak ikasleen lanak gainbegiratuko ditu eta feedbacka emago die ahoz | x | x | x |  |  |  |
 | 3 | Taldekideek SDaren diseinua egingo dute | Berdin. Eta behar dituzten tutoretzak |  |  |  | x | x | x |
@@ -167,7 +167,7 @@ Proiektuan zazpi entregagai egongo dira; sei banakakoak, eskola bakoitzean egin 
 -   Sekuentzia Didaktikoa
 
 | Fasea | Astea | Entregagaia                                    |  \% | Ikasgaian |
-|------:|------:|------------------------------------------------|----:|----------:|
+|-----------:|-----------:|--------------------------|-----------:|-----------:|
 |     2 |     9 | Baliabide didaktikoen azterketa                |   1 |       0.1 |
 |     2 |    10 | Hezkuntzako testu moten azterketa              |   1 |       0.1 |
 |     2 |    12 | Baliabide didaktikoen egokitzapen proposamenak |   1 |       0.1 |

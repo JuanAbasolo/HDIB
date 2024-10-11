@@ -2,7 +2,7 @@
 editor: source
 ---
 
-# Lehenengo proiektuaren ebaluaziorakoak
+# *Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma* proiektuaren ebaluaziorakoak
 
 Proiektuaren azken emaitza izango da hizkuntzaren didaktika markoaren inguruko hainbat puntu interesgarriren zerrenda heterodoxo eta sakona sortzea, ikasleek ikasitakoa aplikatuz eta hausnarketa kritikoa eginez lortutakoa. Horrek ikasleei aukera emango die hizkuntzen didaktika eta hezkuntza sistemaren inguruko ikuspegi zabala eta kritikoa garatzeko oinarriak ezartzeko, baita ere jakin beharreko hainbat ezaugarriren berri jakiteko ere.
 
