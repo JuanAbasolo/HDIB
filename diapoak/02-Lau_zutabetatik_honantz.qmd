@@ -357,7 +357,7 @@ Adierazleak:
 <small>
 
 | Hasierako maila | Erdi maila | Maila aurreratua |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | \+ Komunikazio-trukean arreta zailtasunez mantentzen du.<br> + Bere komunikazio-trukeetan inhibizioa agertzen du.<br> + Lagunduta, komunikazio-egoeraren ezaugarriak kontuan izaten ditu. | \+ Komunikazio-trukean arreta mantentzen du. <br> + Naturaltasunez, komunikazio-trukeak hasten eta mantentzen ditu. <br> + Komunikazio-egoeraren ezaugarriak kontuan izaten ditu. <br> + Solaskidearen aurrean erantzuna modu nahiko eraginkorrean egokitzen du.<br> + Hizkuntza-aldaera modu nahiko eraginkorrean egokitzen du elkarrekintzara. | \+ Komunikazio-trukean arreta mantentzen eta esku hartzen du.<br> + Naturaltasunez eta modu eraginkorrean, komunikazio-trukeak hasten eta mantentzen ditu.<br> + Komunikazio-egoeraren ezaugarrietara modu eraginkorrean egokitzen da.<br> + Erregistro egokia erabiltzen du.<br> + Solaskidearen aurrean erantzuna egokitzen du.<br> + Hizkuntza-aldaera elkarrekintzara egokitzen du. |
 
 </small>
