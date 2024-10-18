@@ -80,6 +80,8 @@ eleaniztasuna omen dugu helburu
 
 ## Diskurtsua
 
+<small>
+
 Cuando Dios se lleve a la media docena de ancianitas roncalesas que aún hablan el uskara del Valle, habrá muerto con ellas el dialecto vasco más singular y navarro: el dialecto roncales.
 
 Al paso actual es cosa de pocos años la muerte del vascuence navarro en el Salazar, la Aézcoa y otras comarcas de nuestra tierra
@@ -99,6 +101,8 @@ Una nueva generación más culta tachará nuestra época de barbarie: Se dejaron
     El vascuence renacerá cuando lo hablen los hombres de cultura. Cuando existan aulas de vascuence en la enseñanza universitaria, en la media y en la primaria. Y cuando esos estudios, siempre voluntarios y sin interferencia en los programas generales didácticos, se reflejen en un mérito oficialmente reconocido.
 
 -- *Navarra y el Vascuence*, Miguel Javier Urmeneta \[[\*](https://www.culturanavarra.es/uploads/files/PVeus1967-21noviem22diciem.pdf)\]
+
+</small>
 :::
 
 ::: footer
@@ -151,8 +155,8 @@ Zalbide (2010): Euskararen legeak hogeita bost urte. Eskola alorreko bilakaera: 
 
 Ereduen onarpena jendartean: matrikulazioaren bilakaera
 
-|   | **2000/2001** | **2002/2003** | **2004/2005** | **2006/2007** | **2008/2009** | **2010/2011** | **2013/2014** | 2022/2023 |
-|----|----|----|----|----|----|----|----|----|
+|   | **2000/2001** | **2002/2003** | **2004/2005** | **2006/2007** | **2008/2009** | **2010/2011** | **20XX/20XX+1** | 2023/2024 |
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 | **A eredua** | 119.954 (%37) | 109.945 (%34) | 103.979 (%32) | 95.902 (%28) | 92.569(%26) | 92.332 (% 25) | **???** |  |
 | **B eredua** | 67.838 (%21) | 67.205 (%21) | 69.941 (%21) | 72.479 (%21) | 75.274 (%21) | 75.301 (20%) | **???** |  |
 | **D eredua** | 132.735 (%41) | 139.849 (%44) | 154.164 (%47) | 171.154 (%50) | 187.543 (%52) | 205.774 (%55) | **???** |  |
@@ -326,7 +330,7 @@ Galdera: non bilatu ahal dugun informazioa? Besteak beste, hurrengoetan
 
 <small>
 
-Interesgarria: https://www.euskadi.eus/contenidos/documentacion/inn_doc_esc_inclusiva/es_def/adjuntos/diversidad/120004c_Doc_EJ_programa_alumnado_inmigrante_c.pdf https://www.euskadi.eus/contenidos/informacion/dia6/eu_2027/adjuntos/zubirik_zubi/materiales_educacion_primaria/HARRERA_DOKUMENTUAK/A_B\_\_\_Castellano.pdf
+Interesgarria: <https://www.euskadi.eus/contenidos/documentacion/inn_doc_esc_inclusiva/es_def/adjuntos/diversidad/120004c_Doc_EJ_programa_alumnado_inmigrante_c.pdf https://www.euskadi.eus/contenidos/informacion/dia6/eu_2027/adjuntos/zubirik_zubi/materiales_educacion_primaria/HARRERA_DOKUMENTUAK/A_B\_\_\_Castellano.pdf>
 
 </small>
 :::
@@ -399,7 +403,7 @@ Hizkuntza bakoitzaren ezaugarriak eta hizkuntzen arteko antz-aldeak. Zer erkide,
 
 elebidunaren konpetentzien irudikapena: SUP vs CUP
 
-![Common underlying proficiency and linguistic interdependence principle](../liburua/assets/3/2-cup_cummings.png)
+![Common underlying proficiency and linguistic interdependence principle](../HDIB-2023/assets/3/2-cup_cummings.png)
 
 ## int
 
@@ -417,15 +421,15 @@ atalase mailak eta ondorio kognitiboak
 
 Hizkuntzaren prozesamendua
 
-![A blueprint for the speaker. Boxes represent processing components; circle and ellipse represent knowledge stores.](../liburua/assets/3/Levelt_.png){width="496"}
+![A blueprint for the speaker. Boxes represent processing components; circle and ellipse represent knowledge stores.](../HDIB-2023/assets/3/Levelt_.png){width="496"}
 
 ## H~2~
 
 Hizkuntzen prozesamenduak
 
-![Model of the L2 speaker, adapted from Levelt's (1999, Figure 4.1) "blueprint" of the monolingual speaker and incorporating De Bot's (1992) points regarding the bilingual speaker. The dotted and dashed Lx and Ly circles refer to how information pertinent to languages (or registers) x and y are thought to be related to each other, where partially overlapping and fully overlapping circles indicate partially distinct and undifferentiated systems, respectively. \["Lx"\] refers to information that tags language-specific identity (i.e., this piece of knowledge is linked in some way to language X). The {ƒ } symbols (for ƒluency vulnerability points) refer to potentially critical points where underlying processing difficulties could be associated with L2 speech dysfluencies.](../liburua/assets/3/Levelt_Segalowitz.png){width="493"}
+![Model of the L2 speaker, adapted from Levelt's (1999, Figure 4.1) "blueprint" of the monolingual speaker and incorporating De Bot's (1992) points regarding the bilingual speaker. The dotted and dashed Lx and Ly circles refer to how information pertinent to languages (or registers) x and y are thought to be related to each other, where partially overlapping and fully overlapping circles indicate partially distinct and undifferentiated systems, respectively. \["Lx"\] refers to information that tags language-specific identity (i.e., this piece of knowledge is linked in some way to language X). The {ƒ } symbols (for ƒluency vulnerability points) refer to potentially critical points where underlying processing difficulties could be associated with L2 speech dysfluencies.](../HDIB-2023/assets/3/Levelt_Segalowitz.png){width="493"}
 
-## Beste
+## Beste   
 
 -   elebitasun gehigarria eta elebitasun kengarria
 -   komunikazio arrunta vs komunikazio akademikoa
