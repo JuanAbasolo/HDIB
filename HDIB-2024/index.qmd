@@ -18,7 +18,7 @@ Grebak, interesak, premiak eta abar tarteko, ikusteko dago ea zenbatean segitzen
     -   Gaitasunak eta hezkuntza sistema – Hizkuntza-komunikaziorako gaitasuna `(3)`
     -   Euskal hezkuntza sistemako eleaniztasuna: Diglosiatik elebitasunera eta handik eleaniztasunera `(4)`
     -   Hizkuntzen Trataera bateratua (HTB) `(6)`\
-        [Aste honetan lehenengo mintegia]{style="color: darkred"}
+        [Aste honetan lehenengo mintegia]{style="color: darkred"} [\*\*](../diapoak/M01-24-mintegia.html)
     -   Hizkuntzak eta Edukiak Batera Ikastea (HEBI) *CLIL* `(7)`
 3.  Gelako praktikaren antolakuntza eta hizkuntza
     -   Hizkuntzen irakaskuntzarako metodologien bilakaera `(12 a)`

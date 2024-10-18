@@ -1,14 +1,22 @@
 ---
-title: "Mintegian:<small>AI, gu, gaur GrAL etab.</small>"
+title: "1. mintegian:<small>Bideo sorten aurkezpena eta txostenaren idaztetAA.</small>"
 author: "Juan Abasolo"
 format: 
     revealjs: 
         theme: [dark, css/nire_argia.scss]
         footer: "Lehenengo mintegia"
-        logo: '../liburua/assets/00/azala.png'
+        logo: '../HDIB-2024/assets/00/HDIB_biribil_zuri.png'
         slide-number: true
 editor: visual
 ---
+
+# Bideo sortak
+
+## 
+
+Talde bakoitzak bere bideo guztiak elkarrekin izan behar ditu.
+
+Bideoak izendatuko dira taldearen zenbaki
 
 # Irakasleak
 

@@ -1,0 +1,207 @@
+---
+title: "1. mintegian:<small>Bideo sorten aurkezpena eta txostenaren idaztetAA.</small>"
+author: "Juan Abasolo"
+format: 
+    revealjs: 
+        theme: [css/nire_argia.scss]
+        css: [css/logo.css]
+        footer: "Lehenengo mintegia"
+        logo: '../HDIB-2024/assets/00/HDIB_biribil_zuri.png'
+        slide-number: true
+        embed-resources: true
+editor: visual
+---
+
+# Bideo sortak
+
+## egitekoak
+
+-   Talde bakoitzak bere bideo guztiak elkarrekin izan behar ditu.
+
+-   Bideoak izendatuko dira taldearen zenbakiarekin (erromatarrez), giodoia eta zenbakia hurrenkeraren arabera.
+
+    -   Lehenengo taldeko lehenengo bideoa: `i-1`
+
+    -   Eta laugarreneko seigarrena: `iv-6`
+
+-   Ebaluatzaileak bere burua identifikatuko du irakasleak esandako kodearen arabera.
+
+## 
+
+::: callout-note
+## urriaren 21ekoak
+
+i.  Ekotaldea
+ii. Txakleta
+iii. Eman bost
+iv. Kondoring
+v.  Energizers
+:::
+
+::: callout-note
+## urriaren 25ekoak
+
+i.  Patxada
+ii. ⁠3+2
+iii. ⁠TXORIAK
+iv. ⁠Marigorringoak
+v.  ⁠Arimak
+:::
+
+## Hasi aurretik,
+
+honetara sartu ebaluatzeko:
+
+![](images/qr-code.png){fig-align="center"}
+
+<https://erabili.liberaforms.org/hdib-bideoen-ebaluazioa>
+
+## Orain bai: [**Bideoak** 📹!]{.fragment} {.center background-color="#444654"}
+
+# Txostena
+
+## 
+
+**Edukiaren Sakontasuna eta Analisia**
+
+Edukiak oso sakonak dira eta informazio zehatza eskaintzen dute. Analisi kritikoa oso ona eta sakona da, ideiak argi eta garbi azaltzen dira.
+
+**Argudioen Koherentzia eta Estruktura**
+
+Argudioak oso koherenteak dira eta txostenaren egitura oso ona da. Ideiak modu argi eta ordenatuan aurkezten dira, irakurlea gidatuta.
+
+**Idazkera**
+
+Idazkera oso ona da, akats ortografiko eta gramatikalik gabekoa. Adierazpena oso argia eta ulergarria da, irakurleari ideiak ondo helarazten dizkio.
+
+## Prestatzera!! {.center background-color="darkred"}
+
+## taldeka -1 <br> [erabili chatGPT]{.fragment} <br> [dokumentatu egindako guztia]{.fragment} {.center background-color="black"}
+
+# Kontuan izatekoak
+
+## ChatGPT : Berbalapiko galanta
+
+::: incremental
+1.  2021tik atzera, ok... jakintza ezarrietan
+2.  Denaren gainean du zer esana, denari buruz jakin ez arren
+3.  Ez da inor
+4.  Benetan, [ez da inor]{.fragment}
+5.  Euskara ulertzen du, baina egiten ez da hain abila... ezta hain traketsa ere.
+:::
+
+------------------------------------------------------------------------
+
+![Is it safe to use ChatGPT for your task? Aleksandr Tiulkanov](https://ladigitale.dev/digislides/fichiers/662436d265c26/d1b2fafc5adb94f3b0a0d83622968d5f1713649400.png)
+
+[+](https://unesdoc.unesco.org/ark:/48223/pf0000385146_spa)
+
+------------------------------------------------------------------------
+
+![](irudiak/mintegia_01/When_use_ChatGPT.jpeg){fig-align="center"}
+
+[+](https://unesdoc.unesco.org/ark:/48223/pf0000385146_spa)
+
+## Artikuluren bat...
+
+<small>
+
+🤪 Alkaissi, H., McFarlane, S. I., Alkaissi, H., & McFarlane, S. I. (2023). Artificial Hallucinations in ChatGPT: Implications in Scientific Writing. *Cureus*, *15*(2). <https://doi.org/10.7759/cureus.35179>
+
+Carabantes, D., González-Geraldo, J. L., & Jover, G. (2023). ChatGPT could be the reviewer of your next scientific paper. Evidence on the limits of AI-assisted academic reviews. *Profesional de la información*, *32*(5), Article 5. https://doi.org/10.3145/epi.2023.sep.16
+
+Nordling, L. (2023). How ChatGPT is transforming the postdoc experience. *Nature*, *622*(7983), 655--657. <https://doi.org/10.1038/d41586-023-03235-8>
+
+</small>
+
+## Eta zer gehiago?
+
+::: incremental
+1.  Gehigarriak arakatu
+    -   YouTube summary [\*](https://addons.mozilla.org/eu/firefox/addon/glarity-youtube-summary/)
+    -   ChatGPT for Google ...
+2.  Jenni, gure laguna da [\*](https://www.chatpdf.com/)
+3.  Beste hamaika... ganoraz aztertzekoak 🙃
+:::
+
+# Bestelako teknologiak
+
+## Bilaketez 🔍
+
+. . .
+
+`> berba_gakoa site:interesekoa.eus`
+
+. . .
+
+... edo
+
+`> filetype:pdf`
+
+. . .
+
+`> "berba gakoak"`
+
+. . .
+
+`> -kentzeko_berba -site:kentzeko.eremua.da`
+
+. . .
+
+Do you know GoogleScholar [button]{.fragment}?
+
+## APA 7th...
+
+[[**Z**](https://zbib.org/)]{style="color: #800"}
+
+## Kromo gaitzak
+
+##  {background-color="#ffffff"}
+
+[![](https://www.enriquedans.com/wp-content/uploads/2021/01/Sci-Hub-768x488.jpg){fig-alt="artikuluak-eta..."}](https://doi.org/10.1126/science.352.6285.508)
+
+##  {background-color="#000"}
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/85/Library_Genesis_Logo.png){fig-align="center"}
+
+##  {background-color="darkred"}
+
+::: callout-warning
+## [Eta gurea zer?]{style="color: #300"}
+
+Zerrendatu eta deskribatu labur GrALera begirako zure premiak
+:::
+
+## Bibliografia
+
+<small>
+
+Bohannon, J. (2016). Who's downloading pirated papers? Everyone. *Science*, *352*(6285), 508--512. <https://doi.org/10.1126/science.352.6285.508>
+
+McKenzie, L. (2017). Sci-Hub's cache of pirated papers is so big, subscription journals are doomed, data analyst suggests. *Science*. <https://doi.org/10.1126/science.aan7164>
+
+Nordling, L. (2023). How ChatGPT is transforming the postdoc experience. *Nature*, *622*(7983), 655--657. <https://doi.org/10.1038/d41586-023-03235-8>
+
+Sabzalieva, E., & Valentini, A. (2023). ChatGPT e inteligencia artificial en la educación superior: Guía de inicio rápido. UNESCO. <https://unesdoc.unesco.org/ark:/48223/pf0000385146_spa>
+
+Torres-Salinas, D., & Arroyo-Machado, W. (2023). Manual de ChatGPT: Aplicaciones en investigacióny educación universitaria (v1.1.). <https://doi.org/10.5281/ZENODO.10025784>
+
+</small>
+
+**eta estekaren bat**
+
+<small>
+
+-   UNESCOko Latinoamerika eta Karibean Adimen Artifizialaren gaineko mintegiko gehiago [hemen](https://www.iesalc.unesco.org/2023/04/14/chatgpt-e-inteligencia-artificial-en-la-educacion-superior-guia-de-inicio-rapido/ "ChatGPT, inteligencia artificial y educación superior: ¿Qué deben saber las instituciones de educación superior?")
+
+Aipamenei formatua emateko:
+
+-   https://zbib.org/
+
+-   https://www.bibme.org/
+
+Bibliografia multzo handiagoak kodeatzeko
+
+-   https://www.zotero.org/
+
+</small>
