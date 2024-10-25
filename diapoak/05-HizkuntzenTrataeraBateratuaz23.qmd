@@ -5,7 +5,7 @@ format:
     revealjs: 
         theme: [dark, css/nire.scss]
         footer: "Hizkuntzen Trataera Bateratua"
-        logo: '../liburua/assets/00/azala.png'
+        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
         slide-number: true
 editor: visual
 ---
@@ -134,8 +134,9 @@ Zein dira (eta zelan dira) hizkuntzen arteko elementu eta gaitasun transferigarr
 
 ## Zerrenda bat
 
-::: {.incremental}
+<small>
 
+::: incremental
 1.  Testuak ulertzeko prozedurak
 2.  Hizkuntzak ikasteko estrategiak
 3.  Narrazioaren ezaugarriak
@@ -146,14 +147,19 @@ Zein dira (eta zelan dira) hizkuntzen arteko elementu eta gaitasun transferigarr
 8.  Testu generoen ezaugarriak
 9.  Meta hizkuntza
 10. ...
-
 :::
 
+. . .
+
 Berez, eremu bakarra osatzen dute horiek, beraz, transferigarritzat har daitezke
+
+</small>
 
 # Adibideren bat (Pascual-Granell, V. 2006)
 
 ## Hizkuntz arteko konpetentzia erkideak {.scrollable}
+
+<small>
 
 1.  **Kontzeptu-jakintza**. Hitzek esan nahi dutena: "demokrazia", "ekonomia", legebiltzarra/parlamento, ... kontzeptua behin ikasirik aski da.\
     **Kontuz kontzeptuak desberdin banatzen direnean** hizkuntza bakoitzean:
@@ -174,6 +180,8 @@ Berez, eremu bakarra osatzen dute horiek, beraz, transferigarritzat har daitezke
 Ezaugarri erkidea dute trebetasun eta jakite guzti horiek, erkideak dira-eta. Ez dira hizkuntza bakoitzean independenteki garatu behar, garapen bakar eta bateratua dute-eta.
 
 Hor dugu hizkuntza-hezkuntza bateratuaren oinarri koherenterako oinarria, hizkuntza bakoitzean garatu beharreko gaitasun eta ezagutzei ez-ikusi egin gabe.
+
+</small>
 
 # Planteamendua
 
@@ -211,11 +219,15 @@ Ikuspegi komunikatiboan. Ikasleak benetako komunikaziorako prestatuta
 
 ## Aldaketa metodologikoa
 
+::: {.scrollable}
+
 -   Ikasmaterialak eta ikasgelan erabilitako hizkuntz errealak izan behar dute (ez moldatuak)
 -   Ikasleak komunikazio egoera errealetan ipini, benetako erronkei aurre egiteko
 -   Komunikazio-egoera ugaritako testu-genero franko landu behar, ahoz zein idatziz.
 -   Trebetasun guztiak elkarri lotuta erabili behar dira, informazio berria lortzeko, ikasitakoa adierazi eta prozesua jarraituta jakintza berri eta esanguratsuak garatzeko.
 -   Egoera erreal horri irtenbidea emateko jardueren sekuentziazioa egin behar da
+
+:::
 
 ## Ezartzeko bidean
 
@@ -224,6 +236,8 @@ Zehaztu beharrekoak dira kontu batzuk: zenbat diren irakasten diren hizkuntzak, 
 Oinarri-oinarrian: koordinazioa
 
 ## Hurrengoak ahalbidetu nahi ditu HTBk
+
+::: {.scrollable}
 
 -   Hizkuntzen alderdi komunak lantzea edozein hizkuntzatatik:
     -   Hausnarketa linguistikoa egiteko prozedurak
@@ -238,17 +252,19 @@ Oinarri-oinarrian: koordinazioa
 
 Berori tradizioan hainbat bidetatik garatzen izan den arren, egun araudi markoak horretara bultzatzen duela ere esan dezakegu, baliozkotutako jardunbidetzat hartzen baita.
 
+:::
+
 ##  {.scrollable}
 
 <small>
 
-| Proiektua                                  | Eremua                                                                          | Testu mota | Azken ekoizpena H1                          | Azken ekoizpena H2                      | Azken ekoizpena H3                                      |
+| Proiektua | Eremua | Testu mota | Azken ekoizpena H1 | Azken ekoizpena H2 | Azken ekoizpena H3 |
 |------------|------------|------------|------------|------------|------------|
-| Gure arbasoen ekarpenak                    | Pertsonen arteko harremanak                                                     | Azalpena   | katalogoa                                   | Informazioa jasotzeko fitxa             | Azalpen laburra: txosten txiki bat                      |
-| Inauteriak                                 | Literatura Pertsonen arteko harremanak                                          | Narrazioa  | Bakarrizketa/ bertsoak                      | Ipuina kontatu ahoz                     | Kondairak                                               |
-| Bazterkerien aurka: kontuz aurreiritziekin | Pertsonen arteko harremanak Komunikabideak                                      | Argudioa   | Eztabaida                                   | Pobreziaren aurkako kanpaina            | Etorkinen egoera salatu manifestu baten bidez/role play |
-| Zain dezagun gure aberastasuna             | Hizkuntza Literaturan Ikasketako hizkuntza Hizkuntza gizarteko komunikabideetan | Argudioa   | Liburu bat gomendatu                        | Alegia baten moraleja eztabaidatu       | Olerkiak eta abestiak (testu bildumarako)               |
-| Ikertzaileak gara                          | Hizkuntza gizarteko komunikabideetan Ikasketako hizkuntza                       | Azalpena   | Makina sinple bat egiteko instrukzio testua | Ofizioei buruzko galdetegiaren informea | Lanbideei buruzko "Tribial" jolasa                      |
+| Gure arbasoen ekarpenak | Pertsonen arteko harremanak | Azalpena | katalogoa | Informazioa jasotzeko fitxa | Azalpen laburra: txosten txiki bat |
+| Inauteriak | Literatura Pertsonen arteko harremanak | Narrazioa | Bakarrizketa/ bertsoak | Ipuina kontatu ahoz | Kondairak |
+| Bazterkerien aurka: kontuz aurreiritziekin | Pertsonen arteko harremanak Komunikabideak | Argudioa | Eztabaida | Pobreziaren aurkako kanpaina | Etorkinen egoera salatu manifestu baten bidez/role play |
+| Zain dezagun gure aberastasuna | Hizkuntza Literaturan Ikasketako hizkuntza Hizkuntza gizarteko komunikabideetan | Argudioa | Liburu bat gomendatu | Alegia baten moraleja eztabaidatu | Olerkiak eta abestiak (testu bildumarako) |
+| Ikertzaileak gara | Hizkuntza gizarteko komunikabideetan Ikasketako hizkuntza | Azalpena | Makina sinple bat egiteko instrukzio testua | Ofizioei buruzko galdetegiaren informea | Lanbideei buruzko "Tribial" jolasa |
 
 </small>
 
@@ -282,29 +298,29 @@ Gaur egun komunikabideek duten garrantzia ikusita, ikasleek informazioa eta irit
 
 <small>
 
-| H1: Irrati-kronika                                                                                                                                                                                                                                                                                                                                                         | H2:Reportaje                                                                                                                                                                                                                                                                                                                                                                                                                           | H3: A digital story                                                                                                                                                                                                                                                                                                                            |
+| H1: Irrati-kronika | H2:Reportaje | H3: A digital story |
 |------------------------|------------------------|------------------------|
-| Kronikak kultura eta kiroletako gaurkotasuna hartuko lituzke gaitzat. Eginkizuna hiruko taldeetan antola daiteke.                                                                                                                                                                                                                                                          | Los alumnos trabajarán un tema elegido por ellos mismos, recogido de la actualidad, de sus propios campos de interés o de los libros de lectura propuestos durante el curso.                                                                                                                                                                                                                                                           | By using electronic primary sources students will create a few minutes movie that will include a variety of media --- audio, photographs, and text--- on either a historical or an actual fact.                                                                                                                                                |
-| Komunikazio Egoera                                                                                                                                                                                                                                                                                                                                                         | Situación de comunicación                                                                                                                                                                                                                                                                                                                                                                                                              | Situation of communication                                                                                                                                                                                                                                                                                                                     |
+| Kronikak kultura eta kiroletako gaurkotasuna hartuko lituzke gaitzat. Eginkizuna hiruko taldeetan antola daiteke. | Los alumnos trabajarán un tema elegido por ellos mismos, recogido de la actualidad, de sus propios campos de interés o de los libros de lectura propuestos durante el curso. | By using electronic primary sources students will create a few minutes movie that will include a variety of media --- audio, photographs, and text--- on either a historical or an actual fact. |
+| Komunikazio Egoera | Situación de comunicación | Situation of communication |
 | *Gaia*:Interpretatutako gaurkotasuna <br>*Igorlea*: Hirunaka bildutako ikasleak. <br/>*Hartzailea*: Ikastetxeko beste ikasleak <br/>*Kanala*: Ahozkoa <br/>*Asmoa eta helburua*:Kiroletako edo kulturako gaurkotasuna jakinaraztea, era pertsonalean, eta uhinen bitartez. <br/>*Argitalpen lekua*: Ikastetxeko irratia <br/>*Eremua*:Hizkuntza gizarteko komunikabideetan | *Tema*: La actualidad comentada. <br/>*Emisor*: Los alumnos/as en grupos de 3. <br/>*Receptor*: El resto del alumnado del centro. <br/>*Canal*: Escrito.<br/> *Intención y finalidad*: Transmitir de manera personal, con abundancia de datos y de modo ameno la actualidad. <br/>*Lugar de publicación*: En la biblioteca del centro, en formato de suplemento. <br/>*Ámbito de uso*: La lengua en los medios de comunicación social. | *Topic*: A historical or an actual fact<br/>*Sender* : Students, in groups of three <br/>*Recipient*: Peers<br/>*Channel*: Oral and audio visual<br/>*Aim*: To narrate a fact of interest using narrative techniques and audio visual resources.<br/>*Place of production*: The classroom and the Web <br/>*Field*: Language in the mass media |
 
 </small>
 
 ## Ikaskuntzen sailkapena
 
-| Hizkuntzetik askekoak                                                                              | Hizkuntzen menpekoak                                       |
+| Hizkuntzetik askekoak | Hizkuntzen menpekoak |
 |-------------------------------------|-----------------------------------|
 | Narrazio testua (eus, eng)<br />Komunikabideak (spa)<br/>Oinarrizko galderak, *6W* (spa, eus, eng) | Aditz formak (spa, eus, eng)<br/>Lokailuak (spa, eus, eng) |
 
 ## 
 
 Komunikazio proiektu batzuk, Berritzeguneen eskutik gehienak\
-https://sites.google.com/site/komunikazioproiektuaklh/\
-https://sites.google.com/site/htbmintegia/\
-http://htbtil0809.wordpress.com/\
-http://nagusia.berritzeguneak.net/hizkuntzak/
+<https://sites.google.com/site/komunikazioproiektuaklh/>\
+<https://sites.google.com/site/htbmintegia/>\
+<http://htbtil0809.wordpress.com/>\
+<http://nagusia.berritzeguneak.net/hizkuntzak/>
 
-## {background-color="darkred"}
+##  {background-color="darkred"}
 
 ::: callout-warning
 ### Gaiari kolpetzeko aitzakia bila
