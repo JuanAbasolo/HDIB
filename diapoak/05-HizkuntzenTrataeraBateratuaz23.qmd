@@ -219,14 +219,12 @@ Ikuspegi komunikatiboan. Ikasleak benetako komunikaziorako prestatuta
 
 ## Aldaketa metodologikoa
 
-::: {.scrollable}
-
+::: scrollable
 -   Ikasmaterialak eta ikasgelan erabilitako hizkuntz errealak izan behar dute (ez moldatuak)
 -   Ikasleak komunikazio egoera errealetan ipini, benetako erronkei aurre egiteko
 -   Komunikazio-egoera ugaritako testu-genero franko landu behar, ahoz zein idatziz.
 -   Trebetasun guztiak elkarri lotuta erabili behar dira, informazio berria lortzeko, ikasitakoa adierazi eta prozesua jarraituta jakintza berri eta esanguratsuak garatzeko.
 -   Egoera erreal horri irtenbidea emateko jardueren sekuentziazioa egin behar da
-
 :::
 
 ## Ezartzeko bidean
@@ -237,8 +235,7 @@ Oinarri-oinarrian: koordinazioa
 
 ## Hurrengoak ahalbidetu nahi ditu HTBk
 
-::: {.scrollable}
-
+::: scrollable
 -   Hizkuntzen alderdi komunak lantzea edozein hizkuntzatatik:
     -   Hausnarketa linguistikoa egiteko prozedurak
     -   Hizkuntzei buruzko kontzeptu orokorrak
@@ -251,7 +248,6 @@ Oinarri-oinarrian: koordinazioa
 -   Hizkuntzez mintzatzeko metahizkuntza bateratua erabiltzea
 
 Berori tradizioan hainbat bidetatik garatzen izan den arren, egun araudi markoak horretara bultzatzen duela ere esan dezakegu, baliozkotutako jardunbidetzat hartzen baita.
-
 :::
 
 ##  {.scrollable}
@@ -328,5 +324,5 @@ Komunikazio proiektu batzuk, Berritzeguneen eskutik gehienak\
 -   20 minutuko berbaldi bati zelan ekin gaiaz?
 -   Nork? Nori? Zergatik? Zertarako?
 
-**Zerrendatu bost egoera eta justifikatu zentzua**
+**Zerrendatu taldekideko egoera bana, bat aukeratu eta justifikatu**
 :::
