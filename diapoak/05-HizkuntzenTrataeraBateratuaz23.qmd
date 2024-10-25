@@ -4,6 +4,7 @@ author: "Juan Abasolo"
 format: 
     revealjs: 
         theme: [dark, css/nire.scss]
+        css: [css/logo.css]
         footer: "Hizkuntzen Trataera Bateratua"
         logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
         slide-number: true
@@ -217,15 +218,17 @@ Ikuspegi komunikatiboan. Ikasleak benetako komunikaziorako prestatuta
 3.  Komunikazio-proiektuen bidez bideratuta
 4.  Ikaskuntza aktiboa oinarri
 
-## Aldaketa metodologikoa
+## Aldaketa metodologikoa {.scrollable}
 
-::: scrollable
+<div>
+
 -   Ikasmaterialak eta ikasgelan erabilitako hizkuntz errealak izan behar dute (ez moldatuak)
 -   Ikasleak komunikazio egoera errealetan ipini, benetako erronkei aurre egiteko
 -   Komunikazio-egoera ugaritako testu-genero franko landu behar, ahoz zein idatziz.
 -   Trebetasun guztiak elkarri lotuta erabili behar dira, informazio berria lortzeko, ikasitakoa adierazi eta prozesua jarraituta jakintza berri eta esanguratsuak garatzeko.
 -   Egoera erreal horri irtenbidea emateko jardueren sekuentziazioa egin behar da
-:::
+
+</div>
 
 ## Ezartzeko bidean
 
@@ -233,9 +236,10 @@ Zehaztu beharrekoak dira kontu batzuk: zenbat diren irakasten diren hizkuntzak, 
 
 Oinarri-oinarrian: koordinazioa
 
-## Hurrengoak ahalbidetu nahi ditu HTBk
+## Hurrengoak ahalbidetu nahi ditu HTBk {.scrollable}
 
-::: scrollable
+<div>
+
 -   Hizkuntzen alderdi komunak lantzea edozein hizkuntzatatik:
     -   Hausnarketa linguistikoa egiteko prozedurak
     -   Hizkuntzei buruzko kontzeptu orokorrak
@@ -248,7 +252,8 @@ Oinarri-oinarrian: koordinazioa
 -   Hizkuntzez mintzatzeko metahizkuntza bateratua erabiltzea
 
 Berori tradizioan hainbat bidetatik garatzen izan den arren, egun araudi markoak horretara bultzatzen duela ere esan dezakegu, baliozkotutako jardunbidetzat hartzen baita.
-:::
+
+</div>
 
 ##  {.scrollable}
 
@@ -315,6 +320,14 @@ Komunikazio proiektu batzuk, Berritzeguneen eskutik gehienak\
 <https://sites.google.com/site/htbmintegia/>\
 <http://htbtil0809.wordpress.com/>\
 <http://nagusia.berritzeguneak.net/hizkuntzak/>
+
+. . .
+
+::: callout-caution
+## Aztertu beharrekoak
+
+Hurrengo ariketari kolpetzeko
+:::
 
 ##  {background-color="darkred"}
 
