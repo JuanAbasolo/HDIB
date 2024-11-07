@@ -4,6 +4,7 @@ author: "Juan Abasolo"
 format: 
     revealjs: 
         theme: [dark, css/nire.scss]
+        css: [css/logo.css]
         footer: "Hizkuntza eta Edukiak Batera Ikastea"
         logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
         self_contained: true
