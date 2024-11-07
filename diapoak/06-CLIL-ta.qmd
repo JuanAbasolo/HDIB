@@ -5,27 +5,28 @@ format:
     revealjs: 
         theme: [dark, css/nire.scss]
         footer: "Hizkuntza eta Edukiak Batera Ikastea"
-        logo: '../liburua/assets/00/azala.png'
+        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
+        self_contained: true
         slide-number: true
 editor: visual
 ---
 
 # Sarrera
 
-## CLIL/HEBI: Hizkuntza eta Edukiak Batera Ikastea" {.scrollable}
+## CLIL/HEBI: Hizkuntza eta Edukiak Batera Ikastea {.scrollable}
 
 ::: incremental
 -   Zer den: CLIL/HEBI da ikasleek hizkuntza bat ikasten duten bitartean eduki zehatz batzuk ikasten duten metodoa
 -   Garrantzia: Hizkuntza eta edukiak batera ikasteko aukera ematen du, kultura-aniztasuna sustatuz
 -   Zergatik: Hizkuntza gaitasunak hobetzeko, edukiak hizkuntza batean ikasteko eta kultura-aniztasuna sustatzeko
 -   Abantailak:
-    1.  "Hizkuntza gaitasunak hobetzen dira."
-    2.  "Pentsamendu-kritikoa garatzen da."
-    3.  "Kultura-aniztasuna sustatzen da."
+    1.  Hizkuntza gaitasunak hobetzen dira
+    2.  Pentsamendu-kritikoa garatzen da
+    3.  Kultura-aniztasuna sustatzen da
 -   Desabantailak:
-    1.  "Hizkuntza zailtasunak."
-    2.  "Irakasleen prestakuntza berezia behar da."
-    3.  "Baliabideen falta."
+    1.  Hizkuntza zailtasunak
+    2.  Irakasleen prestakuntza berezia behar da
+    3.  Baliabideen falta
 :::
 
 # Historia-edo
@@ -42,7 +43,7 @@ editor: visual
 
 -   Hala ere, metodologiaren ideia berria ez zen; hainbat herrialdean antzeko praktikak garatu ziren mendeetan zehar.
 
-## **Erreferentzia historikoak**
+## **Erreferentzia historikoak**{.smaller}
 
 -   **David Marsh:** CLIL metodologiaren aitzindari nagusietako bat da. Bere lanak hizkuntza ikaskuntza eta edukiaren integrazioaren garrantzia azpimarratu du.
 
@@ -52,7 +53,9 @@ editor: visual
 
 -   **Phil Ball** eta **Keith Kelly:** Biak CLILen aldekoak dira eta hainbat liburu eta artikulu idatzi dituzte gai honi buruz, irakasleentzat baliabide gisa.
 
-## **CLIL/HEBI-ren Helburuak: Hizkuntza eta Edukiak Batera Ikastea**
+##  CLIL/HEBI-ren Helburuak: <br><small>Hizkuntza eta Edukiak Batera Ikastea</small>
+
+
 
 ------------------------------------------------------------------------
 
@@ -132,11 +135,11 @@ editor: visual
 
 Umeak eta gazteak hizkuntzak erraz ikasten dituzte, batez ere etxean erabiltzen direnean. Hizkuntza-ikasketan arrakasta izaten da jendeak irakaskuntza jasotzen duenean egiazko bizitzako egoerak baliatuta hizkuntza ikasteko. CLILek eskaintzen duen ikaste-ingurua naturala da, ikasleen motibazioa handitzeko eta hizkuntzak ikastearen aurrean jarrera positiboak indartzeko.
 
-## Coyle (2010) {.scrollable}
+## Coyle (2010) {.scrollable .smaller}
 
 CLIL ez da hizkuntza eta edukiak batera jartzea soilik. Bi alderdiak zaindu behar dira, eta bi alderdietan helburuak ezarri behar dira. CLIL beste hurbiltze modu bat da, eta ez da modu bakar bat. Testuinguruak desberdinak dira eta CLIL malgua da, testuinguru desberdinetan egokitu daiteke.
 
-. . .
+::: {.incremental}
 
 -   Garrantzia handia ematen zaio irakaslearen jarrera ohartuari. Irakasleak berak egin eta probatu behar du hurbiltze modu hau.
 -   CLIL ez da hizkuntza eta edukiak batera jartzea, besterik gabe: bi alderdiak zaindu behar dira. Bietan helburuak ezarri behar dira. Bien aitzinamendua programatu behar da.
@@ -146,7 +149,9 @@ CLIL ez da hizkuntza eta edukiak batera jartzea soilik. Bi alderdiak zaindu beha
 -   CLIL beste hurbiltze modu bat da, gauzak egiteko beste ikuspegi bat.
 -   CLIL ezartzeko, ez da modu bakar bat. Testuinguruak desberdinak dira eta bakoitzaren ezaugarriak analizatu behar dira. CLIL malgua da, testuinguru desberdinetan egokitu daiteke. (Coyle, 2010)
 
-## *4C* markoa Content, Communication, Cognition, Culture {.scrollable}
+:::
+
+## *[4C]{.gorria}* markoa <br> [C]{.gorria}ontent, [C]{.gorria}ommunication, [C]{.gorria}ognition, [C]{.gorria}ulture {.scrollable .smaller}
 
 Edukia, Komunikazioa, Kognizioa, Kultura. Edukiak lehenbiziko garrantzia du, baina hizkuntza-gaitasunean hobera egin behar da. HEBIn batera bildu behar dira edukiak eta hizkuntza kognizio mailan eta kultura mailan.
 
@@ -267,8 +272,7 @@ Zein ikasgai zergatik? Zein mailatan?
 
 ## Gisella (jarraipena) {.scrollable}
 
-::: {.panel-tabset} 
-
+::: panel-tabset
 ## Ikasleak
 
 -   HEBIk ez du izan nahi hezkuntza elitista; edozein ikaslek har dezake onura HEBItik
@@ -288,8 +292,6 @@ Ikasleentzako onurak:
 
 Biziki gomendaturiko ezaugarriak HEBIko irakasle izateko[^2]
 
-[^2]: ea zer iduritzen zaizkigun
-
 -   Ongi erabiltzea hizkuntza gehigarria, beste hizkuntza.
 -   Ikasleen lehen hizkuntza jakitea ere onuragarria da (irakasleek igar lezake non izan daitezkeen ikasteko eragozpenak).
 -   HEBIko irakasleak aditua izan beharko luke edukiaren jakintza-alorrean eta gainera jakintza beharko luke *beste* hizkuntza bat ikastean parte diren osagai kognitibo, soziokultural eta psikologikoez.
@@ -300,8 +302,9 @@ Onurak irakasleentzat:
 
 -   Elkarrekin lan eginez, eduki-irakasleek eta hizkuntza-irakasleek konpartitu dezakete beren norbanako-jakintza eta eraiki dezakete elkar-jakintza.
 -   Garapen profesionala izateko aukerarik?
-
 :::
+
+[^2]: ea zer iduritzen zaizkigun
 
 ## Euskal Herrian
 
@@ -344,84 +347,64 @@ Andaluziako Gobernua:
 
 ## Glosategia {.scrollable}
 
-Hizkuntza gehigarria (Additional Language)\\
-
+Hizkuntza gehigarria (Additional Language)
 :   Gero eta gehiago erabiltzen da beste hitz batzuen ordez (atzerriko hizkuntza, bigarren hizkuntza, gutxiengo-hizkuntza), lehen hizkuntza ez den beste edozein hizkuntzari erreferentzia egiteko.
 
-Ingurune elebiduna (Bilingual Environment)\\
-
+Ingurune elebiduna (Bilingual Environment)
 :   Bi hizkuntza erabiltzen diren ingurunea
 
-Esposizioa (Exposure)\\
-
+Esposizioa (Exposure)
 :   Ikasle batek urte akademiko batean jasotzen duen HEBI-CLIL esperientziaren proportzioa
 
-Apala/Txikia (Low)\\
-
+Apala/Txikia (Low)
 :   eskola-denboraren %5-15 (teaching time)
 
-Tartekoa (Medium)\\
-
+Tartekoa (Medium)
 :   eskola-denboraren %15-50
 
-Handia (High)\\
-
+Handia (High)
 :   eskola-denboraren % 50 baino gehiago (Euskal Herriko D eredu batzuk)
 
-Atzerriko hizkuntza (Foreign Language)\\
-
+Atzerriko hizkuntza (Foreign Language)
 :   Normalean ingurune sozialean erabili ohi ez den hizkuntza bat.
 
-Murgiltze metodoa (Immersion Method)\\
-
+Murgiltze metodoa (Immersion Method)
 :   HEBI-CLIL modu bat, bigarren hizkuntza batean esposizio handia izan ohi duena (ikasleen lehen hizkuntza gaztelania duen D eredu asko)
 
-Jakintza eta ulerkuntza kulturartekoa/Kulturartekotasuna (Intercultural Knowledge & Understanding)\\
-
+Jakintza eta ulerkuntza kulturartekoa/Kulturartekotasuna (Intercultural Knowledge & Understanding)
 :   Nork bere kultura ulertzea beste kultura batzuekin harremanetan
 
-Hizkuntza-oharmena (Language Awareness)\\
-
+Hizkuntza-oharmena (Language Awareness)
 :   Hizkuntzen arteko antz-aldeez ohartzeko erraztasuna, sentsibilitatea
 
-Gehiengo-hizkuntza (Majority Language)\\
-
+Gehiengo-hizkuntza (Majority Language)
 :   Inguruneko jendartean erabiltzen den hizkuntza handiena, indartsuena.
 
-Gutxiengo-hizkuntza (Minority Language)\\
-
+Gutxiengo-hizkuntza (Minority Language)
 :   Inguruneko jendartean gutxiengoak erabiltzen duen hizkuntza
 
-Ingurune elebakarra (Monolingual Environment)\\
-
+Ingurune elebakarra (Monolingual Environment)
 :   Ingurune bat non hizkuntza bat bakarra erabili ohi den nagusiki
 
-Ama-hizkuntza (Mother Tongue)\\
-
+Ama-hizkuntza (Mother Tongue)
 :   Gehienean, ume batek ikasten eta erabiltzen duen lehen hizkuntzari esaten zaio hala, baina batzuetan umea elebidun osoa da eta beharbada bi hizkuntza (edo gehiago) izan ditzake lehen hizkuntzatzat
 
-Ingurune eleaniztuna/Eleaniztun ingurunea/Eleanitzeko ingurunea (Multilingual Environment)\\
-
+Ingurune eleaniztuna/Eleaniztun ingurunea/Eleanitzeko ingurunea (Multilingual Environment)
 :   Ingurune bat non hiru hizkuntza edo gehiago egiazki erabiltzen diren
 
-Jatorrizko hiztuna/hiztun natiboa (Native Speaker)\\
-
+Jatorrizko hiztuna/hiztun natiboa (Native Speaker)
 :   Helburu-hizkuntza (CLILen landu-gai den hizkuntza) bere lehen hizkuntzatzat duen pertsona
 
-Jarrera eleaniztunak (Plurilingual Attitudes)\\
-
+Jarrera eleaniztunak (Plurilingual Attitudes)
 :   Jarrera hori dutenek balioa ematen diote hiru hizkuntza edo gehiago maila batean edo bestean erabiltzeko gaitasunari
 
-Bigarren hizkuntza (Second Language)\\
-
+Bigarren hizkuntza (Second Language)
 :   Termino hori erabiltzen da deskribatzeko hizkuntza bat ingurunean ugari erabiltzen dena eta atzerriko hizkuntzatzat hartzen ez dena
 
-Xede-hizkuntza (Target Language)\\
-
+Xede-hizkuntza (Target Language)
 :   HEBI-CLILerako erabiltzen den hizkuntza
 
-Trans-languaging\\
-
+Trans-languaging
 :   Hizkuntza bat baino gehiago erabiltzen denean HEBI-CLILeko ikasgela-lanetan
 
 Gehiago jakiteko: http://www.clilcompendium.com/keyt.htm
@@ -434,5 +417,5 @@ Gehiago jakiteko: http://www.clilcompendium.com/keyt.htm
 -   20 minutuko berbaldi bati zelan ekin gaiaz?
 -   Nork? Nori? Zergatik? Zertarako?
 
-**Zerrendatu bost egoera eta justifikatu zentzua**
+**Zerrendatu taldekideko egoera bana, bat aukeratu eta justifikatu**
 :::
