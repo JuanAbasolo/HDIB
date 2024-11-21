@@ -1,0 +1,463 @@
+---
+title: "IDU eta hizkuntza 👩‍🏫"
+author: "Juan Abasolo"
+format: 
+    revealjs: 
+        theme: [dark, css/nire.scss]
+        css: [css/logo.css]
+        footer: "Ikaskuntzarako Diseinu Unibertsala - 2024"
+        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
+        self_contained: true
+        slide-number: true
+editor: source
+bibliography: ../HDIB-2024/references.bib
+csl: '../../eu/apa-eu.csl'
+---
+
+## 
+
+![Diseinu Unibertsalaren hastapenetan sortutakoa da inguru hau, gaur oso kritikatua](../HDIB-2024/images/clipboard-3476361720.png)
+
+## Jatorria
+
+-   Arkitekturatik eratorria.
+-   Irakaskuntzara duela 20 urte ekarria.
+-   Legedi berriek are gehiago indartu dute.
+
+## {.smaller}
+
+> [Consider for example, Standard 19 from the draft of the Massachusetts English Language Art Curriculum Frameworks, which states,]{.grix} " Students will write compositions, such as narratives, summaries, essays, letters, or directions, with a clear focus supported by logically related ideas and sufficient details" [(March 2000). While this standard provides students with options for written expression, such as essays, directions, etc., this standard is not considerate to all learners. The fact that the standard requires writing focuses the process on text alone. Yet the processes of creating these compositions and learning the skills necessary to summarize, express ideas, provide directions and support one's work with logical ideas and details can also be learned using other media, singly or in conjunction with text. Some students with disabilities or particular learning preferences might more effectively learn these skills using digitally recorded speech, diagrams, graphics, video, or other multimedia tools.]{.grix} **Substituting the word "create" for "write" broadens this standard to address the learning needs of all students, and consequently, provides multiple pathways to reaching the goal, and enables the use of multiple kinds of materials**
+>
+> @roseUniversalDesignLearning2000
+
+# Curriculum dekretuetan
+
+## Xedapen orokorretan
+
+> – Curriculumerako sarbidearen unibertsaltasuna. Guztiek kalitatezko hezkuntza jasotzeko aukera izatea ekarriko du, eta benetako integraziorako, aukera-berdintasunerako, erabateko parte-hartzerako eta eskola-arrakastarako bidea markatuko du. Ikaskuntzarako diseinu unibertsala hartuko da aintzat irakaskuntza- eta ikaskuntza-prozesuetan.
+>
+> @hezkuntzasaila752023DEKRETUA2023
+
+## 2. artikuluan {.smaller}
+
+**I. kapitulua 2. artikulua.– Definizioak.**
+
+::::: columns
+::: {.column width="50%"}
+> h)  **Ikaskuntzarako diseinu unibertsala (IDU)**: curriculuma garatzeko printzipioak dira, haur guztiei hezkuntzarako sarbidean aukera-berdintasuna ematen dietenak, eta haien helburua benetako inklusioa eta parte-hartzea lortzea da, ikasle guztientzat ikaskuntzarako oztopoak minimizatuz eta ikasteko aukerak maximizatuz
+>
+> @hezkuntzasaila752023DEKRETUA2023
+:::
+
+::: {.column width="50%"}
+> j)  **Ikaskuntzarako diseinu unibertsala (IDU)**: curriculuma garatzeko printzipioak dira, ikasle guztiei hezkuntzarako sarbidean aukera-berdintasuna ematen dietenak, eta haien helburua benetako inklusio eta parte-hartzea lortzea da, ikasle guztientzat ikaskuntzarako oztopoak minimizatuz eta ikasteko aukerak maximizatuz.
+>
+> @hezkuntzasaila772023DEKRETUA2023
+:::
+:::::
+
+## Aurrerago {.scrollable .smaller}
+
+::::: columns
+::: {.column width="50%"}
+**5. artikulua.– Haur Hezkuntzaren printzipio orokorrak.**
+
+> 6.– Helburu horrekin berarekin, hartzen diren antolaketa-, metodologia-eta curriculum-neurriek **ikaskuntzarako diseinu unibertsalaren** printzipioei jarraituko diete.
+>
+> @hezkuntzasaila752023DEKRETUA2023
+:::
+
+::: {.column width="50%"}
+**6. artikulua.– Oinarrizko Hezkuntzaren printzipio pedagogikoak.**
+
+> 3.– Honako hauek bermatu behar dira: hezkuntza- eta hizkuntza-inklusioa; arreta pertsonalizatua; ikasleek ikastetxeko egituretan eta elkarbizitzan parte hartzea; ikasteko zailtasun espezifikoak eta gaitasun handiko ikasleak goiz hautematea, eta laguntzeko eta malgutzeko mekanismoak, alternatiba metodologikoak eta beharrezkoak diren beste neurri batzuk abian jartzea. Hezkuntza-inklusioa bermatzeko hartzen diren antolaketa-, metodologia- eta curriculum-neurriak **Ikaskuntzarako Diseinu Unibertsalaren** printzipioei jarraitu behar diete, pertsona guztiek hezkuntza-arrakasta lortu dezaten.
+>
+> @hezkuntzasaila772023DEKRETUA2023
+:::
+:::::
+
+## {.smaller}
+
+::::: columns
+::: {.column width="50%"}
+**18. artikulua.– Aniztasunari hezkuntza-erantzuna ematea hezkuntza-sistema inklusiboaren esparruan.**
+
+> 5.– Ikastetxeei dagokie **ikaskuntzarako diseinu unibertsala**ren ikuspegian oinarritutako elkarbizitza- eta ikaskuntza-ingurune seguruak sortzea eta eraginkortasunez ziurtatzea etapa batetik besterako urratsak eta prestakuntza-ibilbideak.
+>
+> @hezkuntzasaila752023DEKRETUA2023
+:::
+
+::: {.column width="50%"}
+**23. artikulua.– Hezkuntza-erantzuna hezkuntza-sistema inklusiboaren esparruan.**
+
+> 5.– Ikastetxeei dagokie **ikaskuntzarako diseinu unibertsala**ren ikuspegian oinarritutako elkarbizitza- eta ikaskuntza-ingurune seguruak sortzea eta eraginkortasunez ziurtatzea etapa batetik besterako urratsak eta prestakuntzako ibilbidea.
+>
+> @hezkuntzasaila772023DEKRETUA2023
+:::
+:::::
+
+---
+
+**Maiatzaren 30eko 77/2023 Dekretuaren V. eranskina** \n Ikas-egoerak
+
+> ...\
+> c. Ikas-egoeraren curriculum- eta antolamendu-elementuak:
+>
+> Faseen arabera antolatutako jardueren proposamena: hasierako fasea, garapenekoa eta amaierakoa. Ikaskuntza-jarduerena zein ebaluazio-jarduerena. Barnean direla **Ikaskuntzarako Diseinu Unibertsal**eko estrategiak eta ebaluazio-adierazleak, fase bakoitzean.
+>
+> @hezkuntzasaila772023DEKRETUA2023
+
+# IDUari!
+
+## Oinarriak
+
+. . .
+
+> IDUren oinarrian neurozientzia dago. Izan ere, garunek ikasketa prozesuetan nola funtzionatzen duten azaldu dute neurozientziako ikerketek, eta horiek asko lagundu dute garunen egiturak eta funtzionamenduak ulertzen. Ikaskuntza prozesuetan bereziki hiru sare neuronalek garrantzia handia dutela erakutsi du neurozientziak: sare afektiboak, antzemateko sareak eta sare estrategikoak
+>
+> @hikhasiIDUAniztasunariErantzuteko2024
+
+---
+
+![CAST (2018). UDL and the learning brain. Wakefield, MA: Author. Retrieved from http://www.cast.org/products-services/resources/2018/udl-learning-brain-neuroscience](../HDIB-2024/images/clipboard-800262470.png)
+
+
+## Zer da Ikaskuntzarako Diseinu Unibertsala?
+
+-   Edukien, metodologien, eta ebaluazioen diseinu inklusiboa.
+-   Helburua: ikasle guztientzako aukera berdinak bermatzea.
+
+---
+
+![Azken bertsioa ingelesez dago eta interaktiboki kontsulta daiteke \@castUniversalDesignLearning2024](../HDIB-2024/images/clipboard-2237954165.png)
+
+<https://udlguidelines.cast.org/more/downloads/>
+
+## UDLren 3 oinarri nagusiak
+
+1.  **Askotariko errepresentazioa:** Nola aurkezten den informazioa.
+2.  **Askotariko ekintza eta adierazpena:** Nola adierazten duten ikasleek ikasitakoa.
+3.  **Askotariko konpromisoa:** Ikasteko motibazioa eta interesa.
+
+---
+
+Bertsioak hainbat izan diren arren, hemen erabiliko dugu 2.2 bertsioa [@castIkaskuntzaDiseinuUnibertsalerako2018] horrek Hik Hasi aldizkariak euskaratutako bertsioa baitu; hala ere, 2024.urtean 3. bertsioa [@castUniversalDesignLearning2024] argitaratu dela jakin beza ikasleak edo bestelako irakurleak. Bertsio horrek ingelesez interaktiboki nabigatzeko aukera du webgunean.
+
+## Oinarriak {.smaller}
+
+::: {.incremental}
+
+1.  Sare afektiboa:\
+    Ikaskuntzarako inplikazioarekin lotzen da eta *zergatik ikasi* galderari erantzuteari begiratzen dio.\
+    Printzipio nagusia: Ikaskuntzan **inplikatzeko** modu ugari eskaini
+2.  Antzemateko sarea:\
+    Informazioa irudikatzean dihardu sareak, hau da, *zer ikasi* galderaren erantzunarekin lotzen da.\
+    Printzipio nagusia: Informazioa **irudikatzeko** modu ugari eskaini
+3.  Sare estrategikoa:\
+    Ekintzarekin lotutako neurona-sare honetan dautza planifikazioa, ekintza, prozesuen gaineko monitorizazioa eta abar; hots, *nola ikasi* galderarekin lotua.\
+    Printzipio nagusia: **Ekintzarako eta adierazpenerako** modu ugari eskaini
+:::
+
+
+## {background-image="../HDIB-2024/images/clipboard-1794887540.png"}
+
+# Ereduak
+
+## {.smaller}
+
+. . .
+
+**Ikaskuntzan inplikatzeko modu ugari eskaintzea**
+
+-   Interesa erakartzeko aukerak
+-   Esfortzuari eta iraunkortasunari eusteko aukerak
+-   Auto-erregulaziorako aukerak
+
+. . .
+
+**Informazioa irudikatzeko modu ugari eskaintzea**
+
+-   Pertzepziorako aukerak
+-   Hizkuntzarako, adierazpen matematikoetarako eta sinboloetarako aukerak
+-   Ulermenerako aukerak
+
+. . .
+
+**Ekintzarako eta adierazpenerako modu ugari eskaintzea**
+
+-   Ekintza fisikorako aukerak
+-   Adierazpenerako eta komunikaziorako aukerak
+-   Funtzio exekutiboetarako aukerak
+
+# Egiaztatze puntuak eta jomugak
+
+## Ikaskuntzan inplikatzeaz {.smaller .scrollable}
+
+::: {.incremental}
+Sarrera: Interesa erakartzeko aukerak eskaini
+
+-   Aukera indibidualak eta autonomia optimizatu
+
+-   Garrantzia, balioa eta benetakotasuna optimizatu
+
+-   Mehatxuak eta arreta-galtzeak gutxiagotu
+
+Eraikuntza: Esfortzuari eta iraunkortasunari eusteko aukerak eskaini
+
+-   Helburuen garrantzia nabarmendu
+
+-   Eskakizunak eta baliabideak aldatu erronkak optimizatzeko
+
+-   Kolaborazioa eta komunikazioa sustatu
+
+-   Maisutzara bideraturiko feed-backa elikatu
+
+Barneratzea: Autoerregulatzeko aukerak eskaini
+
+-   Motibazioa optimizatzen duten espektatibak eta sinesmenak sustatu
+
+-   Erronkei aurre egiteko gaitasunak eta estrategiak erraztu
+
+-   Autoebaluazioa eta hausnarketa garatu
+
+Jomuga: ikastun seguru eta motibatuak
+
+:::
+
+## Informazioa irudikatzeaz {.smaller .scrollable}
+
+::: {.incremental}
+
+Sarrera: Hautemateko aukerak eskaini
+
+-   Informazioaren irudikatzea pertsonalizatzeko aukerak eskaini
+-   Informazio entzunari alternatibak eskaini
+-   Informazio bisualari aukerak eskaini
+
+Eraikuntza: Hizkuntzarako eta adierazpen eta sinboloetarako aukerak eskaini
+
+-   Hiztegia eta sinboloak argitu
+-   Sintaxia eta egitura argitu
+-   Testuen, idazkera matematikoaren eta sinboloen deskodetzea erraztu
+-   Hizkuntza ezberdinen arteko ulermena sustatu
+-   Bitarteko ugarien bidez ilustratu
+
+Barneratzea: Ulermenerako aukerak eskaini
+
+-   Aldez aurreko jakintzak aktibatu edo eskaini
+-   Patroiak, funtsezko ezaugarriak, ideia nagusiak eta horien arteko erlazioak nabarmendu
+-   Informazioaren prozesaketa, bistaratzea eta manipulazioa gidatu
+-   Informazioaren transferentzia eta orokortzea maximizatu
+
+Jomuga: ikastun zorrotzak eta jakitunak
+:::
+
+## Ekintzaz eta adierazpenaz {.smaller .scrollable}
+
+::: {.incremental}
+
+Sarrera: Ekintza fisikorako aukerak eskaini
+
+-   Erantzuteko, nabigatzeko eta elkarrekintzarako metodoak aldatu
+-   Baliabideetarako eta laguntza teknologietarako sarbidea optimizatu
+
+Eraikuntza: Adierazpenerako eta komunikaziorako aukerak eskaini
+
+-   Komunikaziorako bitarteko ugari erabili
+-   Eraikuntzarako eta konposiziorako tresna ugari erabili
+-   Jardueretarako eta praktikarako laguntza mailakatuarekin jarioa garatu
+
+Barneratzea: Funtzio exekutiborako aukerak eskaini
+
+-   Helburu egokiak ezartzen lagundu
+-   Estrategien planifikazioa eta garapena lagundu
+-   Informazioaren eta baliabideen kudeaketa erraztu
+-   Aurrerapena monitorizatzeko gaitasuna hobetu
+
+Jomuga: ikastun estrategikoak eta helburura bideratuak
+
+:::
+
+# IDU eta hizkuntzak
+
+---
+
+::: callout-note
+## Culturally Responsive Design for English Learners: The UDL Approach
+
+-   PART I: A Foundation for Culturally Responsive Design: How Culture, Context, and Language Shape Learning
+
+    -   Chapter 1: Culturally Responsive Design Matters
+    -   Chapter 2: Learner Variability and CLD Students/ELs
+    -   Chapter 3: Culturally Responsive Teaching and UDL
+    -   Chapter 4: The Culturally Responsive Learning Environment
+
+<!-- -->
+
+-   PART II: Applying Culturally Responsive Design to Second- or Dual-Language Learning
+
+    -   **Chapter 5: Dual-Language Learning and UDL**
+    -   Chapter 6: Culturally Responsive Representation
+    -   Chapter 7: Context Matters
+    -   Chapter 8: Culturally Responsive Lesson Design
+    -   Chapter 9: The Policy Foundation
+
+[Webgunea](https://publishing.cast.org/catalog/books-products/culturally-responsive-design-english-learners-ralabate-nelson)
+:::
+
+## Printzipioak hizkuntzara ekarri {.scrollable}
+
+-   **Engaiamendua**: [Ikasleen motibazioa eta parte-hartzea indartzea helburu duen printzipioa da.]{.fragment}  
+[eb., irakasleek tailer dinamikoak, ikasleen interesetara egokitutako materialak, eta elkarrekintzako jarduerak erabil ditzakete.]{.fragment}
+
+-   **Errepresentazioa**: [Ikasleei informazioa era desberdinetan aurkeztea]{.fragment}  
+[eb. testu, audio, irudi edo manipulagarriak erabiliz, hizkuntza-aniztasuna eta ulermena sustatzeko.]{.fragment}
+
+-   **Ekintza eta adierazpena**: [Ikasleei beren ideiak eta ezagutzak komunikatzeko aukera desberdinak eskaintzea]{.fragment}  
+[eb., ahozko aurkezpenak, idazmen laburrak edo ikus-entzunezko proiektuak.]{.fragment}
+
+---
+
+![@isei-ivei2019EbaluazioDiagnostikoa2022, pp. 43](../HDIB-2024/images/clipboard-862446403.png)
+
+---
+
+## Komunikazio trebetasun motak eta garapena {.center}
+
+---
+
+**BICS**  
+Oinarrizko Komunikazio Trebetasunak/*Basic Interpersonal Communication skills*  
+Eeguneroko egoeretan erabiltzen direnak. Hauen eskuratzea nahiko azkar gertatzen da (2-3 urte).
+
+
+**CALP**  
+Hizkuntza akademiko eta kognitiborako konpetentzia/*Cognitive Academic Language Proficiency*  
+Testuinguru formalean erabiltzen den hizkuntza da, kontzeptu konplexuak ulertzeko eta adierazteko behar dena. CALPren garapena denbora gehiago hartzen du (5-7 urte).
+
+## BHJren bost etapak {.scrollable .smaller}
+
+**Isilunea/Harrerako edo ekoizpen aurreko etapa**\
+[500 hitz inguru uler ditzakete\
+Ia inoiz ez dute hitz egiten\
+Keinuak eta gorputz-hizkuntza erabili\
+Bai/ez erantzun galdera sinpleei]{.fragment}
+
+**Ekoizpen goiztiarreko etapa**\
+[Sei bat hilabete ondoren, 1.000 hitz ulertu ditzakete.\
+Bai/ez eta galdera sinpleei erantzunez\
+1 edo 2 hitzeko esaldiak erabiliko dituzte, adierazi edo burua mugituko dute.\
+6 hilabetetik urtebetera.]{.fragment}
+
+**Hizketaren agertze etapa**\
+[3.000 edo gehiagoko hitz ulertuko dituzte\
+Gramatika eta ahoskera akatsak dituzten esaldiak eta esamoldeak\
+zailtasunak hizkuntza abstraktuarekin, sarkasmoarekin eta figuratiboarekin\
+Urte 1etik 3ra iraun.]{.fragment}
+
+**Hizkuntza tarteko fluentzia etapa**\
+[6.000 edo gehiago\
+Haien iritziak eman\
+Galderak egin\
+Idazlanak ere idatz ditzakete\
+Esaldi konplexuak erabiliko dituzte, nahiz eta zenbait akats gramatikal izan\
+3urtetik 5era iraun dezake.]{.fragment}
+
+**Hizkuntzaren gaitasun aurreratua**\
+[Lehen kontaktua izan eta 5 eta 7 urte bitartean lor daiteke\
+Ia hiztun natiboen ahozko gaitasun maila izango dute\
+Edukien hiztegia ulertzen dute eta eztabaida akademikoak jarrai ditzakete\
+Gramatika eta hiztegi erabilera ikaskide natiboen parekoa da]{.fragment}
+
+## {.smaller .scrollable}
+
++------------------------------------------------+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| H2 hizkuntza etapa                             | Ezaugarriak                                                                | Estrategia adibideak                                                                                         |
++================================================+============================================================================+==============================================================================================================+
+| Isilunea/harrerako edo ekoizpen aurreko etapa\ | 500bat hitz ulertzen dute H2n.                                             | Ongietorri giroa eskaini, agur sozialen, biziraupenerako hizkuntzaren eta ohiko hiztegi/esaldien zerrendekin |
+| H2 esposizioa = 0-6 hilabete                   |                                                                            |                                                                                                              |
+|                                                | H2 hiztegi akademiko ia batere ez dute ulertzen\                           | Zintzilikatu ohiko norabideak dituzten taulak edo ikus-entzunezkoak                                          |
+|                                                | Ia ez dute hitz egiten                                                     |                                                                                                              |
+|                                                |                                                                            | Parekatu H1 lagun-kideekin\                                                                                  |
+|                                                | Keinuak eta gorputz-hizkuntza erabiltzen dituzte                           | Erabili ikus-entzunezkoak, manipulagarriak, objektu errealak, eta bitarteko digitalak                        |
+|                                                |                                                                            |                                                                                                              |
+|                                                | Bai/ez erantzuten diete galdera sinpleei                                   | Ereduak eman eta ariketa praktikoak egin                                                                     |
+|                                                |                                                                            |                                                                                                              |
+|                                                |                                                                            | Egokitu hizketa-erritmoa behar denean                                                                        |
+|                                                |                                                                            |                                                                                                              |
+|                                                |                                                                            | Utzi keinuak, seinalatzea eta erantzun fisikoak erabiltzen                                                   |
+|                                                |                                                                            |                                                                                                              |
+|                                                |                                                                            | Eman komunikaziorako irudi-taula                                                                             |
+|                                                |                                                                            |                                                                                                              |
+|                                                |                                                                            | Entzute-trebetasunak lehenetsi                                                                               |
+|                                                |                                                                            |                                                                                                              |
+|                                                |                                                                            | Edukietako hiztegiaren muina aurretik irakatsi                                                               |
++------------------------------------------------+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| Ekoizpen goiztiarreko etapa\                   | 1.000 H2 hitz ulertu, H2                                                   | Hizkuntza sinplifikatu baina itxaropenak ez jaitsi                                                           |
+| H2 esposizioa = 6 hilabetetik 1 urtera         |                                                                            |                                                                                                              |
+|                                                | Hiztegi akademiko mugatua ulertzen du.                                     | Galdera sinpleak egin (nor, zein, zer, zenbat) 1 edo 2 hitzeko erantzunak lortzeko                           |
+|                                                |                                                                            |                                                                                                              |
+|                                                | Bai/ez eta galdera sinpleei erantzuten diete\                              | Irakatsi hiztegi akademikoa irudiak eta ikus-entzunezkoak erabiliz                                           |
+|                                                | 1 edo 2 hitzeko esaldiak erabiltzen dituzte                                |                                                                                                              |
+|                                                |                                                                            | Irakurketa korala erabili                                                                                    |
+|                                                | Oinarrizko komunikazio-trebetasunak dituzte                                |                                                                                                              |
+|                                                |                                                                            | Errepikapen eta praktika eskalatuak eskaini                                                                  |
+|                                                | Hitzak kopiatu ditzakete                                                   |                                                                                                              |
+|                                                |                                                                            | Parekatu H1 lagun-kideeki                                                                                    |
+|                                                |                                                                            |                                                                                                              |
+|                                                |                                                                            | Entzumenaren ulermena eta hiztegi erreaktiboa lantzeko fokua jarri                                           |
++------------------------------------------------+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| Hizketaren agertze etapa\                      | 3.000+ H2 hitz ulertzen dute                                               | Argibideak urratsez urrats berrikusi                                                                         |
+| H2 esposizioa = 1etik 3 urtera                 |                                                                            |                                                                                                              |
+|                                                | Ahoz eta idatziz erantzuten dute                                           | Aurretiko ezagutza eta lotura kulturalak egin                                                                |
+|                                                |                                                                            |                                                                                                              |
+|                                                | Esaldiak eta esamoldeak erabiltzen dituzte                                 | Hiztegia berridatzi;                                                                                         |
+|                                                |                                                                            |                                                                                                              |
+|                                                | Ohiko gramatika eta ahoskera-erroreak eta akatsak.                         | Irakatsi sinonimoak eta antonimoak                                                                           |
+|                                                |                                                                            |                                                                                                              |
+|                                                | Zailtasunak hizkuntza abstraktuarekin, sarkasmoarekin eta figuratiboarekin | Erabili antolatzaile grafikoak, hala nola Venn diagramak, T-taulak eta karaktereen ikuspegi-taulak           |
+|                                                |                                                                            |                                                                                                              |
+|                                                |                                                                            | Irakurketa laburrak eta erakargarriak erabili                                                                |
+|                                                |                                                                            |                                                                                                              |
+|                                                |                                                                            | Fokatu deskribatzea, sailkatzea, alderatzea, kontrastatzea, laburtzea eta sintetizatzea                      |
++------------------------------------------------+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| Hizkuntzaren tarteko fluentzia etapa\          | 6.000+ H2 hitz ulertu                                                      | Burmuin-lan tresnak eta semantika-sareak erabili                                                             |
+| H2 esposizioa = 3tik 5 urtera                  |                                                                            |                                                                                                              |
+|                                                | Iritziak adierazi, galderak egin eta esaldi konplexuak erabiltzen dituzte  | Iritziei eta azalpenak ebaluatzeko "nola" eta "zergatik" galderak egin                                       |
+|                                                |                                                                            |                                                                                                              |
+|                                                | Idazlanak eta kontakizun lotuak idazten dituzte                            | Hiztegi abstraktua eta hizkuntza figuratiboa irakatsi                                                        |
+|                                                |                                                                            |                                                                                                              |
+|                                                | Gramatika-akats puntualak                                                  | Inferentziak eta ebaluazioak lantzeko fokua jarri                                                            |
+|                                                |                                                                            |                                                                                                              |
+|                                                | H1 ez diren ikaskideen maila akademikora hurbildzen dira                   | Liburu grabatuak, bideoak eta audio bidezko baliabideak erabili                                              |
+|                                                |                                                                            |                                                                                                              |
+|                                                |                                                                            | Testuen irakurketa gidatu gako-galderak eta eskema nagusiak erabiliz                                         |
+|                                                |                                                                            |                                                                                                              |
+|                                                |                                                                            | Erronkak pixkanaka gehitu                                                                                    |
++------------------------------------------------+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+| Hizkuntzaren gaitasun aurreratua\              | 12.000+ H2 hitz ulertu                                                     | Oharrak hartzea eta eguneroko trebetasunak irakatsi.                                                         |
+| H2 esposizioa = 5etik 7 urtera                 |                                                                            |                                                                                                              |
+|                                                | Eduki-hiztegia ulertzen dute                                               | Ikasteko trebetasunak eta azterketetarako prestaketa-trebetasunak irakatsi                                   |
+|                                                |                                                                            |                                                                                                              |
+|                                                | Eztabaida akademikoak jarraitu ditzakete.                                  |                                                                                                              |
+|                                                |                                                                            |                                                                                                              |
+|                                                | Gramatika eta hiztegia H1 ez diren ikaskideen parean.                      |                                                                                                              |
+|                                                |                                                                            |                                                                                                              |
+|                                                | Hizkuntza akademiko aurreraturako gaitasuna (CALP\*)                       |                                                                                                              |
++------------------------------------------------+----------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------+
+
+## UDL Gidalerroak
+
+-   Informazio gehiago: <https://udlguidelines.cast.org/more/downloads/>
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Ariketa
+
+Aztertu @ralabateCulturallyResponsiveDesign2017 eta aukeratu kapitulu bateko atal interesgarri bat, zuk aurreko praktiketan ikusiarekin zerikusia duena.
+
+Azaldu zein den aukeratutako atalaren garrantzia eta horren argitara egin praktiketan ikusitakoaren azalpena eta horren gaineko hausnarketa.
+:::
+
+## Erreferentziak {.scrollable}

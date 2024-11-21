@@ -1,12 +1,12 @@
 # Hizkuntzen irakaskuntzarako metodologien bilakaera
 
-Baliabide nagusiak: [@larreaBigarrenHizkuntzarenH22007;@vanpattenInputetikOutputeraBigarren2007;@larreaGalderaerantzunBatzukHizkuntzaren2010] [\*](../diapoak/08-Metodologia-ta.html)
+Baliabide nagusiak: [@larreaBigarrenHizkuntzarenH22007; @vanpattenInputetikOutputeraBigarren2007; @larreaGalderaerantzunBatzukHizkuntzaren2010] [\*](../diapoak/08-Metodologia-ta.html)
 
 ::: callout-note
 ## Hasi aurretik...
 
 | H1 nola ikasi duzu berbetan eta idazten? | H2 Nola ikasi duzu berbetan eta idazten? |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | . | . |
 | . | . |
 | . | . |
@@ -363,7 +363,7 @@ Gutxieneko jakintzak ezartzen ditu:
 | Galdetzaileak                         |                          |
 
 | Funtzioa | Hizkuntza adierazleak |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | Helbide bat non den galdetu | \- *Mesedez, nola joan naiteke* ... *kalera* / ...\_-ko metrora\_ / ... *hondartzara?* |
 | Helbide batera iristeko jarraibideak eman | *Hartu lehenengo bidegurutzean eskumara* / *bigarren kalean joan* ... / *kale berean* ... |
 
@@ -399,7 +399,7 @@ Esanguratsua
 #### Programa estrukturala eta komunikatiboaren arteko aldeak
 
 | Estrukturala | Komunikatiboa |
-|------------------------------------|------------------------------------|
+|----|----|
 | Formari eta egiturei garrantzi handiago ematen die esanahiari baino | Esanahia lehenesten da |
 | Egitura jakinetan oinarritutako elkarrizketakburuz ikasten dira | Elkarrizketek komunikazio funtzioak islatzen dituzte |
 | Hizkuntzaren pasarteak testuingururik gabe aurkezten dira | Elkarrizketen testuingurua abiapuntua da |

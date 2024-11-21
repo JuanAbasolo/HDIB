@@ -152,7 +152,7 @@ Azken fase honetan ikasleek sortutako Sekuentzia Didaktikoak aurkeztuko dituzte.
 ### Kronograma
 
 | Fasea | Urratsa | Irakasleak | 9 | 10 | 12 | 13 | 14 | 15 |
-|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+|----|----|----|----|----|----|----|----|----|
 | 1 | Erronkaren aurkezpena | Aurkezpena egingo du | x |  |  |  |  |  |
 | 2 | Ikasle bakoitzak edukiak landuko ditu taldekideekin koordinazioan | Irakasleak ikasleen lanak gainbegiratuko ditu eta feedbacka emago die ahoz | x | x | x |  |  |  |
 | 3 | Taldekideek SDaren diseinua egingo dute | Berdin. Eta behar dituzten tutoretzak |  |  |  | x | x | x |
@@ -167,7 +167,7 @@ Proiektuan zazpi entregagai egongo dira; sei banakakoak, eskola bakoitzean egin 
 -   Sekuentzia Didaktikoa
 
 | Fasea | Astea | Entregagaia                                    |  \% | Ikasgaian |
-|-----------:|-----------:|--------------------------|-----------:|-----------:|
+|------:|------:|------------------------------------------------|----:|----------:|
 |     2 |     9 | Baliabide didaktikoen azterketa                |   1 |       0.1 |
 |     2 |    10 | Hezkuntzako testu moten azterketa              |   1 |       0.1 |
 |     2 |    12 | Baliabide didaktikoen egokitzapen proposamenak |   1 |       0.1 |
