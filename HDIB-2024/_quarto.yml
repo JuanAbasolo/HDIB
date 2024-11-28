@@ -36,10 +36,10 @@ book:
      chapters:
        - 08-Metodologiak.qmd
        - 09-IDU_hizkuntza.qmd
-       - 10-Proiektuak_ataza_hizkuntza.qmd
-       - 11-Bronckart.qmd
-       - 12-SD.qmd
-       - 13-Erroreak.qmd
+       # - 10-Proiektuak_ataza_hizkuntza.qmd
+       - 10-Bronckart.qmd
+       #- 12-SD.qmd
+       - 12-Erroreak.qmd
    - part: "Erreferentziak"
      chapters:
        - references.qmd
