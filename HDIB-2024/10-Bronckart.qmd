@@ -140,19 +140,28 @@ Sekuentzia Didaktikoak (SD) irakaskuntza-prozesuaren ardatz egituratua eskaintze
 
 **SDetako etapak**
 
+Kontzeptualki honakook jarraitu behar dira, ikuskera konstruktibista batetik begiratuta:
+
+1.  *Deseraikitzea*
+
+2.  *Elkarren artean eraikitzea*
+
+3.  *Trebatzea eta doitzea*
+
+4.  *Zabaltzea (barneratzea)*
+
+Baina egokitzapen didaktikoak egindakoan hurrengo honetara berregituratzen dira goian azaldutakook:
+
 1.  **Egoeraz Jabetzeko Etapa (EJ)\
-    ***Deseraikitzea* Proiektuaren aurkezpenarekin hasten da, ikasleen arreta eta interesa pizteko. Fase honetan, ikasleek testuinguruari eta jardueraren helburuei buruzko lehenengo informazioa jasotzen dute. Girotze-prozesu honek ikasleen parte-hartzea bultzatu eta jardueraren zentzua azpimarratzen du, proiektu esanguratsu baten bidez.
+    **Proiektuaren aurkezpenarekin hasten da, ikasleen arreta eta interesa pizteko. Fase honetan, ikasleek testuinguruari eta jardueraren helburuei buruzko lehenengo informazioa jasotzen dute. Girotze-prozesu honek ikasleen parte-hartzea bultzatu eta jardueraren zentzua azpimarratzen du, proiektu esanguratsu baten bidez.
 
 2.  **Hasierako Ekoizpena (HE)\
-    ***Elkarren artean eraikitzea*\
-    Aurretestua izenez ere ezagutzen da. Ikasleek testu-genero jakin baten lehenengo ekoizpena egiten dute, haien abiapuntuko ezagutzak eta gabeziak azaleratzeko. Informazio hori irakasleak diagnostiko gisa erabiltzen du hurrengo etapetarako jarduerak planifikatzeko eta ikasleen premia nagusiak identifikatzeko.
+    **Aurretestua izenez ere ezagutzen da. Ikasleek testu-genero jakin baten lehenengo ekoizpena egiten dute, haien abiapuntuko ezagutzak eta gabeziak azaleratzeko. Informazio hori irakasleak diagnostiko gisa erabiltzen du hurrengo etapetarako jarduerak planifikatzeko eta ikasleen premia nagusiak identifikatzeko.
 
-3.  **Tailerrak eta Moduluak (TT/MM)\
-    ***Trebatzea eta doitzea*\
+3.  **Tailerrak eta Moduluak (TT/MM)**\
     Etapa honetan, ikasleek aurretestuan antzemandako zailtasunak gainditzeko jarduerak burutzen dituzte. Tailerrak testuaren edukia, egitura eta hizkuntz-formak lantzeko diseinatuak daude, ikasleek ezagutza espezifikoak eskuratu eta garatu ditzaten.
 
-4.  **Bukaerako Ekoizpena eta Ebaluazioa (BEE)\
-    ***Zabaltzea (barneratzea)*\
+4.  **Bukaerako Ekoizpena eta Ebaluazioa (BEE)**\
     Ikasleek azken testua edo produktua sortzen dute, tailerretan landutako ezagutzak aplikatuz. Ekoizpen honek ikasleen aurrerapena eta ikaskuntza-prozesuaren arrakasta ebaluatzeko aukera ematen du, aurretestuarekin alderatuta.
 
 ::: callout-note
