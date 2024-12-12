@@ -1,7 +1,5 @@
 # Lapsusak, huts egiteak eta erroreak
 
-📔
-
 Baliabideak: [@larreaErroreakBigarrenHizkuntzaren2008; @corderErrorAnalysisInterlanguage1981; @esnalErroreakHelduenEuskalduntzearen1988; @corderErrorAnalysisInterlanguage1975; @onederraEuskaltzaindiarenAhoskeraBatzordearen2015; @torijanoErroresAprendizajeAprendizaje2004; @larreaIkasleenHizkuntzaErroreak2009; @selinkerTartekoHizkera1996; @selinkerInterlanguage1972; @bleichenbacher2016teacher] [\*](../diapoak/10-Erroreak01.pdf) [\*\*](../diapoak/10-Erroreak02.pdf)
 
 Hizkuntz erroreen aurrean irakaskuntzak hainbat jarrera hartu ditu. Erabat baztertu beharreko ezaugarritzat hartzetik gaur eguneko jarrera analitikoetara.
@@ -15,6 +13,8 @@ Ikasleak hizkuntza-ikasle diren neurrian, hizkuntza hutsegitez ederto jantziak i
 Hizkuntza ikaskuntzaren testuinguruan, erroreak ez dira soilik ezagutza formalaren nork beretzat egitearen emaitza, baizik eta, askotan, benetako baldintzetan aritzeko abileziaren adierazle gisa ulertzen dira. Hizkuntza trebetasuna, beste norbaitek baino hobeto aritzen denari arretaz behatuz hobetzen da, eta horrek hizkuntza ikaskuntzan erroreen zeregina berrikusteko beharra azpimarratzen du. Historikoki, hizkuntza irakaskuntzaren planteamendu behavioristek ikusi-ahala-menderatu printzipioa erabili zuten; horretan errorea porrotzat hartzen zen; hartara, sentimendu negatiboak sortzen zituen ikasle zein irakasleen artean. Ellis-ek adierazten du errorea eta zuzenketa hutsegite moral gisa ikusi daitezkeela, ikasleen jarrera pasiboa eta arriskurik ez hartzekoa eraginez.Azken urteetan erroreen inguruko ikuspegia aldatu egin da.
 
 Ikasleak bigarren hizkuntzan egiten dituzten erroreak, orain, hizkuntza eskuratzen ari diren seinaletzat hartzen dira, ez ikaskuntza ezaren adierazletzat. Beraz, erroreak ikaskuntza prozesuaren beharrezko parte gisa eta baliagarri gisa ikusten dira. Horrek planteamendu berria eragin du, horretan erroreak ulertzen dira ikasleentzat hipotesiak egokitzeko aukera moduan eta birformulatzeko informazio-iturri gisa balioesten dira. Horrek ikaslearen ziurtasuna eta performantzia arrakastatsuaren ekarpena balioztatzen du, eta aldi berean, irakasleak emandako feedback egokiaren bidez performantzia ez-arrakastatsuaren balioa ere aitortzen du.
+
+{{< video https://www.youtube.com/embed/ikVJRR0Afno >}}
 
 ## Historia
 
@@ -110,17 +110,111 @@ Den horrek ikasleen hizkuntza eskuratze prozesua hobeto ulertzeko eta ikaskuntza
 
 ## Erroreen iturria(k)
 
+Bigarren hizkuntza bat ikasten ari diren ikastunak egiten dituzten erroreak ikaskuntza-prozesuaren alderdi naturala dira. Erroreak ez dira hutsegite hutsak, baizik eta ikasleek hizkuntza berriaren sistema ulertu eta bereganatzeko egiten dituzten saiakeren isla. Hainbat iturri izan ditzakete errorek, eta horiek ulertzea ezinbestekoa da irakasleek ikasleei ikaskuntza prozesuan nola lagundu erabaki dezaten.
+
+Erroreen iturriak bi talde nagusitan sailkatu ditzakegu:
+
+1.  Ama-hizkuntzaren eragina (transferentzia): Ikasleek ama-hizkuntzatik dakitena bigarren hizkuntzara eramaten dute. Honek batzuetan positiboki lagun dezake, baina beste batzuetan interferentzia negatiboak sor ditzake, adibidez, bi hizkuntzen egitura desberdinak direnean.
+
+2.  Bigarren hizkuntzaren barneko prozesuak: Hemen sartzen dira gainjeneralizazioa (arau bat gehiegi erabiltzea), sinplifikazioa (arau bat ez oso-osorik aplikatzea) eta ikaskuntza estrategien ondorioz sortutako erroreak.
+
+Ikasgelan, irakasleek erroreak aukera didaktiko gisa ikusi behar dituzte, ikasleak aurrera egiteko eta hizkuntza sistema berria eraikitzeko hipotesiak egiten ari direla ulertuta. Horregatik, erroreak ulertzeak eta zuzenketa eraginkorrak proposatzeak ikaskuntza-prozesua aberastu dezake.
+
 ### Transferentzia
+
+Transferentzia hizkuntzen arteko harremanen ondorioz gertatzen da, ikasleak ma-hizkuntzako (H1) arauak eta ezaugarriak bigarren hizkuntzara (H2) plikatzen dituenean. Honek transferentzia positiboa edo negatiboa izan ezake, hizkuntzen arteko antzekotasunen eta desberdintasunen arabera. Adibidez, gaztelaniatik frantsesera "me he dicho" itzultzerakoan, antzekotasuna dela eta, transferentzia positiboa gertatzen da (*je me suis dit*). Aldiz, euskararekin esaldiak interferentzia negatiboa sor dezake, egitura okerra erabilita (*ni esan naiz\**). Transferentzia ez da akatsa bere horretan, baizik eta ikaskuntza-prozesuaren zati bat, eta irakasleek positiboanjarri behar dute arreta, negatiboak gutxitzen dituzten bitartean.
 
 ![EAEko kaleak holako aldarriez bete zuen Espainiako Barne Misterioak](assets/10/Drogarik_gabe-GobiernoDeEspana.jpg){fig-align="center"}
 
+::: callout-note
+## Adibideak
+
+> esaldi zuzenak esatera irakasten die haurrei
+>
+> "molestatzera" hitza ez dio erreferentzia egiten ikaslea molestua dela
+:::
+
 ### Gainjeneralizazioa
+
+Ikastunak hizkuntzari buruz dakizkien arauak erabiltzen ditu ekoizpen berria egiteko. Ezagutzatik arauak eskuratu eta horien orokortzeko estrategia gizakion jakintza-estrategia denez, hainbat giza jardueratan ikusten dira era horretako portaerak; hizkuntzari dagokionez H2aren ikaskuntzan eta hizkuntzaren jabekuntzan ere atzematen dira.
+
+![Enpresa bateko publizitate kanpaina batean akatsa.](images/23129271170_e314166c03_o.jpg)
+
+Gainjeneralizazioa hizkuntzaren barneko interferentzia-prozesua da; ikasleak xede-hizkuntzako (H2) arau orokorren bat erabilera desegokian aplikatzen duenean ikusten da, hori gertatzen da salbuespenenak eta arauen mugak ezagutzen ez dituelako. Prozesu horrek erakusten du ikasleak hizkuntza sistematizatzen saiatzen dela, nahiz eta emaitzak beti zuzenak izan ez. Esaterako, ingeleseko ikasle batek plurala adierazteko *-s* gehitzen duenean eta "childs" esaten duenean "children" esan beharrean, gainjeneralizazioa egiten du. Horrek agerian uzten du arau orokor bat bereganatzen ari dela, baina xehetasunak lantzeko beharra duela.
+
+::: callout-note
+## Adibideak
+
+Euskaraz
+
+> \*Atzo horra joan naizen
+
+> \*Batzuetan gehiago kostatzen zaizkie gauzak ulertzen
+
+Gaztelaniaz
+
+> \*El cochecito está rompido
+:::
+
+Ikastunen ekoizpen akastun batzuetan ez da izaten argia jatorria, gainjeneralizazioa zein transferentzia izan litezkeelako. irakasleak horren ebazpenean ez luke kateatu beharko, aurrera segitu baino.
 
 ### Sinplifikatzea
 
+Ikasleek hizkuntza-sistema erraztu edo laburtzeko estrategia kontziente edo inkontzientea dute sinplifikatzen dutenean. Prozesuak erakusten du ikasleek hizkuntzaren datuen barietate zabalaren aurrean arau eta kategoriak aplikatzeko sistema propioak garatzen dituztela. Sinplifikazioak esanahi berriak adierazteko baliagarriak diren esaldiak sortzea ahalbidetzen die, nahiz eta arau konplexuagoak alde batera utzi. Adibidez, ikasle batek "He like pizza" erabil dezake *-s* atzizkia gehitu gabe, esaldi zuzenagoa sortu aurretik sistema sinpleago batean oinarrituz. Fenomeno hau ikaskuntza-progresioaren adierazletzat har daiteke.
+
+::: callout-note
+## Adibidea
+
+![El diario-n argitaratutako[^11-erroreak-1] pintaketa baten argazkia, euskara sinplifikatua ikusten da.](images/clipboard-1980579942.png)
+
+BIlboko Hezkuntza Fakultateko ikasleriaren artean euskaraz maizen ikusten diren era honetako erroreak gaztelaniak erabiltzen ez dituen edo bestela erabiltzen dituen komunztaduren artekoak dira.
+
+> \*irakasleek haurrei baliabide linguistikoak irakatsi behar die
+
+> \*Irakasleak haurrei egiten dituen galderak helburu zehatz bat izan behar du
+:::
+
+[^11-erroreak-1]: Argitalpena osorik hemen <https://www.eldiario.es/euskadi/pnv-hondarribia-denuncia-aparicion-pintadas-amenazantes-formacion-jeltzale-ertzaintza_1_7191754.html>
+
+[^11-erroreak-2]: Argitalpena osorik hemen <https://www.eldiario.es/euskadi/pnv-hondarribia-denuncia-aparicion-pintadas-amenazantes-formacion-jeltzale-ertzaintza_1_7191754.html>
+
 ### Irakaskuntzaren eragina
 
+Irakaskuntzaren eragina ikasleen hizkuntza-ikaskuntza prozesuan garrantzitsua izan daitekeen faktorea da, eta askotan ikasleek egiten dituzten erroreetan islatzen da. Irakasleek erabiltzen dituzten materialak, teknikak eta metodoek erroreen jatorria baldintza dezakete. Adibidez, ikasleek forma edo egitura jakin bat gehiegi erabiltzea gerta daiteke irakasleak hori azpimarratu duelako edo testuinguru desegokian aurkeztu duelako. Horrez gain, irakaskuntzak ikasleari kontzeptu faltsuak transmiti diezaizkioke, adibidez, arauak edo salbuespenak argi ulertu ez direnean. Irakaskuntzaren kalitatea eta testuingurua, beraz, zuzenean lotuta daude ikaslearen aurrerapenarekin eta akatsetako askoren zuzenketarekin.
+
 ## Erroreen larritasuna
+
+Erroreen larritasuna ebaluatzerakoan, bi irizpide nagusi hartzeko joera dago: **ulergarritasuna** eta **hautsitako arauaren "oinarrizkotasuna"**. Ulergarritasuna da garrantzitsuenetako bat, izan ere, errorea larritzat jotzen da entzundakoa edo irakurritakoa ulertzeko oztopo nabarmena denean. Bestalde, arauaren oinarrizkotasuna gramatika-edukietan zentratu ohi diren syllabus formalekin lotzen da. Hala ere, praktikan, "kaleko" hiztun jatorrek irakasleek baino akatsak epaitzeko jarrera bigunagoa dute, askotan hutsegiteak ez baitira haientzat nabarmenak. Testuinguruak eta negoziaketa prozesuak asko laguntzen dute ulermenaren osotasunean, eta irakasleek erroreak tratatzeko duten jarrerak ikasleen ikaskuntza-prozesuan eragin zuzena du.
+
+Idatzizko testuetan, ulergarritasuna zer den erabakitzeko hainbat gako behar dira. Batzuetan, esaldi isolatuak testuingururik gabe zailak izan daitezke ulertzen, baina testuinguru egoki batean esanguratsuak bihur litezke esaldi berberak. Ulergarritasuna oztopatzen duten akatsen artean, hiztegi-erroreek gramatikazko akatsek baino eragin handiagoa izan ohi dute, eta gramatikazko akatsen artean, errakuntza orokorrak (esaldiaren egitura orokorrari eragiten diotenak) errakuntza lokalak (hitz edo elementu isolatuei dagozkienak) baino oztopo handiagoa izaten dira komunikazioan. Hortaz gain, komunikazio-estrategia gehiegi erabiltzeak batzuetan ulergarritasuna zaildu dezake, nahiz eta hori akatsen seinale zuzena izan ez. Era berean, ikasleen akatsak hobeto ulertzeko, garrantzitsua da erroreak, huts egiteak eta lapsusak bereiztea, bakoitzak izaera eta irtenbide desberdinak baititu.
+
+Akatsak errore, huts egite eta lapsus artean banatzearen sailkapena Norrishi zor zaio[@norrishLanguageLearnersTheir1983] euskarazko itzulpena ere baduena [@norrishHizkuntzIkasleenErroreak1989].
+
+-   **Erroreak**
+
+    -   Desbideratze sistematikoak dira.
+
+    -   Ikasleek behin eta berriz egiten dituzte, hizkuntzaren arauak ez dituztelako ondo ikasi edo ulertu.
+
+    -   Adibidea: ikasle batek uste du subjektua euskaraz ergatiboarekin markatu behar dela beti.
+
+-   **Huts egiteak**
+
+    -   Desbideratze aldakorrak dira.
+
+    -   Ikasleak araua ezagutzen du, baina batzuetan aplikatzea ahaztu edo gaizki egiten du.
+
+    -   Abildade falta edo ziurgabetasunarekin lotuta daude.
+
+    -   Adibidea: batzuetan ikasleak objektu zuzen pluralarekiko komunztadura egoki erabiltzen du, baina beste batzuetan ez.
+
+-   **Lapsusak**
+
+    -   Arretarik ezaren, oroimen hutsaren edo nekearen ondoriozko akats puntualak dira.
+
+    -   Ez dute loturarik hizkuntza ezagutzarekin edo gaitasunarekin.
+
+    -   Jatorrizko hiztunek ere egiten dituzte.
 
 ## Irakaslea eta erroreak
 
@@ -135,7 +229,7 @@ Hutsegiteak ikaskuntza prozesuaren parte naturala dira eta irakasleek hori ulert
 Irakasleek erroreak zuzentzeko zenbait teknika erabil ditzakete, Grymonprezek eta beste adituek proposatutako irizpideak jarraituz, hala nola ikaslearen autonomia garatzea, ikasleei pertsonalizatutako irtenbideak eskaintzea, eguneroko jardueretan txertatzea eta errore berari egoera ezberdinetan aurre egitea. Teknika horien artean, portfolioen erabilera, lexiko berriaren bilketa, web-blogen sortzea, "Eguneko errorea" lantzea, ikasleen arteko idazlanen trukaketa, klasean zuzenketak egitea, talde-lanak, ahozkotasuna lantzeko grabazioak, hutsegiteen artxiboa, idazkera eredugarrien bilduma, testuen itzulpena eta beridazketa, eta ikasleen elkarrizketak aipatzen dira. Garrantzitsua da teknika hauek ikasgelan modu egokian aplikatzea, ikasleen hizkuntza gaitasuna hobetzea xede dutelarik.
 
 | Teknika | Azalpen Laburra |
-|----|----|
+|------------------------------------|------------------------------------|
 | Portfolioa | Ikasleen lanak bildu eta berrikusteko. |
 | Lexiko Berriaren Egunkaria | Hitz berriak eta gakoak jasotzeko. |
 | Interneteko Baliabideak | Feedbacka eskatzen duten baliabideak erabiltzea. |
@@ -160,7 +254,7 @@ Irakasleek erroreak zuzentzeko zenbait teknika erabil ditzakete, Grymonprezek et
 ### Zenbait iradokizun
 
 | Puntu/Iradokizuna | Laburpena |
-|----|----|
+|------------------------------------|------------------------------------|
 | Huts-egiteak eta erroreak bereiztea | Ikasleek hutsegiteak beren kabuz zuzen ditzakete; erroreak beste baten laguntzarekin egin behar dute. |
 | Erroreen balioa eta larritasunaz | Erroreen eta hutsegiteen balioa eta larritasuna testuaren testuinguruan ulertzen da, ez esaldi solteetan. |
 | Irakasleen arduraz hizkuntzaren erabileran | Hizkuntzaren erabilera zuzen eta egokia irakasle guztien ardura da. |
@@ -170,3 +264,17 @@ Irakasleek erroreak zuzentzeko zenbait teknika erabil ditzakete, Grymonprezek et
 | Erroreen zuzenketen metodologiez | Erroreen zuzenketak lantzeko metodologia, teknika eta prozedurak garatu behar dira. |
 | Erroreen tratamenduaz | Errorea erakustea beharrezkoa bada ere, horretaz ohar dadin prozedura bat eskaini behar zaio. |
 | Jarraibideen diseinuaz | Irakasleek ikasgaiaren eta taldearen ezaugarrien arabera erroreak tratatzeko jarraibideak diseinatu behar dituzte. |
+
+Erroreen larritasunaren azterketak argi uzten duenez, akats guztiak ez dira berdin ulertu behar, ezta berdin tratatu ere. Ulergarritasuna, testuingurua eta akatsen izaera ulertzeak irakasleei aukera ematen die ikasle bakoitzaren beharrak modu zehatzagoan lantzeko. Gainera, irakasleek jarrera positiboa eta eraikitzailea mantentzea funtsezkoa da, akatsak ikas-prozesuaren zati naturaltzat hartuz eta ikasleen konfiantza sustatuz.
+
+Azkenik, erroreak, huts egiteak eta lapsusak bereiztea ez da soilik irakaslearen lana errazten duen sailkapena; ikaskuntzaren inguruko ikuspegi zabalago bat eskaintzen du, non akatsak ez diren porrotaren seinale, baizik eta ikasleen garapenerako ezinbesteko urratsak. Horregatik, irakasleek akats bakoitza testuinguruan ulertu eta feedback egokia emateko estrategiak garatu behar dituzte, ikasleak motibatu eta hizkuntzaren erabileran aurrera egiteko bidean laguntzeko.
+
+::: callout-warning
+## Ariketa
+
+Aztertu LHko ikasleek egindako testu idatziak. Bertan agertzen diren erroreak identifikatu, sailkatu eta horietan oinarrituta, egin irakasleak ikaslearekin egin beharrekoaren proposamen justifikatua.
+
+Aukeratu hiru testu, bata euskaraz, beste bat gaztelaniaz eta bat aukeran (ingelesa ere aukeragai dago, zure gaitasunaren arabera).
+
+Lana banaka egin behar bada ere azterketarekin taldean hastea komeni da. Taldekideek ez dute testurik errepikatuko.
+:::
