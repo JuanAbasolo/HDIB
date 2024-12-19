@@ -48,15 +48,7 @@ book:
    - E01-Bideo_txorten_ebaluazio_errubrikak.qmd
    - E02-Role_playingaren_ebaluazio_errubrikak.qmd
    - E03-Sekuentzia_Didaktikoaren_ebaluazio_errubrikak.qmd
-       # - 07-Role_playing.qmd
-       # - 08-IKT(1)eus.qmd
-       # - 09-IKT(2)tresnak.qmd
-       # - 10-Erroreak.qmd
-       # - 11-Estrategiak.qmd
-       # - 12-Bronckart.qmd
-       # - 13-Ebaluazioa.qmd
-       # - 14-Azterketa.qmd
-
+   - E04-Portfolioaren_egitura_ta.qmd
 
 bibliography: references.bib
 csl: '../../eu/apa-eu.csl'

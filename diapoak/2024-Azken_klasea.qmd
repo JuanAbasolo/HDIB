@@ -1,0 +1,130 @@
+---
+title: "Azken klasea 👋"
+author: "Juan Abasolo"
+format: 
+    revealjs: 
+        theme: [dark, css/nire.scss]
+        css: [css/logo.css]
+        footer: "Azken klasea, laburpena - 2024"
+        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
+        self_contained: true
+        slide-number: true
+editor: visual
+bibliography: ../HDIB-2024/references.bib
+csl: '../../eu/apa-eu.csl'
+---
+
+# Gaur oratzekoak
+
+. . .
+
+1️⃣ Ebaluatu irakaslea eta ikasgaia
+
+2️⃣ Ebaluagaiez hitz egin: portfolioa, lan idatzia.
+
+3️⃣ Portfolioa: elementuak eta zelan entregatu.
+
+4️⃣ Lan idatzia: sistema
+
+5️⃣ Portfolioa eta lan idatzia: denborak
+
+## 1️⃣ Ebaluatu irakaslea eta ikasgaia
+
+. . .
+
+Sartu egelan eta hor bete idatzizko ebaluazioa
+
+## 2️⃣ Ebaluagaiez hitz egin: portfolioa, lan idatzia
+
+## 3️⃣ Portfolioa: egitura eta entregarako bidea
+
+. . .
+
+☕/🍺 + 🗣️
+
+. . .
+
+### oharrak
+
+Portfoliak **sarrera** eta **hiru atal** izango ditu.[\*](../diapoak/2024-Azken_klasea.html)
+
+------------------------------------------------------------------------
+
+### Sarrera
+
+-   ikasgaiaren balorazio orokorra
+
+-   ikasleak zehaztuko du bere lanbiderako **zein ikaskuntza** eskuratu duen **zein lan eginaz**.
+
+------------------------------------------------------------------------
+
+### Atalak
+
+1.  Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma
+2.  Ikastetxearen antolakuntza, ikaskuntzak eta hizkuntzen ikaskuntza
+3.  Gelako praktikaren antolakuntza eta hizkuntza
+
+. . .
+
+**Atal bakoitzak izango du bere sarrera**, lanen zerrenda eta lanen azalpen pedagogikoa
+
+------------------------------------------------------------------------
+
+### Lanak eurak
+
+Ordenan honela:
+
+-   Lanaren aurkezpena (paragrafo bat gehienez)
+
+-   Lana bera
+
+-   Lanaren balorazioa (paragrafo bat gehienez)
+
+------------------------------------------------------------------------
+
+Bertsio bi, bata digitala 🖥️ eta bestea paperean 📜, **biak derrigorrezkoak**.
+
+. . .
+
+Bertsio digitala: Zeregina egongo da egelan.\
+🤔 Noizko?
+
+. . .
+
+Paperezko bertsioa azterketa egunerako, beranduenik
+
+## 4️⃣ Lan idatzia: sistema
+
+. . .
+
+Lan Idatzia egiteko dokumentu bat pasatuko zaizue egelan.
+
+Bertan idatzi beharko duzue.\
+Kopiatu eta itsasteak zuzenean ez gainditzea eragingo luke.
+
+Irakurri adi eta egoera ebazteko testua sortzeko denbora hartu. Egin autoebaluazioa amaitutzat jo aurretik.
+
+. . .
+
+🤔 Noiz?
+
+. . .
+
+🤔 Noizko?
+
+## 5️⃣ Denborak
+
+Portfolioa aurten entregatu behar da.\
+Portfolioa entregatzeko azken eguna pasatu arte, ez da egongo ikusgai idatzizko lana egiteko dokumentua ezta lana bera ere.
+
+Lana egiteko 5 egun izango duzue.
+
+------------------------------------------------------------------------
+
+### Proposamena
+
+Portfolioa: `2024-12-31` amaituta eta entregatuta egelan
+
+Lan idatzia: `2025-01-07` jaso / `2025-01-12` amaituta
+
+# Galderak eta kontuak

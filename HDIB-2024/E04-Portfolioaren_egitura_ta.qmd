@@ -1,0 +1,99 @@
+# Portfoliorako oharrak
+
+Portfoliak sarrera eta hiru atal izango ditu.[\*](../diapoak/2024-Azken_klasea.html)
+
+**Sarrera**n egingo da ikasgaiaren balorazio orokorra eta ikasleak zehaztuko du bere lanbiderako zein ikaskuntza eskuratu duen zein lan eginaz.
+
+Atalak izango dira ikasgaian "gai" moduan aipatuak:
+
+1.  Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma
+2.  Ikastetxearen antolakuntza, ikaskuntzak eta hizkuntzen ikaskuntza
+3.  Gelako praktikaren antolakuntza eta hizkuntza
+
+**Atal bakoitzak izango du bere sarrera**, lanen zerrenda eta lanen azalpen pedagogikoa
+
+Segidan lanak ordenan aurkeztuko dira honela:
+
+-   Lanaren aurkezpena (paragrafo bat gehienez)
+
+-   Lana bera
+
+-   Lanaren balorazioa (paragrafo bat gehienez)
+
+Hemendik aurrera, gairik gai, atalik atal lanen zerrenda, portfolioak gorde beharreko egitura.
+
+------------------------------------------------------------------------
+
+## Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma
+
+### Curriculumaz
+
+Balizko txostenaren aurkezpena:
+
+### EEMB eta Hizkuntzen Portfolio Europarra
+
+-   EEMB mailen analisia: Ikasleek, banaka edo bikoteetan, EEMB maila bat aukeratu eta horri buruzko poster bat sortuko dute.
+-   Norberaren HPE: Ikasleek beraien HPE propioa sortuko dute, hizkuntza ikaskuntza ibilbidea eta hizkuntza gaitasunak islatuz. Etxerako lana
+
+### IKT hizkuntzaren erabilera eta hizkuntz paisaia
+
+-   Ariketa 2/2 Taldekideon artean aztertu binaka edo hirunaka zuon idatziak IDATapp erabilita\
+    labur.eus/idat-app\
+    Taldekideon artean eztabaidatu zuok baliabideon erabilgarritasuna gelan.\
+    Zerk lagunduko lioke gelako irakasleari ikasleen idazketa prozesuan aurrera egiten
+
+-   Euskaraz (ere ba)diren webguneen zerrenda sailkatu\
+    Zuon ekarpenen atala
+
+### Mintegiko txostena
+
+-   Txostena
+
+-   Eraikuntza prozesua
+
+## Ikastetxearen antolakuntza, ikaskuntzak eta hizkuntzen ikaskuntza
+
+Tarte honetako atal bakoitzean eskatu zitzaizuen gaiari heltzeko egoera komunikatibo bat diseinatzea. Bakoitzean bat aukeratu eta justifikatu (teorian eginda dago)
+
+### Hezkuntzaren lau zutabeak eta gaitasun giltzarriak hizkuntzen didaktikan
+
+-   Konpetentzien ikuskeraren alderaketa (taula sortu zenuten)
+-   Aztertu gaur eguneko legeak gaiaren argitara
+-   Egoera komunikatiboa
+
+### Euskal Hezkuntza Sistemako Eleaniztasuna
+
+-   Inguruko ikastetxeen sailkapen eta azterketa
+-   Egoera komunikatiboa
+
+### Hizkuntzen Trataera Bateratuaz
+
+-   Hizkuntzen arteko elementu eta gaitasun transferigarriak
+-   Egoera komunikatiboa
+
+### Hizkuntzak eta Edukiak Batera Ikastea
+
+-   HDIB/CLIL zein ikasgai eta mailatan, zergatik
+-   Egoera komunikatiboa
+
+## Gelako praktikaren antolakuntza eta hizkuntza
+
+### Hizkuntzen irakaskuntzarako metodologien bilakaera
+
+-   Testuaren galderari erantzun
+-   Galderen erantzunak
+-   Zuon eta Van Pattenen erantzunen arteko aldea
+
+### Ikaskuntzarako Diseinu Unibertsala eta hizkuntza
+
+-   Kapituluaren argitara praktiketako azalpen eta balorazioa
+
+### Testua i(ra)kasgunea
+
+-   Taula batean zehaztu bosna ekintza komunikatibo, zu barne hartzen zaituenak irakaskuntzako subjektu legez. (osagarriak aztertuta)
+-   Ahozko testua eta moldaketak testu-arkitekturan
+-   Sekuentzia Didaktikoaren proposamena
+
+### Lapsusak, huts egiteak eta erroreak
+
+-   Testu idatziak aztertu: erroreak identifikatu, sailkatu eta horietan oinarrituta, egin irakasleak ikaslearekin egin beharrekoaren proposamen justifikatua. Aukeratu hiru testu, bata euskaraz, beste bat gaztelaniaz eta bat aukeran (ingelesa ere aukeragai dago, zure gaitasunaren arabera). Taldekideek ez dute testurik errepikatuko.
