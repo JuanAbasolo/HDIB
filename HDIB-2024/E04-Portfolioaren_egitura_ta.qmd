@@ -28,7 +28,7 @@ Hemendik aurrera, gairik gai, atalik atal lanen zerrenda, portfolioak gorde beha
 
 ### Curriculumaz
 
-Balizko txostenaren aurkezpena:
+-   Balizko txostenaren aurkezpena
 
 ### EEMB eta Hizkuntzen Portfolio Europarra
 
@@ -41,9 +41,6 @@ Balizko txostenaren aurkezpena:
     labur.eus/idat-app\
     Taldekideon artean eztabaidatu zuok baliabideon erabilgarritasuna gelan.\
     Zerk lagunduko lioke gelako irakasleari ikasleen idazketa prozesuan aurrera egiten
-
--   Euskaraz (ere ba)diren webguneen zerrenda sailkatu\
-    Zuon ekarpenen atala
 
 ### Mintegiko txostena
 
