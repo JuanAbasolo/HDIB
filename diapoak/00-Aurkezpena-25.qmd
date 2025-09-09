@@ -1,0 +1,214 @@
+---
+title: "Hizkuntzen Didaktikarako Ikuspegi Berriak"
+author: 
+    - name : "Juan Abasolo"
+      filiation: UPV/EHU
+date: 2025-09-10
+format: 
+    revealjs:
+        theme: [dark, css/nire.scss]
+        logo: '../HDIB-2025/assets/00/HDIB_biribil_baltz.png'
+        css: 'css/logo.css'
+        embed-resources: true
+        slide-number: true
+editor: visual
+bibliography: '../HDIB-2023/references.bib'
+csl: '../../eu/apa-eu.csl'
+---
+
+I(ra)kasgaiaren inguruko ikuspegia
+
+... lekua
+
+... antolamendua eta egitura
+
+... gaiak, edukiak eta denboralizazioa
+
+... irakaslea
+
+## I(ra)kasgaiaren inguruko ikuspegia
+
+Hizkuntzen Didaktikarako Ikuspegi ~~Berriak~~...
+
+. . .
+
+bainoago
+
+. . .
+
+*Gaur* Hizkuntzen Didaktikarako *erabiltzen diren* Ikuspegiak
+
+. . .
+
+Lagunartean: **HDIB**
+
+## Lekua {.scrollable}
+
+Prestakuntzaren garrantzia: hurrengo belaunaldien hezitzaile
+
+. . .
+
+Edukia jakitea (hizkuntza prestakuntza)
+
+. . .
+
+Irakasten jakitea: prestakuntza didaktikoa (hizkuntza irakasteko)
+
+. . .
+
+Esparrua mugatu, ideia garrantzitsu batzuen berri jakin
+
+Hori dena, gogoeta egiteko jarrerarekin (\[errezeta gutxi\])
+
+. . .
+
+### Ikasgaiaren lekua ikasketa planetan
+
+4.  ikasturtean\
+    Hizkuntzen ikas-irakaskuntzaren eremuan Gaur egun indarrean diren ikuspegi, jardunbide eta baliabide batzuen inguruan gogoeta
+
+## Antolamendua eta egitura
+
+. . .
+
+15 aste [(13?)]{style="color:lightgrey;"}
+
+Bi zati (jatorrizko diseinuan bi irakasle)
+
+Alde teorikoa
+
+Alde praktikoa
+
+. . .
+
+Aurton, mix... ta hiru zati
+
+## Gaiak, edukiak eta denboralizazioa
+
+##  {.scrollable}
+
+::: panel-tabset
+### 1-5 📹
+
+1.  Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma 📹
+    -   Curriculuma zer litzatekeen
+    -   Europako Erreferentzi Markoa: Hizkuntzen Ikaskuntza Irakaskuntza eta Ebaluaziorako Europako Erreferentzia Markoa `(2)`
+    -   Immigrazio hizkuntzen trataera `(barria)`
+    -   IKTak eta hizkuntza `(9 eta 10)`\
+        [Aste honetan lehenengo mintegia]{style="color: darkred"}
+    -   `📹`
+
+### 6-10 🗨️
+
+2.  Ikastetxeko hizkuntzen antolakuntza 🗨️
+    -   Gaitasunak eta hezkuntza sistema – Hizkuntza-komunikaziorako gaitasuna `(3)`
+    -   Euskal hezkuntza sistemako eleaniztasuna: Diglosiatik elebitasunera eta handik eleaniztasunera `(4)`
+    -   Hizkuntzen Trataera bateratua (HTB) `(6)`
+    -   Hizkuntzak eta Edukiak Batera Ikastea (HEBI) *CLIL* `(7)`[Aste honetan bigarren mintegia]{style="color: darkred"}
+    -   Role Playing-eta
+
+### 11-15 🧑‍🏫
+
+3.  Gelako praktikaren antolakuntza eta hizkuntza
+    -   Irakaskuntzarako Diseinu Unibertsala (IDU) eta hizkuntza `(barria)`
+    -   Proiektuak, atazak eta hizkuntza `(12 b)`
+    -   Interakzionismo-soziodiskursiboaren ikuskera. Testua ikasgunea.
+    -   Sekuentzia Didaktikoak `(12 c + barri)`
+    -   Hizkuntzan akatsak. Lapsusak, erroreak `(11)`
+:::
+
+## 📹 Bideoak
+
+Talde bakoitzak lan bat, interesaren neurrien eta taldearen neurriaren araberakoa.
+
+Hizkuntza eta eskola ikuskera kritikotik kolpeta, bideo sorta bat. Bakoitza minutu batetik beherakoa. Dagokion txostenarekin.
+
+## 🗨️ Role playing
+
+Talde bakoitzak lan bat, zerrendako gai banari buruz
+
+20 minutuko hitzaldi bat aurkeztu (maila ertaineko prestakuntza duen publikoaren aurrean)
+
+Hitzaldi horren diapositibak oharrekin edota baliabideak
+
+## 🧑‍🏫 Diseinu didaktikoa
+
+Hizkuntzen didaktikan erabiltzen diren ikuskeratik bideratuta, proposamen didaktikoa.
+
+## 📔 Portfolioa
+
+Egindako lanen txosten antolatua, bakoitzak berea. Sarrera eta ondorioak atalekin.
+
+## Ebaluazio / kalifikazioa
+
+-   Proba idatzia %40
+-   Ahozko defentsa %4
+-   Praktikak %5
+-   Banakako lanak %6
+-   Talde lanak %15
+-   Lanen aurkezpenak: %15
+-   Portfolioa %15
+
+. . .
+
+::: {.callout-note collapse="false" appearance="default" icon="true"}
+## Gogoan izan:
+
+Irakasgaia gainditzeko ezinbestekoa da hizkuntza koherentziaz, zuzentasunez eta egokitasunez erabiltzea, ahoz eta idatziz
+:::
+
+## Irakaslea...
+
+`juan.abasolo@ehu.eus`
+
+Telegram: `@JuanAbasolo`
+
+3S40B
+
+Tutoretzak: [labur.eus/JAbasolo-tutoretzak](http://labur.eus/JAbasolo-tutoretzak)
+
+Apunteak: [labur.eus/HDIBapunteak](https://labur.eus/HDIBapunteak)
+
+## {background-color="darkred"}
+
+Taldea: [eskatu irakasleari]{style="color:lightblue"}
+
+Taldeak sortu: [eskatu irakasleari]{style="color:lightblue"}
+
+Ikaslearen fitxa: [eskatu irakasleari]{style="color:lightblue"}
+
+Taldearen fitxa: [eskatu irakasleari]{style="color:lightblue"}
+
+# Curriculuma zer den
+
+## {background-color="darkred"}
+
+::: callout-warning
+#### Ariketa
+
+**Irakasleak pasatuko dizun dokumentu bat**ean islatu behar duzu zelan definitzen den eta ze toki duten azken legeetan komunikazioak eta hizkuntzak. Ondoren zein alde dagoen legeon artean laburbildu behar duzue.
+
+Amaitzeko, alde horren interpretazio laburra idatzi beharko du taldekide bakoitzak.
+:::
+
+# 👷‍♀️ Lanari ekiteko tartea 👷  {background-color="darkgrey" style="text-align:center; font-size:64px; padding-top:30vh;"}
+
+## {background-color="darkred"}
+
+::: callout-warning
+## Egin beharrekoaren deskribapen laburra
+
+Dagoeneko sailkatzen eta hasi zaretenez, orain irudikatu behar duzue nola jarraituko lukeen zuen lanak, txosten itxura erabat hartuta (denek edo guztiok hori egin duzue).
+
+Testua idatzi behar duzue pasatu zaizuen dokumentuaren hasieran.
+
+**Izenburua:** `Hizkuntza` eta `Komunikazioa` curriculum dekretu berrian
+
+**Testua:** Txosten (hipotetiko) baterako aurkezpena.
+
+**Nork idatzia**: Hizkuntzak eta komunikazioak curriculum berrian zer toki hartzen duen aztertzeko claustroan erabakitako irakasle taldeak
+
+**Nork irakurtzeko**: Claustro osoak, irakasle bakoitzak txostena nola erabili erabakitzeko.
+
+**Zertarako ari zareten idazten**: Zuen claustrokideak informatzeko zer duten eskuartean eta zer aurkituko duten hor.
+:::

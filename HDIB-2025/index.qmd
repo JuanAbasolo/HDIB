@@ -1,0 +1,55 @@
+# Aurretikoak {.unnumbered}
+
+Ikasturte honetarako apunteak eguneratzen ari naiz; beraz, izan kontuan aldaketak egingo direla apunteotan ikastaroan zehar.
+
+Informazio legal, ofizial eta abar: [Fakultateko webgunean](https://www.ehu.eus/eu/web/bilboko-hezkuntza-fakultatea/graduak/lehen-hezkuntza) eta [hemen](https://www.ehu.eus/eu/web/graduak/haur-hezkuntzako-gradua-bizkaia/kreditu-eta-irakasgaiak?redirect=consultaAsignatura&anyo-academico=20250&ciclo=X&curso=4&asignatura=27574) gida bera.
+
+## Gaiak eta denboralizazio proposamena
+
+Grebak, interesak, premiak eta abar tarteko, ikusteko dago ea zenbatean segitzen diogun hurrengo astez asteko proposamenari:
+
+0.  Aurkezpena eta sarrera
+1.  Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma
+    -   Zer den eta litzatekeen curriculuma [\*](../diapoak/00-Aurkezpena-25.html) `(1)`
+    -   Europako Erreferentzi Markoa: Hizkuntzen Ikaskuntza Irakaskuntza eta Ebaluaziorako Europako Erreferentzia Markoa `(2)`
+    -   Immigrazio hizkuntzen trataera `(barria)`
+    -   IKTak eta hizkuntza `(9 eta 10)`\
+        [Aste honetan lehenengo mintegia]{style="color: darkred"} (?) (Adimen Naturalaz) <!--# ** -->
+    -   IKT eta hizkuntza, jarraipena\
+        Ebaluazioa: Bideoak
+2.  Ikastetxeko hizkuntzen antolakuntza
+    -   Gaitasunak eta hezkuntza sistema – Hizkuntza-komunikaziorako gaitasuna `(3)`
+    -   Euskal hezkuntza sistemako eleaniztasuna: Diglosiatik elebitasunera eta handik eleaniztasunera `(4)`
+    -   Hizkuntzen Trataera bateratua (HTB) `(6)`
+    -   Hizkuntzak eta Edukiak Batera Ikastea (HEBI) *CLIL* `(7)`\
+        [Aste honetan bigarren mintegia]{style="color: darkred"} (Erreferentzia kudeatzailea)
+    -   Role Playing
+3.  Gelako praktikaren antolakuntza eta hizkuntza
+    -   Hizkuntzen irakaskuntzarako metodologien bilakaera `(12 a)`
+    -   Irakaskuntzarako Diseinu Unibertsala (IDU) eta hizkuntza `(barria)`
+    -   Interakzionismo-soziodiskursiboaren ikuskera. Testua ikasgunea.
+    -   Sekuentzia Didaktikoak `(12 c + barri)`
+    -   Hizkuntzan akatsak `(11)`
+    -   Birpasa eta azterketaren prestaketa.
+
+### Mintegietan
+
+Mintegiak erabiliko dira GrAL-era begirako tailerrak egiteko.
+
+1.  Lehenengoa Berezko Adimen (naturalaz) zelan erabili "Ñadimen" artifiziala
+
+2.  Idatzi akademikoan erreferentzien kudeaketa.
+
+## Kontaktua, tutoretzak eta abar
+
+[ ](mailto:juan.abasolo@ehu.eus){.bi-envelope} juan . abasolo \@ ehu . eus
+
+[ ](http://t.me/JuanAbasolo){.bi-telegram} Telegram[^index-1]: \@JuanAbasolo
+
+[^index-1]: Komentatzekoa pertsonala bada; bestelakoetarako erabili klaseko Telegrameko taldea, mesedez.
+
+[ ](){.bi-building} Bulegoa: 3S40B
+
+[ ](tel:+34946017567){.bi-telephone} (+34) 94 601 7567
+
+[ ](https://labur.eus/JAbasolo-tutoretzak){.bi-clock} Tutoretzak: <http://labur.eus/JAbasolo-tutoretzak>

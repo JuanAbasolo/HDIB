@@ -1,0 +1,344 @@
+# Bigarren gaia
+
+Gaia: Ikastetxearen antolakuntza, ikaskuntzak eta hizkuntzen ikaskuntza
+
+Proiektua: Ikastetxe batean hizkuntzen antolakuntzaren inguruko role playinga antolatu, Kasu Azterketan oinarrituta.
+
+::: callout-caution
+### Kasuen Azterketa: Ikastetxearen antolakuntza, ikaskuntzak eta hizkuntzen ikaskuntza
+
+Proiektu hau Kasu Azterketa eta Proiektuetan Oinarritutako Ikaskuntza (POI) metodologietan oinarritzen da. Ikasleek kasu errealak aztertuko dituzte, arazoak identifikatu eta proposamenak argudiatzeko. Talde bakoitzak 20 minutuko hitzaldia edo diskurtsoa prestatu beharko du role playing teknika erabiliz. Taldekideek gaiaren inguruan aditu bihurtu beharko dute eta kasu azterketa bat egingo dute.
+
+**Baldintzak:**
+
+-   Taldekide bakoitzak rol definitua izango du.
+-   Gutxieneko iraupena: 20 minutu.
+-   Ikastalde osoa aurkezpenean izango da (11. astean).
+-   Lana txosten idatziarekin lagunduko da.
+
+**Ebaluazioa:**
+
+-   Edukia eta adierazpidea (zuzentasuna, egokitasuna, koherentzia, kohesioa).
+-   Sinesgarritasuna eta konbentzitzeko indarra.
+-   Azken notari dagokionez, lanaren balioa notaren %50 izanen da.
+-   Zehaztapen edo aldaketa oro irakaslearekin adostu behar da.
+
+**Helburuak:**
+
+-   Diskurtso profesionalen eduki eta moldeak ezagutzea.
+-   Eduki teoriko-praktikoak zentzunez lantzea eta aplikatzea.
+-   Argudiaketa eta komunikazio gaitasunak garatzea.
+-   Kasu Azterketa eta POI metodologiak konbinatzea egoera errealak aztertzeko eta konponbideak proposatzeko.
+-   Hizkuntzen antolakuntzaren eragina ulertzea ikastetxeetan.
+-   Taldeko lana eta kooperazioa sustatzea.
+
+Ikasleek kasu errealak aztertuko dituzte hizkuntzen trataera eta antolaketa ikastetxe batean ikertuz. Role playing teknikarekin egoera horiek simulatuko dituzte eta txosten idatzi baten bidez emaitzak aurkeztuko dituzte. Proiektu honek teoria eta praktika uztartuz ikasleen ikaskuntza aberastuko du.
+
+**Egitekoak:**
+
+-   Talde bakoitzak bere gaiari buruz aditu bihurtzea, literatura eta dokumentazioa aztertuz.
+-   Dokumentazioa sakon aztertzea, bibliografia eta ikerketa lanak erabiliz.
+-   Ikastetxe bateko prozesuak eta egoerak aztertzea, parte-hartzaileekin elkarrizketak eginez.
+-   Role playing bidez komunikazio egoera bat planteatzea, teoria praktikan jartzeko.
+-   Txostena idaztea, ikerketa prozesua, lortutako datuak, analisia eta ondorioak barne hartuz, baita role playingaren diseinua eta emaitzak ere.
+:::
+
+### Pedagogia mota
+
+Metodologia Aktiboak atalean zehazten den moduan, Bilboko Hezkuntza Fakultateak IKD ereduaren barnean Proiektuetan Oinarritutako Ikaskuntzen (POI) eta Kasuen Azterketaren (KA) aldeko postura du egina. Proiektu honetan bien arteko integrazioa egiten da; UPV/EHUk aukeratutako ereduarekin bat eginaz. Ikasleek kasu errealak aztertuko dituzte, arazoak identifikatuz eta konponbideak proposatuz. POI metodologiak ikasleen autonomia, kolaborazioa eta arazoen ebazpenerako gaitasunak garatuko ditu.
+
+POI metodologiaren ardatzak ikaslea eta bere ikaskuntza-prozesua dira. Proiektuaren xedea erronka edo egoera-gako batean datza, eta horri aurre egiteko, ikasleek taldeka lan egin beharko dute. Gidoien bidez, ikerketa-bidea eraikiko dute eta proiektua gauzatzeko urratsak emango dituzte. Ibilbideari jarraituz, proposatutako emaitza lortuko da, hasierako eskakizunei erantzunaz [@bilbokohezkuntzafakultateaLehenHezkuntzaModuluaren2023].
+
+Ikasle-taldeek proposatutako egoera aztertu eta horren arabera lana antolatu behar dute, jardueren plangintza egin eta zereginak banatuz. Urratsak eman ahala, ondorengoak aurreikusi eta erabakiak hartzen joango dira prozesuan zehar.
+
+Metodologia horrek jarrera aktiboa eta taldekideekiko elkarlana eskatzen dizkio ikasleari: ideia, iritzia, teoria, saiakerak eta bestelakoak etengabe erkatu beharko ditu, adostasun arrazoitua lortzeko. Talde-gogoeta da metodologiaren muina, taldeak hasiera batean daukan ezagutzari buruzko hausnarketatik abiatuz ezagutza berria sortzera bultzatzen baitu.
+
+Kasu Azterketa lehen esan bezala, UPV/EHUk IKD ereduan txertatzen du eta Bilboko Hezkuntza Fakultateak lehenetsitako ikaskuntza aktiboetarikoa da. Esan dezagun ez garela berrikuntzaz ari, balioztapenaz baino. Metodologia bereziki baliotsu honen erabilpen didaktikorako proposamenak 1870an egin ziren Harvard Bussines Scholl-en [@perezescodaMetodologiaCasoPoco2014] Christopher Columbus Langdell irakaslearen eskutik. Horrezkero, Langdell-en hasierako proposamen horretan oinarrituta dagoela jakin zein ez, asko zabaldu eta sakondu da Kasuen Azterketan oinarritutako ikaskuntzarako bidea unibertsitatean eta hezkuntzako beste maila batzuetan ere. Lehenik eta behin, ikasleek egoera erreal eta konkretuak aztertzen dituztenez, teoria eta praktika uztartzen dira, eta horrek ikasleen ulermena eta ezagutza sakonago egiten ditu. Bigarrenik, kasu errealak aztertzeak ikasleen pentsamendu kritikoa eta analitikoa garatzen ere laguntzen du, egoera konplexuetan arazoak identifikatu eta ebazteko gaitasunak indartuz. Halaber, metodologia horrek ikasleen motibazioa eta inplikazioa areagotzen ditu, ikasitakoa errealitatean aplikatzeko aukera ematen baitie. Azkenik, Kasu Azterketa metodologiak ikasleak elkarlanean aritzera bultzatzen ditu, talde-lana eta komunikazio trebetasunak garatuz.
+
+Proposamen honetan Kasu Azterketa metodologiaren bidez, ikasle-taldeek aukeratutako ikastetxe baten hizkuntzen antolakuntza aztertuko dute. Talde bakoitzak ikastetxe horretan hizkuntzen trataera eta antolaketa nola eraiki den ikertu beharko du, datuak bildu eta analisi sakona eginez. Azterketa honetan, ikasleek egoeraren testuingurua ulertu eta egoeraren konplexutasunaz jabetu behar dute.
+
+Kasu azterketarako Bujanek [@bujanvidalesKasuAzterketaMetodoaren2001] azaltzen du Kasu Azterketa lau etapa edo urratsetan antolatu ohi dela:
+
+1.  Etapa aztertzailea
+2.  Etapa deskribatzailea
+3.  Etapa analitikoa
+4.  Etapa Sintetikoa
+
+Gai honi dagokion lanketan, Proiektuetan Oinarritutako Ikaskuntza (POI) eta Kasu Azterketa metodoak konbinatzen dira. Ikasleek kasu errealak aztertuko dituzte, ikastetxean jazotakoa deskribatu, analizatu ikasgaian ikusitakoaren arabera eta horretan oinarrituta sintetizatuko dute role playingerako proposamenean, landutakoa bere eginaz.
+
+Metodologiak ikasleen pentsamendu kritikoa eta analitikoa garatzen laguntzen du, eta aldi berean, arazo errealak konpontzeko gaitasunak lantzen ditu. Kasu Azterketa metodoa erabiliz, ikasleek errealitatean oinarritutako ikerketa egingo dute, eta horrek euren ikaskuntza esperientzia aberastuko du. Kasuak aztertzeko prozesuan, ikasleek testuingurua ulertzeko, arazoak identifikatzeko eta ebazpenak proposatzeko beharrezkoak diren trebetasunak garatuko dituzte.
+
+Kasu Azterketa eta Proiektuetan Oinarritutako Ikaskuntza konbinatuz, ikasleek ikaskuntza prozesu aberats eta sakona izango dute, teoria eta praktika uztartzen dituena, eta horrela, errealitatean oinarritutako ezagutza eta konpetentziak garatuko dituzte.
+
+```{mermaid}
+%%| label: fig-proiektu2denboralerroa
+%%| fig-width: 6.5
+%%| fig-caption: "Proiektuaren denbora lerroa"
+
+timeline
+        title "Ikastetxeko hizkuntzen antolakuntza" Proiektua
+        section Aurkezpena
+          Proiektuaren aurkezpena
+        section Edukien lanketa <br> 5. astetik 8.era
+          Gaitasunak eta hezkuntza sistema <br> Hizkuntza-komunikaziorako gaitasuna 
+            : Eskolako ariketak <br> gaitasunen sarea 
+            : Ariketa gehigarriak ?
+          Eleaniztasuna eta Hezkuntza Sistema 
+            : Eskolako ariketak <br> EAEko matrikulazioaren azterketa 
+            : Ariketa gehigarriak ?
+          Hizkuntzen Trataera bateratua (HTB) 
+            : Eskolako ariketak  <br> Komunikazio eta hizkuntz edukien sailkapena
+            : Ariketa gehigarriak
+          HEBI-CLIL 
+            : Eskolako ariketak  <br> Eduki ikasgaien aztertketa hizkuntzatik 
+            : Ariketa gehigarriak ?
+        section Banaketa
+          Aukeraketa edo zotz
+            : Ariketa gehigarriak
+        section Kasu azterketa
+          Ikastetxera joan eta aztertu 
+            : Ikastetxekoa aztertu
+            : Ikastetxekoa deskribatu
+            : Ikastetxekoa analizatu
+            : Egoerak sintetizatu
+        section Emaitzak prestatu
+          Role Playing 
+            : Diseinua <br> ikastetxean ikusitakoa oinarri 
+            : Egitea
+            : Analizatzea
+          Txostena 
+            : Idazketa <br> + Kasu azterketa <br> + Role playing
+```
+
+Proiektu honi erantzuteko ohiko talde txikietan egingo dute lan ikasleek. Proiektuaren egituraketa denborak berak hala baldintzatzen duelako, espero da ikasleek proposamena euren egoerara egokitzea. Horrela, honako zatiak proposatzen diren arren, ikasleek eurek egokituko dituztela uste da.
+
+1.  Proiektuaren aurkezpena
+2.  Edukien azalpen eta lanketak. Astean bat.
+3.  Gaien banaketa eta sakontzeko ariketa gehigarriak
+4.  Ikastetxeko kasuaren azterketa
+5.  Emaitzak prestatu eta aurkeztu
+    -   Txostenaren idazketa eta role playingaren antolaketa
+    -   Role playinga egitea eta txostena irakasleari ematea
+
+Proiektuetan Oinarritutako Ikaskuntza metodologia didaktiko bat da, non ikasleei erronka edo proiektu zabala aurkezten zaien. Metodologia honek ikasleak beren ikaskuntza-prozesuaren erdigunean jartzen ditu, eta errealitateko arazoak ebaztea helburu duen ikaskuntza esanguratsua sustatzen du [@beldarrainamorizaZelanJokatuGure2012]. Ikasleek taldeka lan egiten dute, eta ikerketa-bidea eraikitzen dute, proposatutako erronka gauzatzeko urratsak emanez. Horrek, ikasleen autonomia, sormena eta arazoak konpontzeko gaitasuna garatzen laguntzen du.
+
+Bestalde, Kasu Azterketa metodologia hezkuntza-estrategia eraginkorra da, batez ere ikasleen analisi- eta ebaluazio-gaitasunak lantzeko. Metodologia honek errealitateko egoera konplexuak aztertzea ahalbidetzen die ikasleei, teoria eta praktika uztartuz. Kasu Azterketek ikasleei gogoeta kritikoa eta erabakiak hartzeko gaitasuna garatzen laguntzen diete, eta horrela, euren ikaskuntza-prozesuan parte hartze aktiboa izatea sustatzen dute [@observatoriodeinnovacioneducativadeltecnologicodemonterreyRadarInnovacionEducativa2017].
+
+### Justifikazioa
+
+<!-- Geppetto -->
+
+Ikastetxean hizkuntzen antolakuntzak bertako ikasleen hizkuntza gaitasunetan eta ikaskuntza esperientzian eragiten du; horregatik, gaiaren lanketa funtsezkoa da "Hizkuntzen Didaktikarako Ikuspegi Berriak" ikasgaiaren barruan. Gaiak hezkuntzaren hainbat arlo eta dimentsio barne hartzen ditu, eta horietan sakonduaz, ikasleek hizkuntzen trataeraren eta antolaketaren inguruko ikuspegi zabal eta integrala lortu ahal dute.
+
+Hezkuntzaren eraldaketaren zedarritzat Jaques Delors-ek [@delorsEducationTresorEst1996] gidatutako taldearen txostena aipa genezake, edukietan oinarritzen zen hura gaitasunen garapenera bideratu beharra zehazteaz gain, unibertso osoaren hezkuntzak zeintzuk jomuga izan behar litzakeen zehaztu zen aipatu txostenean: *Ikasten ikastea*, *egiten ikastea*, *elkarrekin bizitzen ikastea* eta *izaten jakitea*. Jomugak baino, hala izendatu zituzten: *zut hagak* dira horiek. Hezkuntzak horretan oinarritu behar du lurbira osoan, baina denentzako erantzuna ez denez inorentzakoa, gaitasunok zehazte bideari ekin behar izan zitzaion. Horrela gaurko geletako *konpetentzia espezifiko* direlako horietara iristeko [@hezkuntzasaila752023DEKRETUA2023; @hezkuntzasaila772023DEKRETUA2023] ibilbidea egin behar izan dute gaitasunok; DeSeCo [@organisationforeconomicco-operationanddevelopmentDefinitionSelectionCompetences2002], Europako Legebiltzarrak <!-- AIPATU -->, estatuetako gobernuak eta azkenik Eusko Jaurlaritzako [@euskojaurlaritzaOinarrizkoGaitasunakEAEko2008] zein Nafarroako Foru Komunitateko <!-- AIPATU --> Hezkuntza Sailek euren azken egokitzapena egin arte. Zehazki hizkuntza-komunikazio konpetentzia (HKK) horri begiratzeko, *Komunikazio Gaitasuna* konstruktuari ere begiratu behar zaio [@celce-murciaCommunicativeCompetencePedagogically1995] (aurreko gaiko bigarren saioan nolabait heldua dute EEMBaren lanketarekin). Zutabeok ikasleen garapen pertsonal eta profesionala sustatu behar lukete, eta hizkuntzen didaktikan aplikatzeak ikasleek hizkuntzak ikasteko eta erabiltzeko duten modua aberasten du.
+
+Euskal Hezkuntza Sistemaren baitan, eleaniztasuna sustatzea ezinbestekoa izan da[@maiaHezkuntzaElebidunaEuskal2014; @larranagaHezkuntzaEleaniztunaPrograma2005]. Diglosiatik elebitasunera eta handik eleaniztasunera igarotzea prozesu bizkor xamarra izan da, eta prozesu horretan ikastetxeko hizkuntzen antolakuntzak rol nagusia jokatzen du. Gure ikasgeletako ikasleen famili-mahai askotan oso bestelako egoerak eta mundu ikuskerak entzun litezke. Gaur irakasle ikasketan ari den ikasle askok ingurunearen aldaketarekin jabetua da bere bizipen propioa ere izan delako. Beharrezkoa da garen egin gaituenaz oldoztea izan nahi dugunera bidea egiteko; beraz, oraingo ezaugarriak ikuskera historikoaz ulertzeko gaitasuna ere beharko du ikasleak. LHko ikasleak eleaniztasunera nola bideratzen diren aztertzeko hizkuntza politiken eta antolakuntza eraginkorren ezaugarriak aztertzea beharrezkoa denez, beharrezkoa ere bada giza-elebidun edo eleaniztuna zer den ulertzea, zein berezitasun duen eta zelan eraikitzen den, horretarako oinarri psikolinguistikoak [@cumminsHipotesisInterdependencia252005; @segalowitzCognitiveBasesSecond2010] eta soziolinguistikoak [@guaschEducacionMultilingueReto2007] ere aztertu behar dira.
+
+Hizkuntzen Trataera Bateratua (HTB) metodologiak ere tarte bat behar du gai honetan. Azpimarratzekoa da, hizkuntzen trataera koherente eta koordinatua sustatzen baitu[@guaschEducacionMultilingueReto2007]. HTBk hizkuntza desberdinen irakaskuntza eta erabilera bateratzen ditu, hizkuntza guztiek duten garrantzia eta balioa azpimarratuz [@apraizjaioEnsenanzaIntegradaLenguas2012]. Proiektu honetan, ikasleek HTB-ren aplikazioa aztertuko dute, eta metodologia honen bidez hizkuntzen irakaskuntzan eta ikaskuntzan hobekuntza proposamenak ikusiko dituzte. HTBren bidez, ikasleek hizkuntzen trataera inklusiboa eta integratua sustatzeko estrategiak ikasiko dituzte, eta hizkuntza aniztasuna eta eleaniztasuna modu koherente eta koordinatuan bultzatuko dituzte.
+
+Azkenik, Hizkuntzak eta Edukiak Batera Ikastea (HEBI) metodologia[@coyleCLILContentLanguage2012], ingelesezko CLIL[^b_zatia-1] akronimoarekin ere ezaguna, hizkuntzen irakaskuntzan eta ikaskuntzan duen eragina azpimarratu behar da. HEBI metodologia ikasleen hizkuntza gaitasunak eta edukien gaineko ezagutza batera garatzen dituen estrategia da. Proiektu honetan, ikasleek HEBIren aplikazioa eta eragina aztertuko dituzte zein gure inguruko ikastetxeetan eta hezkuntza marketingean duen hedapena. Metodologia horren bidez hizkuntzen irakaskuntzan eta ikaskuntzan nolako hobekuntza proposamenak egin diren aztertuko dute.
+
+[^b_zatia-1]: *Content and Language Integrated Learning*
+
+<!-- Geppetto -->
+
+Ikastetxeko hizkuntzen antolakuntzaren azterketa zeharo garrantzitsua da hizkuntza aniztasuna eta eleaniztasuna sustatzeko. Gai honen lanketak ikasleen pentsamendu kritikoa eta analitikoa garatzen laguntzen du. Proiektu honetan, ikasleek errealitateko egoerak aztertuko dituzte, eta hizkuntzen antolakuntza hobetzeko proposamen zehatzak nola garatu diren aztertuko dute, etorkizunean irakasle gisa izango dituzten erronkei erantzuteko tresnak eskuratuta.
+
+Gaian erabili diren eduki guztiok ikastetxearen antolakuntzan eta barne dinamiketan eragiten dute. Irakaskuntzari aurre egiteko molde berriak izateaz gain, euretariko gehienek curriculum diseinurako ikuskera ere aldatzea eskatzen dutenez, ikastetxeek euren osotasunean landu beharrekoak izaten dira. Horra zergatik den egokia gaiaren lanketarako proposatzen den pedagogia eta egiteko mota, irizpide didaktiko edo pedagogikoek irakasleriarengan izan ditzakeen antolakuntza ondorio edo ondorio pertsonalei aurrez aurre begiratzeak irakasgai emankorra ere badelako.
+
+### Lantzen diren konpetentziak
+
+Proiektu honen garapenaz ikasleak landuko ditu zehaztutako zenbait gaitasun, ikasgaiko bat, mailako bi eta UPV/EHUk zehaztutako zeharkako lau.
+
+Ikasgaian (A) Hezkuntza inguruaren azterketan oinarrituta eta gaur egun hizkuntzen ikaskuntza bultzatzeko erabiltzen diren irizpideen komenigarritasuna balioztatuta, hausnartzea eta argudiatzea, hizkuntza-komunikaziorako konpetentzian eta konpetentzia eleaniztunaren garapenean bultzatzeko.
+
+Maila: 4) Hausnartzeko eta argumentatzeko autonomia-gaitasuna garatzea ikasketen eta lanaren gaineko iritziak emateko, erabakitzeko eta hezkuntzari lotutako arazoak konpontzeko, bai bakarka bai elkarlanean. *Komunikazioa eta arloak* ardatzarekin lotua. 5) Komunikazio-gaitasunak erabiltzea Autonomia Erkidegoaren bi hizkuntza ofizialetan erreferentziako Europako esparruaren C1 maila eskuratu arte. *Komunikazioa eta arloak* ardatzarekin lotua.
+
+UPV/EHU zeharkakoak: Autonomia eta Autoerregulazioa, Gizarte Konpromisoa, Pentsamendu Kritikoa, Komunikazioa eta Eleaniztasuna.
+
+#### Ikaskuntza emaitzak
+
+A)  Hezkuntza-errealitatearen hizkuntz dimentsioaz argudiatzen du, hezkuntza inguruaren azterketan oinarritututa eta gaur egun hizkuntzen ikaskuntza bultzatzeko erabiltzen diren irizpideen komenigarritasuna balioztatuta, hizkuntz-komunikaziorako eta konpetentzia elaniztuna bultzatzea helburu.
+
+AA07 Argudio sendoak erabiliz defendatzen ditu proiektu bat garatzean berak hartutako erabakiak eta onartutako arriskuak. AA11 Kritikak modu eraikitzaile batean onartzen ditu, hobetzeko aukerak baloratuz eta bere jardunean txertatuz. AA14 Ikaskuntza esanguratsuak sortzen ditu, eta bere ikasketa arloarekin lotura zuzena ez duten testuinguru eta arlo zientifikoetatik ezagutzak aukeratzen eta integratzen ditu.
+
+GK01 Gizarte desberdintasuneko portaerak identifikatzen ditu, diseinatutako jardueretan eta/edo proiektuetan. GK02 Bere ikasketa arloaren testuinguruan, hizkuntza eta kultura aniztasuna errespetatzen duten ekintzak eta portaerak deskribatzen ditu.
+
+PK02 Egoera baten azpian dagoen arazoa identifikatzen du; hura objektiboki ulertzeko beharrezkoa den informazioa biltzen du, eta elementu esanguratsuak aukeratzen ditu. PK15 Hainbat arlotako ezagutzak erlazionatzen ditu, egoera konplexuen aurrean diziplinarteko erantzun bat emateko.
+
+KO06 Ideiak eta argudioak era ulergarrian komunikatzen ditu, ezarritako irizpide formalekin bat etorrita. KO07 Bere ideiak komunikazio eraginkortasunez adierazten ditu, hitzezko eta ez-hitzezko hizkuntzaren arteko koherentziari eutsita. KO08 Hitzezko eta ez-hitzezko adierazpena entzuleriari egokitzeko gai da, ahozko aurkezpen publiko batean, bai hizkuntza ofizialetan bai atzerriko hizkuntzetan. KO10 Ahozko azalpen batean, testuinguruaren beharren baitan kudeatzen ditu denbora eta erritmoa. KO11 Euskara eta/edo gaztelaniaren erabilera testuinguru akademiko eta/edo profesionalera egokitzen du.
+
+### Aurrezagutzak
+
+Proiektua burutzeko, ikasleek aurretik landuta izan beharko dituzte gaiari dagozkion edukiak, 2. mailako Ikastetxearen Antolakuntza ikasgaiko batzuk (*Eskola instituzioa erakunde gisa* eta *Ikastegien erakuntzaren demak*) eta 3. mailako Hizkuntzaren Didaktikakoak (*Hizkuntzen eta literaturaren curriculumaren diseinua*, *Ahozko hizkuntzaren didaktika*, *Idatzizko hizkuntzaren didaktika*, *Hausnarketa metalinguistikorako didaktika LHn*) ikasgaiko oinarriak ere beharrezkoak dira proiektuan autonomiaz aurreratzeko.
+
+### Landutako eduki teoriko-praktikoak
+
+Hizkuntzen Didaktikarako Ikuspegi Berriak ikasgaian egin beharreko bigarren lan honetan bigarren gaia landu beharko da, *Ikastetxeko hizkuntzen antolakuntza* hain zuzen ere. Zehazki gai honetan lantzekoak diren lau edukiak erabiliko dituzte ikastaldeko talde guztiek. Ikasleak denak erabiliko dituen arren, jakitun jakin baten gainean bihurtuko da.
+
+-   Gaitasunak eta hezkuntza sistema – Hizkuntza-komunikaziorako gaitasuna
+-   Eleaniztasuna eta Hezkuntza Sistema
+-   Hizkuntzen Trataera bateratua (HTB)
+-   Hizkuntzak eta Edukiak Batera Ikastea (HEBI) *CLIL*
+
+Ikasleak lan honekin ikastetxean hizkuntzaren inguruko erabakiek nolako antolakuntza-eragina izan dezakeen ikasteaz gain, ikasleen ikaskuntzarako egokienak izan litezkeen erabakiak zientzia ezagutzan oinarritzen ere ikasiko du.
+
+### Taldekatzeak: partaideen kopurua eta antolaketa
+
+Ikasleak 5 kideko taldeetan banatuko dira. Talde bakoitzak kasu bat aztertuko du.
+
+Espero da aurreko proiektuko taldeak izango direla, baina aldatu beharra egon litekeela ere ikusten da; horrelako kasuetan berregituratu daiteke gelako taldekatzea, taldekako ikasle kopuruko ber irizpideekin.
+
+### Lan zama
+
+Ikasgaiko bigarren lau astetan garatuko da lanaren edukizko atala, 5. astetik 8.era. Ikasleek eskolatik kanpoko lana 8. astetik aurrera egin beharko dute, behin gaiko eduki guztiak ikusita osatu ahal izateko.
+
+Hamaikagarren astean egingo dira role playingak eta horien gaineko eztabaida egingo da ostean.
+
+### Plangintza
+
+Proiektua aurrera eramateko bost zati zehaztu dira:
+
+Lehenengo zatia proiektuaren beraren aurkezpena izango da. Hori boskarren asteko lehenengo klasean egin beharko da; bigarren zatiak lau astez derautso<!-- LOREAri ittaunduta BANTUAZ idatzi bihar da-ta -->, gaiko eduki bakoitzari bat emango dio-eta; hirugarren zatiak zortzigarren asteko une batekoa baino ez da; laugarren zatiak, berriz, astebetean garatu behar lukete; azkenik, boskarren zatia dugu, gainontzeko ikaskideekin egin beharreko role playinga eta irakasleari txostena ematea. Azken hori hamaikagarren astean egingo da.
+
+#### Lehenengo zatia: Proiektuaren aurkezpena
+
+Zati honetan proiektua aurkeztuko zaie ikasleei.
+
+Taldeka zein banaka ikasgaian garatu beharreko zereginen bitartez, arian arian, ikasleak joango dira identifikatzen proiekturako egoki deritzen aukerak.
+
+#### Bigarren zatia: Edukien azalpen eta lanketak. Astean bat.
+
+Bigarren zatiak lau aste iraungo du. Aste bakoitzean gaiari dagokion eduki bat aurkeztuko da azalpenezko eskolez zein lanketa praktikoaz.
+
+Astean astean zereginak izango dituzte taldeek dagokion edukiaz. Irakasleak astero aztertuko ditu entregagaiak, ikaskuntza prozesua gainbegiratze helburu. Bigarren zati hau ezinbestekoa da horren gainean eraikiko baita gainerakoa.
+
+#### Hirugarren zatia: Gaien banaketa eta sakontzeko ariketa gehigarriak
+
+Bitarteko zati hau zortzigarren klaseko amaieran egingo da, ikasleekin aztertuko da interesak kontuan izanda, zelan banatu edukiak guztiak lan daitezen eta gai aukeraketa ez dadin izan desorekatua.
+
+#### Laugarren zatia: Ikastetxeko kasuaren azterketa
+
+Zatirik lantsuena izan liteke hau, ikastetxe bateko kasuaren azterketan oinarritzen baita. Taldeak astebete edo, gehien jota, aste bi emango dio honi. Behin ikastetxea identifikatuta, taldekideek ikastetxearekin harremanetan jarri eta baimenak eskuratu beharko dituzte. Ondoren, ikastetxean hizkuntzen antolakuntzari buruzko dokumentazioa bilduko dute, hala nola, hizkuntza programak, baliabideak, curriculum, eta, batez ere, irakasleekin elkarrizketak eginaz. Prozesu honen bidez, ikasleek ikastetxe horretan nola garatu den edo garatzen ari den dagokien edukia deskribatuko dute, antolakuntza eta bizipen mailan prozesua zehaztuz. Deskribapenean oinarrituta, ikasleek analisia egingo dute, aztertutako datuak baloratuz eta horien gaineko ondorioak ateraz. Azkenik, analisitik ateratako ondorioak sintetizatu eta proposamen batzuk mahaigaineratuko dituzte. Pauso hauen bidez, taldeek azterketa integrala egingo dute, eta horrek proiektuaren kalitatea eta sakontasuna bermatuko ditu.
+
+#### Bosgarren zatia: Emaitzak prestatu eta aurkeztu
+
+<!--# HOBETU... ahal ixatera !!! -->
+
+Azken zati hau ikasleen aurreko aurkezpenari dagokio. Ikasleek eratzen duten egoerarako baliabideak prestatu beharko dituzte, role playingari dagokionez.
+
+Txostena dela-eta, ez dute aurkeztu beharko gainontzeko guztia amaitu arte, balioztapena egiteko bidea ez zarratzeko. Amaitutakoan irakasleari eman beharko diote EHUbox-eko karpeta baten bitartez.
+
+### Kronograma
+
+| Zatia | Urratsa | Irakasleak | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+|----|----|----|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 1 | Proiektuaren aurkezpena | Aurkezpena egingo du | x |  |  |  |  |  |  |
+| 2 | Edukien azalpena eta lanketa | Aurkezpenak egin eta lanketan gidatu | x | x | x | x |  |  |  |
+| 3 | Gaien banaketa eta sakontzeko ariketak | Banaketa orekatua adostu eta gidatu |  |  |  | x |  |  |  |
+| 4 | Ikastetxeko kasuaren azterketa | Tutorizatu |  |  |  |  | x | x | x |
+| 5 | Emaitzen prestaketa eta aurkezpena | Ebaluatu eta kalifikatu |  |  |  |  |  |  | x |
+
+### Entregagaiak eta balioa
+
+Proiektuak bost entregagai ditu, edukiko bat eta azken txostena. Hurrengo taulan zehazten dira proiektuko entregagai eta role playingak ikasgaiko azken emaitzari zenbateko ekarpena egiten dioten.
+
+-   Eduki bakoitzeko asteko entregagaiak
+-   Txosten idatzia
+-   Role Playinga
+
+| Zatia | Astea | Entregagaia | \% | Ikasgaian |
+|---:|---:|----|---:|---:|
+| 2 | 5 | Gaitasunak eta hezkuntza sistema – Hizkuntza-komunikaziorako gaitasuna | 1 | 0.1 |
+| 2 | 6 | Eleaniztasuna eta Hezkuntza Sistema | 1 | 0.1 |
+| 2 | 7 | Hizkuntzen Trataera bateratua (HTB) | 1 | 0.1 |
+| 2 | 8 | Hizkuntzak eta Edukiak Batera Ikastea (HEBI) *CLIL* | 1 | 0.1 |
+| 5 | 11 | Txostena | 1 | 0.1 |
+| 5 | 11 | Role playinga eta debatea | 10 | 1 |
+
+: Bigarren eskola-proiektuko entregagaien hurrenkera
+
+### Ebaluazio irizpideak
+
+Hurrengo orrialdetan daude lanaren ebaluazioak egiteko sortu diren hiru errubrikak. Lehenengo biak role playingaren ebaluazioa egiteko (banakako ikuskeran eta taldekakoan), eta beste bat idatzizko lana ebaluatzeko.
+
+\begin{landscape}
+
+|   | 0-2 | 3-5 | 6-8 | 9-10 |
+|----|----|----|----|----|
+| **Edukiaren Kalitatea** |  |  |  |  |
+|  | Informazioa zehaztugabea eta urria | Informazio nahikoa baina azalekoa | Informazio egokia eta sakona | Informazio osoa, sakona eta argudiatua |
+| **Komunikazio eta Adierazpen Gaitasunak** |  |  |  |  |
+|  | Adierazpena ulergaitza eta antolatu gabea | Adierazpena argia baina batzuetan antolatu gabea | Adierazpena argia eta kohesionatua | Adierazpena oso argia, kohesionatua eta erakargarria |
+| **Errealismoa eta Sinesgarritasuna** |  |  |  |  |
+|  | Egoera eta pertsonaiak sinesgarriak ez | Egoera eta pertsonaiak sinesgarriak dira baina ez oso | Egoera eta pertsonaiak nahiko sinesgarriak dira | Egoera eta pertsonaiak erabat sinesgarriak eta koherenteak |
+| **Taldeko Lana eta Koordinazioa** |  |  |  |  |
+|  | Elkarlana eta koordinazioa ez dira nabariak | Elkarlana eta koordinazioa oinarrizkoak | Elkarlana eta koordinazioa onak | Elkarlana eta koordinazioa bikainak eta eraginkorrak |
+| **Kasuarekiko Lotura** |  |  |  |  |
+|  | Azterketarekin lotura eskasa: Egoera eta pertsonaien deskribapenak ez dira kasu errealetan oinarritzen. | Azterketarekin lotura nahikoa baina azalekoa: Egoera eta pertsonaien deskribapenak kasu errealekin lotura dute, baina azalekoak dira. | Azterketarekin lotura ona: Egoera eta pertsonaien deskribapenak kasu errealekin lotura ona dute, eta analisi sakona erakusten dute. | Azterketarekin lotura oso ona eta sakona: Egoera eta pertsonaien deskribapenak kasu errealekin lotura bikaina dute, eta analisi sakona eta zehatza erakusten dute. |
+| **Kritika eta Eztabaida Gaitasunak** |  |  |  |  |
+|  | Galdera eta kritikak ez dira erantzuten edo gaizki erantzuten dira | Galdera eta kritikak oinarrizko mailan erantzuten dira | Galdera eta kritikak nahiko ondo erantzuten dira | Galdera eta kritikak oso ondo erantzuten dira, argudio sendoekin |
+
+: Role Playing Ebaluazio Errubrika: Taldeko Dimentsioak
+
+|   | 0-2 | 3-5 | 6-8 | 9-10 |
+|----|----|----|----|----|
+| **Banakako Parte-Hartzea** |  |  |  |  |
+|  | Parte-hartzea oso urria eta apala | Parte-hartzea nahikoa baina pasiboa | Parte-hartzea aktiboa eta egokia | Parte-hartzea oso aktiboa eta aberatsa |
+| **Komunikazio Trebetasunak** |  |  |  |  |
+|  | Hitz-jarioa eta gorputz hizkuntza egokiak ez | Hitz-jarioa eta gorputz hizkuntza nahikoak | Hitz-jarioa eta gorputz hizkuntza onak | Hitz-jarioa eta gorputz hizkuntza bikainak eta eraginkorrak |
+| **Taldearekiko Inplikazioa** |  |  |  |  |
+|  | Taldeko lanean inplikazio eskasa | Taldeko lanean inplikazio nahikoa | Taldeko lanean inplikazio ona | Taldeko lanean inplikazio oso ona eta kooperatiboa |
+
+: 2. gaiko Role Playing Ebaluazio Errubrika: Banakako Dimentsioak
+
+| Irizpidea | 0-2 | 3-5 | 6-8 | 9-10 |
+|----|----|----|----|----|
+| **Gaiaren Deskribapena** |  |  |  |  |
+|  | Deskribapen azalekoa eta osatu gabea | Deskribapen nahikoa baina zenbait alderdi falta dira | Deskribapen osoa eta egokia | Deskribapen osoa, zehatza eta sakona |
+| **Analisiaren Kalitatea** |  |  |  |  |
+|  | Analisi azalekoa eta zehaztugabea | Analisi nahikoa baina azalekoa | Analisi egokia eta sakona | Analisi osoa, sakona eta logikoa |
+| **Sintesi eta Ondorioak** |  |  |  |  |
+|  | Ondorio azalek eta argudiatu gabeak | Ondorio nahikoak baina sakontasun gutxi | Ondorio sendoak eta egokiak | Ondorio oso sendoak, sakonak eta argudiatuak |
+| **Dokumentazioaren Kalitatea** |  |  |  |  |
+|  | Erabilitako iturriak gutxi eta fidagarritasun gutxikoak | Iturri egokiak baina gutxi | Iturri egokiak eta nahikoak | Iturri egoki, fidagarri eta askotarikoak |
+| **Informazioaren Fidagarritasuna** |  |  |  |  |
+|  | Informazioaren fidagarritasuna zalantzazkoa | Informazioa fidagarria baina sakontasun gutxikoa | Informazio fidagarria eta nahikoa | Informazio oso fidagarria eta sakona |
+| **Argitasuna eta Kohesioa** |  |  |  |  |
+|  | Testua ulergaitza eta desordenatua | Testua nahiko argia baina batzuetan desordenatua | Testua argia eta kohesionatua | Testua oso argia, kohesionatua eta erakargarria |
+| **Kasuarekiko Lotura** |  |  |  |  |
+|  | Azterketarekin lotura eskasa: Azterketan jasotako datuek eta ondorioek ez dute kasu errealekin lotura argirik. | Azterketarekin lotura nahikoa baina azalekoa: Azterketan jasotako datuek eta ondorioek kasu errealekin lotura dute, baina azalekoak dira. | Azterketarekin lotura ona: Azterketan jasotako datuek eta ondorioek kasu errealekin lotura ona dute, eta analisi sakona erakusten dute. | Azterketarekin lotura oso ona eta sakona: Azterketan jasotako datuek eta ondorioek kasu errealekin lotura bikaina dute, eta analisi sakona eta zehatza erakusten dute. |
+| **Ikasketa Prozesuaren Deskribapena** |  |  |  |  |
+|  | Ikasketa prozesuaren deskribapena oso azalekoa | Ikasketa prozesuaren deskribapena nahikoa | Ikasketa prozesuaren deskribapena ona | Ikasketa prozesuaren deskribapena oso ona eta sakona |
+| **Autoebaluazioa eta Hausnarketa** |  |  |  |  |
+|  | Hausnarketa eta autoebaluazioa azalekoa | Hausnarketa eta autoebaluazioa nahikoa | Hausnarketa eta autoebaluazioa ona | Hausnarketa eta autoebaluazioa oso ona eta sakona |
+
+: 2. gaiko Txostena Ebaluatzeko Errubrika
+
+\end{landscape}
+
+### Beharrezko materiala
+
+-   Lau eskoletan landutako bibliografia zein horrekin lotutako bestelako ebidentziak
+-   Ariketa edo baliabide gehigarriak, taldeari egokitu zaion edukiaren arabera
+-   Interneterako konexioa eta terminala (ordenagailua hobetsita)
+-   Grabagailua
+-   Bestelakoak, ikasleek role playinga zelan antolatzen duten (liburuak, fotokopiak, bideoak, aurkezpenak ...)
+
+### Irakaslearen funtzioa
+
+Proiektu honetan, irakasle-tutorearen funtzioa funtsezkoa izango da ikasleen ikaskuntza prozesua bideratzeko eta arrakasta erdiesteko. Irakasleak hainbat zeregin eta erantzukizun izango ditu proiektuaren atal guztietan.
+
+Proiektu honetan, irakaslearen lehen zeregina erronka aurkeztea izango da. Honen bidez, proiektuaren helburuak, faseak, zereginak, ebaluazio irizpideak eta kalifikazio sistema azalduko ditu. Abiapuntuko azalpenak eman ondoren, irakasleak astean astean eduki nagusi bat azaldu eta lantzeko ardura izango du. Ikasleek eduki hauek lantzen hasiko dira, eta pixkanaka protagonismoa hartzen joango dira. Laugarren astea igarotakoan, ikasleek protagonismo osoa hartuko dute, eta irakasleak ikasleak gidatzen eta bideratzen jarraituko du, talde-lanean eta autoikaskuntzan lagunduz.
+
+Amaierarantz, irakasleak ikasleen ikaskuntza prozesuaren jarraipena egingo du, behaketa eta balorazioa eginez. Honek ikasleen aurrerapenak eta zailtasunak identifikatzeko aukera emango dio, eta horien arabera, orientazioa eta laguntza eskainiko die. Irakasleak gidari, coach eta mentore gisa jardungo du, ikasleen ikaskuntza prozesua aberastuz eta garatuz.
+
+Proiektuaren azken fasean, irakasleak ikasleen lana ebaluatu eta kalifikatuko du, ezarritako ebaluazio irizpideen arabera. Ebaluazioa integrala izango da, txostena, role playing-a eta ikasleen ikaskuntza prozesuan zehar erakutsitako aurrerapenak kontuan hartuta. Honela, irakasleak ikasleen lanaren kalitatea eta ikaskuntza esperientziaren aberastasuna baloratuko ditu.
+
+### Emaitzak
+
+Proiektu honen azken emaitza izango da ikasleek ikastetxeko hizkuntzen antolakuntzaren inguruan egindako azterketaren eta role playingaren bidez lortutako ikaskuntza sakon eta aplikatua. Ikasleek egindako kasu azterketaren ondorioak jasoko dituen txostena aurkeztuko dute, ikastetxeko hizkuntzen antolakuntzaren deskribapena, analisia eta sintesia bilduz. Txosten horrek ikasleek landutako eduki teoriko-praktikoak oinarri hartuta azaltzeko eta argudiatzeko gaitasuna erakutsiko du.
+
+Role playing saioak antolatuz, ikasleek ikastetxeko hizkuntzen antolakuntzaren inguruko egoera bat simulatuko dute, komunikazio, talde-lana eta problemak konpontzeko gaitasunak erakutsiz. Prozesuan zehar, ikasleek hausnarketa kritikoa eta ikaskuntza prozesu sakona garatuko dute, autoebaluazio eta taldeko eztabaiden bidez. Horrek ikasitakoaren inguruko hausnarketa egiteko aukera emango die.
+
+Azkenik, ikasleek lortutako ahozko eta idatzizko komunikazio trebetasunak, role playing saioan eta txostenean erakutsiko dituzte, hizkuntza estandarra eta akademikoa zuzen eta egoki erabiliz. Gainera, proiektuaren garapenean zehar erakutsitako taldeko lana eta kooperazioa nabarmenduko dira, ikasleek elkarlanean arituz lortu dituzten emaitzak eta taldekideen arteko lankidetza modu profesionalean garatzeko gaitasuna agerian utziz. Emaitza hauek guztiek ikasleen ikaskuntza eta garapena modu integralean islatuko dute, etorkizuneko erronkei aurre egiteko prestakuntza sendoa eta praktikoa eskuratuz.

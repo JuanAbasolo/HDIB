@@ -1,0 +1,72 @@
+project:
+  type: book
+  output-dir: ../apunteak
+
+  
+book:
+  title: "Hizkuntzen Didaktikako Ikuspegi Berriak V:0.5"
+  subtitle: "2025-2026 ikasturtea - Aipamena: Hizkuntza Aniztasuna Eskolan"
+  author: 
+    name: "Irakaslea: Juan Abasolo"
+    affiliation: UPV/EHU
+    orcid: 0000-0002-1911-4118
+  # sidebar:
+  #   style: docked
+  #   background: dark
+  date: today
+  date-format: "YYYY MM DD"
+  favicon: "assets/00/hdib-logoa_zurirako.png"
+  url: 'https://juanabasolo.github.io/HDIB/apunteak/'
+  search: true
+  downloads: [pdf, epub]
+  chapters:
+   - index.qmd
+   - part: A_zatia.qmd
+     chapters:
+       - 00-Curriculumaz-ta.qmd
+       - 01-HME.qmd
+       - 02-Immigrazio_hizkuntzak.qmd
+       - 03-IKT.qmd
+   - part: B_zatia.qmd
+     chapters:
+       - 04-Lau_zutabeak.qmd
+       - 05-Diglosiatik_hona.qmd
+       - 06-Hizkuntzen_Trataera_Bateratua.qmd
+       - 07-HEBI.qmd
+   - part: C_zatia.qmd
+     chapters:
+       - 08-Metodologiak.qmd
+       - 09-IDU_hizkuntza.qmd
+       # - 10-Proiektuak_ataza_hizkuntza.qmd
+       - 10-Bronckart.qmd
+       #- 12-SD.qmd
+       - 11-Erroreak.qmd
+   - part: "Erreferentziak"
+     chapters:
+       - references.qmd
+    
+  appendices:
+   - E01-Bideo_txorten_ebaluazio_errubrikak.qmd
+   - E02-Role_playingaren_ebaluazio_errubrikak.qmd
+   - E03-Sekuentzia_Didaktikoaren_ebaluazio_errubrikak.qmd
+   - E04-Portfolioaren_egitura_ta.qmd
+
+bibliography: references.bib
+csl: '../../eu/apa-eu.csl'
+language: '../../eu/_language-eu.yml'
+lang: eu
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+  epub: default
+
+editor: visual
+
+biblio-style: apalike
+
+description: "Hizkuntzen Didaktikarako Ikuspegi Berriak ikasgaiko apunteak dira hauek. Ikasgaian aurrera egin ahala egokitzen joango dira"
+cover-image: "assets/00/hdib-logoa_zurirako.png"  # relative to index
+github-repo: JuanAbasolo/HDIB
