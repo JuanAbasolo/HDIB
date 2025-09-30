@@ -1,4 +1,4 @@
-Sakondu nahi izanez gero: @carmichaelOpenSourceAppropriate2002; @delacuevagonzalez-coteraConfiguracionSoftwareComo2019; @lakhanOpenSourceSoftware2008a; @pankajaProprietarySoftwareOpen2013; @yuEducationDomainNatural2022 @conijnHowProvideAutomated2022; @wengelinInvestigatingWritingProcesses2023; @castelloSynchronousAsynchronousCollaborative2023; @abasoloIDATTaldeLaneko2023; @stromqvistWhatKeystrokeloggingCan2006 [\*](../diapoak/02-24-IKT-ta.html)
+Sakondu nahi izanez gero: @carmichaelOpenSourceAppropriate2002; @delacuevagonzalez-coteraConfiguracionSoftwareComo2019; @lakhanOpenSourceSoftware2008a; @pankajaProprietarySoftwareOpen2013; @yuEducationDomainNatural2022 @conijnHowProvideAutomated2022; @wengelinInvestigatingWritingProcesses2023; @castelloSynchronousAsynchronousCollaborative2023; @abasoloIDATTaldeLaneko2023; @stromqvistWhatKeystrokeloggingCan2006 [\*](../diapoak/02-25-IKT-ta.html)
 
 Gaia aurreko ikasturtean bitan zabaltzen nuen eta aurten bakarrean. Horregatik, eta denbora kontuengatik, ez da koherenteegia dokumentu honetakoa eta diapositibetakoa. Gaiaren hasiera diapositibetan dago eta hemen oso gutxi landuta dago.
 
@@ -27,7 +27,13 @@ Gaia aurreko ikasturtean bitan zabaltzen nuen eta aurten bakarrean. Horregatik, 
 
 -   Hizkuntza txikion tresnak eta hizkuntza nagusienak
 
-<iframe src="https://mastodon.eus/@kilkerra/112831252777621624/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.eus/embed.js" async="async"></script>
+<iframe src="https://mastodon.eus/@kilkerra/112831252777621624/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen">
+
+</iframe>
+
+```{=html}
+<script src="https://mastodon.eus/embed.js" async="async"></script>
+```
 
 ::: callout-warning
 ## Ariketa (1/2)
@@ -51,7 +57,9 @@ Ariketa honetan espero da zuk azken testuaren ezaugarriez gain, ekoizpen prozesu
 
 [^03-ikt-1]: <https://framapad.org> gomendatu dugu klasean
 
+```{=html}
 <script src="https://mastodon.eus/embed.js" async="async"></script>
+```
 
 ------------------------------------------------------------------------
 
@@ -114,6 +122,7 @@ Lanok aurren argazkiekin argitaratu ziren jatorrizko blogean, familiek etxetik e
 Hainbat tokitan sor eta ostatu daitezke blogak, ikastetxeko zerbitzarietatik hasita.
 
 Softwareen artean zabalduena: Worpdress
+<!--#
 
 ## Bestelako zenbait erreminta ikasleek erabiltzeko
 
@@ -269,10 +278,12 @@ Aurrez aipatutako R-rako pakete hori erabil daiteke taldeko idatziak aztertzeko 
 Hiru taldetako hiru lan estrategia motaz, IDAT V0.1 erabilita aztertuta
 :::
 
-----------------------------------------------------------------------
+------------------------------------------------------------------------
+
+-->
 
 ::: callout-warning
-### Etxerako ariketa
+### Ariketa (3/3)
 
 Euskaraz (ere ba)diren webguneen zerrenda sailkatu.
 
@@ -285,6 +296,5 @@ Zerrenda horri taldekide bakoitzak beste bostekin hornitu beharko du. Bost horie
 -   Datuak batzea
 -   Erabilera didaktiko posibleak
 
-Eskatu zerrenda niri
+Eskatu zerrenda taldera bidaltzea.
 :::
-
