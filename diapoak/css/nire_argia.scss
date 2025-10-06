@@ -162,3 +162,34 @@ $link-color: #007;
   font-family: ehusanslight;
   font-weight: normal;
 }
+
+/* 1) Lerro-jauzia aktibatu beti */
+.reveal pre code,
+.reveal .sourceCode code {
+  white-space: pre-wrap !important;
+  overflow-wrap: anywhere !important;
+}
+
+/* 2) ZENBAKIDUN kode-blokeetarako (Quarto: pre.numberSource …) */
+.reveal pre.numberSource {
+  position: relative;             /* zenbaki-gutter finkatzeko */
+  padding-left: 3.5em !important; /* gutter-a: egokitu 3–4em tartean */
+  overflow-x: visible !important;
+}
+
+.reveal pre.numberSource code > span {
+  display: block;                 /* lerro bakoitza bloke gisa */
+  text-indent: 1 !important;      /* kendu hanging indent-a */
+  padding-left: 0 !important;
+}
+
+/* zenbakia ez dadila testuaren gainean sartu */
+.reveal pre.numberSource code > span > a:first-child {
+  position: absolute;
+  left: 0;
+  width: 3em;
+  text-align: right;
+  text-decoration: none;
+  pointer-events: none;
+  color: #999;
+}

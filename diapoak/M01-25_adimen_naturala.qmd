@@ -1,0 +1,235 @@
+---
+title: "Adimen Naturala<small>1. mintegia: Adimen-edo Artifizial hori<br>adimenez erabiliaz</small>"
+author: "Juan Abasolo"
+format: 
+    revealjs: 
+        theme: [css/nire.scss]
+        css: [css/logo.css]
+        footer: "Lehenengo mintegia"
+        logo: '../HDIB-2025/assets/00/HDIB_biribil_zuri.png'
+        slide-number: true
+        embed-resources: true
+editor: visual
+---
+
+# Sarrera
+
+## Esperientziak
+
+| PRO  | CON   |
+|------|-------|
+| hau  | beste |
+| bai  | ez    |
+| argi | ilun  |
+| ...  | ···   |
+
+## Azalpenak
+
+💬
+
+. . .
+
+Zuon esperientzien azalpenak, alegia
+
+# Erreminta Vs Jakintza
+
+## Erreminta ala "adimena"
+
+. . .
+
+Submarino nuklearrak baino hobeto buzeatu dezakezu?
+
+. . .
+
+Errobot batzuk montatutako automobila mekanikari batek konpontzea nahi dugu
+
+## Humanizomorfismoa... [marketing estrategia 😍]{.fragment}
+
+. . .
+
+> AIk badaki hau eta beste
+
+. . .
+
+> ez daki horri buruz
+
+. . .
+
+> pentsatzen du honela eta hala
+
+. . .
+
+> halunizatzen du...
+
+## {background-image="images/clipboard-3598052840.png" background-size="cover" backgrond-opacity="0.5"}
+
+<!--# ![](images/clipboard-3598052840.png) -->
+
+# Funtzi⚙️namenduz
+
+## Tokenak
+
+. . .
+
+<https://platform.openai.com/tokenizer>
+
+## Dimentsio anitzeko espazioa
+
+-   Puntu (elementu) bik, lerroa
+-   Hiru puntuk, planoa
+-   Lau puntuk, bolumena
+-   Bost puntuk, 4D espazioa
+-   Seik ...
+
+. . .
+
+### 🤯
+
+## Testuinguruen modelizazio matematikoa
+
+Tokenen arteko erlazioaren probabilitatearen erlazio matematikoa. Ez determinista.
+
+. . .
+
+> Zuen herriko eskola bateko testuinguru soziolinguistikoaz markoa idatzi behar duzue. Eskatu ChatGPTri hori (eta aztertu sinesgarritasuna)
+
+# Tresnetara🛠! [🦇]{.fragment}
+
+## {background-image="images/DALLE_Batwoman_azkena .webp" background-size="95%" backgrond-opacity="0.5"}
+
+<!--# ![](images/DALLE_Batwoman_azkena%20.webp){fig-align="center"} -->
+
+## 🤔 [<small>irudia ChatGPTk sortu du</small>]{.fragment} {background-color="darkgreen" .center background-image="images/DALLE_Batwoman_azkena .webp" background-size="40%" backgrond-opacity="0.1"}
+
+## Elkarrizketa{background-color="darkgreen"}
+
+Aurreko irudiarekin etorritako testua:
+
+. . . 
+
+<small>
+{{< include images/DALLE_Batwoman_azkenaurrekoa.txt >}}
+</small>
+
+. . .
+
+Eta nire eskaera:
+
+. . .
+
+<small>
+
+{{< include images/DALLE_Batwoman_azkena_eskaera.txt >}}
+
+</small>
+
+## Zer jan[, horren 💩 agertzen da]{.fragment} {background-color="darkgreen" color="black" .center}
+
+horrela da
+
+<!--# https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard -->
+
+<!--# https://lmarena.ai/ -->
+
+## Ereduak [eta aplikazioak]{.fragment}
+
+::::: columns
+::: {.column width="50%"}
+-   GPT-4
+-   Claude 3
+-   Gemini
+-   LLaMA 3
+-   Mistral
+:::
+
+::: {.column width="50%"}
+-   Perplexity
+-   YouChat
+-   NotebookLM
+-   ChatGPT
+-   Connected Papers
+:::
+:::::
+
+##  {background-color="green" background-image="images/clipboard-2642300016.png" background-size="cover" backgrond-opacity="0.5"}
+
+<!--# ![](images/clipboard-2642300016.png) -->
+
+## OpenAI
+
+-   Temperatura / Verbosity / Roleak
+
+-   Pertsonalizazioa
+
+-   Testua + ahotsa
+
+-   Boot-ak
+
+-   Proiektuak
+
+-   Promptaren diseinua
+
+## 
+
+::::: columns
+::: {.column width="50%"}
+![](images/clipboard-1872233343.png)
+:::
+
+::: {.column width="50%"}
+![](images/clipboard-1133330041.png)
+:::
+:::::
+
+## Perplexity
+
+-   Iturriak
+
+-   Pro research
+
+-   Pro erabiltzailea!!!
+
+## NotebookLM
+
+-   Artikuluen lanketa
+
+-   Apunteen lanketa (Zotero hurrengorako aipatu)
+
+## Ikerkuntzarako berezi diseinatutakoak 🔍
+
+-   Connected Papers
+
+-   Research Rabit
+
+-   Elicit
+
+-   ...
+
+
+```{=texinfo}
+
+<iframe width="400" height="600" src="https://chatgpt.com/" title="HDIBko apunteak" style="margin-right: 20px;"></iframe>
+
+<iframe width="400" height="600" src="https://perplexity.ai/" title="EAko bloga" style="margin-right: 20px;"></iframe>
+```
+::: notes
+{EUREN PANTAILAN}
+
+Hor adibidetzat nik ikasgaietan sortutako hiru publikazio.
+
+Erdikoa DOEn ari nintzeko bat, hori bloga, eta beste biak aurtengo ikasgaietakoak.
+
+Hor ikasleek apunteak, diapositibak eta abar ikusi ahal dituzte.
+:::
+
+*** 
+
+![Is it safe to use ChatGPT for your task? Aleksandr Tiulkanov](https://ladigitale.dev/digislides/fichiers/662436d265c26/d1b2fafc5adb94f3b0a0d83622968d5f1713649400.png)
+
+[+](https://unesdoc.unesco.org/ark:/48223/pf0000385146_spa)
+
+------------------------------------------------------------------------
+
+![](irudiak/mintegia_01/When_use_ChatGPT.jpeg){fig-align="center"}
+
+[+](https://unesdoc.unesco.org/ark:/48223/pf0000385146_spa)
