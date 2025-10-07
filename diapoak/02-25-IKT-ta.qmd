@@ -172,7 +172,7 @@ Tresnak
 ::: callout-warning
 ### Ariketa (1/3)
 
-<framapad.org> helbidean sartu eta sortu dokumentu bat hortxe honako idatzia egiteko:
+\<framapad.org\> helbidean sartu eta sortu dokumentu bat hortxe honako idatzia egiteko:
 
 > Berbazko diskurtso irakurria idatzi behar duzu, lanean hasi berria zaren ikastetxeak IKTen erabilera beste era batera bideratzearen onurez konbentzitzeko.
 
@@ -288,12 +288,8 @@ Zerrenda horri taldekide bakoitzak beste bostekin hornitu beharko du. Bost horie
 -   Datuak batzea
 -   Erabilera didaktiko posibleak
 
-[Irakasleari eskatu zerrenda]
-
+\[Irakasleari eskatu zerrenda\]
 :::
-
-
-<!--# 
 
 # Bestelako erreminta batzuk
 
@@ -324,11 +320,11 @@ Idazketan aztertzeko tresnak eta IDAT
 ##  {background-color="darkred"}
 
 ::: callout-warning
-### Ariketa 2/3
+### Ariketa
 
 Taldekideon artean aztertu binaka edo hirunaka zuon idatziak IDATapp erabilita
 
-labur.eus/HDIBidatapp
+https://labur.eus/idat-app \| https://labur.eus/idatshboard
 :::
 
 ##  {background-color="darkred"}
@@ -390,12 +386,22 @@ Posner & Baecker (1992)
 
 ##  {background-color="darkred"}
 
-::: callout-warning
-### Aztertu taldeko idatzia
+:::: callout-warning
+### Ariketa 3/3
+
+**Aztertu taldeko idatzia**
 
 Deskribatu eta azaldu taldeko jardunaren nondik norakoa, ebidentzietan oinarriturik (taldeka?)
 
 Azaldu horretan ikusten duzuena (banaka)
-:::
 
--->
+::: incremental
+*oharra: Google Drive-rako antzeko analisia egiteko hiru plugin argitaratu dira*
+
+-   DocuViz
+
+-   Draftback (😒)
+
+-   Process Feedback for Google Docs
+:::
+::::

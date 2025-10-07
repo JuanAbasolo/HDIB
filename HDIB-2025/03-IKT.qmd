@@ -122,7 +122,23 @@ Lanok aurren argazkiekin argitaratu ziren jatorrizko blogean, familiek etxetik e
 Hainbat tokitan sor eta ostatu daitezke blogak, ikastetxeko zerbitzarietatik hasita.
 
 Softwareen artean zabalduena: Worpdress
-<!--#
+
+::: callout-warning
+### Ariketa (3/3)
+
+Euskaraz (ere ba)diren webguneen zerrenda sailkatu.
+
+Zerrenda horri taldekide bakoitzak beste bostekin hornitu beharko du. Bost horiek gehitzeko honako ezaugarriak izan behar dira kontuan:
+
+-   Izena
+-   Esteka
+-   Egilea
+-   Helburua
+-   Datuak batzea
+-   Erabilera didaktiko posibleak
+
+Eskatu zerrenda taldera bidaltzea.
+:::
 
 ## Bestelako zenbait erreminta ikasleek erabiltzeko
 
@@ -278,23 +294,27 @@ Aurrez aipatutako R-rako pakete hori erabil daiteke taldeko idatziak aztertzeko 
 Hiru taldetako hiru lan estrategia motaz, IDAT V0.1 erabilita aztertuta
 :::
 
-------------------------------------------------------------------------
+### Beste baliabide batzuk
 
--->
+Azken urteotan, lankidetzan egindako idazketa digitalaren eta programazioaren jarraipena egiteko hainbat tresna garatu dira. Tresnok dokumentu eta kode baten sorkuntza-prozesua bistaratu eta aztertzen laguntzen dute; informazio baliotsua eskaintzen dute bai egileentzat, bai
+ebaluatzaileentzat. Jarraian aztertuko diren hiru tresnek —DocuViz, Draftback eta Process Feedback— ikuspegi desberdinak eskaintzen dituzte idazketa- eta kodeketa-prozesuen gainean, bakoitzak bere xede eta erabilera-testuinguru propioak dutela. Hiru kasuetan, azken emaitzatik harago joatea eta prozesua bera aztertzea da helburu nagusia, nahiz eta horrek zaintza-dilema etikoak ere planteatzen dituen bat edo batekin.
+
+DocuViz[^03-ikt-3] helburu orokorreko tresna interaktiboa da [@wangDocuVizVisualizingCollaborative2015], Google Docs-eko berrikuspen-historia osoa bistaratzeko diseinatua, Google Docs APIan oinarritua. Tresnak informazio zabala eskaintzen du, HistoryFlow-en antzera, eta dokumentuaren une jakin batean nork, zer eta noiz egin duen erakusten du. Bistaratze grafikoak zutabeak erabiltzen ditu (segmentu teknikoak, ingelesez *slices* deituak) denbora irudikatzeko: barraren altuerak testu-kantitatea adierazten du, eta koloreak egile bakoitzaren ekarpena eta jabetza. Gehikuntzak eskuinerantz irekita agertzen dira, eta ezabaketak eskuinerantz bilduta. Horrez gain, tresnak azken dokumentuan egile bakoitzak sortutako karaktere kopurua ere bistaratzen du. DocuViz-en helburu nagusia egileen jarduera denboran zehar ikuspegi aberatsagoan erakustea da, eta bereziki "jarduera sismikoa" nabarmentzea, hau da, aldaketa handiak edo berrikuspen biziak izan diren eremuak. Proposatutako erabilerak hainbat dira: egilekideek lankidearen asmoak hobeto inferitzeko eta akordioetara errazago iristeko erabil dezakete; irakasleek ikasleek zer ekarpen egin duten eta nola eboluzionatu duten euren lana ebaluatzeko; eta ikerlariek lankidetza-eredu berriak aztertzeko.
+
+[^03-ikt-3]: <https://chromewebstore.google.com/detail/hbpgkphoidndelcmmiihlmjnnogcnigi?utm_source=item-share-cb>
+
+Draftback [@fernandesDraftingDefensivelyDocumenting2025] ere Google Chrome eta antzekoetarako gehigarria da, ChatGPT-3 sortu baino lehenago argitaratua, eta "prozesuaren zaintza-interfaze" gisa sailkatzen da (ingelesez *process surveillance interface*). Tresna honek idazketa-prozesua jarraitzen du —edizioa, berrikuspena eta txertatutako testuak barne—, eta txosten eta "errepikapen" gisa erakusten du (ingelesez *replays*). Informazio mota hauek eskaintzen ditu: Google Doc-ean egindako tekla-sakaldi guztiak (*keystroke*), dokumentuan lanean emandako denbora, berrikuspen-kontagailua, aldaketen erregistroa (*Changelog*) eta dokumentuaren grafikoak eta estatistikak. Estatistika horiek jarduera-kronologia, aldaketak dokumentuan non egin ziren eta idazketa-saioen zerrenda biltzen dituzte (10 minutuko etengabeko idazketa gisa definituak). Errepikapen-funtzioan, gehikuntzak berdez agertzen dira eta ezabaketak testu gorri zeharkatu gisa. Hasiera batean, helburua idazleei haien idazketa-prozesuaren errepikapena eskaintzea zen, hausnarketa egin eta idazketa erreflexiboagoa bultzatzeko. Hala ere, sorgintza artifizial sortzailearen (GenAI) agerpenarekin, tresna honen erabilera proposatu nagusia akademiaren esparruan kokatzen da: irakasleek ikasleen prozesua monitorizatzeko erabil dezakete, eta ikasleek, berriz, beren lanaren benetakotasuna frogatzeko tresna gisa, plagio-akusazio faltsuen aurka defendatzeko. Zenbait irakaslek tresna hau baliagarria iruditzen zaie ebaluazio gardena eta formatiboa lortzeko, baina bere zaintza-izaeragatik, ikasleen artean antsietatea eta defentsa-sentimenduak eragin ditzake. Gehigarri honen kontrakotasun nagusia da haien zerbitzarietan logeatu beharra; ohiko baldintza amaierarik bakoak onartu behar direla.
+
+Process Feedback (PF) lineako kodeketa- eta idazketa aztertzeko tresna berritzaile eta doakoa da (processfeedback.org-en eta Chrome eta antzekoentzako gehigarri merkatuetan eskuragarri), horren helburua azken emaitzetan jarri ohi den arreta ikaslearen azpiko prozesura aldatzea da [@adhikariCodingProcessVisualizations2025]. Jatorriz, koderako pentsatua izan zen arren, orain badu bertsio bat testu idatziak beren-beregi aztertzeko[^03-ikt-4]; aurrekoaren aldean, honek abantaila nagusia du: lokalean egiten ditu analisiak, norberaren ordenagailuan. Gehigarriak idazlearen lanaren atzean dagoen prozesua azaleratzen du, ikasleek horretan hausnartu eta autoikaskuntza egin dezaten sustatzea helburu duela. PF-k ematen duen informazio mota laburpen kuantitatiboak eta kodeketa-prozesuaren datuen bistaratze interaktiboak dira. Hauek dira datu nagusiak: kodeketa-bidaiaren errepikapena (*playback*) film baten moduan (kodearen eboluzioa erakutsiz, karaktere gehigarriak berdez eta ezabatuak gorriz), hartutako atsedenaldiak, zeregin osoa burutzeko behar den denbora, kopiatu-itsatsi gertaerak, kodea exekutatzeko historia (arrakastak edo hutsegiteak), eta "adimen" artifizialaren (AA) erabilera. PF-ren lehenengo erabilera proposatu zen informatika-zientzietako hasierako ikastaroan (CS1) ikasteko eta irakasteko erronkei aurre egiteko. Ikasleek beren prozesutik ikas dezakete, ohiturei buruz hausnartuaz (adibidez, non eman duten denbora gehien). Irakasleei, berriz, prozesu-txosten osoak eskaintzen zaizkie (PDF formatuan deskargagarriak), emaitzetan eta azpiko prozesuan zentratutako iritzi pertsonalizatua eman ahal izateko. Gainera, prozesuaren gaineko ikuspegi horrek, berez, osotasun akademikoa sustatzen duela esaten da.
+
+[^03-ikt-4]: <https://chromewebstore.google.com/detail/process-feedback-for-goog/chcbikmmlhbbdkfiaaaljabpefdfajnb?pli=1>
 
 ::: callout-warning
-### Ariketa (3/3)
+### Ariketa 3/3
 
-Euskaraz (ere ba)diren webguneen zerrenda sailkatu.
+**Aztertu taldeko idatzia**
 
-Zerrenda horri taldekide bakoitzak beste bostekin hornitu beharko du. Bost horiek gehitzeko honako ezaugarriak izan behar dira kontuan:
+Deskribatu eta azaldu taldeko jardunaren nondik norakoa, ebidentzietan oinarriturik (taldeka?)
 
--   Izena
--   Esteka
--   Egilea
--   Helburua
--   Datuak batzea
--   Erabilera didaktiko posibleak
-
-Eskatu zerrenda taldera bidaltzea.
+Azaldu horretan ikusten duzuena (banaka)
 :::
