@@ -12,6 +12,36 @@ format:
 editor: visual
 ---
 
+::: callout-tip
+Aparatuok ur piloa eta energia ikaragarria kontsumitzen dute; datu zentroek ere bai. Horregatik, **erabilera arduratsua** egin behar da.
+:::
+
+::: callout-caution
+Datuen pribatutasuna eta segurtasuna kontuan hartu behar dira. **Ez erabili datu pertsonalik edo sentikorrik**.
+:::
+
+. . .
+
+::: callout-note
+Gaurko saiorako interesgarria da aztertu beharreko dokumentuak izatea.
+
+Landu beharreko eremua argi izatea ere bai.
+
+📝 eta 💻 ere bai
+:::
+
+::: footer
+hasierako oharrak
+:::
+
+## 
+
+![](images/clipboard-767203706.png)
+
+::: footer
+Coockieak onartu, gozo!! 🍪🍪🍪🍪🍪🍪🍪🍪🤮 tripahalak gero
+:::
+
 # Sarrera
 
 ## Esperientziak
@@ -43,7 +73,7 @@ Submarino nuklearrak baino hobeto buzeatu dezakezu?
 
 Errobot batzuk montatutako automobila mekanikari batek konpontzea nahi dugu
 
-## Humanizomorfismoa... [marketing estrategia 😍]{.fragment}
+## Humanizomorfismoa... [marketing estrategia ]{.fragment}[😍]{.fragment}😻❤️
 
 . . .
 
@@ -61,9 +91,15 @@ Errobot batzuk montatutako automobila mekanikari batek konpontzea nahi dugu
 
 > halunizatzen du...
 
-## {background-image="images/clipboard-3598052840.png" background-size="cover" backgrond-opacity="0.5"}
+##  {background-image="images/clipboard-3598052840.png" background-size="cover" backgrond-opacity="0.5"}
 
 <!--# ![](images/clipboard-3598052840.png) -->
+
+------------------------------------------------------------------------
+
+![](images/AI_Peek%202025-10-08%2022-17.gif){.center}
+
+[+](https://www.youtube.com/watch?v=U6jXkV2XHkI)
 
 # Funtzi⚙️namenduz
 
@@ -73,47 +109,105 @@ Errobot batzuk montatutako automobila mekanikari batek konpontzea nahi dugu
 
 <https://platform.openai.com/tokenizer>
 
+:::::: columns
+::: {.column width="30%"}
+<small>Haur eta Lehen Hezkuntzako graduko ikasleak gara.
+
+Deigarria da, dudarik gabe, nola saldu zaigun aparatu bat pertsona balitz bezala tratatzea. Agian hori izango da jendea gauzak balira bezala tratatzen hasteko.
+
+Espero dut ez egitea
+:::
+
+::: {.column width="30%"}
+Somos estudiantes de grado de Educación Infantil y Primaria.
+
+Es llamativo, sin duda, cómo se nos ha vendido que tratemos a un aparato como si fuera persona. Quizá sea eso sea para que nos pongamos a tratar a las personas como si fuéran cosas.
+
+Espero que no lo hagamos
+:::
+
+::: {.column width="30%"}
+We are students of the Degree in Early Childhood and Primary Education.
+
+It is striking, without a doubt, how we have been sold to treat a device as if it were a person. Maybe that is so that we start treating people as if they were things.
+
+I hope we don't do it</small>
+:::
+::::::
+
+. . .
+
+🤔 zein da luzeagoa?
+
 ## Dimentsio anitzeko espazioa
 
+::: incremental
 -   Puntu (elementu) bik, lerroa
 -   Hiru puntuk, planoa
 -   Lau puntuk, bolumena
 -   Bost puntuk, 4D espazioa
--   Seik ...
+-   Seik puntuk, 5D espazioa 💣
+-   Zazpi ...
+:::
 
 . . .
 
 ### 🤯
 
+##  {background-image="images/AI-decpd2s-abb0271d-bca0-4981-9f9d-259e9341aa52.gif" background-size="cover" background-opacity="1"}
+
+::: footer
+@Volfegan, *Black hole gravitational space/time vortex well* **DeviantArt** (2011) CC BY-NC
+:::
+
 ## Testuinguruen modelizazio matematikoa
 
-Tokenen arteko erlazioaren probabilitatearen erlazio matematikoa. Ez determinista.
+Tokenen arteko erlazioaren probabilitatearen eredu matematikoa.
+
+Ez determinista.
 
 . . .
 
-> Zuen herriko eskola bateko testuinguru soziolinguistikoaz markoa idatzi behar duzue. Eskatu ChatGPTri hori (eta aztertu sinesgarritasuna)
+::: callout-warning
+### Ariketa
+
+Zuen txikitako eskolako testuinguru soziolinguistikoaz markoa idatzi behar duzue PIIIrako. Eskatu ChatGPTri hori egitea (eta aztertu sinesgarritasuna)
+:::
+
+::: callout-note
+## Historia garbi
+
+Erabili "Tenporary chat" aukera, informazioa gorde nahi ez baduzu.
+
+Segitzerik nahi ez baduzu, duck.ai
+:::
 
 # Tresnetara🛠! [🦇]{.fragment}
 
-## {background-image="images/DALLE_Batwoman_azkena .webp" background-size="95%" backgrond-opacity="0.5"}
+##  {background-image="images/DALLE_Batwoman_azkena .webp" background-size="95%" backgrond-opacity="0.5"}
 
 <!--# ![](images/DALLE_Batwoman_azkena%20.webp){fig-align="center"} -->
 
-## 🤔 [<small>irudia ChatGPTk sortu du</small>]{.fragment} {background-color="darkgreen" .center background-image="images/DALLE_Batwoman_azkena .webp" background-size="40%" backgrond-opacity="0.1"}
+::: footer
+:::
 
-## Elkarrizketa{background-color="darkgreen"}
+## 🤔 [<small>irudia ChatGPTk sortu du</small>]{.fragment} {.center background-color="darkgreen" background-image="images/DALLE_Batwoman_azkena .webp" background-size="60%" background-opacity="0.4"}
 
-Aurreko irudiarekin etorritako testua:
+## Elkarrizketa {background-color="darkgreen" background-image="images/DALLE_Batwoman_azkena .webp" background-size="60%" background-opacity="0.1"}
 
-. . . 
+Irudiarekin etorritako testua:
+
+. . .
 
 <small>
+
 {{< include images/DALLE_Batwoman_azkenaurrekoa.txt >}}
+
 </small>
 
 . . .
 
-Eta nire eskaera:
+Eta nire aurreko (eta azken) eskaera:
 
 . . .
 
@@ -123,7 +217,7 @@ Eta nire eskaera:
 
 </small>
 
-## Zer jan[, horren 💩 agertzen da]{.fragment} {background-color="darkgreen" color="black" .center}
+## Zer jan[, horren 💩 agertzen da]{.fragment} {.center background-color="darkgreen" color="black"}
 
 horrela da
 
@@ -135,6 +229,7 @@ horrela da
 
 ::::: columns
 ::: {.column width="50%"}
+-   DeepSeek
 -   GPT-4
 -   Claude 3
 -   Gemini
@@ -147,6 +242,7 @@ horrela da
 -   YouChat
 -   NotebookLM
 -   ChatGPT
+-   Copilot
 -   Connected Papers
 :::
 :::::
@@ -155,19 +251,17 @@ horrela da
 
 <!--# ![](images/clipboard-2642300016.png) -->
 
-## OpenAI
-
--   Temperatura / Verbosity / Roleak
-
--   Pertsonalizazioa
-
--   Testua + ahotsa
-
--   Boot-ak
-
--   Proiektuak
+## Orokorrak
 
 -   Promptaren diseinua
+
+-   Temperatura
+
+-   Verbosity
+
+-   Roleak
+
+-   Leihoa [8000 token gaur]{.fragment}
 
 ## 
 
@@ -181,7 +275,75 @@ horrela da
 :::
 :::::
 
-## Perplexity
+## Temperature \| Verboxity \| Role
+
+![](images/AI_Peek%202025-10-09%2009-05.gif)
+
+Erantzuna osorik hemen [klik eginda](https://chat.deepseek.com/share/ek2k0praltk0nkv42t).
+
+## 
+
+::: callout-caution
+## Aurrekotik ekarritako ariketa
+
+<small>
+
++-------------------------------+-------------------------------------------------------------------------+----------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Parametroa                    | Balio Baxua                                                             | Balio Altua                                                                            | Prompt Adibidea (Energia Berriztagarriak)                                                                                                                                    |
++===============================+=========================================================================+========================================================================================+==============================================================================================================================================================================+
+| **Temperature (Tenperatura)** | **Zorrotza eta Aurresangarria.** Erantzun faktiko eta seguruak.         | **Sortzailea eta Anitza.** Ikuspuntu berriak, adibide originalak.                      | **Prompt:** "Zer dira energia berriztagarriak? Zer abantail eta desabantail dituzte?"\                                                                                       |
+|                               |                                                                         |                                                                                        | **Ezarpena:** Temperature = 0.2\                                                                                                                                             |
+|                               |                                                                         |                                                                                        | **Eragina:** Zerrenda garbi eta ordenatua emango du, abantaila eta desabantaila nagusienak faktualki zerrendatuz.                                                            |
++-------------------------------+-------------------------------------------------------------------------+----------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Verbosity (Verbositatea)**  | **Laburra eta Zuzenean.** Erantzuna puntu nagusietara mugatuta.         | **Luzea eta Xehetasunez beterikoa.** Azalpen sakona, testuingurua eta adibideak.       | **Prompt:** "Zer dira energia berriztagarriak? Zer abantail eta desabantail dituzte?"\                                                                                       |
+|                               |                                                                         |                                                                                        | **Ezarpena:** Verbosity = Maximo\                                                                                                                                            |
+|                               |                                                                         |                                                                                        | **Eragina:** Energia mota bakoitza (eguzkia, haizea, etab.) banaka azalduko du, haien funtzionamendua, historia, eta abantaila/desabantaila bakoitzaren arrazoiak garatuz.   |
++-------------------------------+-------------------------------------------------------------------------+----------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Role (Rola)**               | **AI Orokorra.** Erantzun neutroak, informazioa modu orokorrean emanez. | **Espezialista.** Ikuspuntu espezializatua, hizkera teknikoa edo pedagogikoa erabiliz. | **Prompt:** "Zer dira energia berriztagarriak? Zer abantail eta desabantail dituzte?"\                                                                                       |
+|                               |                                                                         |                                                                                        | **Ezarpena:** Role = "Ingurumen Ingeniari bat zara, ikasle talde bati azalpena ematen."\                                                                                     |
+|                               |                                                                         |                                                                                        | **Eragina:** "Kalkulu energetiko", "ingurumen-inpaktua" edo "efizientzia" bezalako termino teknikoagoak erabiliko ditu, eta ingeniaritzako ikuspuntutik egingo du azterketa. |
++-------------------------------+-------------------------------------------------------------------------+----------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+</small>
+:::
+
+------------------------------------------------------------------------
+
+### OpenAI
+
+-   Pertsonalizazioa [🧑‍🦲\*](testuak/AI-Pertsonalizatzea.md)
+
+-   Testua + ahotsa
+
+-   GPT-ak [\*](https://chatgpt.com/g/g-67c4db0728748191a08f8d358c2295d3-zientzia-laburketan)
+
+-   Proiektuak
+
+------------------------------------------------------------------------
+
+### Proiektuak
+
+![](images/clipboard-700272210.png)
+
+Aginduak [hemen](testuak/AI-Proiektua_audiotxata.md).
+
+------------------------------------------------------------------------
+
+### Ikerketa sakona
+
+![](images/clipboard-235112055.png)
+
+Debaldeko erabiltzailearekin ☝️horrela.
+
+::: callout-note
+## Prompta aparte sortu
+
+Berez, OpenAI-k aukera gutxi batzuk ematen ditu (hilean 5), oso emankorra izan daiteke sistema hau erabiltzea, baina ez da inondik inora komeni erabili eta erabili ibiltzea.
+
+💧ur kontsumoaz eta erabilera arduratsu ahaztuaz aparte 🏜️
+:::
+
+## Perplexity {background-image="images/AI_Pantaila-argazkia_20251008_204048.png" background-size="cover"}
 
 -   Iturriak
 
@@ -195,6 +357,54 @@ horrela da
 
 -   Apunteen lanketa (Zotero hurrengorako aipatu)
 
+##  {background-image="images/clipboard-1469451264.png" background-size="cover" background-opacity="1"}
+
+##  {background-image="images/clipboard-1469451264.png" background-size="cover" background-opacity="0.1"}
+
+<small>
+
+Emandako iturrietan oinarrituta, William Shakespeareren zenbait obratan agertzen diren borondatezko heriotza, hilketa, exekuzio edo hiltze kasuen zenbaketa honako taula honetan aurkezten da (antzezlan barruko fikziozko heriotzak ere sartuta)
+
+.
+
++--------------------------------+----------------------------------------+
+| Lana (Work)                    | Hilketa, Exekuzio edo Suizidio kopurua |
++--------------------------------+----------------------------------------+
+| *Antony and Cleopatra*         | 4                                      |
++--------------------------------+----------------------------------------+
+| *Cymbeline, King of Britain*   | 1                                      |
++--------------------------------+----------------------------------------+
+| *History of Henry IV, Part I*  | 2                                      |
++--------------------------------+----------------------------------------+
+| *History of Henry IV, Part II* | 3                                      |
++--------------------------------+----------------------------------------+
+| *History of Henry V*           | 4                                      |
++--------------------------------+----------------------------------------+
+| *History of Henry VI, Part I*  | 5                                      |
++--------------------------------+----------------------------------------+
+| *History of Henry VI, Part II* | 4                                      |
++--------------------------------+----------------------------------------+
+| ...                            | ...                                    |
++--------------------------------+----------------------------------------+
+
+</small>
+
+. . .
+
+::: {.absolute top="20" left="30"}
+![](images/clipboard-3964792516.png)
+:::
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Ariketa
+
+Aztertu zuok GrAL lanerako aukeratutako artikuluak.
+
+Ez badaukazu oraindik aukeratuta, Shakespearerena azter dezakezu [hemen](https://notebooklm.google.com/notebook/19bde485-a9c1-4809-8884-e872b2b67b44); edota EAEko curriculum dekretuak, Espainikoak eta EEMBa eta Europako gomendioak [hemen](https://notebooklm.google.com/notebook/b284b970-dcbc-4a61-ba4a-b9dc4b2997dd)
+:::
+
 ## Ikerkuntzarako berezi diseinatutakoak 🔍
 
 -   Connected Papers
@@ -204,7 +414,6 @@ horrela da
 -   Elicit
 
 -   ...
-
 
 ```{=texinfo}
 
@@ -222,7 +431,7 @@ Erdikoa DOEn ari nintzeko bat, hori bloga, eta beste biak aurtengo ikasgaietakoa
 Hor ikasleek apunteak, diapositibak eta abar ikusi ahal dituzte.
 :::
 
-*** 
+------------------------------------------------------------------------
 
 ![Is it safe to use ChatGPT for your task? Aleksandr Tiulkanov](https://ladigitale.dev/digislides/fichiers/662436d265c26/d1b2fafc5adb94f3b0a0d83622968d5f1713649400.png)
 
@@ -233,3 +442,37 @@ Hor ikasleek apunteak, diapositibak eta abar ikusi ahal dituzte.
 ![](irudiak/mintegia_01/When_use_ChatGPT.jpeg){fig-align="center"}
 
 [+](https://unesdoc.unesco.org/ark:/48223/pf0000385146_spa)
+
+## ChatGPT, Google-Chrome eta zu eta zure datuak ehiza-gai {.center}
+
+## Firefox {background-image="images/clipboard-1270358722.png" background-size="cover" background-opacity="0.4"}
+
+![](images/clipboard-1270358722.png)
+
+## Edge {background-image="images/clipboard-710541291.png" background-size="cover" background-opacity="0.4"}
+
+![](images/clipboard-710541291.png)
+
+## Firefox 🦊 ❤️
+
+::::: columns
+::: {.column width="35%"}
+![](images/clipboard-444107905.png)
+:::
+
+::: {.column width="50%"}
+-   Motorra aukeratu
+-   Inguru zarratuetan gorde ahal da (leiho pribatuen antzera, baina ugari)
+-   Ez du daturik bidaltzen berak berez
+:::
+:::::
+
+## Gida batzuk AA hezkuntzan-eta {background-color="darkblue"}
+
+Gure unibertsitatean, nonbait, egiten ibiliko dira; bitartean:
+
+*Adimen Artifiziala Hezkuntzan* izeneko txostena duzue EJko webgunean, [esteka honetan](https://www.euskadi.eus/eusko-jaurlaritza/-/dokumentazioa/2025/dokumentu-eta-argitalpenak-adimen-artifiziala-hezkuntzan/), Elhuyarrek idatzitakoa da.
+
+Hemen 🇫🇷 Hezkuntza eta Ikerketako Ministerioak egindakoa. [AAren erabilera Hezkuntzan](https://www.education.gouv.fr/cadre-d-usage-de-l-ia-en-education-450647).
+
+Eta [hemen](https://www.coe.int/fr/web/education/artificial-intelligence) 🇪🇺 Europar Batasuneko webgunean kontu honen gaineko tartea.
