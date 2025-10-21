@@ -56,7 +56,6 @@ hasierako oharrak
 Zure lanean ideia guztiek iturria identifikatuta behar dute.
 :::
 
-<<<<<<< HEAD
 ## Adibide ona {background-image="images/BE_Lanaren_hasierako_ikuskera-Xanti.png" background-color="white"}
 
 ## Adibide ez hain ona {background-image="images/BE_adibide_txarra.png" background-color="white" footer="false"}
@@ -264,7 +263,7 @@ A search was conducted using the keywords “makerspace” and “education”, 
 <small>
 
 |  |  |  |  |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | Base de datos | Tipo de búsqueda | Estrategia de búsqueda | Número de artículos |
 | Web of Science | Búsqueda básica | “Activity Breaks” (All Fields) and “Cognition” (All Fields) and “Education\*” (All Fields) | 14 |
 | Scopus | Búsqueda básica | (ALL (“Activity Breaks”) AND ALL (”Cognition“) AND ALL (“Education\*”)) | 422 |
@@ -287,7 +286,7 @@ A search was conducted using the keywords “makerspace” and “education”, 
 <small>
 
 |  |  |  |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Hizkuntza | Termino nagusiak | Bilaketa-adibideak |
 | Euskaraz | Hizkuntza-paisaia, haur-hezkuntza, eleaniztasun | (“hizkuntza-paisaia” OR “eskola paisaia”) AND “haur hezkuntza” |
 | Gaztelaniaz | Paisaje lingüístico, educación infantil, multilinguismo | “paisaje lingüístico" AND (“educación infantil” OR “preescolar”) |
@@ -297,7 +296,7 @@ A search was conducted using the keywords “makerspace” and “education”, 
 :::
 :::::
 
-# Lan on baten 💩 batzuk <br><small>👃daukanak arin igarriak</small>
+# Lan on baten 🦶 batzuk <br><small>👃daukanak arin igarriak</small>
 
 ------------------------------------------------------------------------
 
