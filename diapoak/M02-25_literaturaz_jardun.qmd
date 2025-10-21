@@ -59,19 +59,13 @@ Zure lanean ideia guztiek iturria identifikatuta behar dute.
 <<<<<<< HEAD
 ## Adibide ona {background-image="images/BE_Lanaren_hasierako_ikuskera-Xanti.png" background-color="white"}
 
-## Adibide ez hain ona {background-image="images/BE_adibide_txarra.png" background-color="white" footer=false}
+## Adibide ez hain ona {background-image="images/BE_adibide_txarra.png" background-color="white" footer="false"}
 
-=======
->>>>>>> 54ae2140079bdaa3cde15108741ab50572563d73
 # Sarrera {background-color="lightgray"}
 
 ![Ikerketaren erradiografia](images/BE_Ikerketaren_erradiografia.jpg)
 
-<<<<<<< HEAD
 ## Jakingarri batzuk {.center}
-=======
-## Jakingarri batzuk
->>>>>>> 54ae2140079bdaa3cde15108741ab50572563d73
 
 ### Bibliografia [Vs Erreferentziak]{.fragment}
 
@@ -128,15 +122,10 @@ Crow Silhouette, Jennifer C. (Wikimedia)
 
 > (("Hizkuntza paisaia" OR "eskola paisaia") AND "Haur Hezkuntza")
 
-<<<<<<< HEAD
 ::: fragment
-
 (eta ikasi bilatzaile estandarrak erabilita bilaketak fintzen)
-
 :::
 
-=======
->>>>>>> 54ae2140079bdaa3cde15108741ab50572563d73
 ## 3 Egokitzapena
 
 ``` text
@@ -254,18 +243,11 @@ Melguizo-Ibáñez, E., Zurita-Ortega, F., González-Valero, G., Puertas-Molero, 
 :::
 
 ::: column
-<<<<<<< HEAD
 <small>RQ1. How has maker education been introduced in teacher training?\
 RQ2. What is the gap that exists in the literature on maker education in teacher training?\
-=======
-<small>RQ1. How has maker education been introduced in teacher training? \
-RQ2. What is the gap that exists in the literature on maker education in teacher training? \
->>>>>>> 54ae2140079bdaa3cde15108741ab50572563d73
 RQ3. What are the characteristics and main objectives of training and professional development programs related to maker education?\
 \
-...
-
-\
+...\
 A search was conducted using the keywords “makerspace” and “education”, with duplicates removed using Zotero 6.0.26 software. (Quintana-Ordorika et al., 2024)\
 </small>
 :::
@@ -282,24 +264,13 @@ A search was conducted using the keywords “makerspace” and “education”, 
 <small>
 
 |  |  |  |  |
-<<<<<<< HEAD
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Base de datos | Tipo de búsqueda | Estrategia de búsqueda | Número de artículos |
 | Web of Science | Búsqueda básica | “Activity Breaks” (All Fields) and “Cognition” (All Fields) and “Education\*” (All Fields) | 14 |
 | Scopus | Búsqueda básica | (ALL (“Activity Breaks”) AND ALL (”Cognition“) AND ALL (“Education\*”)) | 422 |
 | Pubmed | Búsqueda avanzada | ((“Activity Breaks”) AND (“Cognition”)) AND (“Education\*”) | 7 |
 
 (Melguizo-Ibáñez et al., 2024) </small>
-=======
-|----|----|----|----|
-| Base de datos | Tipo de búsqueda | Estrategia de búsqueda | Número de artículos |
-| Web of Science |  Búsqueda básica | “Activity Breaks” (All Fields) and “Cognition” (All Fields) and “Education\*” (All Fields) | 14 |
-| Scopus | Búsqueda básica | (ALL (“Activity Breaks”) AND ALL (”Cognition“) AND ALL (“Education\*”)) | 422 |
-| Pubmed | Búsqueda avanzada | ((“Activity Breaks”) AND (“Cognition”)) AND (“Education\*”) | 7 |
-
-(Melguizo-Ibáñez et al., 2024)
-</small>
->>>>>>> 54ae2140079bdaa3cde15108741ab50572563d73
 :::
 :::::
 
@@ -316,15 +287,9 @@ A search was conducted using the keywords “makerspace” and “education”, 
 <small>
 
 |  |  |  |
-<<<<<<< HEAD
-|------------------------|------------------------|------------------------|
-| Hizkuntza | Termino nagusiak | Bilaketa-adibideak |
-| Euskaraz | Hizkuntza-paisaia, haur-hezkuntza, eleaniztasun | (“hizkuntza-paisaia” OR “eskola paisaia”) AND “haur hezkuntza” |
-=======
 |----|----|----|
 | Hizkuntza | Termino nagusiak | Bilaketa-adibideak |
-| Euskaraz | Hizkuntza-paisaia,  haur-hezkuntza, eleaniztasun | (“hizkuntza-paisaia”  OR  “eskola paisaia”) AND “haur hezkuntza” |
->>>>>>> 54ae2140079bdaa3cde15108741ab50572563d73
+| Euskaraz | Hizkuntza-paisaia, haur-hezkuntza, eleaniztasun | (“hizkuntza-paisaia” OR “eskola paisaia”) AND “haur hezkuntza” |
 | Gaztelaniaz | Paisaje lingüístico, educación infantil, multilinguismo | “paisaje lingüístico" AND (“educación infantil” OR “preescolar”) |
 | Ingelesez | Linguistic landscape, early childhood, schoolscape | (“Linguistic landscape” OR “LL”) AND (“early childhood” OR “preschool”) |
 
@@ -394,21 +359,13 @@ Argitaratutako artikulu (serio) guztietan agertzen da gaur-gaurkoz, eskuz eginda
 
 <small>
 
-<<<<<<< HEAD
 ### Prisma & co.
-=======
-### Prisma & co.  
->>>>>>> 54ae2140079bdaa3cde15108741ab50572563d73
 
 Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., … Moher, D. (2021/). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *BMJ*, *372*, n71. <https://doi.org/10.1136/bmj.n71>
 
 Yepes-Nuñez, J. J., Gerard Urrútia, Romero-García, M., & Alonso-Fernández, S. (2021/). Declaración PRISMA 2020: Una guía actualizada para la publicación de revisiones sistemáticas. *Revista Española de Cardiología*, *74*(9), 790–799. <https://doi.org/10.1016/j.recesp.2021.06.016>
 
-<<<<<<< HEAD
 ### Metodologia oro har
-=======
-### Metodologia oro har 
->>>>>>> 54ae2140079bdaa3cde15108741ab50572563d73
 
 Aromataris, E., Lockwood, C., Porritt, K., Pilla, B., & Jordan, Z. (Arg.). (2024/). *JBI manual for evidence synthesis* (2024 edition). JBI.
 
