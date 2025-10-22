@@ -73,25 +73,25 @@ Zure lanean ideia guztiek iturria identifikatuta behar dute.
 ### Baliabide onak non
 
 ::: fragment
-Perplexity 🧒 😶
+Perplexity 🧒 [😶]{.fragment}
 
-ChatGPT 🦥🍔🥤🎮 🤔
+ChatGPT 🦥[🍔🥤🎮 🤔]{.fragment}
 :::
 
 ::: fragment
-Google Scholar🧑‍🔬🥳📡♻️ 🤔
+Google Scholar🧑‍🔬[🥳📡♻️ 🤔]{.fragment}
 
-Dialnet 🇪🇸 🤔
+Dialnet [🇪🇸 🤔]{.fragment}
 
-Inguma 🇲🇰                      😶
+Inguma [🇲🇰                      😶]{.fragment}
 :::
 
 ::: fragment
-Scielo 🇲🇽🇨🇴🇨🇱🇧🇷🇦🇷 🤔
+Scielo 🇲🇽🇨🇴🇨🇱🇧🇷🇦🇷 [🤔]{.fragment}
 
-WoS ⬅️🏅🔝
+WoS [⬅️🏅🔝]{.fragment}
 
-Scopus ⬅️⬅️🏅🏅🔝
+Scopus [⬅️⬅️🏅🏅🔝]{.fragment}
 :::
 
 ------------------------------------------------------------------------
@@ -131,6 +131,8 @@ Crow Silhouette, Jennifer C. (Wikimedia)
 (("Hizkuntza paisaia" OR "eskola paisaia" OR "Linguistic landscape" OR "LL") AND ("Haur Hezkuntza" OR "early childhood" OR "preshcool"))
 ```
 
+<small>
+
 ::: fragment
 **AND**: gehitu `"Hizkuntza paisaia" AND "Haur Hezkuntza"`
 
@@ -145,7 +147,7 @@ Crow Silhouette, Jennifer C. (Wikimedia)
 **?**: Komodina `alumn?s` hori eta `alumnos OR alumnas` berdinak
 
 **(`taldekatzeak`)**: Taldekatze logikoak\
-`(("LH" OR "Lehen Hezkuntza") AND ("HH" OR "Haur Hezkuntza")) OR "Haur eta Lehen Hezkuntza"` ⬅️ Bata eta bestea `"LH" OR "Lehen Hezkuntza" AND "HH" OR "Haur Hezkuntza"` ⬅️ Auskalo!
+`(("LH" OR "Lehen Hezkuntza") AND ("HH" OR "Haur Hezkuntza")) OR "Haur eta Lehen Hezkuntza"` ⬅️ Bata eta bestea `"LH" OR "Lehen Hezkuntza" AND "HH" OR "Haur Hezkuntza"` ⬅️ Auskalo! </small>
 :::
 
 ## 4 Beste toki batzuetarako egokitzea
@@ -172,12 +174,12 @@ Egokitzapenok egiteko oso erabilgarriak DeepSeek, ChatGPT... LLMak
 :::
 ::::
 
-## 🧠: Zehaztapena 🎯 Vs Zabalpena 🪏 {.center}
+## 🧠 Zehaztapena 🎯 Vs Zabalpena 🪏 {.center}
 
 Zelako bahaea darabilzun zure erabakia [(eta ardura)]{.fragment} da.
 
 ::: fragment
-### Alborapenak ("bias")
+### 🤚Alborapenak (*bias*)
 
 -   Hizkuntza
 -   Soziala
@@ -225,6 +227,64 @@ Bertan datuak lantzeko bideak
 # ⌚? {background-color="#ccc"}
 
 💻👀
+
+# Lan on baten 🦶 batzuk <br><small>👃daukanak arin igarriak</small>
+
+------------------------------------------------------------------------
+
+:::::: columns
+::: column
+![](images/paste-9.png)
+:::
+
+:::: column
+::: fragment
+<small>1️⃣ helbidean "download" dio; beraz, ez da izango artikuluarena berena. Begiratu aldizkarian zelan dioen aipatzeko
+
+2️⃣ Aldizkari batekoa ematen du, baina dena dago letra larriz... begiratu behar dugu aldizkarian
+
+3️⃣ Aldizkari batekoa ematen du (letra etzana izenburuan falta). Begiratu aldizkarian
+
+4️⃣ Unibertsitate batekoa ematen du, DOI edo HANDLE izango du. "Page..." idatzi du horrela eman diolako Googlek
+
+5️⃣ Dialnet. Dialneteko estekarik ez, originalak aurkitu behar dira.
+
+6️⃣ Academia. Ezin da sartu logeatu barik. Ez da ipini behar estekarik (ez Academia, ez Researchgate ez...)
+
+7️⃣ Artikulua. URL luzeegia. Begiratu artikuluan bertan, SAGEkoa denez, DOI izango du
+
+8️⃣ Liburua. GoogleBooks-eko estekarik ez</small>
+:::
+::::
+::::::
+
+##  {background-color="darkred"}
+
+::: callout-warning
+### Ariketa... nahi badozu
+
+Aztertu zure gaia
+
+1.  Idatzi ikerketa galdera
+2.  Itzuli bilaketa estrategia batera
+3.  Itzuli data base baterako
+4.  Aztertu emaitzak (kuantitatiboki eta kualitatiboki)
+:::
+
+# ⚙️⚙️⚙️ erreminta batzuk
+
+::: callout-note
+Argitaratutako artikulu (serio) guztietan agertzen da gaur-gaurkoz, eskuz egindako bilaketak hobeak direla sistema automatizatuek egindakoak baino ...baina pentsatzen lagungarri erabil ditzakegunez:
+:::
+
+## "Adimen" Artifizialak gidatuak
+
+-   Consensus
+-   Elicit
+-   Scispace
+-   ResearchRabit
+-   ConnectedPapers
+-   ...
 
 # Berrikuspen bibliografiko lanak
 
@@ -296,64 +356,6 @@ A search was conducted using the keywords “makerspace” and “education”, 
 :::
 :::::
 
-# Lan on baten 🦶 batzuk <br><small>👃daukanak arin igarriak</small>
-
-------------------------------------------------------------------------
-
-:::::: columns
-::: column
-![](images/paste-9.png)
-:::
-
-:::: column
-::: fragment
-<small>1️⃣ helbidean "download" dio; beraz, ez da izango artikuluarena berena. Begiratu aldizkarian zelan dioen aipatzeko
-
-2️⃣ Aldizkari batekoa ematen du, baina dena dago letra larriz... begiratu behar dugu aldizkarian
-
-3️⃣ Aldizkari batekoa ematen du (letra etzana izenburuan falta). Begiratu aldizkarian
-
-4️⃣ Unibertsitate batekoa ematen du, DOI edo HANDLE izango du. "Page..." idatzi du horrela eman diolako Googlek
-
-5️⃣ Dialnet. Dialneteko estekarik ez, originalak aurkitu behar dira.
-
-6️⃣ Academia. Ezin da sartu logeatu barik. Ez da ipini behar estekarik (ez Academia, ez Researchgate ez...)
-
-7️⃣ Artikulua. URL luzeegia. Begiratu artikuluan bertan, SAGEkoa denez, DOI izango du
-
-8️⃣ Liburua. GoogleBooks-eko estekarik ez</small>
-:::
-::::
-::::::
-
-##  {background-color="darkred"}
-
-::: callout-warning
-### Ariketa... nahi badozu
-
-Aztertu zure gaia
-
-1.  Idatzi ikerketa galdera
-2.  Itzuli bilaketa estrategia batera
-3.  Itzuli data base baterako
-4.  Aztertu emaitzak (kuantitatiboki eta kualitatiboki)
-:::
-
-# ⚙️⚙️⚙️ erreminta batzuk
-
-::: callout-note
-Argitaratutako artikulu (serio) guztietan agertzen da gaur-gaurkoz, eskuz egindako bilaketak hobeak direla sistema automatizatuek egindakoak baino ...baina pentsatzen lagungarri erabil ditzakegunez:
-:::
-
-## "Adimen" Artifizialak gidatuak
-
--   Consensus
--   Elicit
--   Scispace
--   ResearchRabit
--   ConnectedPapers
--   ...
-
 ## Bibliografia
 
 <small>
@@ -370,4 +372,6 @@ Aromataris, E., Lockwood, C., Porritt, K., Pilla, B., & Jordan, Z. (Arg.). (2024
 
 </small>
 
-# Goiari eutsi 💪👩‍🎓 {background-color="lightgrey"}
+# Goiari eutsi 💪👩‍🎓 {background-color="lightgrey" footer="false"}
+
+laster GrAL bat defendatu eta irakasle titulatu!
