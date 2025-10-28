@@ -14,15 +14,15 @@ Grebak, interesak, premiak eta abar tarteko, ikusteko dago ea zenbatean segitzen
     -   Europako Erreferentzi Markoa: Hizkuntzen Ikaskuntza Irakaskuntza eta Ebaluaziorako Europako Erreferentzia Markoa `(2)`
     -   Immigrazio hizkuntzen trataera `(barria)`
     -   IKTak eta hizkuntza `(9 eta 10)`\
-        [Aste honetan lehenengo mintegia]{style="color: darkred"} (?) ([Adimen Naturalaz](../diapoak/M01-25_adimen_naturala.html)) <!--# ** -->
-    -   IKT eta hizkuntza, jarraipena\
-        Ebaluazioa: Bideoak
+        [Aste honetan lehenengo mintegia]{style="color: darkred"} ([Adimen Naturalaz](../diapoak/M01-25_adimen_naturala.html)) <!--# ** -->
+    -   IKT eta hizkuntza, jarraipena
+    -   Ebaluazioa: Bideoak\
+        [Aste honetan bigarren mintegia]{style="color: darkred"} ([Erreferentzia kudeatzailea](../diapoak/M02-25_literaturaz_jardun.html)) <!--# ** -->
 2.  Ikastetxeko hizkuntzen antolakuntza
     -   Gaitasunak eta hezkuntza sistema – Hizkuntza-komunikaziorako gaitasuna `(3)`
     -   Euskal hezkuntza sistemako eleaniztasuna: Diglosiatik elebitasunera eta handik eleaniztasunera `(4)`
     -   Hizkuntzen Trataera bateratua (HTB) `(6)`
     -   Hizkuntzak eta Edukiak Batera Ikastea (HEBI) *CLIL* `(7)`\
-        [Aste honetan bigarren mintegia]{style="color: darkred"} (Erreferentzia kudeatzailea)
     -   Role Playing
 3.  Gelako praktikaren antolakuntza eta hizkuntza
     -   Hizkuntzen irakaskuntzarako metodologien bilakaera `(12 a)`

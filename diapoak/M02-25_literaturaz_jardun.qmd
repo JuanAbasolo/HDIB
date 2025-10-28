@@ -323,7 +323,7 @@ A search was conducted using the keywords “makerspace” and “education”, 
 <small>
 
 |  |  |  |  |
-|------------------|------------------|------------------|------------------|
+|----|----|----|----|
 | Base de datos | Tipo de búsqueda | Estrategia de búsqueda | Número de artículos |
 | Web of Science | Búsqueda básica | “Activity Breaks” (All Fields) and “Cognition” (All Fields) and “Education\*” (All Fields) | 14 |
 | Scopus | Búsqueda básica | (ALL (“Activity Breaks”) AND ALL (”Cognition“) AND ALL (“Education\*”)) | 422 |
@@ -346,7 +346,7 @@ A search was conducted using the keywords “makerspace” and “education”, 
 <small>
 
 |  |  |  |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Hizkuntza | Termino nagusiak | Bilaketa-adibideak |
 | Euskaraz | Hizkuntza-paisaia, haur-hezkuntza, eleaniztasun | (“hizkuntza-paisaia” OR “eskola paisaia”) AND “haur hezkuntza” |
 | Gaztelaniaz | Paisaje lingüístico, educación infantil, multilinguismo | “paisaje lingüístico" AND (“educación infantil” OR “preescolar”) |
