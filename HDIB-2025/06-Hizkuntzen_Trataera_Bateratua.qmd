@@ -42,8 +42,11 @@ Lekutan geratu da atzo goizeko elebakartasunetiko helburu multzoa.
 
 -   2006 LOE
 
-    -   Baskongadetan 2007 Curriculum Dekretua\@euskojaurlaritzarenlegebiltzarra2009DekretuaUrtarrilaren2009, Tontxu Campos\
-        \> Dekretu honek lehentasuna ematen dio **hizkuntzen trataerari**. Hizkuntzetarako Europako Erreferentzia Markoa da elebitasuna, eleaniztasuna eta ikastetxeko hizkuntza-proiektuaz diharduten artikuluen esparru-testuingurua; izan ere, **bat etorri behar dute Europar Batasuneko hizkuntza-politikak eta ikastetxeetako hizkuntza-proiektuek**, betiere, Eusko Legebiltzarrak alor horretan arautzen duena beteta. \> \> Gizartearen errealitate soziolinguistiko eta soziokulturalarekin bat egiteko, **testuinguru eleanitz bati erantzungo dion markoa sortu nahi da**; hala, ikasleek bi hizkuntza ofizialak eta atzerri-hizkuntza bat edo bi behar bezala ikas ditzaten da azken xedea. Ebaluazioetan izandako emaitzei eta ingurunearen ezaugarri soziolinguistikoei erreparatuta, ikastetxeek aukera dute hizkuntza bakoitzaren erabilera-esparrua handitzeko. \> \> 🤦 Euskara izango da marko berriaren hizkuntza nagusia. Egungo errealitate soziolinguistikoak gaztelaniaren erabilera bultzatzen duela aintzat hartuta eta ikusita eguneroko jardunak eta ebaluazioek frogatua dutela irakasteko eta ikasteko prozesuan euskara erabiltzea funtsezkoa dela, ikasleek euskara ahoz eta idatziz behar bezala erabiltzeko gaitasuna eskuratuko badute, euskarak elementu integratzailea izan behar du hezkuntza-sisteman, eta erabilera nagusiko hizkuntza, lehen adierazitako irakasteko eta ikasteko prozesuan. Gaztelania edukiak ikasteko hizkuntza izango da, hura behar bezala ikasiko dela bermatzeko
+    -   Baskongadetan 2007 Curriculum Dekretua @euskojaurlaritzarenlegebiltzarra2009DekretuaUrtarrilaren2009, Tontxu Campos
+
+    > Dekretu honek lehentasuna ematen dio **hizkuntzen trataerari**. Hizkuntzetarako Europako Erreferentzia Markoa da elebitasuna, eleaniztasuna eta ikastetxeko hizkuntza-proiektuaz diharduten artikuluen esparru-testuingurua; izan ere, **bat etorri behar dute Europar Batasuneko hizkuntza-politikak eta ikastetxeetako hizkuntza-proiektuek**, betiere, Eusko Legebiltzarrak alor horretan arautzen duena beteta. \> \> Gizartearen errealitate soziolinguistiko eta soziokulturalarekin bat egiteko, **testuinguru eleanitz bati erantzungo dion markoa sortu nahi da**; hala, ikasleek bi hizkuntza ofizialak eta atzerri-hizkuntza bat edo bi behar bezala ikas ditzaten da azken xedea. Ebaluazioetan izandako emaitzei eta ingurunearen ezaugarri soziolinguistikoei erreparatuta, ikastetxeek aukera dute hizkuntza bakoitzaren erabilera-esparrua handitzeko. 
+    > 
+    > 🤦 Euskara izango da marko berriaren hizkuntza nagusia. Egungo errealitate soziolinguistikoak gaztelaniaren erabilera bultzatzen duela aintzat hartuta eta ikusita eguneroko jardunak eta ebaluazioek frogatua dutela irakasteko eta ikasteko prozesuan euskara erabiltzea funtsezkoa dela, ikasleek euskara ahoz eta idatziz behar bezala erabiltzeko gaitasuna eskuratuko badute, euskarak elementu integratzailea izan behar du hezkuntza-sisteman, eta erabilera nagusiko hizkuntza, lehen adierazitako irakasteko eta ikasteko prozesuan. Gaztelania edukiak ikasteko hizkuntza izango da, hura behar bezala ikasiko dela bermatzeko
 
 -   2013 LOMCE
 
@@ -175,7 +178,7 @@ Hurrengoak ahalbidetu nahi ditu HTBk
 Berori tradizioan hainbat bidetatik garatzen izan den arren, egun araudi markoak horretara bultzatzen duela ere esan dezakegu, balioskotutako jardunbidetzat hartzen baita.
 
 | Proiektua | Eremua | Testu mota | Azken ekoizpena H1 | Azken ekoizpena H2 | Azken ekoizpena H3 |
-|----|----|----|----|----|----|
+|------------|------------|------------|------------|------------|------------|
 | Gure arbasoen ekarpenak | Pertsonen arteko harremanak | Azalpena | katalogoa | Informazioa jasotzeko fitxa | Azalpen laburra: txosten txiki bat |
 | Inauteriak | Literatura Pertsonen arteko harremanak | Narrazioa | Bakarrizketa/ bertsoak | Ipuina kontatu ahoz | Kondairak |
 | Bazterkerien aurka: kontuz aurreiritziekin | Pertsonen arteko harremanak Komunikabideak | Argudioa | Eztabaida | Pobreziaren aurkako kanpaina | Etorkinen egoera salatu manifestu baten bidez/role play |
@@ -209,18 +212,23 @@ Hurrengo adibidea Berritzegunetako formazio-ikastaro batetik hartua da. Helburu 
 **Proiektu guztien ardatza** **Mota**: narrazioa **Erabilera eremua**: komunikabideak **Gaia**: gaur egun: informazioa ala iritzia?
 
 | H1: Irrati-kronika | H2: Reportaje | H3: A digital story |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Kronikak kultura eta kiroletako gaurkotasuna hartuko lituzke gaitzat. Eginkizuna hiruko taldeetan antola daiteke. | Los alumnos trabajarán un tema elegido por ellos mismos, recogido de la actualidad, de sus propios campos de interés o de los libros de lectura propuestos durante el curso. | By using electronic primary sources students will create a few minutes movie that will include a variety of media --- audio, photographs, and text--- on either a historical or an actual fact. |
 | Komunikazio Egoera | Situación de comunicación | Situation of communication |
 | *Gaia*:Interpretatutako gaurkotasuna <br>*Igorlea*: Hirunaka bildutako ikasleak. <br/>*Hartzailea*: Ikastetxeko beste ikasleak <br/>*Kanala*: Ahozkoa <br/>*Asmoa eta helburua*:Kiroletako edo kulturako gaurkotasuna jakinaraztea, era pertsonalean, eta uhinen bitartez. <br/>*Argitalpen lekua*: Ikastetxeko irratia <br/>*Eremua*:Hizkuntza gizarteko komunikabideetan | *Tema*: La actualidad comentada. <br/>*Emisor*: Los alumnos/as en grupos de 3. <br/>*Receptor*: El resto del alumnado del centro. <br/>*Canal*: Escrito.<br/> *Intención y finalidad*: Transmitir de manera personal, con abundancia de datos y de modo ameno la actualidad. <br/>*Lugar de publicación*: En la biblioteca del centro, en formato de suplemento. <br/>*Ámbito de uso*: La lengua en los medios de comunicación social. | *Topic*: A historical or an actual fact<br/>*Sender* : Students, in groups of three <br/>*Recipient*: Peers<br/>*Channel*: Oral and audio visual<br/>*Aim*: To narrate a fact of interest using narrative techniques and audio visual resources.<br/>*Place of production*: The classroom and the Web <br/>*Field*: Language in the mass media |
 
-##### Ikaskuntzen sailkapena
+#### Ikaskuntzen sailkapena
 
 | Hizkuntzetik askekoak | Hizkuntzen menpekoak |
-|----|----|
+|------------------------------------|------------------------------------|
 | Narrazio testua (eus, eng)<br />Komunikabideak (spa)<br/>Oinarrizko galderak, *6W* (spa, eus, eng) | Aditz formak (spa, eus, eng)<br/>Lokailuak (spa, eus, eng) |
 
-Komunikazio proiektu batzuk, Berritzeguneen eskutik gehienak https://sites.google.com/site/komunikazioproiektuaklh/ https://sites.google.com/site/htbmintegia/ http://htbtil0809.wordpress.com/ http://nagusia.berritzeguneak.net/hizkuntzak/
+Komunikazio proiektu batzuk, Berritzeguneen eskutik gehienak: 
+
++ <https://sites.google.com/site/komunikazioproiektuaklh/>
++ <https://sites.google.com/site/htbmintegia/>
++ <http://htbtil0809.wordpress.com/>
++ <http://nagusia.berritzeguneak.net/hizkuntzak/>
 
 ::: callout-warning
 ### Gaiari kolpetzeko aitzakia bila
