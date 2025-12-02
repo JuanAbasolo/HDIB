@@ -5,8 +5,8 @@ format:
     revealjs: 
         theme: [dark, css/nire.scss]
         css: [css/logo.css]
-        footer: "Sekuentzia Didaktikoak - 2024"
-        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
+        footer: "Sekuentzia Didaktikoak - 2025"
+        logo: '../HDIB-2025/assets/00/HDIB_biribil_baltz.png'
         self_contained: true
         slide-number: true
 editor: visual
@@ -16,15 +16,15 @@ csl: '../../eu/apa-eu.csl'
 
 Hizkuntzaren irakaskuntza ikuskera komunikatiboan ardaztu beharraz jardun dugu eta dute. Komunikazioa egiten da zer testuetan, testuen bitartez. Horri oratu nahirik eta testu generoen irakaskuntza aitzakian, hizkuntzaz, didaktikaz eta komunikazioaz jardungo dugu. HHko irakaskuntzatik Doktoregoetaraino hartuta.
 
-Kapitulu honek hiru atal nagusi izango ditu: Ekintza komunikatiboa, lehenengo, bigarrena testua eta testuen arkitektura eta hirugarrena sekuentzia didaktikoak.
+Gaurko eskolak hiru atal nagusi izango ditu: **Ekintza komunikatiboa**, lehenengo, bigarrena **testua eta testuen arkitektura** eta hirugarrena **sekuentzia didaktikoak**.
 
 # Ekintza komunikatiboa
 
----
+## {.center background-color="lightgray"}
 
-zerbait esatea ezer egitea da
+[zerbait esatea ezer egitea da]{.gorri}
 
----
+------------------------------------------------------------------------
 
 ## Analizatzeko elementuak {.center}
 
@@ -32,46 +32,62 @@ zerbait esatea ezer egitea da
 
 Enuntziatzailea, hartzailea, gaia, bitartekoa, egoera, erabilera-esparrua, zertarakoa , xedea
 
-## {.smaller .scrollable}
+##  {.smaller .scrollable}
 
-::: {.incremental}
-1.  **Enuntziatzailea**  
-    Markatu gabeak: laguna, familiartekoak, ezaguna.  
+::: incremental
+1.  **Enuntziatzailea**\
+    Markatu gabeak: laguna, familiartekoak, ezaguna.\
     Markatuak: ezezaguna, nagusia / menpekoa, jakitunak / ez-jakitunak...
 
-2.  **Hartzailea**  
-    Markatu gabeak: laguna, familiartekoak, ezaguna...  
+2.  **Hartzailea**\
+    Markatu gabeak: laguna, familiartekoak, ezaguna...\
     Markatuak: ezezaguna, nagusia / menpekoa, jakitunak / ez-jakitunak...
 
-3.  **Gaia**  
-    Markatu gabeak: ezaguna, egunerokoa...  
+3.  **Gaia**\
+    Markatu gabeak: ezaguna, egunerokoa...\
     Markatuak: ezezaguna, teknikoa...
 
-4.  **Nola**  
-    Ahoz. 
-    Idatziz.
+4.  **Nola**\
+    Ahoz. Idatziz.
 
-5.  **Egoera**  
-    Interaktiboa. 
-    Ez-interaktiboa.
+5.  **Egoera**\
+    Interaktiboa. Ez-interaktiboa.
 
-6.  **Erabilera-esparrua**  
-    Markatu gabeak: informalak, lagunartea, familiartekoa, ezagunen artekoa... 
-    Markatuak: formala, lantokikoa, ezezaguna, teknikoa...
+6.  **Erabilera-esparrua**\
+    Markatu gabeak: informalak, lagunartea, familiartekoa, ezagunen artekoa... Markatuak: formala, lantokikoa, ezezaguna, teknikoa...
 
-7.  **Zer egin** (hizkuntz ekintza)
+7.  **Zer egin** (hizkuntz ekintza)\
     Azaldu. Kontatu. Preskribitu.
 
-8.  **Xedea**  
+8.  **Xedea**\
     Markatu gabeak: ohikoak. Markatuak: testu-motei dagozkienak (esplikatzea; arreta erakartzea; konbentzitzea; agintzea / aholkuak ematea...; xehetasunez deskribatzea).
-
 :::
 
 @elosegiEuskaltegikurrikuluakEgitekoJardunbide2004, pp. 15
 
+##  {background-color="darkblue"}
 
+::: callout-note
+## Testuaren osagarriak
 
-## {background-color="darkred"}
+-   Enuntziatzailea
+
+-   Hartzailea
+
+-   Gaia
+
+-   Bitartekoa
+
+-   Egoera(ren interaktibotasuna)
+
+-   Erabilera-esparrua
+
+-   Hizkuntz ekintza
+
+-   Xedea
+:::
+
+##  {background-color="darkred"}
 
 ::: callout-warning
 ### Ariketa
@@ -83,28 +99,28 @@ Horietan goian aipatutako osagarriak zehaztu behar dituzu
 
 # Testu arkitektura
 
----
+------------------------------------------------------------------------
 
 zergatia
 
-garrantzia 
+garrantzia
 
-osagai nagusiak sakonago 
+osagai nagusiak sakonago
 
 [testuak ekoizteko eta ulertzeko prozesuan duten eragina]{.fragment}
 
----
+------------------------------------------------------------------------
 
-> Testu arkitekturaren garrantziaz hitz egitean, argi dago testuaren egitura egoki antolatzeak zuzenean eragiten duela hizkuntzaren ulermenean eta erabileran, bai ahozkoa bai idatzizkoa izan.  
-Testu baten koherentzia eta kohesioa bermatzen dituzten elementuak lantzea ezinbestekoa da hizkuntza-komunikaziorako gaitasunak garatzeko.  
+> Testu arkitekturaren garrantziaz hitz egitean, argi dago testuaren egitura egoki antolatzeak zuzenean eragiten duela hizkuntzaren ulermenean eta erabileran, bai ahozkoa bai idatzizkoa izan.\
+> Testu baten koherentzia eta kohesioa bermatzen dituzten elementuak lantzea ezinbestekoa da hizkuntza-komunikaziorako gaitasunak garatzeko.
 
 > Haur Hezkuntzako eta Lehen Hezkuntzako irakasleek testu arkitektura baliatu dezakete, haurrei hizkuntzaren antolaketaren logika transmititzeko eta, aldi berean, testu desberdinen xedeak identifikatzen irakasteko.
 
----
+------------------------------------------------------------------------
 
-> Garrantzi didaktikoari dagokionez, testu arkitekturak irakasleei aukera ematen die hizkuntza-irakaskuntza era integratuan garatzeko. Haurrek, ahozko eta idatzizko testuen azterketaren bidez, testu motak ezagutzen dituzte  
-...  
-Horrek haien adierazpen autonomoa eta gaitasun estrategikoak sustatzen ditu. Era berean, irakasleek testu arkitekturaren bidez helburua duten komunikazioak diseinatzeko eta hizkuntza-gaitasunak modu esanguratsuan lantzeko bideak aurkitzen dituzte, ikaskuntza prozesuari koherentzia eta helburua ematen die
+> Garrantzi didaktikoari dagokionez, testu arkitekturak irakasleei aukera ematen die hizkuntza-irakaskuntza era integratuan garatzeko. Haurrek, ahozko eta idatzizko testuen azterketaren bidez, testu motak ezagutzen dituzte\
+> ...\
+> Horrek haien adierazpen autonomoa eta gaitasun estrategikoak sustatzen ditu. Era berean, irakasleek testu arkitekturaren bidez helburua duten komunikazioak diseinatzeko eta hizkuntza-gaitasunak modu esanguratsuan lantzeko bideak aurkitzen dituzte, ikaskuntza prozesuari koherentzia eta helburua ematen die
 
 ## Jean-Paul Bronckarten eredua {.center}
 
@@ -112,43 +128,57 @@ Horrek haien adierazpen autonomoa eta gaitasun estrategikoak sustatzen ditu. Era
 -   Testualizazio mekanismoak (Loturak)
 -   Ardura enuntziatiboaren mekanismoak
 
-## {.scrollable}
+##  {.scrollable}
 
-::: {.incremental }
-
+::: incremental
 1.  **Testuaren azpiegitura orokorra:**
 
-    -   **Plan orokorra:**
-        Testuaren eduki tematikoaren antolaketa orokorra, testuaren xede komunikatiboaren araberakoa. Adibidez, ipuin tradizionaletan, markoa, korapiloa eta askaera.
+    -   **Plan orokorra:** Testuaren eduki tematikoaren antolaketa orokorra, testuaren xede komunikatiboaren araberakoa. Adibidez, ipuin tradizionaletan, markoa, korapiloa eta askaera.
 
-    -   **Sekuentziak:** \
+    -   **Sekuentziak:**\
         Testuan erabiltzen diren egitura jarraituak, testuaren helburua lortzeko egokiak direnak.
 
-    -   **Interaktibotasuna:**
-        Testua elkarreragilea den edo ez den adierazten duen mekanismoa. Ahozko testuetan garrantzi handia du, baina idatzizko testuetan ere ikus daiteke, adibidez, gutunetan edo iritzien ataletan.
+    -   **Interaktibotasuna:** Testua elkarreragilea den edo ez den adierazten duen mekanismoa. Ahozko testuetan garrantzi handia du, baina idatzizko testuetan ere ikus daiteke, adibidez, gutunetan edo iritzien ataletan.
 
 2.  **Testualizazio mekanismoak (Loturak):**
 
-    -   **Konexioa:** \
+    -   **Konexioa:**\
         Testu-antolatzaileak, adibidez, "gainera", "hala ere", edo "ondorioz", erabiliz testuaren jarraitutasuna bermatzen dute.
 
-    -   **Izen-kohesioa:**
-        Testuaren elementu nagusiak (pertsonak, objektuak, kontzeptuak) lotzen dituzte, sinonimoak, izenordainak edo bestelako erreferentzia mekanismoak erabiliz.
+    -   **Izen-kohesioa:** Testuaren elementu nagusiak (pertsonak, objektuak, kontzeptuak) lotzen dituzte, sinonimoak, izenordainak edo bestelako erreferentzia mekanismoak erabiliz.
 
-    -   **Aditz-kohesioa:** \
+    -   **Aditz-kohesioa:**\
         Ekintzak eta prozesuak lotzeko baliatzen da, aditz-formen koherentzia eta lotura mantenduz.
 
 3.  **Ardura enuntziatiboaren mekanismoak:**
 
-    -   **Ahots enuntziatzaileak:** \
+    -   **Ahots enuntziatzaileak:**\
         Testuaren egileak bere burua nola agertzen duen, adibidez, lehen pertsonan edo hirugarren pertsonan idatzita.
 
-    -   **Modalizazioa:** \
+    -   **Modalizazioa:**\
         Egileak testuaren edukiarekin duen harremana adierazten du, adibidez, zalantza, baieztapena edo iritzi subjektiboa txertatuz.
+:::
+
+##  {background-color="darkblue"}
+
+::: callout-note
+## Testuaren arkitekturaren osagarriak
+
+-   Testuaren azpiegitura orokorra
+    -   Plan orokorra
+    -   Sekuentziak
+    -   Interaktibotasuna
+-   Testualizazio mekanismoak
+    -   Konexioa
+    -   Izen-kohesioa
+    -   Aditz-kohesioa
+-   Ardura enuntziatiboaren mekanismoak
+    -   Ahots enuntziatzaileak
+    -   Modalizazioa
 
 :::
 
-## {background-color="darkred"}
+##  {background-color="darkred"}
 
 ::: callout-warning
 ### Ariketa
@@ -167,41 +197,41 @@ Ahozko testu labur bat eta horren moldaketak egin beharko dituzu, goian zehaztut
 5.  Ikaskuntza interaktiboa
 6.  Pentsamendu kritikoa eta testuen analisia
 
----
+------------------------------------------------------------------------
 
 Bronckart-en ikuspegia bat dator ideia honekin: hizkuntzaren ikaskuntza ez da soilik hizkuntza-egiturak eskuratzea, baizik eta hizkuntzaren erabilera soziala eta kulturala ulertzea ere. Benetako testuak eta ikaskuntza interaktiboa azpimarratzen badira, ikasleek hizkuntzaren ulermen osoagoa eta praktikoagoa izango dute.
 
----
+------------------------------------------------------------------------
 
 Sekuentzia didaktikoa (SD) hezkuntza-praktika antolatzeko eta sistematizatzeko lanabes gisa aurkezten da. Pedagogia testualean oinarrituta, SDa egitura egonkorra eta fidagarria eskaintzen du, irakaskuntza-prozesuak eraginkorragoak izan daitezen. Lau etapa desberdin ditu, zehaztapen argiak eta praktikan oinarritutako irizpideak eskainiz: egoeraz jabetzea, hasierako ekoizpena, tailerrak edo moduluak, eta bukaerako ekoizpena eta ebaluazioa.
 
----
+------------------------------------------------------------------------
 
 SDren egituraketak ikasleek hizkuntz-ekintza zehatzak ulertu eta garatzeko aukera ematen du, testu-generoen lanketa sakonaren bidez. Horri esker, ikasleek hizkuntzaren erabilera modu koherentean eta helburudunean ikasten dute, komunikazio- eta adierazpen-gaitasunak garatuz. SDk testu-generoen araberako jarduerak eta ekoizpenak antolatzeko aukera eskaintzen du, eta, horrela, irakasleentzako tresna baliagarria bihurtzen da.
 
----
+------------------------------------------------------------------------
 
 Sekuentzia Didaktikoak (SD) irakaskuntza-prozesuaren ardatz egituratua eskaintzen du, ikasleen ikaskuntza modu koherente eta progresiboan garatzeko. Lau etapa nagusitan banatuta, SDk ikasleen hizkuntza-gaitasunak sustatzeko eta ebaluatzeko marko praktikoa eta eraginkorra proposatzen du. Jarraian, etapa bakoitzaren ezaugarri nagusiak aurkeztuko dira.
 
 ## Etapak {.scrollable}
 
-1.  **Egoeraz Jabetzeko Etapa (EJ)\
-    ***Deseraikitzea*
+1.  **Egoeraz jabetzeko etapa (EJ)\
+    ***Deseraikitzea*\
     [Proiektuaren aurkezpenarekin hasten da, ikasleen arreta eta interesa pizteko. Fase honetan, ikasleek testuinguruari eta jardueraren helburuei buruzko lehenengo informazioa jasotzen dute. Girotze-prozesu honek ikasleen parte-hartzea bultzatu eta jardueraren zentzua azpimarratzen du, proiektu esanguratsu baten bidez.]{.fragment}
 
-2.  **Hasierako Ekoizpena (HE)\
+2.  **Hasierako ekoizpena (HE)\
     ***Elkarren artean eraikitzea*\
-   [ Aurretestua izenez ere ezagutzen da. Ikasleek testu-genero jakin baten lehenengo ekoizpena egiten dute, haien abiapuntuko ezagutzak eta gabeziak azaleratzeko. Informazio hori irakasleak diagnostiko gisa erabiltzen du hurrengo etapetarako jarduerak planifikatzeko eta ikasleen premia nagusiak identifikatzeko.]{.fragment}
+    [Aurretestua izenez ere ezagutzen da. Ikasleek testu-genero jakin baten lehenengo ekoizpena egiten dute, haien abiapuntuko ezagutzak eta gabeziak azaleratzeko. Informazio hori irakasleak diagnostiko gisa erabiltzen du hurrengo etapetarako jarduerak planifikatzeko eta ikasleen premia nagusiak identifikatzeko.]{.fragment}
 
-3.  **Tailerrak eta Moduluak (TT/MM)\
+3.  **Tailerrak eta moduluak (TT/MM)\
     ***Trebatzea eta doitzea*\
     [Etapa honetan, ikasleek aurretestuan antzemandako zailtasunak gainditzeko jarduerak burutzen dituzte. Tailerrak testuaren edukia, egitura eta hizkuntz-formak lantzeko diseinatuak daude, ikasleek ezagutza espezifikoak eskuratu eta garatu ditzaten.]{.fragment}
 
-4.  **Bukaerako Ekoizpena eta Ebaluazioa (BEE)\
+4.  **Bukaerako ekoizpena eta ebaluazioa (BEE)\
     ***Zabaltzea (barneratzea)*\
     [Ikasleek azken testua edo produktua sortzen dute, tailerretan landutako ezagutzak aplikatuz. Ekoizpen honek ikasleen aurrerapena eta ikaskuntza-prozesuaren arrakasta ebaluatzeko aukera ematen du, aurretestuarekin alderatuta.]{.fragment}
 
-## {background-color="darblue" .smaller}
+##  {.smaller background-color="darkblue"}
 
 ::: callout-note
 ### Kontuan izatekoak
@@ -219,14 +249,12 @@ Sekuentzia Didaktikoak (SD) irakaskuntza-prozesuaren ardatz egituratua eskaintze
     SDren ebaluazioa ez da amaieran bakarrik egiten; prozesu osoan zehar dago integratua. Honek aukera ematen du ikasleek etengabe jasotzeko euren aurrerapenei buruzko informazioa.
 
 5.  **Irakaslearen eta ikaslearen arteko lankidetza:**\
-    SDaren arrakasta ikasleen eta irakasleen arteko lankidetza eta elkarrekiko ardura partekatutik dator. Irakasleak gidatu egiten du, baina ikasleek
-    ere prozesuarekiko konpromisoa hartu behar dute.
+    SDaren arrakasta ikasleen eta irakasleen arteko lankidetza eta elkarrekiko ardura partekatutik dator. Irakasleak gidatu egiten du, baina ikasleek ere prozesuarekiko konpromisoa hartu behar dute.
 :::
 
 ## SDak ebaluatzeko irizpideak {.scrollable .smaller}
 
-::: {.incremental}
-
+::: incremental
 1.  **Proiektuaren Espazio Argia:**
 
     -   Sekuentzia didaktikoak proiektu baten barruan kokatu behar dira, eta proiektu horrek ikasleen parte-hartze komunikatibo esanguratsua sustatu behar du.
@@ -235,7 +263,7 @@ Sekuentzia Didaktikoak (SD) irakaskuntza-prozesuaren ardatz egituratua eskaintze
 
 2.  **Kontsignaren Formulazioa:**
 
-    -   Argia eta zehatza izan behar du, ikasleek jakin dezaten zer, nola eta zertarako egin behar duten. 
+    -   Argia eta zehatza izan behar du, ikasleek jakin dezaten zer, nola eta zertarako egin behar duten.
     -   Parametro komunikatiboak barne hartu behar ditu, hala nola helburua, audientzia eta erabilitako baliabideak.
 
 3.  **Funtsezko Elementuen Presentzia:**
@@ -252,10 +280,9 @@ Sekuentzia Didaktikoak (SD) irakaskuntza-prozesuaren ardatz egituratua eskaintze
 
     -   Sekuentzian erabilitako terminoak testuinguru epistemologikoarekin eta irakaskuntzaren helburuekin koherenteak izan behar dira.
     -   Terminologiak argia izan behar du ikasle eta irakasleentzat.
-
 :::
 
-## {background-color="darkred"}
+##  {background-color="darkred"}
 
 ::: callout-warning
 ### Ariketa
@@ -265,4 +292,4 @@ Banaka sortu Sekuentzia Didaktiko baten **proposamena** dagokizun etaparako nahi
 Ebaluatu ahalik eta doituen geratzeko.
 :::
 
-##
+## 
