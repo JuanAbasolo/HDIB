@@ -2,7 +2,7 @@
 
 Portfoliak sarrera eta hiru atal izango ditu[\*](../diapoak/2025-Azken_klasea.html).
 
-**Sarrera**n egingo da ikasgaiaren balorazio orokorra eta ikasleak zehaztuko du bere lanbiderako zein ikaskuntza eskuratu duen zein lan eginaz.
+Sarreran egingo da ikasgaiaren balorazio orokorra eta ikasleak zehaztuko du bere lanbiderako zein ikaskuntza eskuratu duen zein lan eginaz.
 
 Atalak izango dira ikasgaian "gai" moduan aipatuak:
 
@@ -10,7 +10,7 @@ Atalak izango dira ikasgaian "gai" moduan aipatuak:
 2.  Ikastetxearen antolakuntza, ikaskuntzak eta hizkuntzen ikaskuntza
 3.  Gelako praktikaren antolakuntza eta hizkuntza
 
-**Atal bakoitzak izango du bere sarrera**, lanen zerrenda eta lanen azalpen pedagogikoa
+Atal bakoitzak izango du bere sarrera, lanen zerrenda eta lanen azalpen pedagogikoa
 
 Segidan lanak ordenan aurkeztuko dira honela:
 
@@ -24,28 +24,27 @@ Hemendik aurrera, gairik gai, atalik atal lanen zerrenda, portfolioak gorde beha
 
 ------------------------------------------------------------------------
 
-## **Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma**
+## Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma
 
 -   Bideo sorta
 
-### **Curriculumaz**
+### Curriculumaz
 
 -   Komunikazioa eta hezkuntza egungo curriculum dekretuan
 
-### **EEMB eta Hizkuntzen Portfolio Europarra**
+### EEMB eta Hizkuntzen Portfolio Europarra
 
 -   EEMB mailak.\
     Analisia eta hezkuntza jarduerarekiko loturak
 
--   Norberaren HPE:
-    Ikasleek beraien HPE propioa sortuko dute, hizkuntza ikaskuntza ibilbidea eta hizkuntza gaitasunak islatuz.
+-   Norberaren HPE: Ikasleek beraien HPE propioa sortuko dute, hizkuntza ikaskuntza ibilbidea eta hizkuntza gaitasunak islatuz.
 
 ### Hizkuntza ez‐curricularren trataera
 
 -   Claustroaren aurrean irakurri beharreko dokumentua\
     Ariketa horrek tarte bi izan ditu askoren kasuan. Banakako idazketaren aurretik, talde hausnarketa egin bada, sarreran kontuan izan. Bestela zuzenean bakarka idatziari egin kasu.
 
-### **IKT hizkuntzaren erabilera eta hizkuntz paisaia**
+### IKT hizkuntzaren erabilera eta hizkuntz paisaia
 
 -   Berbako diskurtso idatzia\
     IKTen erabilera bideratu beharraz.
@@ -53,49 +52,48 @@ Hemendik aurrera, gairik gai, atalik atal lanen zerrenda, portfolioak gorde beha
 -   Idatziaren azterketa eta analisia\
     IDATapp edo IDATshboard erabilita aurrez idatzitakoen azterketa.
 
--   Webguneen zerrendaren sailkapena.
-    Zuon ekarpenen atala erakutsi
+-   Webguneen zerrendaren sailkapena. Zuon ekarpenen atala erakutsi
 
-## **Ikastetxearen antolakuntza, ikaskuntzak eta hizkuntzen ikaskuntza** 
+## Ikastetxearen antolakuntza, ikaskuntzak eta hizkuntzen ikaskuntza
 
 -   Role playingak
 
-### **Hezkuntzaren lau zutabeak eta gaitasun giltzarriak hizkuntzen didaktikan**
+### Hezkuntzaren lau zutabeak eta gaitasun giltzarriak hizkuntzen didaktikan
 
 -   Konpetentzien ikuskeraren alderaketa
 
 -   Egoera komunikatiboa (A)
 
-### **Euskal Hezkuntza Sistemako Eleaniztasuna**
+### Euskal Hezkuntza Sistemako Eleaniztasuna
 
 -   Egoera komunikatiboa (B)
 
-### **Hizkuntzen Trataera Bateratuaz**
+### Hizkuntzen Trataera Bateratuaz
 
 -   Hizkuntzen arteko elementu eta gaitasun transferigarriak
 
 -   Egoera komunikatiboa (C)
 
-### **Hizkuntzak eta Edukiak Batera Ikastea**
+### Hizkuntzak eta Edukiak Batera Ikastea
 
 -   HDIB zein ikasgai zein mailatan, zergatik
 
 -   Egoera komunikatiboa (D)
 
-## **Gelako praktikaren antolakuntza eta hizkuntza**
+## Gelako praktikaren antolakuntza eta hizkuntza
 
 -   ~~Sekuentzia Didaktikoaren proposamena~~ ⏭️
 
-### **Hizkuntzen irakaskuntzarako metodologien bilakaera**
+### Hizkuntzen irakaskuntzarako metodologien bilakaera
 
 -   ⏭️
 
-### **Ikaskuntzarako Diseinu Unibertsala eta hizkuntza**
+### Ikaskuntzarako Diseinu Unibertsala eta hizkuntza
 
 -   Praktiketako azalpen eta balorazioa\
     Ralabate eta Nelson (2017) liburuko kapitulu baten argitara
 
-### **Testua i(ra)kasgunea**
+### Testua i(ra)kasgunea
 
 -   Bost ekintza komunikatibo\
     Zu barne hartzen zaituenak irakaskuntzako subjektu legez, osagarriak aztertuta.
@@ -103,7 +101,7 @@ Hemendik aurrera, gairik gai, atalik atal lanen zerrenda, portfolioak gorde beha
 -   Ahozko testuaren moldaketak\
     Testu-arkitekturaren elementuak espreski aldatuta
 
-### **Lapsusak, huts egiteak eta erroreak**
+### Lapsusak, huts egiteak eta erroreak
 
 -   Testu idatzien azterketa\
     Erroreak identifikatu, sailkatu eta horietan oinarrituta, irakasleak ikaslearekin egin beharrekoaren proposamen justifikatua. Hiru testu, bata euskaraz, beste bat gaztelaniaz eta bat aukeran (ingelesa ere aukeragai dago, zure gaitasunaren arabera). Taldekideek ez testurik errepikatu barik.
