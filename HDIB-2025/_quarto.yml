@@ -48,7 +48,7 @@ book:
   appendices:
    - E01-Bideo_txorten_ebaluazio_errubrikak.qmd
    - E02-Role_playingaren_ebaluazio_errubrikak.qmd
-   - E03-Sekuentzia_Didaktikoaren_ebaluazio_errubrikak.qmd
+   # - E03-Sekuentzia_Didaktikoaren_ebaluazio_errubrikak.qmd
    - E04-Portfolioaren_egitura_ta.qmd
 
 bibliography: references.bib

@@ -1,6 +1,6 @@
 # Portfoliorako oharrak
 
-Portfoliak sarrera eta hiru atal izango ditu.[\*](../diapoak/2024-Azken_klasea.html)
+Portfoliak sarrera eta hiru atal izango ditu[\*](../diapoak/2025-Azken_klasea.html).
 
 **Sarrera**n egingo da ikasgaiaren balorazio orokorra eta ikasleak zehaztuko du bere lanbiderako zein ikaskuntza eskuratu duen zein lan eginaz.
 
@@ -24,73 +24,86 @@ Hemendik aurrera, gairik gai, atalik atal lanen zerrenda, portfolioak gorde beha
 
 ------------------------------------------------------------------------
 
-## Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma
+## **Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma**
 
-### Curriculumaz
+-   Bideo sorta
 
--   Balizko txostenaren aurkezpena
+### **Curriculumaz**
 
-### EEMB eta Hizkuntzen Portfolio Europarra
+-   Komunikazioa eta hezkuntza egungo curriculum dekretuan
 
--   EEMB mailen analisia: Ikasleek, banaka edo bikoteetan, EEMB maila bat aukeratu eta horri buruzko poster bat sortuko dute.
--   Norberaren HPE: Ikasleek beraien HPE propioa sortuko dute, hizkuntza ikaskuntza ibilbidea eta hizkuntza gaitasunak islatuz. Etxerako lana
+### **EEMB eta Hizkuntzen Portfolio Europarra**
 
-### IKT hizkuntzaren erabilera eta hizkuntz paisaia
+-   EEMB mailak.\
+    Analisia eta hezkuntza jarduerarekiko loturak
 
--   Ariketa 2/2 Taldekideon artean aztertu binaka edo hirunaka zuon idatziak IDATapp erabilita\
-    labur.eus/idat-app\
-    Taldekideon artean eztabaidatu zuok baliabideon erabilgarritasuna gelan.\
-    Zerk lagunduko lioke gelako irakasleari ikasleen idazketa prozesuan aurrera egiten
+-   Norberaren HPE:
+    Ikasleek beraien HPE propioa sortuko dute, hizkuntza ikaskuntza ibilbidea eta hizkuntza gaitasunak islatuz.
 
-### Mintegiko txostena
+### Hizkuntza ez‐curricularren trataera
 
--   Txostena
+-   Claustroaren aurrean irakurri beharreko dokumentua\
+    Ariketa horrek tarte bi izan ditu askoren kasuan. Banakako idazketaren aurretik, talde hausnarketa egin bada, sarreran kontuan izan. Bestela zuzenean bakarka idatziari egin kasu.
 
--   Eraikuntza prozesua
+### **IKT hizkuntzaren erabilera eta hizkuntz paisaia**
 
-## Ikastetxearen antolakuntza, ikaskuntzak eta hizkuntzen ikaskuntza
+-   Berbako diskurtso idatzia\
+    IKTen erabilera bideratu beharraz.
 
-Tarte honetako atal bakoitzean eskatu zitzaizuen gaiari heltzeko egoera komunikatibo bat diseinatzea. Bakoitzean bat aukeratu eta justifikatu (teorian eginda dago)
+-   Idatziaren azterketa eta analisia\
+    IDATapp edo IDATshboard erabilita aurrez idatzitakoen azterketa.
 
-### Hezkuntzaren lau zutabeak eta gaitasun giltzarriak hizkuntzen didaktikan
+-   Webguneen zerrendaren sailkapena.
+    Zuon ekarpenen atala erakutsi
 
--   Konpetentzien ikuskeraren alderaketa (taula sortu zenuten)
--   Aztertu gaur eguneko legeak gaiaren argitara
--   Egoera komunikatiboa
+## **Ikastetxearen antolakuntza, ikaskuntzak eta hizkuntzen ikaskuntza** 
 
-### Euskal Hezkuntza Sistemako Eleaniztasuna
+-   Role playingak
 
--   Inguruko ikastetxeen sailkapen eta azterketa
--   Egoera komunikatiboa
+### **Hezkuntzaren lau zutabeak eta gaitasun giltzarriak hizkuntzen didaktikan**
 
-### Hizkuntzen Trataera Bateratuaz
+-   Konpetentzien ikuskeraren alderaketa
+
+-   Egoera komunikatiboa (A)
+
+### **Euskal Hezkuntza Sistemako Eleaniztasuna**
+
+-   Egoera komunikatiboa (B)
+
+### **Hizkuntzen Trataera Bateratuaz**
 
 -   Hizkuntzen arteko elementu eta gaitasun transferigarriak
--   Egoera komunikatiboa
 
-### Hizkuntzak eta Edukiak Batera Ikastea
+-   Egoera komunikatiboa (C)
 
--   HDIB/CLIL zein ikasgai eta mailatan, zergatik
--   Egoera komunikatiboa
+### **Hizkuntzak eta Edukiak Batera Ikastea**
 
-## Gelako praktikaren antolakuntza eta hizkuntza
+-   HDIB zein ikasgai zein mailatan, zergatik
 
-### Hizkuntzen irakaskuntzarako metodologien bilakaera
+-   Egoera komunikatiboa (D)
 
--   Testuaren galderari erantzun
--   Galderen erantzunak
--   Zuon eta Van Pattenen erantzunen arteko aldea
+## **Gelako praktikaren antolakuntza eta hizkuntza**
 
-### Ikaskuntzarako Diseinu Unibertsala eta hizkuntza
+-   ~~Sekuentzia Didaktikoaren proposamena~~ ⏭️
 
--   Kapituluaren argitara praktiketako azalpen eta balorazioa
+### **Hizkuntzen irakaskuntzarako metodologien bilakaera**
 
-### Testua i(ra)kasgunea
+-   ⏭️
 
--   Taula batean zehaztu bosna ekintza komunikatibo, zu barne hartzen zaituenak irakaskuntzako subjektu legez. (osagarriak aztertuta)
--   Ahozko testua eta moldaketak testu-arkitekturan
--   Sekuentzia Didaktikoaren proposamena
+### **Ikaskuntzarako Diseinu Unibertsala eta hizkuntza**
 
-### Lapsusak, huts egiteak eta erroreak
+-   Praktiketako azalpen eta balorazioa\
+    Ralabate eta Nelson (2017) liburuko kapitulu baten argitara
 
--   Testu idatziak aztertu: erroreak identifikatu, sailkatu eta horietan oinarrituta, egin irakasleak ikaslearekin egin beharrekoaren proposamen justifikatua. Aukeratu hiru testu, bata euskaraz, beste bat gaztelaniaz eta bat aukeran (ingelesa ere aukeragai dago, zure gaitasunaren arabera). Taldekideek ez dute testurik errepikatuko.
+### **Testua i(ra)kasgunea**
+
+-   Bost ekintza komunikatibo\
+    Zu barne hartzen zaituenak irakaskuntzako subjektu legez, osagarriak aztertuta.
+
+-   Ahozko testuaren moldaketak\
+    Testu-arkitekturaren elementuak espreski aldatuta
+
+### **Lapsusak, huts egiteak eta erroreak**
+
+-   Testu idatzien azterketa\
+    Erroreak identifikatu, sailkatu eta horietan oinarrituta, irakasleak ikaslearekin egin beharrekoaren proposamen justifikatua. Hiru testu, bata euskaraz, beste bat gaztelaniaz eta bat aukeran (ingelesa ere aukeragai dago, zure gaitasunaren arabera). Taldekideek ez testurik errepikatu barik.

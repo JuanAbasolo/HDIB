@@ -235,7 +235,7 @@ Txostena dela-eta, ez dute aurkeztu beharko gainontzeko guztia amaitu arte, bali
 ### Kronograma
 
 | Zatia | Urratsa | Irakasleak | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
-|--------|--------|--------|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|----|----|----|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 | Proiektuaren aurkezpena | Aurkezpena egingo du | x |  |  |  |  |  |  |
 | 2 | Edukien azalpena eta lanketa | Aurkezpenak egin eta lanketan gidatu | x | x | x | x |  |  |  |
 | 3 | Gaien banaketa eta sakontzeko ariketak | Banaketa orekatua adostu eta gidatu |  |  |  | x |  |  |  |
@@ -251,7 +251,7 @@ Proiektuak bost entregagai ditu, edukiko bat eta azken txostena. Hurrengo taulan
 -   Role Playinga
 
 | Zatia | Astea | Entregagaia | \% | Ikasgaian |
-|--------------:|--------------:|---------------|--------------:|--------------:|
+|---:|---:|----|---:|---:|
 | 2 | 5 | Gaitasunak eta hezkuntza sistema – Hizkuntza-komunikaziorako gaitasuna | 1 | 0.1 |
 | 2 | 6 | Eleaniztasuna eta Hezkuntza Sistema | 1 | 0.1 |
 | 2 | 7 | Hizkuntzen Trataera bateratua (HTB) | 1 | 0.1 |

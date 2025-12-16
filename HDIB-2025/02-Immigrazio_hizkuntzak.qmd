@@ -159,5 +159,11 @@ Aipatu arren, curriculum diseinutik aparte geratzen diren hainbat hizkuntza "ez-
     @larreaHizkuntzaEtorkinakAzterketa2013\
     @europakokontseiluaHizkuntzenEuropakoErreferentzia2022
 
-Zuok eskola bat zarete, zer egin behar litzateke zuon es
+Zuok eskola bat zarete, zer eta nola egin behar litzateke zuon ustez ikastetxean? Zergatik?
 :::
+
+Ikasleek banakako idazlana ere egin beharko dute Framapad[^02-immigrazio_hizkuntzak-7] edo Etherpadeko beste instantziaren[^02-immigrazio_hizkuntzak-8] batean.
+
+[^02-immigrazio_hizkuntzak-7]: <https://framapad.org>
+
+[^02-immigrazio_hizkuntzak-8]: <https://github.com/ether/etherpad-lite/wiki/Sites-That-Run-Etherpad>

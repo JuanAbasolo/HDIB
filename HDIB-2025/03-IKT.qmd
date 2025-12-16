@@ -317,3 +317,17 @@ Deskribatu eta azaldu taldeko jardunaren nondik norakoa, ebidentzietan oinarritu
 
 Azaldu horretan ikusten duzuena (banaka)
 :::
+
+::: callout-note
+## IDATerako alternatiba capitalism friendly
+
+*oharra: Google Drive-rako antzeko analisia egiteko hiru plugin argitaratu dira*
+
+-   DocuViz
+
+-   Draftback (😒)
+
+-   Process Feedback for Google Docs
+
+Horiek guztiek antzerako azterketak egiteko balio lezakete GoogleDocs erabilita eta Chromium web nabigatzailean oinarritutakoetan ondo ibiltzen dira (Chromium, Edge, Google Chrome, Opera, Vivaldi...)
+:::

@@ -260,7 +260,7 @@ Berori tradizioan hainbat bidetatik garatzen izan den arren, egun araudi markoak
 <small>
 
 | Proiektua | Eremua | Testu mota | Azken ekoizpena H1 | Azken ekoizpena H2 | Azken ekoizpena H3 |
-|------------|------------|------------|------------|------------|------------|
+|----|----|----|----|----|----|
 | Gure arbasoen ekarpenak | Pertsonen arteko harremanak | Azalpena | katalogoa | Informazioa jasotzeko fitxa | Azalpen laburra: txosten txiki bat |
 | Inauteriak | Literatura Pertsonen arteko harremanak | Narrazioa | Bakarrizketa/ bertsoak | Ipuina kontatu ahoz | Kondairak |
 | Bazterkerien aurka: kontuz aurreiritziekin | Pertsonen arteko harremanak Komunikabideak | Argudioa | Eztabaida | Pobreziaren aurkako kanpaina | Etorkinen egoera salatu manifestu baten bidez/role play |
@@ -300,7 +300,7 @@ Gaur egun komunikabideek duten garrantzia ikusita, ikasleek informazioa eta irit
 <small>
 
 | H1: Irrati-kronika | H2:Reportaje | H3: A digital story |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Kronikak kultura eta kiroletako gaurkotasuna hartuko lituzke gaitzat. Eginkizuna hiruko taldeetan antola daiteke. | Los alumnos trabajarán un tema elegido por ellos mismos, recogido de la actualidad, de sus propios campos de interés o de los libros de lectura propuestos durante el curso. | By using electronic primary sources students will create a few minutes movie that will include a variety of media --- audio, photographs, and text--- on either a historical or an actual fact. |
 | Komunikazio Egoera | Situación de comunicación | Situation of communication |
 | *Gaia*:Interpretatutako gaurkotasuna <br>*Igorlea*: Hirunaka bildutako ikasleak. <br/>*Hartzailea*: Ikastetxeko beste ikasleak <br/>*Kanala*: Ahozkoa <br/>*Asmoa eta helburua*:Kiroletako edo kulturako gaurkotasuna jakinaraztea, era pertsonalean, eta uhinen bitartez. <br/>*Argitalpen lekua*: Ikastetxeko irratia <br/>*Eremua*:Hizkuntza gizarteko komunikabideetan | *Tema*: La actualidad comentada. <br/>*Emisor*: Los alumnos/as en grupos de 3. <br/>*Receptor*: El resto del alumnado del centro. <br/>*Canal*: Escrito.<br/> *Intención y finalidad*: Transmitir de manera personal, con abundancia de datos y de modo ameno la actualidad. <br/>*Lugar de publicación*: En la biblioteca del centro, en formato de suplemento. <br/>*Ámbito de uso*: La lengua en los medios de comunicación social. | *Topic*: A historical or an actual fact<br/>*Sender* : Students, in groups of three <br/>*Recipient*: Peers<br/>*Channel*: Oral and audio visual<br/>*Aim*: To narrate a fact of interest using narrative techniques and audio visual resources.<br/>*Place of production*: The classroom and the Web <br/>*Field*: Language in the mass media |
@@ -310,7 +310,7 @@ Gaur egun komunikabideek duten garrantzia ikusita, ikasleek informazioa eta irit
 ## Ikaskuntzen sailkapena
 
 | Hizkuntzetik askekoak | Hizkuntzen menpekoak |
-|-------------------------------------|-----------------------------------|
+|----|----|
 | Narrazio testua (eus, eng)<br />Komunikabideak (spa)<br/>Oinarrizko galderak, *6W* (spa, eus, eng) | Aditz formak (spa, eus, eng)<br/>Lokailuak (spa, eus, eng) |
 
 ## 
