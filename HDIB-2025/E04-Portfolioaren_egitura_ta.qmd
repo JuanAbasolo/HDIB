@@ -14,11 +14,11 @@ Atal bakoitzak izango du bere sarrera, lanen zerrenda eta lanen azalpen pedagogi
 
 Segidan lanak ordenan aurkeztuko dira honela:
 
--   Lanaren aurkezpena (paragrafo bat gehienez)
+- Lanaren aurkezpena (paragrafo bat gehienez)
 
--   Lana bera
+- Lana bera
 
--   Lanaren balorazioa (paragrafo bat gehienez)
+- Lanaren balorazioa (paragrafo bat gehienez)
 
 Hemendik aurrera, gairik gai, atalik atal lanen zerrenda, portfolioak gorde beharreko egitura.
 
@@ -26,70 +26,70 @@ Hemendik aurrera, gairik gai, atalik atal lanen zerrenda, portfolioak gorde beha
 
 ## Hezkuntza ingurua, hizkuntzen agerrera eta curriculuma
 
--   Bideo sorta
+- Bideo sorta
 
 ### Curriculumaz
 
--   Komunikazioa eta hezkuntza egungo curriculum dekretuan
+- Komunikazioa eta hezkuntza egungo curriculum dekretuan
 
 ### EEMB eta Hizkuntzen Portfolio Europarra
 
--   EEMB mailak.\
-    Analisia eta hezkuntza jarduerarekiko loturak
+- EEMB mailak.\
+  Analisia eta hezkuntza jarduerarekiko loturak
 
--   Norberaren HPE: Ikasleek beraien HPE propioa sortuko dute, hizkuntza ikaskuntza ibilbidea eta hizkuntza gaitasunak islatuz.
+- Norberaren HPE: Ikasleek beraien HPE propioa sortuko dute, hizkuntza ikaskuntza ibilbidea eta hizkuntza gaitasunak islatuz.
 
 ### Hizkuntza ez‐curricularren trataera
 
--   Claustroaren aurrean irakurri beharreko dokumentua\
-    Ariketa horrek tarte bi izan ditu askoren kasuan. Banakako idazketaren aurretik, talde hausnarketa egin bada, sarreran kontuan izan. Bestela zuzenean bakarka idatziari egin kasu.
+- Claustroaren aurrean irakurri beharreko dokumentua\
+  Ariketa horrek tarte bi izan ditu askoren kasuan. Banakako idazketaren aurretik, talde hausnarketa egin bada, sarreran kontuan izan. Bestela zuzenean bakarka idatziari egin kasu.
 
 ### IKT hizkuntzaren erabilera eta hizkuntz paisaia
 
--   Berbako diskurtso idatzia\
-    IKTen erabilera bideratu beharraz.
+- Berbako diskurtso idatzia\
+  IKTen erabilera bideratu beharraz.
 
--   Idatziaren azterketa eta analisia\
-    IDATapp edo IDATshboard erabilita aurrez idatzitakoen azterketa.
+- Idatziaren azterketa eta analisia\
+  IDATapp edo IDATshboard erabilita aurrez idatzitakoen azterketa.
 
--   Webguneen zerrendaren sailkapena. Zuon ekarpenen atala erakutsi
+- Webguneen zerrendaren sailkapena. Zuon ekarpenen atala erakutsi
 
 ## Ikastetxearen antolakuntza, ikaskuntzak eta hizkuntzen ikaskuntza
 
--   Role playingak
+- Role playingak
 
 ### Egoera komunikatibo bana gaietan
 
--   Hezkuntzaren lau zutabeak eta gaitasun giltzarriak hizkuntzen didaktikan azpigaiko egoera komunikatiboa (A)
+- Hezkuntzaren lau zutabeak eta gaitasun giltzarriak hizkuntzen didaktikan azpigaiko egoera komunikatiboa (A)
 
--   Euskal Hezkuntza Sistemako Eleaniztasuna azpigaiko egoera komunikatiboa (B)
+- Euskal Hezkuntza Sistemako Eleaniztasuna azpigaiko egoera komunikatiboa (B)
 
--   Hizkuntzen Trataera Bateratuaz azpigaiko egoera komunikatiboa (C)
+- Hizkuntzen Trataera Bateratuaz azpigaiko egoera komunikatiboa (C)
 
--   Hizkuntzak eta Edukiak Batera Ikastea azpigaiko egoera komunikatiboa (D)
+- Hizkuntzak eta Edukiak Batera Ikastea azpigaiko egoera komunikatiboa (D)
 
 ## Gelako praktikaren antolakuntza eta hizkuntza
 
--   ~~Sekuentzia Didaktikoaren proposamena~~ ⏭️
+- ~~Sekuentzia Didaktikoaren proposamena~~ ⏭️
 
 ### Hizkuntzen irakaskuntzarako metodologien bilakaera
 
--   ⏭️
+- ⏭️
 
 ### Ikaskuntzarako Diseinu Unibertsala eta hizkuntza
 
--   Praktiketako azalpen eta balorazioa\
-    Ralabate eta Nelson (2017) liburuko kapitulu baten argitara
+- Praktiketako azalpen eta balorazioa\
+  Ralabate eta Nelson (2017) liburuko kapitulu baten argitara
 
 ### Testua i(ra)kasgunea
 
--   Bost ekintza komunikatibo\
-    Zu barne hartzen zaituenak irakaskuntzako subjektu legez, osagarriak aztertuta.
+- Bost ekintza komunikatibo\
+  Zu barne hartzen zaituenak irakaskuntzako subjektu legez, osagarriak aztertuta.
 
--   Ahozko testuaren moldaketak\
-    Testu-arkitekturaren elementuak espreski aldatuta
+- Ahozko testuaren moldaketak\
+  Testu-arkitekturaren elementuak espreski aldatuta
 
 ### Lapsusak, huts egiteak eta erroreak
 
--   Testu idatzien azterketa\
-    Erroreak identifikatu, sailkatu eta horietan oinarrituta, irakasleak ikaslearekin egin beharrekoaren proposamen justifikatua. Hiru testu, bata euskaraz, beste bat gaztelaniaz eta bat aukeran (ingelesa ere aukeragai dago, zure gaitasunaren arabera). Taldekideek ez testurik errepikatu barik.
+- Testu idatzien azterketa\
+  Erroreak identifikatu, sailkatu eta horietan oinarrituta, irakasleak ikaslearekin egin beharrekoaren proposamen justifikatua. Hiru testu, bata euskaraz, beste bat gaztelaniaz eta bat aukeran (ingelesa ere aukeragai dago, zure gaitasunaren arabera). Taldekideek ez testurik errepikatu barik.

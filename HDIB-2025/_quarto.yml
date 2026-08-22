@@ -4,11 +4,11 @@ project:
 
   
 book:
-  title: "Hizkuntzen Didaktikako Ikuspegi Berriak V:0.5"
-  subtitle: "2025-2026 ikasturtea - Aipamena: Hizkuntza Aniztasuna Eskolan"
+  title: "Hizkuntzen Didaktikako Ikuspegi Berriak V:0.6"
+  subtitle: "2026-2027 ikasturtea - Aipamena: Hizkuntza Aniztasuna Eskolan"
   author: 
     name: "Irakaslea: Juan Abasolo"
-    affiliation: UPV/EHU
+    affiliation: EHU
     orcid: 0000-0002-1911-4118
   # sidebar:
   #   style: docked

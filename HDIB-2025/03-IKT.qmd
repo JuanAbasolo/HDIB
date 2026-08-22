@@ -4,28 +4,28 @@ Gaia aurreko ikasturtean bitan zabaltzen nuen eta aurten bakarrean. Horregatik, 
 
 ## IKT hizkuntzaren erabilera eta hizkuntz paisaia
 
--   Gogoratu beharrekoa: Curriculuma, zer da?\
-    Ikaslearen esperientziak nola eragiten du bere ikaskuntzan?
+- Gogoratu beharrekoa: Curriculuma, zer da?\
+  Ikaslearen esperientziak nola eragiten du bere ikaskuntzan?
 
 <iframe src="https://mastodon.eus/@euwikipedia/109501055412174555/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen">
 
 </iframe>
 
--   Baldin eta hizkuntza paisaia errealitatea bada, hizkuntzaren e-paisaiari ere begiratu behar diogu horri buruz ere hausnartzeko
+- Baldin eta hizkuntza paisaia errealitatea bada, hizkuntzaren e-paisaiari ere begiratu behar diogu horri buruz ere hausnartzeko
 
-    -   Apple-k, ChromeBook-ak, Chrome web nabigatzaileak... zein paisaia irudikatzen dute?
+  - Apple-k, ChromeBook-ak, Chrome web nabigatzaileak... zein paisaia irudikatzen dute?
 
--   Eta hizkuntzaren e-paisaiari begiratzen badiegu, ez dago txarto e-paisaiari orokorki hartzea ere.
+- Eta hizkuntzaren e-paisaiari begiratzen badiegu, ez dago txarto e-paisaiari orokorki hartzea ere.
 
-    -   Hezkuntza erakundeak eta ikasleen datuen erabilera.
+  - Hezkuntza erakundeak eta ikasleen datuen erabilera.
 
-    -   Datuen batze eta prozesatzetik bizi eta aberasten diren enpresa pribatuen *dohaineko* zerbitzuak.
+  - Datuen batze eta prozesatzetik bizi eta aberasten diren enpresa pribatuen *dohaineko* zerbitzuak.
 
-    -   Ohituren menpekotasuna eta enpresa nagusien aldeko diskurtsua
+  - Ohituren menpekotasuna eta enpresa nagusien aldeko diskurtsua
 
-    -   Bertoko irtenbide libre eta euskalduak: LuberriOS eta Txiki Linux
+  - Bertoko irtenbide libre eta euskalduak: LuberriOS eta Txiki Linux
 
--   Hizkuntza txikion tresnak eta hizkuntza nagusienak
+- Hizkuntza txikion tresnak eta hizkuntza nagusienak
 
 <iframe src="https://mastodon.eus/@kilkerra/112831252777621624/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen">
 
@@ -77,16 +77,16 @@ Orain dela zenbait ikasturte HHko bigarren zikloko irakasleak hurrengo ariketa p
 
 Ariketa horren bitartez:
 
--   Umeek marrazkia egin zuten
--   Umeek teklatuaz idazten saiatu ziren
--   Umeak motibatu ziren (etxetik ikkusiko bai zituzten)
--   Eskola - etxea zubia ere landu zen.
+- Umeek marrazkia egin zuten
+- Umeek teklatuaz idazten saiatu ziren
+- Umeak motibatu ziren (etxetik ikkusiko bai zituzten)
+- Eskola - etxea zubia ere landu zen.
 
 Umeek teklatuaz idaztearen alderdi batzuk nabarmendu ahal dira:
 
--   Baliabide manipulagarria da
--   Idazketaz duten aurrezagutzak erabil ditzakete, kaligrafiaren menpeko izan barik
--   Mundu digitalean sortzaile egiten dira (lehenengoz asko)
+- Baliabide manipulagarria da
+- Idazketaz duten aurrezagutzak erabil ditzakete, kaligrafiaren menpeko izan barik
+- Mundu digitalean sortzaile egiten dira (lehenengoz asko)
 
 Umeen marrazkiak, adinak eta eurek egindakoa erakusten da segidan.
 
@@ -108,12 +108,12 @@ Haur Hezkuntzako gela bateko zenbait irudi eta idatzi. Idatziak ordenagailua egi
 
 Umeen idatzien izenburuak erabili dira:
 
--   3 urte eta 5 hileko haurrak @fig-mpy dekribatzeko ***KJO9I874ºGHU*** idatzi zuen, adierazi zuenez *pelikula bat munstruena* esan nahi du horrek.
--   4 urte eta hilabeteko beste ume batek ***OCIEA UEX OAEA*** idatzi zuen @fig-sa azaltzeko; horrek *lo egitea eta muinekakaz jolastea* esan nahi du.
--   4 urte eta 5 hileko umeak ***LORAK BIE*** izenburu eman zion [-@fig-nra] irudiari, *lorak biltzea* irakurri zuen.
--   4 urte eta 7 hileko beste haur batek idatzitako ***DANSA EGTA*** testuak argi erakusten du [-@fig-ina] irudiak *dantza egitea* iradoki behar duela.
--   4 urte eta bederatzi urteko beste ume batek ***KOPAKO COKOA*** idatzita [-@fig-xbr] irudikoak, *kopako jokoa* adierazi nahi zuela jakinarazi zuen.
--   Amaitzeko, 6 urte eta hile biko umeak ***ESKUPPILOTAN GOLSTEA*** testu gardenaren itzulpentzat *eskupilotan jolastea* eman zuen [-@fig-ner] irudian. Azken irudi horretan eskuz idatzitako beste hainbat testu ere irakur daitezke.
+- 3 urte eta 5 hileko haurrak @fig-mpy dekribatzeko ***KJO9I874ºGHU*** idatzi zuen, adierazi zuenez *pelikula bat munstruena* esan nahi du horrek.
+- 4 urte eta hilabeteko beste ume batek ***OCIEA UEX OAEA*** idatzi zuen @fig-sa azaltzeko; horrek *lo egitea eta muinekakaz jolastea* esan nahi du.
+- 4 urte eta 5 hileko umeak ***LORAK BIE*** izenburu eman zion [-@fig-nra] irudiari, *lorak biltzea* irakurri zuen.
+- 4 urte eta 7 hileko beste haur batek idatzitako ***DANSA EGTA*** testuak argi erakusten du [-@fig-ina] irudiak *dantza egitea* iradoki behar duela.
+- 4 urte eta bederatzi urteko beste ume batek ***KOPAKO COKOA*** idatzita [-@fig-xbr] irudikoak, *kopako jokoa* adierazi nahi zuela jakinarazi zuen.
+- Amaitzeko, 6 urte eta hile biko umeak ***ESKUPPILOTAN GOLSTEA*** testu gardenaren itzulpentzat *eskupilotan jolastea* eman zuen [-@fig-ner] irudian. Azken irudi horretan eskuz idatzitako beste hainbat testu ere irakur daitezke.
 
 Bistan denez, umeen idazteko gaitasuna nahikoa garatua dute umeek, euren kaligrafiak eta marrazkien trazuak iradoki dezakeenaren aldean.
 
@@ -130,12 +130,12 @@ Euskaraz (ere ba)diren webguneen zerrenda sailkatu.
 
 Zerrenda horri taldekide bakoitzak beste bostekin hornitu beharko du. Bost horiek gehitzeko honako ezaugarriak izan behar dira kontuan:
 
--   Izena
--   Esteka
--   Egilea
--   Helburua
--   Datuak batzea
--   Erabilera didaktiko posibleak
+- Izena
+- Esteka
+- Egilea
+- Helburua
+- Datuak batzea
+- Erabilera didaktiko posibleak
 
 Eskatu zerrenda taldera bidaltzea.
 :::
@@ -184,49 +184,49 @@ Talde idazketa egiteko garatutako aplikazio libre batek; baina, aukera ematen du
 
 IDAT erabilita idazketa prozesuaren hainbat ezaugarri eskuratu daitezke:
 
--   Idazketa prozesuaren denbora luzera
+- Idazketa prozesuaren denbora luzera
 
--   Idazketa prozesuan idatzitako guztiaren kopurua
+- Idazketa prozesuan idatzitako guztiaren kopurua
 
--   Ezabatutakoaren guztiaren kopurua
+- Ezabatutakoaren guztiaren kopurua
 
--   Idazkuntza abiadura
+- Idazkuntza abiadura
 
--   Hausnarketan igarotako denbora
+- Hausnarketan igarotako denbora
 
--   Ekitaldi kopurua (hausnarketa umeen artean jarraian idatzitako tarteak), luzera eta iraupena
+- Ekitaldi kopurua (hausnarketa umeen artean jarraian idatzitako tarteak), luzera eta iraupena
 
--   Egileak identifika litezke
+- Egileak identifika litezke
 
--   ...
+- ...
 
 Neurgarrien arteko batzuen berri ematen du IDATapp web aplikazioak (`labur.eus/HDIBidatapp` URLan eskuragai 25 orduz hilean).
 
 IDATapp-k egun honakoen berri ematen du:
 
--   Prozesuan erabilitako karaktere kopuru osoa
+- Prozesuan erabilitako karaktere kopuru osoa
 
--   Zenbat itsatsi den (talde handietan ez dabil ondo)
+- Zenbat itsatsi den (talde handietan ez dabil ondo)
 
--   Zenbat karaktere ezabatu den
+- Zenbat karaktere ezabatu den
 
--   Zenbat denbora igaro da idazketan eta zenbat hausnarrean; horretarako denbora muga aukeratzen ere uzten du.
+- Zenbat denbora igaro da idazketan eta zenbat hausnarrean; horretarako denbora muga aukeratzen ere uzten du.
 
--   Idazketa abiaduraren berri ere ematen du zenbat karaktere idazten den minutuko kalkulatuta.
+- Idazketa abiaduraren berri ere ematen du zenbat karaktere idazten den minutuko kalkulatuta.
 
--   Azken testua osorik ematen du
+- Azken testua osorik ematen du
 
--   Idazketa prozesuaren irudi bat ere ematen du, zeinetan irudikatzen den :
+- Idazketa prozesuaren irudi bat ere ematen du, zeinetan irudikatzen den :
 
-    -   Aldaketa bakoitza gehiketa ala kenketa ekintza izan den,
+  - Aldaketa bakoitza gehiketa ala kenketa ekintza izan den,
 
-    -   Zenbat karaktere hartzen duen aldaketak, sarrera ordenagailua ere identifikatzen du,
+  - Zenbat karaktere hartzen duen aldaketak, sarrera ordenagailua ere identifikatzen du,
 
-    -   Agileak identifikatzeko balio izan lezakeena
+  - Agileak identifikatzeko balio izan lezakeena
 
-    -   Aldaketa zein lerrotan eman den
+  - Aldaketa zein lerrotan eman den
 
--   Ordenagailu bakoitzetik zenbat aldaketa egin zaizkion dokumentuari, egileen ekarpen tamaina irudikatzeko balio du horrek.
+- Ordenagailu bakoitzetik zenbat aldaketa egin zaizkion dokumentuari, egileen ekarpen tamaina irudikatzeko balio du horrek.
 
 ::: callout-warning
 ### Ariketa 2/2
@@ -260,7 +260,7 @@ Elkarrekiko koordinazioan
 
 :   Honelako jardunetan idazle guztiek idazten dute testu bakar batean elkarren lanak eta ekarpenak kontuan izanda, hartara bakoitzak bera ari den inguruan egokitzapenak egin ditzake
 
-![Talde lana batzuetan UPV/EHUn](assets/9/Talde_lana.jpg){width="322"}
+![Talde lana batzuetan EHUn](assets/9/Talde_lana.jpg){width="322"}
 
 Egiletzarako estrategiak Posnerrek eta Baekerrek -[@posnerHowPeopleWrite1992] honela sailkatu zuten:
 
@@ -279,6 +279,10 @@ Eskribaren estrategia
 Taldekako idazketarako estrategia
 
 :   Taldekide guztiek berbarik berba erabaki idatzia
+
+**Aurreko irudia 2026an ez litzateke egia** gauzak konplexuagotu dira, eta sinpletu diren antza dute. Aurrekoaren osagarria da gaurko [-@fig-susendua] irudia:
+
+![Susendutaco hirudia, adimen naturala lar erabili barik. Talde lana EHUn 2026an](images/clipboard-2078316975.png){#fig-susendua}
 
 ### IDAT taldeko idatziekin
 
@@ -323,11 +327,11 @@ Azaldu horretan ikusten duzuena (banaka)
 
 *oharra: Google Drive-rako antzeko analisia egiteko hiru plugin argitaratu dira*
 
--   DocuViz
+- DocuViz
 
--   Draftback (😒)
+- Draftback (😒)
 
--   Process Feedback for Google Docs
+- Process Feedback for Google Docs
 
 Horiek guztiek antzerako azterketak egiteko balio lezakete GoogleDocs erabilita eta Chromium web nabigatzailean oinarritutakoetan ondo ibiltzen dira (Chromium, Edge, Google Chrome, Opera, Vivaldi...)
 :::

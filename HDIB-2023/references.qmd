@@ -1,4 +1,0 @@
-# Erreferentziak {.unnumbered}
-
-::: {#refs}
-:::

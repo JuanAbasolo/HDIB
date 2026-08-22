@@ -23,7 +23,7 @@ Ikuspegi eleaniztunak...
 ::: callout-note
 ## EAEko hezkuntza sistema familientzat azaldua
 
--   EAEko hezkuntza sistema. [Familientzako informazioa](EAEko%20hezkuntza%20sistema.%20Familientzako%20informazioa)
+- EAEko hezkuntza sistema. [Familientzako informazioa](EAEko%20hezkuntza%20sistema.%20Familientzako%20informazioa)
 :::
 
 ## Araudiak eta europar gomendioak
@@ -115,11 +115,11 @@ Ikuspegi inklusibo honen alde ebidentzia ugari pilatu da azken urteotan: adibide
 
 [^02-immigrazio_hizkuntzak-5]: Language Friendly Schoolen proposamenak Let's Care Project webgunean: <https://letscareproject.eu/jprogramme/1117/>
 
--   haurrak hobeto eta bizkorrago ikasten dute ulertzen duten hizkuntza batean;
--   eskolan gusturago daude eta etxean bezala senti daitezke;
--   autoestimua handitzen da;
--   gurasoen parte-hartzea areagotzen da;
--   eta, epe luzera, ikasle eleaniztunek arrakasta akademiko eta sozioekonomiko handiagoak lortzen dituzte, ikasketak gehiagotan bukatuz
+- haurrak hobeto eta bizkorrago ikasten dute ulertzen duten hizkuntza batean;
+- eskolan gusturago daude eta etxean bezala senti daitezke;
+- autoestimua handitzen da;
+- gurasoen parte-hartzea areagotzen da;
+- eta, epe luzera, ikasle eleaniztunek arrakasta akademiko eta sozioekonomiko handiagoak lortzen dituzte, ikasketak gehiagotan bukatuz
 
 Bestalde, apunteok idazteko orduan ez da aurkitu ikerketarik ama-hizkuntzaren erabilerakhizkuntza nagusiaren ikasketan kaltea eragiten duela dioenik, eta bai ugari egoera batzuetan mesedegarria ere badela diotenak; Alemaniako zenbait azterlanen arabera, jatorrizko hizkuntzetako klaseetara joateak *ez du eragin negatiborik* alemanezko emaitzetan, eta "ziurtasunez ekartzen du familiaren hizkuntzaren garapen osagarri bat, hots, hizkuntza-gaitasun gehigarria", Duisburg-Essen-eko Unibertsitatean, Ipar Renania-Westfalian, Alemaniako jardunen inguruko ikerketa taldea dago[^02-immigrazio_hizkuntzak-6] . <!-- #(Reich, 2014)[16](https://www.ei-ie.org/en/item/26204:heritage-language-instruction-at-school-a-valuable-resource#:~:text=Linguistic%20competencies%20connect%20in%20different,the%20HLI%20as%20a%20subject).-->
 
@@ -152,12 +152,12 @@ Bi ikuspegien arteko talkak debate sutsuak eragin ditu hezkuntza-politikan azken
 
 Aipatu arren, curriculum diseinutik aparte geratzen diren hainbat hizkuntza "ez-curricular" ere bada. Horrekin zer gertatzen den, arauak zer dioen, zein toki izan lezakeen eta zein ematen zaion eskolan eta gizartean. Zalantzoi nolabaiteko erantzunak emateko eskatuko zaie proiektuko hirugarren astean. Horretarako Hezkuntza Saileko zenbait weborri eta dokumentu bi erabiliko dira, aurreko klaseetako dokumentuez eta apunteez gain.
 
--   Immigrazio hizkuntzak eta ikastetxeak\
-    Emigrazioko doluetan bigarrena hizkuntza @achoteguiloizateDuelosMigracionAproximacion2000\
-    @hezkuntzasailaEleaniztasunaZer2017\
-    @hezkuntzasailaEAEkoHezkuntzaSistema2019\
-    @larreaHizkuntzaEtorkinakAzterketa2013\
-    @europakokontseiluaHizkuntzenEuropakoErreferentzia2022
+- Immigrazio hizkuntzak eta ikastetxeak\
+  Emigrazioko doluetan bigarrena hizkuntza @achoteguiloizateDuelosMigracionAproximacion2000\
+  @hezkuntzasailaEleaniztasunaZer2017\
+  @hezkuntzasailaEAEkoHezkuntzaSistema2019\
+  @larreaHizkuntzaEtorkinakAzterketa2013\
+  @europakokontseiluaHizkuntzenEuropakoErreferentzia2022
 
 Zuok eskola bat zarete, zer eta nola egin behar litzateke zuon ustez ikastetxean? Zergatik?
 :::
