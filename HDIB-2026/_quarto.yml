@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: ../apunteak-2026
+  output-dir: ../apunteak
 
   
 book:
@@ -16,7 +16,7 @@ book:
   date: today
   date-format: "YYYY MM DD"
   favicon: "assets/00/hdib-logoa_zurirako.png"
-  url: 'https://juanabasolo.github.io/HDIB/apunteak-2026/'
+  url: 'https://juanabasolo.github.io/HDIB/apunteak/'
   search: true
   downloads: [pdf, epub]
   chapters:

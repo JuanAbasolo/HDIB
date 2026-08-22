@@ -1,19 +1,28 @@
-# Denetarik
+# HDIB 2026 - Diapositiba aktiboak
 
-+ [Aurkezpena](0-Aurkezpena-22.pdf)
-+ [jarraibideak](00-Idatzizko talde-lanerako jarraibideak.pdf)
-+ [lanak](00-Lanaz gaiak eta gidoiak.pdf)
-+ [Taldeak egiteko](https://mypads2.framapad.org/mypads/?/mypads/group/hdib-2022-3t3tr29v0/pad/view/taldeak-egiteko-hdib-2022-g43tt29at)
-+ Ikaslearen fitxa: labur.eus/HDikasleena
-+ [![](https://img.shields.io/badge/Diapoak-4zutabeak-brightgreen)](01-Diapo.html)
-+ [![](https://img.shields.io/badge/Diapoak-elebitasunetik-brightgreen)](02-HDIBelebiDiapo.html)
-+ [![](https://img.shields.io/badge/Diapoak-HizkuntzKudeaketa-gray)](../Zain/3-gaia_Ikastetxeko-hizkuntzen-kudeatzea.pdf)
-+ [![](https://img.shields.io/badge/Diapoak-HizkuntzTrataeraBateratua-gray)](4-gaia-HTB.pdf)
-+ [![](https://img.shields.io/badge/Diapoak-CLIL-gray)](5-gaia-CLIL.pdf)
-+ lana
-+ [![](https://img.shields.io/badge/Diapoak-Metodologiak-brightgreen)](07-diapoMetodologiak.html)
-+ [![](https://img.shields.io/badge/Diapoak-Programatzea-gray)](08-Hizkuntza_programatu(21).pdf)
-+ [![](https://img.shields.io/badge/Diapoak-IKT-gray)](09-IKT2022V0.pdf)
-+ [![](https://img.shields.io/badge/Diapoak(1)-Erroreak-gray)](10-Erroreak01.pdf)
-    + [![](https://img.shields.io/badge/Diapoak(2)-herroreac-gray)](10-Erroreak02.pdf)
-+ [![](https://img.shields.io/badge/Diapoak-Estrategiak-brightgreen)](11-IKASLEEN_IKAS_ESTRATEGIAKb.html)
+Karpeta honetan bakarrik geratzen dira apunteetan estekatuta dauden aurkezpenak.
+
+## Oinarrizko aurkezpenak
+
+- [00-Aurkezpena-25](00-Aurkezpena-25.html)
+- [00-EEMB-HPE](00-EEMB-HPE.html)
+- [02-25-hizkuntza_ez-curricularrak-ta](02-25-hizkuntza_ez-curricularrak-ta.html)
+- [02-25-IKT-ta](02-25-IKT-ta.html)
+- [02-Lau_zutabetatik_honantz](02-Lau_zutabetatik_honantz.html)
+- [03-Eleaniztasunaren_trataeraren_eraikuntza](03-Eleaniztasunaren_trataeraren_eraikuntza.html)
+- [05-HizkuntzenTrataeraBateratuaz23](05-HizkuntzenTrataeraBateratuaz23.html)
+- [06-CLIL-ta](06-CLIL-ta.html)
+- [08-Metodologia-ta](08-Metodologia-ta.html)
+- [09-2024-IDU-ta](09-2024-IDU-ta.html)
+- [10-2024-Testu_generoak-eta](10-2024-Testu_generoak-eta.html)
+
+## Ebaluazio eta amaierako materialak
+
+- [10-Erroreak01](10-Erroreak01.pdf)
+- [10-Erroreak02](10-Erroreak02.pdf)
+- [2025-Azken_klasea](2025-Azken_klasea.html)
+
+## Mintegiak
+
+- [M01-25_adimen_naturala](M01-25_adimen_naturala.html)
+- [M02-25_literaturaz_jardun](M02-25_literaturaz_jardun.html)

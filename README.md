@@ -4,13 +4,13 @@ Biltegi honetan ikasgaiaren apunteak, diapositibak eta bestelako ikasgelako bali
 
 ## 2026ko ikasturtea
 
-- [Apunteen HTML bertsioa](apunteak-2026/index.html)
-- [Apunteen PDF bertsioa](apunteak-2026/Hizkuntzen-Didaktikako-Ikuspegi-Berriak-V-0.6.pdf)
-- [Apunteen EPUB bertsioa](apunteak-2026/Hizkuntzen-Didaktikako-Ikuspegi-Berriak-V-0.6.epub)
+- [Apunteen HTML bertsioa](apunteak/index.html)
+- [Apunteen PDF bertsioa](apunteak/Hizkuntzen-Didaktikako-Ikuspegi-Berriak-V-0.6.pdf)
+- [Apunteen EPUB bertsioa](apunteak/Hizkuntzen-Didaktikako-Ikuspegi-Berriak-V-0.6.epub)
 - [Diapositibak eta aurkezpenetako baliabideak](diapoak/)
 - [2026ko iturburu-fitxategiak](HDIB-2026/)
 
-Apunteetan kapitulu bakoitzaren amaieran dagokion diapositibarako estekak daude, erabilgarri dagoenean. Irudiak eta bestelako baliabideak apunteen `assets/` eta `images/` karpetetan daude.
+Apunteetan kapitulu bakoitzaren amaieran dagokion diapositibarako estekak daude, erabilgarri dagoenean. `diapoak/` karpetan estekatutako aurkezpen aktiboak bakarrik geratzen dira.
 
 ## Aurreko ikasturteak
 
