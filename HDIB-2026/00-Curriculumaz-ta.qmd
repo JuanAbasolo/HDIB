@@ -1,0 +1,76 @@
+# Curriculumaz
+
+Curriculuma zer den eta curriculum dekretuek zer dioten
+
+Baliabideak: [@hezkuntzasaila752023DEKRETUA2023; @hezkuntzasaila772023DEKRETUA2023; @oihartzabalHezkuntzaIkerkuntzarakoHiztegia2000; @euskojaurlaritzahezkuntzahizkuntzapolitikaetakulturasailaOinarrizkoHezkuntzaCurriculuma2016; @euskojaurlaritzarenlegebiltzarraOinarrizkoHezkuntzakoCurriculuma2015]
+
+1.  Hasieran behar dira taldeak
+2.  Hurrengo talde ariketa:
+
+::: callout-important
+#### Ariketa
+
+**Irakasleak pasatuko dizun dokumentu bat**ean islatu behar duzu zelan definitzen den eta ze toki duten azken legeetan komunikazioak eta hizkuntzak. Ondoren zein alde dagoen legeon artean laburbildu behar duzue.
+
+Amaitzeko, alde horren interpretazio laburra idatzi beharko du taldekide bakoitzak.
+:::
+
+::: callout-important
+## Egin beharrekoaren deskribapen laburra
+
+Dagoeneko sailkatzen eta hasi zaretenez, orain irudikatu behar duzue nola jarraituko lukeen zuen lanak, txosten itxura erabat hartuta (denek edo guztiok hori egin duzue).
+
+Testua idatzi behar duzue pasatu zaizuen dokumentuaren hasieran.
+
+**Izenburua:** `Hizkuntza` eta `Komunikazioa` curriculum dekretu berrian
+
+**Testua:** Txosten (hipotetiko) baterako aurkezpena.
+
+**Nork idatzia**: Hizkuntzak eta komunikazioak curriculum berrian zer toki hartzen duen aztertzeko claustroan erabakitako irakasle taldeak
+
+**Nork irakurtzeko**: Claustro osoak, irakasle bakoitzak txostena nola erabili erabakitzeko.
+
+**Zertarako ari zareten idazten**: Zuen claustrokideak informatzeko zer duten eskuartean eta zer aurkituko duten hor.
+:::
+
+## Glosategia
+
+Helburuak
+
+:   funtsezko konpetentziak eskuratuta ikasleek etaparen amaierarako helduta beharko lituzketen lorpenak.
+
+Irteera-profila
+
+:   oinarrizko hezkuntza amaitzerako ikasle guztiek konpetentzietan helduta behar duten maila, aukera emango diena bizitza-proiektua arrakastaz garatzeko eta bizitzan zehar funtsezko konpetentziak garatzen jarraitzeko
+
+Funtsezko konpetentziak
+
+:   ikasleek arrakastaz aurrera egin ahal izateko eta bizitzan zehar erronka eta desafio nagusiei aurre egin ahal izateko ezinbestekotzat jotzen diren jardunak. Pertsona guztiek beren errealizazio eta garapenerako behar dituztenak dira, bai eta herritartasun aktiboa, gizarte-inklusioa eta enplegua sustatzeko behar direnak ere.
+
+Konpetentzia espezifikoak
+
+:   arlo eta ikasgai bakoitzeko oinarrizko jakintza beharrezkoa den jardueretan edo egoeretan ikasleek baliatzen jakin behar duten neurriak. Konpetentzia espezifikoak alde batetik funtsezko konpetentziak eta bestetik ikasgaietako oinarrizko jakintzak eta ebaluazio-irizpideak lotzeko eta zehazteko elementuak dira.
+
+Ebaluazio-irizpideak
+
+:   arlo edo ikasgai bakoitzaren konpetentzia espezifikoetan aipatutako jardueretan edo egoeretan ikasleek ikaskuntza-prozesuaren une jakin batean iritsi beharko lituzketen jardun-mailak adierazten dituzten erreferenteak.
+
+Oinarrizko jakintza
+
+:   arlo, ikasgai edo eremuetako berezko ezagutza, trebetasun eta jarrerak, edonork sakontasunez ezagutu, artikulatu eta mobilizatu behar dituenak konpetentzia espezifikoetan definitutako gaitasunekin batera, problemak konpontzeko edo egoera jakin batzuetan erronkei aurre egiteko. Curriculum-proposamen honetan, konpetentzia espezifikoak eskuratzeko eta garatzeko egiten duten ekarpenarengatik hautatzen dira oinarrizko jakintza horiek, nahiz eta diziplina-logikak eduki horiek hobeto antolatzen eta aurkezten laguntzen duen
+
+Ebaluazio hezitzailea
+
+:   irakasteko eta ikasteko prozesua ebaluatzeko modalitate bat da, izaera erregulatzailea duena, eta ikasleen zailtasunak eta aurrerapenak hautematea du xede, prozesu didaktikoa ikasleen beharretara egokitzeko.
+
+Eremua
+
+:   curriculumaren antolaketa globalizatua eta diziplinartekoa, zenbait diziplina elkarren artean erlazionatzen dituena, eta ikasgaien edo arloen atalen batura baino gehiago dena. Eremuak bertan sartutako arloei edo ikasgaiei dagozkien konpetentzia espezifikoak, ebaluazio-irizpideak eta oinarrizko jakintza biltzen ditu.
+
+Ikas-egoerak
+
+:   ikasleei funtsezko konpetentziekin eta konpetentzia espezifikoekin lotutako jarduerak garatzea eskatzen dieten egoerak eta jarduerak, konpetentzia horiek eskuratzen eta garatzen laguntzen dutenak. Ikas-egoeretatik abiatuta egindako lanak aukera ematen du konpetentzien araberako ikaskuntzaren ikuspegiaren oinarrian dauden jakintza eta gaitasunak uztartzen dituzten egoeratan oinarrituta egituratzeko ikasturte-programazioa edozein maila, arlo, ikasgai edo eremutan.
+
+Ikaskuntzarako diseinu unibertsala (IDU)
+
+:   curriculuma garatzeko printzipioak dira, ikasle guztiei hezkuntzarako sarbidean aukera-berdintasuna ematen dietenak, eta haien helburua benetako inklusio eta parte-hartzea lortzea da, ikasle guztientzat ikaskuntzarako oztopoak minimizatuz eta ikasteko aukerak maximizatuz.

@@ -1,0 +1,6 @@
+# Erreferentzia bibliografikoak {.unnumbered}
+
+Segidan zerrendatzen dira dokumentu honetan aipatutako erreferentzia guztiak. Horrek ez du esan nahi ikasgairako guzti hauek hartu behar direnik kontuan. Ikasgairako oinarrizko irakurgai gehienak apunteotan dira eta oinarrizkoak zein irakurketa gehigarriak zerrendatuak dira ikasgaiko gidan bertan.
+
+::: {#refs}
+:::

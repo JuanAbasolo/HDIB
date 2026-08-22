@@ -1,0 +1,147 @@
+# Ahozko aurkezpena
+
+::: {.callout-warning collapse="false" appearance="default" icon="true"}
+## Kontuan izatekoa
+
+Baliabide hau (apunteak) berreraikitze prozesuan daude.
+
+Hemengo lerrootakoak egokitze prozesuan daude, oraingo apunteetara egokitzeko.
+:::
+
+Hitzaldi bat prestatu, gai banari buruz, eta laburpen bat, diapositibekin, adibidez Hitzaldien aurkezpenak, zazpigarren astean. Gai baten azalpena, ahoz prestatu, hitzaldi bat emateko, gurasoei edo interesatuei (saiatu behar da koherente eta fidagarri izaten, publikoa konbentzitzeko).
+
+Gidoian bost "aztergune" ematen dira, eta talde bakoitzak bat garatu behar du.
+
+Bertan ageri dira iturri bibliografiko batzuk, lana nondik nora bideratzeko balio dezaketenak (baina beste batzuk ere erabili behar dira)
+
+Aztergune bakoitzaren garapenean komeni da toki bat uztea landa-lana egiteko edota esperientzia pertsonalak edo gogoetak agertzeko: teoria eta praktika lotzeko tokia izanen litzateke hori ("publikoak", entzuleak ulertuko dituen kontu arruntak izan daitezke: sinesmenak, iritziak, esperientziak...)
+
+Ebaluazioa: kontuan hartuko dira edukia eta adierazpidea (zuzentasuna, egokitasuna, koherentzia, kohesioa). Sinesgarritasuna, konbentzitzeko indarra...
+
+Azken notari dagokionez, lanaren balioa notaren %50 izanen da.
+
+Edozein zehaztapen edo aldaketa, irakaslearekin adostu behar da.
+
+## Zer egin behar da lanean? {.unnumbered}
+
+**Informazioa non bildu?** Bilatu eta aurkituriko materialak analizatu (laburpen idatzian informazio iturriak aipatu behar dira, lan akademikoetan bezala; GRALa egiteko balioko dizue).
+
+**Zer da landa-lana edo gogoeta?** Atal bakoitzean saiatu behar da eduki teorikoak bizi errealarekin lotzen, dela esperientzia baten gainean gogoeta eginez, dela eskola-inguru batean landa-lan bat eginez.
+
+## Gaiak {.unnumbered}
+
+Talde-lana egiteko azterpuntuak, gidoi gisa (ibilbideko mugarri batzuk)
+
+Gidoia gai guztietan errepikatzen da oinarrian:
+
+-   Esaldi "gidari" batzuk
+-   Aztertzeko materiala
+-   Landa-lana/gogoeta.
+
+### Hezkuntzaren lau pilareetatik (Delors txostenetik) oinarrizko konpetentzietara {.unnumbered}
+
+-   Hezkuntzaren lau pilareak.
+-   Bizi guztiko ikasketa.
+-   Zer eta zein dira oinarrizko konpetentziak?
+-   Zer ezaugarri izan behar dituzte oinarrizko konpetentziek?
+-   Oinarrizko konpetentzia bat: hizkuntza-komunikaziorako konpetentzia.
+-   Zer da konpetentzia hori?
+-   Zer ezaugarri edo osagai ditu?
+-   Konpetentzia hori, Euskal Herriko hizkuntzen markoan nola gauzatzen da?
+
+**Azter-materiala**:
+
+"Delors txostena"
+
+Hezkuntza, Unibertsitate eta Ikerketa Saila (2016). *Haur hezkuntzarako, lehen eta bigarren hezkuntzarako eta batxilergorako dekretu kurrikularrak Euskal Autonomia Erkidegoan*. Vitoria-Gasteiz: EJAZN
+
+Larrea, K.; Maia, J. (2010). *Galdera-erantzun batzuk hizkuntzaren didaktikaz*. UPV-EHU. Argitalpen elektronikoa: In http://testubiltegia.ehu.es/Galde-erantzun-hizkuntz-didaktika
+
+Europako Kontseilua. *Oinarrizko konpetentziak (key competences)*: http://europa.eu/legislation_summaries/education_training_youth/lifelong_learning/c11090_es.htm (ikusi zein diren oinarrizko konpetentziak eta haien azalpena)
+
+*Hizkuntzen Europako erreferentzia marko Bateratua (hizkuntza-komunikaziorako konpetentziak)* (5. kapituluan gaitasunaren osagaiak ageri dira)
+
+Ruiz Bikandi, Uri (2010). *Bigarren hizkuntzaren didaktika Haur eta Lehen Hezkuntzan.* Bilbo: UPV-EHUAZN (4. kapitulua: 103-132 or.)
+
+Ikasgaiko apunteak
+
+**Landa-lana/gogoeta**: Irakaslearekin berbatu.
+
+### Euskal Herriko Hezkuntza sisteman, elebitasunetik eleaniztasunera {.unnumbered}
+
+-   Gaur egungo egoera berriaren ezaugarriak eta norabideak.
+-   Eleaniztasuna eskolan: hiru/lau hizkuntza helburu (hezkuntza marko hirueleduna/ikastolen proiektua)
+    -   geletan hainbat hizkuntza (hizkuntza gehiago jendartean). +Eskolan zer egin eta zergatik, hizkuntzak kudeatzeko: ikastetxearen hizkuntza proiektua.
+
+**Azter-materiala**:\
+Guasch, O. (2007). La educación multilingüe: un reto para el profesorado. In *Educación y Cultura*, *19*, 2: 135-147.\
+Hezkuntza, Unibertsitate eta Ikerketa Saila (2016). *Haur hezkuntzarako, lehen eta bigarren hezkuntzarako eta batxilergorako dekretu kurrikularrak Euskal Autonomia Erkidegoan*. Vitoria-Gasteiz: EJAZN\
+Eusko Jaurlaritza-HUIS (2010). *Hezkuntza marko hirueledunaren esperimentazio-prozesua*. Vitoria-Gasteiz. EJAZN.\
+Pascual Granell, Vicent (2006). *El tractament de les llengües en un model d'educació plurilingüe per al sistema educatiu valencià*. València: Generalitat Valenciana --Conselleria de Cultura, Educació i Esport.\
+Eusko Jaurlaritzaren eta Nafar Gobernuaren web orriak (eleaniztasunaz)\
+http://proyectolinguistico.webnode.es/\
+Ikasgaiko apunteak
+
+**Landa-lana/gogoeta**: Irakaslearekin berbatu.
+
+### Hizkuntzen kudeatzea eskolan {.unnumbered}
+
+-   Zer esan nahi dugu horrekin?
+-   Zer dela-eta kezka hori?
+-   Zergatik ari da ideia hau orain indartzen?
+-   Zeri erantzuten dio?
+-   Zer puntu erabaki behar dira edo zer alderdi hartu behar dira kontuan?
+
+**Azter-materiala**:\
+Egile batzuk (1997). Monografia: El proyecto lingüístico de centro. In *Textos*, *13*, 1997ko uztaila.\
+Sierra, J. M.& Vila. I. (2009). "...". In Ruiz Bikandi, U. (2009): *Bigarren hizkuntzaren didaktika Haur eta Lehen Hezkuntzan*. Bilbo: EHUAZN\
+Ruiz Bikandi, U. (datarik gabe). *Hizkuntzen tratamendu bateraturako hizkuntza proiektua*. In Nafarroako Gobernua (2014). http://centros.educacion.navarra.es/eibz/baliabideak/eleaniztasuna/index2.htm EHIK (2009).\
+Ikastolen hizkuntz proiektua. Zamudio: EHIK\
+http://proyectolinguistico.webnode.es/\
+http://www.xtec.cat/lic/intro/documenta/guia_elaboracio_PLC.pdf\
+Ikasgaiko apunteak
+
+**Landa-lana/gogoeta**: Irakaslearekin berbatu.
+
+### Hizkuntzen trataera bateratua {.unnumbered}
+
+-   Zer da?
+-   Zeri erantzuteko da?
+-   Zer oinarriren gainean eraikia da?
+-   Zer puntu zaindu behar dira?
+-   Ekarpenak: hizkuntzalaritzatik, psikolinguistikatik, soziolinguistikatik.
+
+**Azter-materiala**:\
+Hezkuntza, Unibertsitate eta Ikerketa Saila (2010). *Haur hezkuntzarako, lehen eta bigarren hezkuntzarako eta batxilergorako dekretu kurrikularrak Euskal Autonomia Erkidegoan*. Vitoria-Gasteiz: EJAZN\
+Eusko Jaurlaritza (2014). http://nagusia.berritzeguneak.net/hizkuntzak/\
+Nafarroako Gobernua. In: http://www.educacion.navarra.es/portal/Ikasketen+Gida/Atzerriko+hizkuntzak/Programa+eleanitzak?languageId=6\
+Guasch, O. (koord.) (2010). *El tractament integrat de les llengües*. Barcelona: Graó\
+Pascual Granell, Vicent (2006). *El tractament de les llengües en un model d'educació plurilingüe per al sistema educatiu valencià*. València: Generalitat Valenciana --Conselleria de Cultura, Educació i Esport.\
+EHIK (2009). *Ikastolen hizkuntz proiektua*. Zamudio: EHIK\
+http://centros.educacion.navarra.es/eibz/baliabideak/eleaniztasuna/index2.htm\
+http://proyectolinguistico.webnode.es/ (informazio eta esteka ugari hainbat gaiz)\
+Ikasgaiko apunteak
+
+**Landa-lana/gogoeta**: Irakaslearekin berbatu.
+
+### CLIL/HEBI/AICLE {.unnumbered}
+
+-   Zer da?
+-   Zer ezaugarri ditu?
+-   Zergatik orain indartzen?
+-   Zer oinarriren gainean eraikitzen da ikuspegi hori?
+-   Zer alderdi hartu behar dira aintzat eta gogoan?
+-   Non izan daitezke arazoak?
+
+**Azter-materiala**:\
+www.clilcompendium.com/brief.htm\
+http://ec.europa.eu/languages/documents/studies/clil-at-school-in-europe_en.pdf (Eurydice-CLIL)\
+http://www.isabelperez.com/clil.htm#arti (esteka anitz)\
+http://clil-cd.ecml.at/Portals/24/flashfiles/index3.html\
+Eusko Jaurlaritza: http://nagusia.berritzeguneak.net/hizkuntzak/htb-3.php\
+Andaluziako Juntaren materiala: http://www.juntadeandalucia.es/educacion/nav/contenido.jsp?pag=/Contenidos/OEE/programasinternacionales/AICLE/materiales\
+Coyle, Do eta beste (2010). Content and Language Integrated Learning. Cambridge: Cambridge University Press\
+Ikastetxearen hizkuntza proiektua eta HEBI, batean: http://proyectolinguistico.webnode.es/cil/clil-aicle/\
+Ikasgaiko apunteak
+
+**Landa-lana/gogoeta**: Irakaslearekin berbatu.

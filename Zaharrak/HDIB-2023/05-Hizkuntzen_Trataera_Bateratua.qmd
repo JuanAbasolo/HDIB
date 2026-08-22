@@ -1,0 +1,232 @@
+# Hizkuntzen Trataera Bateratuaz
+
+Baliabide nagusiak: [@hezkuntzasaila752023DEKRETUA2023a; @hezkuntzasaila772023DEKRETUA2023; @hezkuntzahizkuntzapolitikaetakulturasailaHeziberri2020Hezkuntzaeredu2015; @granellTractamentLlenguesModel2006; @adamTextesTypesPrototypes2011; @europakokontseiluaHizkuntzenEuropakoErreferentzia2022] [\*](../diapoak/05-HizkuntzenTrataeraBateratuaz23.html)
+
+Hizkuntzen Trataera Bateratuaren oinarriak eta erabilpen praktikoak aztertzen dira.
+
+**Galderak**, gaian erantzuna aurkitu behar diegu:
+
+-   Zer da hizkuntzen trataera bateratua?
+-   Zertarako da? Zer helburu du?
+-   Zer hizkuntzari eragiten die ikuspegi honek?
+-   Zergatik aipatzen da orain kontzeptu hori? Zerk eraginda indartu da orain?
+-   Zer oinarriren gainean eraikitzen da ikuspegi edo jardunbide hori?
+
+> ...el tratamiento integrado de las Lenguas, propuesta metodológica, basada en el enfoque comunicativo de la enseñanza de las lenguas aplicado a las situaciones de aprendizaje en las que coexisten lenguas diferentes. El TIL propone el trabajo colaborativo del profesorado de las distintas lenguas de la escuela a partir de todos aquellos elementos que estas comparten. La coordinación entre el profesorado, además de multiplicar la eficacia de las intervenciones individuales, facilita el desarrollo de la competencia plurilingüe de los aprendices. @apraizjaioEnsenanzaIntegradaLenguas2012
+
+------------------------------------------------------------------------
+
+## Eskolaren egoeraren analisia
+
+Hezkuntzari ikasle eleaniztunak sortzea eskatzen zaio. EEMBn hiru, gure inguruko curriculumean lau ere bai.
+
+Lau hizkuntzatan hezkuntza-helburuak zehazten ari gara. Hizkuntzen zehaztasunetara jo barik HHn hiru hizkuntzatan helburuak ezar daitezke eta LHn lau.
+
+Lekutan geratu da atzo goizeko elebakartasunetiko helburu multzoa.
+
+-   Bina hizkuntza ofizial ditugu
+-   Eleaniztasunerako planak
+-   Euskalkiekin zer?
+    -   Euskalkia lantzea, belaunaldien arteko transmisioa indartzeko (etxeko eta eskolako hizkuntza)
+    -   Euskalkia lantzea, euskara hobeki ikasteko (etxekoa, kalekoa, eskolakoa: elkarren osagarri)
+    -   Euskalkia lantzea, komunikazio maila "finagoak" lortzeko (erregistroak)
+-   Immigrazio hizkuntzak[¹](*ikasle%20etorkinen%20etxeko%20hizkuntzak*%20:scream:%20Bai,%20horrela%20aipatzen%20da%20han%20eta%20hemen.)
+
+### Legeak
+
+-   1990 LOGSE
+
+    -   Baskongadetan 1992 OCD
+
+    > "Hizkuntza arloko ikuspegia integratzailea izan behar da; horrela, erabaki amankomunak eta metodologia antzekoak erabiliz, curriculumaren hizkuntza batean ikasitakoa beste batera pasatuko du ikasleak"
+
+-   2006 LOE
+
+    -   Baskongadetan 2007 Curriculum Dekretua\@euskojaurlaritzarenlegebiltzarra2009DekretuaUrtarrilaren2009, Tontxu Campos\
+        \> Dekretu honek lehentasuna ematen dio **hizkuntzen trataerari**. Hizkuntzetarako Europako Erreferentzia Markoa da elebitasuna, eleaniztasuna eta ikastetxeko hizkuntza-proiektuaz diharduten artikuluen esparru-testuingurua; izan ere, **bat etorri behar dute Europar Batasuneko hizkuntza-politikak eta ikastetxeetako hizkuntza-proiektuek**, betiere, Eusko Legebiltzarrak alor horretan arautzen duena beteta. \> \> Gizartearen errealitate soziolinguistiko eta soziokulturalarekin bat egiteko, **testuinguru eleanitz bati erantzungo dion markoa sortu nahi da**; hala, ikasleek bi hizkuntza ofizialak eta atzerri-hizkuntza bat edo bi behar bezala ikas ditzaten da azken xedea. Ebaluazioetan izandako emaitzei eta ingurunearen ezaugarri soziolinguistikoei erreparatuta, ikastetxeek aukera dute hizkuntza bakoitzaren erabilera-esparrua handitzeko. \> \> 🤦 Euskara izango da marko berriaren hizkuntza nagusia. Egungo errealitate soziolinguistikoak gaztelaniaren erabilera bultzatzen duela aintzat hartuta eta ikusita eguneroko jardunak eta ebaluazioek frogatua dutela irakasteko eta ikasteko prozesuan euskara erabiltzea funtsezkoa dela, ikasleek euskara ahoz eta idatziz behar bezala erabiltzeko gaitasuna eskuratuko badute, euskarak elementu integratzailea izan behar du hezkuntza-sisteman, eta erabilera nagusiko hizkuntza, lehen adierazitako irakasteko eta ikasteko prozesuan. Gaztelania edukiak ikasteko hizkuntza izango da, hura behar bezala ikasiko dela bermatzeko
+
+-   2013 LOMCE
+
+    -   2015 Heziberri 2020[@euskojaurlaritzarenlegebiltzarra2362015Dekretua2015; @euskojaurlaritzarenlegebiltzarra2372015Dekretua2015]
+
+        > 1.-- Hezkuntza-eskumenak dituen sailak hizkuntzen trataera integratua eta integrala sustatuko du. Horrek arreta berezia ematen dio ikasketak hainbat hizkuntzatan emateari, komunikatzeko konpetentzia eleaniztun bat lortzeko asmoz. Hizkuntza bakoitzak berezkoa duena lantzea eta denek berdina dutena partekatzea da, betiere, ikasleak modu egokian eta eraginkorrean erabiltzen duelarik egoera bakoitzak eskatzen duen hizkuntza.
+
+-   2020 LOMLOE
+
+    -   Baskongadetan 2023 Oinarrizko Hezkuntzaren curriculuma @hezkuntzasaila772023DEKRETUA2023
+
+        > 9.-- Hizkuntza, informaziorako eta ezagutzaren eraikuntzarako atea izanik, ikasteko prozesuaren erdigunean dago. Hizkuntzen ikaskuntzari konpetentzia-ikuspegi globalizatu batetik heltzen zaio, arreta hizkuntzen ikaskuntza integratuan eta hizkuntzen eta jakintzen ikaskuntza integratuan jartzen duten ikuspegi metodologikoen bidez. (Oinarri pedagogikoak)
+
+        > 4.-- Komunikazio- eta hizkuntza-konpetentzia garatzeko, hizkuntzen ikaskuntza curriculum-arloen barruan modu transbertsalean integratzen duten ikuspegi metodologikoak baliatuko dira. (Hizkuntza esparrua)
+
+        ➕ Konpetentzia Eleaniztuna (Haur Hezkuntzaren curriculumean ere bai)
+
+## Hizkuntz(ar)en didaktikaren iturriak
+
+Hiztunak darabilen H~x~ hizkuntzaren azpian gainontzeko hizkuntzetako gaitasun bera ere badago.
+
+H~x~ baten erabileraren alderdi formalek (morfologiak, sintaxiak, fonologiak...) ez dute hizkuntzaren erabilera azaltzeko biderik. Bai, berriz, hizkuntzaren erabilera orokorraren menpeko beste zerbaitek.
+
+-   Psikolinguistika:
+    -   Hizkuntzak besteekin ikasi (ez dira gureak, geure egiten dugun eta gu egiten gaituen arren)
+    -   Hizkuntzak ikasteko estrategiak erkideak dira
+-   Soziolinguistika
+    -   Hizkuntza ekoizpen soziala da
+    -   Gainontzeko hiztunek hizkuntzekiko duten jarrera
+-   Hizkuntzalaritza
+    -   Ikasteko unitatea testua da (ez hitza edo esaldia)
+    -   Ikuskera paralinguistikoak (egoera enuntziatiboa)
+
+::: callout-warning
+## Ariketa
+
+Zein dira (eta zelan dira) hizkuntzen arteko elementu eta gaitasun transferigarriak?
+
+Zerrenda bat egiten ahalegindu behar duzu(e)
+:::
+
+### Adibideren bat
+
+Hemendik jasotako adibidea izan arren, euskal ingurura ekarri dira zenbait azalpen: @granellTractamentLlenguesModel2006
+
+#### Hizkuntz arteko konpetentzia erkideak
+
+1.  **Kontzeptu-jakintza**. Hitzek esan nahi dutena: "demokrazia", "ekonomia", legebiltzarra/parlamento, ... kontzeptua behin ikasirik aski da.\
+    **Kontuz kontzeptuak desberdin banatzen direnean** hizkuntza bakoitzean:
+    -   neba+anaia= hermano;
+    -   ahizpa+arreba=hermana.
+    -   Koloreak: lur gorria, gaileta gorrituak. Batzuetan, birkontzeptualizazioa gerta daiteke.
+2.  **Munduaren ezagutza**. Hemen sartzen ditu jakintza metalinguistikoak, gramatikako terminoak, testu-hizkuntzalaritzaz eta (hizkuntzari buruzko pentsamendua garatzekoak)
+3.  **Oharmen metalinguistikoa**: hizkuntza tratatzen denean ez komunikatzeko, irudikatzeko edo jarduera arautzeko, baizik eta objektu gisa behatzeko eta analizatzeko, munduko beste edozein elementu bezala. Bidea ematen du arrazionalki aztertzeko kode linguistiko bakoitzaren egiturak eta ezaugarriak (hitzak zenbatzea, esaldi bat zuzena den edo ez, testu bat zatitan jartzea, hutsak detektatzea...)
+4.  **Kontestu-euskarririk gabeko hizkuntza-erabilera** (edo "idazteko hizkera"): erreferentzia egiten zaienean testuinguruan ez diren objektuei edo objektu abstraktuei, edo mintzaideek konpartitzen ez duten informazioa agertzen denean. Horrelakoetan hizkuntza-baliabideak arreta handiagoarekin bereizi edo aztertu behar dira (lexiko bereziagoa, ahoskera garbiagoa, sintaxi estandarragoa), testuinguruak ez baitu laguntzen. Eskolan bereziki baliatzen den hizkera.
+5.  **Testu-generoei buruzko jakintza**: itxura, egitura, funtzioa, baliabide erretorikoak eta hizkera berezitua (gutuna, berria, ipuina, iragarkia, web orria, jarraibide liburua, elaberria, saiakera, mitin politikoa, bertso saioa...). Inguru kultural batean normalean antzekoak izaten dira egitura horiek (desberdintasunak izan badaitezke ere).
+6.  **Trebetasun kognitiboak**: identifikatu/ezagutu, erlazionatu, sailkatu, loturak ezarri, konparatu, hurrenez hurren jarri, gogoratu, arazoak konpondu, ... edo analizatu, sintetizatu, ebaluatu...
+7.  **Irakur-estrategiak**: testuaren edukiaz hipotesiak egitea eta egiaztatzea; munduari buruzko jakintza baliatzea testuaren esanahia eraikitzeko; labur-biltzea eta antolatzea edukirik garrantzitsuena; testuaren edukiaz eta formaz ebaluazioak eta epaiak egitea, egilearen asmoak edo nork bere asmoak ebaluatu eta epaitzea...
+8.  **Idatz-estrategiak**: kontuan hartzea mezuaren edukia baina baita komunikazio-asmoak, hartzailearekiko harremana, etc. Trebetasun batzuk behar dira hartarako: testua testuinguratzea, planifikatzea, testuratzea, ebaluatzea, berrikusi eta zuzentzea...
+9.  **Trebetasun kognitibo-linguistikoak**: jakintza arloetako ezagutzak eskuratzeko, ekoizteko eta transmititzeko baliatzen direnak: argudiatzea, definitzea, demostratzea, deskribatzea, azaltzea, justifikatzea, laburtzea...
+10. **Informazioa prozesatzeko estrategiak**: informazioa aurkitzea, organizatzea, elaboratzea eta komunikatzea; eta ikasteko eta intelektualki lan egiteko teknikak (azpimarratzea, laburpenak egitea, fitxak egitea, eskemak, koadro laburgarriak, notak hartzea, memorizazioa eta edukiak berrikustea...)
+11. **Hizkuntza eta kultura bakoitzari buruzko irudikapenak**: haien egoeraz, haien balio funtzionalaz, haien prestigioaz ... (motibazioarekin lotua).
+
+Ezaugarri erkidea dute trebetasun eta jakite guzti horiek, erkideak dira-eta. Ez dira hizkuntza bakoitzean independenteki garatu behar, garapen bakar eta bateratua dute-eta.
+
+Hor dugu hizkuntza-hezkuntza bateratuaren oinarri koherenterako oinarria, hizkuntza bakoitzean garatu beharreko gaitasun eta ezagutzei ez-ikusi egin gabe.
+
+## Planteamendua
+
+Azken helburua, ikastetxeko hizkuntzen programazio adostua.
+
+Bitarteko helburuak: arlo eta ikasgaien arteko oinarri didaktiko eta metodologiko bateratua eraikitzea.
+
+### Zer?
+
+-   Zer da hizkuntza irakastea?
+-   Zer diote zientzialariek?
+
+Hizkuntza komunikazio tresnatzat hartuta
+
+### Zertarako
+
+-   Zertarako irakastsi hizkuntzak?
+-   Zertarako garatu konpetentzia komunikatiboa?
+
+Ikasleen komunikazio konpetentzia garatzeko.
+
+Testuak ulertu eta ekoitzi (zuzenak, egokiak, koherenteak, kohesionatuak eta eraginkorrak)
+
+### Zelan?
+
+-   Zelan erantzun ikasle eleaniztunen komunikazio-beharrizanei?
+-   Zelan eraiki (zein) aldaketa metodologikoa?
+
+Ikuspegi komunikatiboan. Ikasleak benetako komunikaziorako prestatuta
+
+1.  Prozedurazko edukiak lehenetsi
+2.  Komunikazio-arazoari konponbidea eman
+3.  Komunikazio-proiektuen bidez bideratuta
+4.  Ikaskuntza aktiboa oinarri
+
+### Aldaketa metodologikoa
+
+-   Ikasmaterialak eta ikasgelan erabilitako hizkuntz errealak izan behar dute (ez moldatuak)
+-   Ikasleak komunikazio egoera errealetan ipini, benetako erronkei aurre egiteko
+-   Komunikazio-egoera ugaritako testu-genero franko landu behar, ahoz zein idatziz.
+-   Trebetasun guztiak elkarri lotuta erabili behar dira, informazio berria lortzeko, ikasitakoa adierazi eta prozesua jarraituta jakintza berri eta esanguratsuak garatzeko.
+-   Egoera erreal horri irtenbidea emateko jardueren sekuentziazioa egin behar da
+
+## Ezartzeko bidean
+
+Zehaztu beharrekoak dira kontu batzuk: zenbat diren irakasten diren hizkuntzak, zenbat erabiltzen diren hizkuntzaz gain bestelako ezagutzak irakasteko. Zein ikaskuntzak behar duen hizkuntzaren bat eta zeinek hizkuntza jakina
+
+Oinarri-oinarrian: koordinazioa
+
+Hurrengoak ahalbidetu nahi ditu HTBk
+
+-   Hizkuntzen alderdi komunak lantzea edozein hizkuntzatatik:
+    -   Hausnarketa linguistikoa egiteko prozedurak
+    -   Hizkuntzei buruzko kontzeptu orokorrak
+    -   Hizkuntzekiko jarrerak
+-   Edukien sekuentziazio egokiagoa
+-   Denbora optimizatzea
+-   Ikasitakoa hizkuntza batetik bestera transferitzea
+-   Ikuspegi metodologikoak partekatuz koherentzia handiagoa lortzea
+-   Ikasgelarako jarduera eraginkorragoak diseinatzea
+-   Hizkuntzez mintzatzeko metahizkuntza bateratua erabiltzea
+
+Berori tradizioan hainbat bidetatik garatzen izan den arren, egun araudi markoak horretara bultzatzen duela ere esan dezakegu, balioskotutako jardunbidetzat hartzen baita.
+
+| Proiektua                                  | Eremua                                                                          | Testu mota | Azken ekoizpena H1                          | Azken ekoizpena H2                      | Azken ekoizpena H3                                      |
+|--------------------------------------------|---------------------------------------------------------------------------------|------------|---------------------------------------------|-----------------------------------------|---------------------------------------------------------|
+| Gure arbasoen ekarpenak                    | Pertsonen arteko harremanak                                                     | Azalpena   | katalogoa                                   | Informazioa jasotzeko fitxa             | Azalpen laburra: txosten txiki bat                      |
+| Inauteriak                                 | Literatura Pertsonen arteko harremanak                                          | Narrazioa  | Bakarrizketa/ bertsoak                      | Ipuina kontatu ahoz                     | Kondairak                                               |
+| Bazterkerien aurka: kontuz aurreiritziekin | Pertsonen arteko harremanak Komunikabideak                                      | Argudioa   | Eztabaida                                   | Pobreziaren aurkako kanpaina            | Etorkinen egoera salatu manifestu baten bidez/role play |
+| Zain dezagun gure aberastasuna             | Hizkuntza Literaturan Ikasketako hizkuntza Hizkuntza gizarteko komunikabideetan | Argudioa   | Liburu bat gomendatu                        | Alegia baten moraleja eztabaidatu       | Olerkiak eta abestiak (testu bildumarako)               |
+| Ikertzaileak gara                          | Hizkuntza gizarteko komunikabideetan Ikasketako hizkuntza                       | Azalpena   | Makina sinple bat egiteko instrukzio testua | Ofizioei buruzko galdetegiaren informea | Lanbideei buruzko "Tribial" jolasa                      |
+
+Bete beharreko irizpide batzuk
+
+::: callout-note
+## Bete ohi diren zenbait irizpide
+
+-   Helburu komunikatiboa bermatu, bai ahoz bai idatziz
+-   Maila guztietan testu mota guztiak lantzea
+-   Aldi berean, hiru hizkuntzetan testu mota bera lantzea
+-   Erabilera eremu guztiak lantzea
+-   Ikasturtean behin, bederen, literaturaren inguruko proiektu bat lantzea
+-   Testu mota eta genero anitzak proposatzea
+-   Ikasturtean behin, bederen, ahozko ekoizpen bat proposatzea
+-   Ikasturtean behin, bederen, ekoizpen bat gelatik kanpo erakustea
+-   Komunikazio proiektuetan ikasleen beharrizanak eta interesak kontuan hartzea
+-   Ikasketa kooperatiboa bultzatzea
+-   Ikasleen aniztasuna kontuan hartzea
+:::
+
+### Adibidea
+
+Hurrengo adibidea Berritzegunetako formazio-ikastaro batetik hartua da. Helburu didaktikoekin egokitua, beraz.
+
+**Justifikazioa** Gaur egun komunikabideek duten garrantzia ikusita, ikasleek informazioa eta iritzia ezberdintzeko eta iritiz kritikoa garatzeko beharra dute, horregatik kazetaritza genero ezberdinak aztertzea garrantzitsua da.
+
+**Proiektu guztien ardatza** **Mota**: narrazioa **Erabilera eremua**: komunikabideak **Gaia**: gaur egun: informazioa ala iritzia?
+
+| H1: Irrati-kronika                                                                                                                                                                                                                                                                                                                                                         | H2: Reportaje                                                                                                                                                                                                                                                                                                                                                                                                                          | H3: A digital story                                                                                                                                                                                                                                                                                                                            |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Kronikak kultura eta kiroletako gaurkotasuna hartuko lituzke gaitzat. Eginkizuna hiruko taldeetan antola daiteke.                                                                                                                                                                                                                                                          | Los alumnos trabajarán un tema elegido por ellos mismos, recogido de la actualidad, de sus propios campos de interés o de los libros de lectura propuestos durante el curso.                                                                                                                                                                                                                                                           | By using electronic primary sources students will create a few minutes movie that will include a variety of media --- audio, photographs, and text--- on either a historical or an actual fact.                                                                                                                                                |
+| Komunikazio Egoera                                                                                                                                                                                                                                                                                                                                                         | Situación de comunicación                                                                                                                                                                                                                                                                                                                                                                                                              | Situation of communication                                                                                                                                                                                                                                                                                                                     |
+| *Gaia*:Interpretatutako gaurkotasuna <br>*Igorlea*: Hirunaka bildutako ikasleak. <br/>*Hartzailea*: Ikastetxeko beste ikasleak <br/>*Kanala*: Ahozkoa <br/>*Asmoa eta helburua*:Kiroletako edo kulturako gaurkotasuna jakinaraztea, era pertsonalean, eta uhinen bitartez. <br/>*Argitalpen lekua*: Ikastetxeko irratia <br/>*Eremua*:Hizkuntza gizarteko komunikabideetan | *Tema*: La actualidad comentada. <br/>*Emisor*: Los alumnos/as en grupos de 3. <br/>*Receptor*: El resto del alumnado del centro. <br/>*Canal*: Escrito.<br/> *Intención y finalidad*: Transmitir de manera personal, con abundancia de datos y de modo ameno la actualidad. <br/>*Lugar de publicación*: En la biblioteca del centro, en formato de suplemento. <br/>*Ámbito de uso*: La lengua en los medios de comunicación social. | *Topic*: A historical or an actual fact<br/>*Sender* : Students, in groups of three <br/>*Recipient*: Peers<br/>*Channel*: Oral and audio visual<br/>*Aim*: To narrate a fact of interest using narrative techniques and audio visual resources.<br/>*Place of production*: The classroom and the Web <br/>*Field*: Language in the mass media |
+
+##### Ikaskuntzen sailkapena
+
+| Hizkuntzetik askekoak                                                                              | Hizkuntzen menpekoak                                       |
+|----------------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| Narrazio testua (eus, eng)<br />Komunikabideak (spa)<br/>Oinarrizko galderak, *6W* (spa, eus, eng) | Aditz formak (spa, eus, eng)<br/>Lokailuak (spa, eus, eng) |
+
+Komunikazio proiektu batzuk, Berritzeguneen eskutik gehienak https://sites.google.com/site/komunikazioproiektuaklh/ https://sites.google.com/site/htbmintegia/ http://htbtil0809.wordpress.com/ http://nagusia.berritzeguneak.net/hizkuntzak/
+
+::: callout-warning
+### Gaiari kolpetzeko aitzakia bila
+
+-   20 minutuko berbaldi bati zelan ekin gaiaz?
+-   Nork? Nori? Zergatik? Zertarako?
+
+**Zerrendatu bost egoera eta justifikatu zentzua**
+:::

@@ -1,0 +1,48 @@
+---
+editor: source
+---
+
+# *Gelako praktikaren antolakuntza eta hizkuntza* proiektuaren ebaluaziorakoak
+
+### Emaitzak
+
+Proiektu honen azken emaitza izango da ikasleek diseinatutako eta aplikatutako Sekuentzia Didaktikoen inguruko azterketa aplikatua. Azken emaitza hauek barne hartuko ditu:
+
+1.  Sekuentzia Didaktikoen txostenak: Ikasleek sortutako txosten bakoitzean, hizkuntza didaktikaren marko teorikoa aplikatuko dute, edukien analisia eta sintesia eginez.
+2.  Ahozko aurkezpenak: Ikasleek Sekuentzia Didaktikoen diseinua eta aplikazioa taldean aurkeztuko dute, komunikazio eta argumentazio trebetasunak garatuz.
+3.  Hausnarketa kritikoa: Prozesu osoan zehar, ikasleek hausnarketa kritikoa eta autoebaluazioa egingo dute, lanaren kalitatea hobetzeko eta ikaskuntza sakontzeko.
+4.  Talde-lana eta kooperazioa: Ikasleek talde-lanean eta kooperazioan erakutsiko dituzten gaitasunak azpimarratuko dira, proiektuaren garapenean egindako elkarlanaren emaitza nabarmenduz.
+
+Emaitza hauek guztiek ikasleen ikaskuntza eta garapena modu integralean islatuko dute, etorkizuneko erronkei aurre egiteko prestakuntza praktikoa eskuratuta
+
+## Sekuentzia Didaktikoen Diseinua ebaluatzeko errubrika
+
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|                                            | **0-2**                                              | **3-5**                                                    | **6-8**                                                                  | **9-10**                                                     |
++============================================+======================================================+============================================================+==========================================================================+==============================================================+
+| **Helburu Didaktikoak eta Ikaskuntza**    
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|                                            | Helburuak ez dira argiak edo neurgarriak.            | Helburuak azalekoak edo partzialki neurgarriak dira.       | Helburuak argiak dira, baina neurtzea hobetu daiteke.                    | Helburuak oso argiak eta neurgarriak dira.                   |
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+| **Edukiaren Egituraketa eta Koherentzia**  
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|                                            | Edukiak ez dira koherenteak edo logikoki antolatuak. | Edukiak oinarrizkoak dira eta antolaketa falta dute.       | Edukiak koherenteak eta nahiko ondo antolatuak dira.                     | Edukiak oso ondo egituratuak eta koherenteak dira.           |
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+| **Metodologia eta Jarduerak**             
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|                                            | Metodologia eta jarduerak desegokiak dira.           | Metodologia eta jarduerak oinarrizkoak dira.               | Metodologia eta jarduerak onak dira, baina hobetu daitezke.              | Metodologia eta jarduerak bikainak dira.                     |
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+| **Diskurtsoaren Kalitatea eta Aniztasuna** 
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|                                            | Diskurtsoa ez da kalitatezkoa edo anitza.            | Diskurtsoaren kalitatea eta aniztasuna mugatuak dira.      | Diskurtsoaren kalitatea eta aniztasuna onak dira, baina hobetu daitezke. | Diskurtsoaren kalitatea eta aniztasuna bikainak dira.        |
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+| **Ebaluazioa eta Autoebaluazioa**         
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|                                            | Ez dago ebaluazio edo autoebaluazio argirik.         | Ebaluazio eta autoebaluazio irizpideak mugatuak dira.      | Ebaluazio eta autoebaluazio irizpideak onak dira, baina hobetu daitezke. | Ebaluazio eta autoebaluazio irizpideak bikainak dira.        |
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+| **Ikaskuntza Ingurunea eta Motibazioa**    
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+|                                            | Ingurunea eta motibazioa ez dira egokiak.            | Ingurunea eta motibazioa nahikoak dira, baina ez bikainak. | Ingurunea eta motibazioa onak dira, baina hobetu daitezke.               | Ingurunea eta motibazioa oso egokiak eta motibagarriak dira. |
++--------------------------------------------+------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------------------+--------------------------------------------------------------+
+
+: Sekuentzia Didaktikoen Diseinua ebaluatzeko errubrika
