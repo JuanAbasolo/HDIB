@@ -11,6 +11,7 @@ Biltegi honetan ikasgaiaren apunteak, diapositibak eta bestelako ikasgelako bali
 - [2026ko iturburu-fitxategiak](HDIB-2026/)
 
 Apunteetan kapitulu bakoitzaren amaieran dagokion diapositibarako estekak daude, erabilgarri dagoenean. `diapoak/` karpetan estekatutako aurkezpen aktiboak bakarrik geratzen dira.
+Diapositiba guztien zerrenda [aurkibidean](diapoak/index.html) dago; aurkezpenen izenek ez dute ikasturteko urtea erabiltzen.
 
 ## Aurreko ikasturteak
 

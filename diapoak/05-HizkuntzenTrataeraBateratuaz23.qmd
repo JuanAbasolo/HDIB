@@ -6,7 +6,7 @@ format:
         theme: [dark, css/nire.scss]
         css: [css/logo.css]
         footer: "Hizkuntzen Trataera Bateratua"
-        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
+        logo: '../HDIB-2026/assets/00/HDIB_biribil_baltz.png'
         slide-number: true
 editor: visual
 ---

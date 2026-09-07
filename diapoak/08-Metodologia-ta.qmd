@@ -5,8 +5,8 @@ format:
     revealjs: 
         theme: [dark, css/nire.scss]
         css: [css/logo.css]
-        footer: "Metodologiaren garapena - 2024"
-        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
+        footer: "Metodologiaren garapena"
+        logo: '../HDIB-2026/assets/00/HDIB_biribil_baltz.png'
         self_contained: true
         slide-number: true
 editor: visual
@@ -62,107 +62,108 @@ editor: visual
 
 ## Metodologiaren aldaketaren zergatiak
 
-> F. Castro (1994): Egindako ikerketa guztiak gorabehera eta azaldutako teoria guztiak gorabehera, oraindik inork ez daki zehatz-mehatz nola ikasten den hizkuntza bat 
+> F. Castro (1994): Egindako ikerketa guztiak gorabehera eta azaldutako teoria guztiak gorabehera, oraindik inork ez daki zehatz-mehatz nola ikasten den hizkuntza bat
 
-##
+## 
 
 Metodoak eta planteamenduak arrazoi anitzak eraginda bilakatzen dira:
 
-
 ## Ikuspuntuaren aldaketa {.center}
 
-+ Ikaskuntzaren teoriak
-+ Hizkuntzaren kontzeptua
-+ Didaktikaren alorreko berrikuntzak
+- Ikaskuntzaren teoriak
+- Hizkuntzaren kontzeptua
+- Didaktikaren alorreko berrikuntzak
 
 ## Diseinuaren aldaketa {.center}
 
-+ Programetan egindako aldaketak
-+ Ikasketa plan berriak
-+ Orientabide metodologikoak
+- Programetan egindako aldaketak
+- Ikasketa plan berriak
+- Orientabide metodologikoak
 
 ## Jardunbidearen aldaketa {.center}
 
-+ Ikasleen eta ikastetxearen errealitatea
-+ Ikasleen eta irakasleen rolak
-+ Politika eta gizartearen eragina
+- Ikasleen eta ikastetxearen errealitatea
+- Ikasleen eta irakasleen rolak
+- Politika eta gizartearen eragina
 
 # Bilakaera
 
 ## XV. XVII. mendeen bitartean.
 
-+ Gramatika <--> Idazteko ereduak
-+ Erretorika <--> Berba egiteko ereduak
+- Gramatika \<--\> Idazteko ereduak
+- Erretorika \<--\> Berba egiteko ereduak
 
- . . .
+. . .
 
 **Erabiltzen zirenak**
 
 Gramatika · Glosarioa · Elkarrizketak · Irakurgaiak <small>itzulpenak, katiximak eta ereduak.</small>
 
- . . .
+. . .
 
 **Euskararen irakaskuntzaz**
 
 Sasoi horretan agertu ziren lehenengo gramatika eta hiztegiak.
 
-## [XVIII.a eta XIX.a]{.urdin} {background-image="../HDIB-2024/assets/08/Gramera_berria_grixin.png" style="color:#000;"}
+## [XVIII.a eta XIX.a]{.urdin} {background-image="../HDIB-2026/assets/08/Gramera_berria_grixin.png" style="color:#000;"}
 
-_Gramatika itzulpenezko metodoa_
+*Gramatika itzulpenezko metodoa*
 
 <small>Hizkuntza modernoen irakaskuntza:gramatika arauemailea</small>
 
-+ Gramatika arauak: dedukzio bidez
-+ Hitzen zerrenda elebidunak: buruz
-+ Itzulpenak: garrantzia hartzen hasi
-
+- Gramatika arauak: dedukzio bidez
+- Hitzen zerrenda elebidunak: buruz
+- Itzulpenak: garrantzia hartzen hasi
 
 ## XIX.aren amaiera
 
-_Metodo zuzena_
+*Metodo zuzena*
 
-+ Ahozko interakzioa
-+ Gramatikaren azterketa urri edo hutsa
-+ Xede hizkuntzaz edukiak lantzen dira
+- Ahozko interakzioa
+- Gramatikaren azterketa urri edo hutsa
+- Xede hizkuntzaz edukiak lantzen dira
 
 Hizkuntzaren eta literaturaren irakaskuntza = Hizkuntza arauak era induktiboaz ikastea + Literaturaren irakaskuntza
 
 ## XX.aren hasiera
 
-_Metodo zuzena_ + _Gramatika itzulpenezko metodoa_
+*Metodo zuzena* + *Gramatika itzulpenezko metodoa*
 
 Tarte honetan hizkuntzalaritzan hauek sortzen dira:
 
-+ Estrukturalismoa (Saussoure, 1916)
-+ Konduktismoa (Watson, 1913)
-+ Garapen Hurbileko Eremua (Vigotsky, 1931)
+- Estrukturalismoa (Saussoure, 1916)
+- Konduktismoa (Watson, 1913)
+- Garapen Hurbileko Eremua (Vigotsky, 1931)
 
 Hizkuntza eta literaturaren irakaskuntza = Gramatika arauemailearen irakaskuntza + Historizismoa
 
 ## 1950tik aurrera
 
-_Metodo estrukturalista-konduktistak_
+*Metodo estrukturalista-konduktistak*
 
 Hizkuntza ikastea = garatu beharreko ohitura multzoa
 
+**USA**: *Metodo audiolinguala*
 
-**USA**: _Metodo audiolinguala_
+**Erresuma Batua**: *Metodo situazionala*
 
-**Erresuma Batua**: _Metodo situazionala_
+**Frantzia**: *Ikus-entzunezko metodo estruktural-globala*
 
-**Frantzia**: _Ikus-entzunezko metodo estruktural-globala_
+> - 
+>
+>   #### Hizkuntzalaritzan
 
->- #### Hizkuntzalaritzan
+> - Skinner
+> - Chomsky
+> - Piaget
 
->+ Skinner
->+ Chomsky
->+ Piaget
-
->- #### eta Espainian...
+> - 
+>
+>   #### eta Espainian...
 
 ## 60.etik aurrera
 
-Psikologia kognitiboa + gramatika sortzailea -> _kode kognitibaren planteamentua_
+Psikologia kognitiboa + gramatika sortzailea -\> *kode kognitibaren planteamentua*
 
 > Ikasleak hizkuntza eraikitzen du
 
@@ -170,10 +171,10 @@ Psikologia kognitiboa + gramatika sortzailea -> _kode kognitibaren planteamentua
 
 **Psikologian eta hizkuntzalaritzan**:
 
->+ _Psikologia humanista_ 
->+ Ikuskera konstruktibista gehiago garatu: <small>Ausubel, Brunner</small>
->+ Pragmatikaren garapena
->+ Soziolinguistikaren garapena
+> - *Psikologia humanista*
+> - Ikuskera konstruktibista gehiago garatu: <small>Ausubel, Brunner</small>
+> - Pragmatikaren garapena
+> - Soziolinguistikaren garapena
 
 . . .
 
@@ -185,15 +186,15 @@ Kode kognitiboaren bilakaera: giro egoki eta lasaian oinarritu
 
 <small>Erantzun Fisiko Osoa + Sugestopedia + Taldeko Hizkuntza Irakaskuntza + Bide isila</small>
 
->- Komunikazio Gaitasuna (Hymes, 1971)
->- Planteamendu nozio-funtzionala 
+> - Komunikazio Gaitasuna (Hymes, 1971)
+> - Planteamendu nozio-funtzionala
 
 . . .
 
 **Hizkuntzalaritzan eta politikan**:
 
->+ _testua_ komunikazio unitatetzat
->+ Atalase Maila
+> - *testua* komunikazio unitatetzat
+> - Atalase Maila
 
 . . .
 
@@ -201,24 +202,24 @@ Kode kognitiboaren bilakaera: giro egoki eta lasaian oinarritu
 
 ## 80. hamarkadaren erditik gora
 
->- **Planteamendu komunikatiboaren garapena**
->- **Zientzian**
+> - **Planteamendu komunikatiboaren garapena**
+> - **Zientzian**
 
->- **eta Espainian...** [LOGSE!]{.fragment}
+> - **eta Espainian...** [LOGSE!]{.fragment}
 
 ## XXI. mendean
 
->- Europar Kontseiluak (2002) Europako Erreferentzi Markoa.
+> - Europar Kontseiluak (2002) Europako Erreferentzi Markoa.
 
->- Eleaniztasuna helburutzat hartzen hasi
+> - Eleaniztasuna helburutzat hartzen hasi
 
->- Komunikazio Gaitasuna = Oinarrizko Gaitasuna 
+> - Komunikazio Gaitasuna = Oinarrizko Gaitasuna
 
-#
+# 
 
 ```{r historia02, echo=FALSE, out.width='70%'}
 
-knitr::include_graphics('../HDIB-2024/assets/08/07-Hizkuntzak_ikasteko_metodoen_joerak.png')
+knitr::include_graphics('../HDIB-2026/assets/08/07-Hizkuntzak_ikasteko_metodoen_joerak.png')
 
 ```
 
@@ -228,40 +229,36 @@ Larrea eta Maia (2010)
 
 ## Metodo tradizionalen kontra {.scrollable}
 
-::: {.incremental}
-
-+ Helburuen ardatza eduki lexiko-gramatikalak dira, eta ez komunikazio gaitasuna sustatzea
-+ Metodo tradizionalaren eskola eredua:
-  + Oinarri deduktiboa: gaiak azaldu ondoren, arauak ikasten dira.
-  + Ariketek eta praktikak finkatzen dute arau horien ikasketa
-  + Buruz ikastea: itzulpenetatik abiatuta 
-+ Ez dago ikasle-irakasleen arteko interakzio komunikatiborik
-+ Akatsak ez dira onartzen 
-+ Ikaslearen ama-hizkuntzan gauzatzen zen irakaskuntza
-
+::: incremental
+- Helburuen ardatza eduki lexiko-gramatikalak dira, eta ez komunikazio gaitasuna sustatzea
+- Metodo tradizionalaren eskola eredua:
+  - Oinarri deduktiboa: gaiak azaldu ondoren, arauak ikasten dira.
+  - Ariketek eta praktikak finkatzen dute arau horien ikasketa
+  - Buruz ikastea: itzulpenetatik abiatuta
+- Ez dago ikasle-irakasleen arteko interakzio komunikatiborik
+- Akatsak ez dira onartzen
+- Ikaslearen ama-hizkuntzan gauzatzen zen irakaskuntza
 :::
 
 ## Metodo audiolingualaren kontra {.scrollable}
 
 60ko hamarkadaren erdialdean AEBek teoria estrukturalistak baztertzen hasi zen
 
-::: {.incremental}
-
-+ Estrukturalistak teoria behavioristetan edo konduktistetan oinarritu ziren:
-  + L2/AH bat ikastea ohitura multzo bat eskuratzea baino ez zen
-  + Hizkuntzen egiturak errepikatu behar ziren behin eta berriz, hizkuntzak ikasteko
-  + Esaldi isolatu zuzenak baino ez ziren lantzen eta eraikitzen, baino komunikazioa ez zen gauzatzen.
-  
+::: incremental
+- Estrukturalistak teoria behavioristetan edo konduktistetan oinarritu ziren:
+  - L2/AH bat ikastea ohitura multzo bat eskuratzea baino ez zen
+  - Hizkuntzen egiturak errepikatu behar ziren behin eta berriz, hizkuntzak ikasteko
+  - Esaldi isolatu zuzenak baino ez ziren lantzen eta eraikitzen, baino komunikazioa ez zen gauzatzen.
 :::
 
 ## Programa nozio-funtzionalak
 
 Programaren osagaiak osatzeko elementu hauek kontuan hartuko dira:
 
-1. Irakatsiko diren **esanahiak** 
-2. **Esanahiak** sustatuko dituzten hizkuntza-formak
-3. Ikasleek xede-hizkuntzan **komunika daitezen**,  edukirik baliagarrienak
-4. Hizkuntzaren edukia planifikatuko da igorleak adierazi nahi dituen esanahien arabera
+1.  Irakatsiko diren **esanahiak**
+2.  **Esanahiak** sustatuko dituzten hizkuntza-formak
+3.  Ikasleek xede-hizkuntzan **komunika daitezen**, edukirik baliagarrienak
+4.  Hizkuntzaren edukia planifikatuko da igorleak adierazi nahi dituen esanahien arabera
 
 ## WILKINSen programa nozio-funtzionala (1972/1976) {.scrollable}
 
@@ -269,64 +266,73 @@ Metodo komunikatiboaren oinarria Europako Kontseiluak egin zuen
 
 Helburua: hiztunen komunikazio gaitasuna garatzea
 
-Galdera honi erantzuten dio: _Zer adierazten / komunikatzen dute hiztunek hizkuntzaren bidez ?_
+Galdera honi erantzuten dio: *Zer adierazten / komunikatzen dute hiztunek hizkuntzaren bidez ?*
 
 Gutxieneko jakintzak ezartzen ditu:
 
-+ Kategoria nozionalak:  
+- Kategoria nozionalak:\
   hizkuntzaren bidez adierazitako kontzeptuak (denbora, kantitatea, maiztasuna...)
-+ Kategoria funtzionalak:   
+- Kategoria funtzionalak:\
   hizkuntzaren bidez egiten dena, hiztunen arteko interakzioak: norbait/zerbait aurkeztea, zerbait eskaintzea, ukatzea, baieztatzea, eskatzea, informatzea, kexatzea...
-  
+
 ## Atalase maila – Nivel umbral - Threshold Level {.scrollable}
 
-
-+ 1975ean Van Ek-ek sortu zuen L2 ikasteko Programa Nozio-Funtzionalaren 1. bertsioa:  
+- 1975ean Van Ek-ek sortu zuen L2 ikasteko Programa Nozio-Funtzionalaren 1. bertsioa:\
   Atalase maila – Nivel umbral - Threshold Level
-+ 1979an Peter Slagter-ek gaztelaniazko bertsioa egin zuen
-+ 1988an Alan King-ek euskarazko bertsioa egin zuen
-+ 1990ean Van Ek-ek eta Trim-ek Atalase Mailaren 2. bertsioa egin zuten:
-  1. Estrategia diskurtsiboak
-  2. Osagarri sozio-kulturalaren definizioa
-  3. Komunikazioa konpentsatzeko estrategiak
-  4. Ikasteko estrategiak: “ikasten ikastea”
-  5. Funtzio bi gehiago:
-    a. Diskurtsoaren antolamendua
-    b. Komunikazioaren kontrola
 
-# Adibidea {style='color:lightgrey;'}
+- 1979an Peter Slagter-ek gaztelaniazko bertsioa egin zuen
+
+- 1988an Alan King-ek euskarazko bertsioa egin zuen
+
+- 1990ean Van Ek-ek eta Trim-ek Atalase Mailaren 2. bertsioa egin zuten:
+
+  1.  Estrategia diskurtsiboak
+  2.  Osagarri sozio-kulturalaren definizioa
+  3.  Komunikazioa konpentsatzeko estrategiak
+  4.  Ikasteko estrategiak: “ikasten ikastea”
+  5.  Funtzio bi gehiago:
+
+  <!-- -->
+
+  a.  Diskurtsoaren antolamendua
+  b.  Komunikazioaren kontrola
+
+# Adibidea {style="color:lightgrey;"}
 
 ## *10. unitatea*: Informazioa eskatu eta eman
 
-| Perpaus deklaratzailea (aditza+) ahal | Tokia: hemen, hor, han|
-|--|--|
-| Galde perpausa | Hiria, kalea, enparantza |
-| Izenordeak | |
-| Galdetzaileak| |
+| Perpaus deklaratzailea (aditza+) ahal | Tokia: hemen, hor, han   |
+|---------------------------------------|--------------------------|
+| Galde perpausa                        | Hiria, kalea, enparantza |
+| Izenordeak                            |                          |
+| Galdetzaileak                         |                          |
 
 ## 
 
 | Funtzioa | Hizkuntza adierazleak |
-|:---|:---|
-| Helbide bat non den galdetu | - _Mesedez, nola joan naiteke_ ... _kalera_ / ..._-ko metrora_ / ... _hondartzara?_ |
-| Helbide batera iristeko jarraibideak eman | _Hartu lehenengo bidegurutzean eskumara_ / _bigarren kalean joan_ ... / _kale berean_ ... |
+|:-----------------------------------|:-----------------------------------|
+| Helbide bat non den galdetu | \- *Mesedez, nola joan naiteke* ... *kalera* / ...\_-ko metrora\_ / ... *hondartzara?* |
+| Helbide batera iristeko jarraibideak eman | *Hartu lehenengo bidegurutzean eskumara* / *bigarren kalean joan* ... / *kale berean* ... |
 
 # Hastapenak
 
----
+------------------------------------------------------------------------
 
-Komunikazioa        
-  : pertsonen arteko komunikazioa errazten duten jarduerek hizkuntzaren ikasketa sustatzen dute
+Komunikazioa
 
-. . .
-
-Ataza  
-  : Egiazko munduari dagokion ataza bat egiteak ikasketa sustatzen du
+: pertsonen arteko komunikazioa errazten duten jarduerek hizkuntzaren ikasketa sustatzen dute
 
 . . .
 
-Esanguratsua  
-  : Hizkuntza esanguratsua eta benetakoa erabili behar dute ikasleek ikasketa gerta dadin
+Ataza
+
+: Egiazko munduari dagokion ataza bat egiteak ikasketa sustatzen du
+
+. . .
+
+Esanguratsua
+
+: Hizkuntza esanguratsua eta benetakoa erabili behar dute ikasleek ikasketa gerta dadin
 
 . . .
 
@@ -334,58 +340,58 @@ Esanguratsua
 
 # Ezaugarriak
 
-## {.scrollable}
+##  {.scrollable}
 
-1. Eskolako irakaskuntzak badu zerikusirik hizkuntzaren erabilerarekin eta ez hizkuntzaren jakintzarekin
-2. Hizkuntzak eguneroko bizimoduaren komunikazio-egoera errealetan erabiltzeko ikasten dira
-3. Ikasleak/hiztunak oinarrizko trebetasunak garatu behar ditu: ulermenezkoak (irakurri, entzun) eta adierazkorrak (hitz egin, idatzi)
-4. Egoera errealetan hizkuntza erabiltzeak ikasketa eraginkorragoa egiten du
-5. Ikaslea da ikaste-prozesuaren ardatza
-6. Irakaslea ez da ikasketaren erdigunea, eta toki hori ikasleari utzi behar dio ikasketa autonomoagoa egin dezan
-7. Ikaslearen beharrizanak, asmoak eta ikasteko modu anitzak kontuan hartu behar dira, bai eta ikaslearen esperientziak beste hizkuntzen ikasketetan
-8. Material irekiak erabili behar dira: helburuen arabera behar dena gehituz, kenduz edo egokituz
-9. Oreka bat bilatu behar da zuzentasun gramatikalaren eta komunikazio eraginkorraren artean
+1.  Eskolako irakaskuntzak badu zerikusirik hizkuntzaren erabilerarekin eta ez hizkuntzaren jakintzarekin
+2.  Hizkuntzak eguneroko bizimoduaren komunikazio-egoera errealetan erabiltzeko ikasten dira
+3.  Ikasleak/hiztunak oinarrizko trebetasunak garatu behar ditu: ulermenezkoak (irakurri, entzun) eta adierazkorrak (hitz egin, idatzi)
+4.  Egoera errealetan hizkuntza erabiltzeak ikasketa eraginkorragoa egiten du
+5.  Ikaslea da ikaste-prozesuaren ardatza
+6.  Irakaslea ez da ikasketaren erdigunea, eta toki hori ikasleari utzi behar dio ikasketa autonomoagoa egin dezan
+7.  Ikaslearen beharrizanak, asmoak eta ikasteko modu anitzak kontuan hartu behar dira, bai eta ikaslearen esperientziak beste hizkuntzen ikasketetan
+8.  Material irekiak erabili behar dira: helburuen arabera behar dena gehituz, kenduz edo egokituz
+9.  Oreka bat bilatu behar da zuzentasun gramatikalaren eta komunikazio eraginkorraren artean
 10. Dena den, gramatika komunikazioaren zerbitzuan dago (eta ez alderantziz)
 
-# Aldeak 
+# Aldeak
 
-## {.scrollable}
+##  {.scrollable}
 
 <small>
 
-| Estrukturala                                                 | Komunikatiboa                                                |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Formari eta egiturei garrantzi handiago ematen die esanahiari baino | Esanahia lehenesten da                                       |
-| Egitura jakinetan oinarritutako elkarrizketakburuz ikasten dira | Elkarrizketek komunikazio funtzioak islatzen dituzte         |
-| Hizkuntzaren pasarteak testuingururik gabe aurkezten dira    | Elkarrizketen testuingurua abiapuntua da                     |
+| Estrukturala | Komunikatiboa |
+|------------------------------------|------------------------------------|
+| Formari eta egiturei garrantzi handiago ematen die esanahiari baino | Esanahia lehenesten da |
+| Egitura jakinetan oinarritutako elkarrizketakburuz ikasten dira | Elkarrizketek komunikazio funtzioak islatzen dituzte |
+| Hizkuntzaren pasarteak testuingururik gabe aurkezten dira | Elkarrizketen testuingurua abiapuntua da |
 | Hizkuntza bat ikastea egiturak, hitzak eta soinuak ikastea da | Hizkuntza bat ikastea hizkuntza horretan komunikatzen ikastea da |
-| Errepikapenak mota desberdinak teknika nagusiak dira         | Ariketa errepikagarriak noizbehinka erabiltzen dira eta ikasleari lagun diezaiokeen edozein teknika eta baliabide onartzen da |
-| Azalpen gramatikalak saihesten dira                          | Azalpen gramatikala onartzen da                              |
-| Ikaslearen H1/Ama Hizkuntza galarazita dago                  | Ikaslearen H1/Ama Hizkuntza erabil daiteke justifikatuta badago |
-| Itzulpena galarazita dago                                    | Itzulpena onartzen da, justifikatuta badago                  |
-| Ahozko hizkuntza lehenesten da; irakurmenaeta idazmenaren kaltetan | Lau trebetasunak lehen egunetik erabiltzen dira              |
-| Helburua: Hizkuntza gaitasuna                                | Helburua: Komunikazio gaitasuna (hizkuntzaren sistema modu egoki eta eraginkorrean erabiltzea) |
+| Errepikapenak mota desberdinak teknika nagusiak dira | Ariketa errepikagarriak noizbehinka erabiltzen dira eta ikasleari lagun diezaiokeen edozein teknika eta baliabide onartzen da |
+| Azalpen gramatikalak saihesten dira | Azalpen gramatikala onartzen da |
+| Ikaslearen H1/Ama Hizkuntza galarazita dago | Ikaslearen H1/Ama Hizkuntza erabil daiteke justifikatuta badago |
+| Itzulpena galarazita dago | Itzulpena onartzen da, justifikatuta badago |
+| Ahozko hizkuntza lehenesten da; irakurmenaeta idazmenaren kaltetan | Lau trebetasunak lehen egunetik erabiltzen dira |
+| Helburua: Hizkuntza gaitasuna | Helburua: Komunikazio gaitasuna (hizkuntzaren sistema modu egoki eta eraginkorrean erabiltzea) |
 | Ikas unitateen hurrenkerak hizkuntzaren konplexutasuna du oinarri | Ikas unitateen oinarriak aukeratzen dira ikasleen interesa piztearren : edukiak, funtzioak esanahiak |
-| Irakasleak ikasleak kontrolatzen ditu                        | Irakasleak ikasleei laguntzen die: taldeka, binaka...        |
-| Hizkuntza "ohitura" bat da eta erroreak zuzendu behar dira   | Saiakuntza/erroreen bidez hizkuntza eraiki daiteke           |
+| Irakasleak ikasleak kontrolatzen ditu | Irakasleak ikasleei laguntzen die: taldeka, binaka... |
+| Hizkuntza "ohitura" bat da eta erroreak zuzendu behar dira | Saiakuntza/erroreen bidez hizkuntza eraiki daiteke |
 | Ikasleek hizkuntzaren sistemarekin interakzioa dute, beren-beregi prestatutako materialen bidez | Ikasleek euren artean interakzioa dute (hasieratik ikasleen arteko komunikatzeko ahaleginak bultzatzen dira) |
 
 </small>
 
-# kritikak 
+# kritikak
 
 ## Estrukturalistei {.scrollable}
 
 <small>
 
-+ Metodo horiek arreta handiagoa jartzen dute forman (hizkuntzaren egituran) hizkuntzaren erabileran baino
-+ Konduktismoaren bidetik, hizkuntzak ikastea ohitura linguistiko batzuk hartzea baino ez da
-+ Ariketa mekanikoak eginez, egitura gramatikalak eta hiztegia barneratzea nahi dute
-+ Metodo situazionalean ere, egoerak ez dira lehenesten egituren aldean
-+ Lehengo kritikak metodo hauen erabiltzaileetatik etorri ziren, espero ziren emaitzak lortzen ez zituztelako: eskolan ikasitakoa nekez erabil zezaketen eskolatik kanpoko komunikazio-egoera jakinetan
-+ Kontradikzioa: alde batetik, ahozkotasunean egiazko hizkuntza eta egoeraren testuinguruaren garrantzia aldarrikatzen dute; baina beste aldetik, gramatikaren egitura formalek ezinbesteko garrantzia dute, horiek baitira metodo hauen benetako ardatza
-+ Erabiltzen diren baliabideen teknikoa baino ez da irakaslea
-+ Ikus-entzunezko metodoetatik sortutako hastapen batzuek eragina izan dute AH/H2 irakasteko gaur egungo moduetan
+- Metodo horiek arreta handiagoa jartzen dute forman (hizkuntzaren egituran) hizkuntzaren erabileran baino
+- Konduktismoaren bidetik, hizkuntzak ikastea ohitura linguistiko batzuk hartzea baino ez da
+- Ariketa mekanikoak eginez, egitura gramatikalak eta hiztegia barneratzea nahi dute
+- Metodo situazionalean ere, egoerak ez dira lehenesten egituren aldean
+- Lehengo kritikak metodo hauen erabiltzaileetatik etorri ziren, espero ziren emaitzak lortzen ez zituztelako: eskolan ikasitakoa nekez erabil zezaketen eskolatik kanpoko komunikazio-egoera jakinetan
+- Kontradikzioa: alde batetik, ahozkotasunean egiazko hizkuntza eta egoeraren testuinguruaren garrantzia aldarrikatzen dute; baina beste aldetik, gramatikaren egitura formalek ezinbesteko garrantzia dute, horiek baitira metodo hauen benetako ardatza
+- Erabiltzen diren baliabideen teknikoa baino ez da irakaslea
+- Ikus-entzunezko metodoetatik sortutako hastapen batzuek eragina izan dute AH/H2 irakasteko gaur egungo moduetan
 
 </small>
 
@@ -393,38 +399,37 @@ Esanguratsua
 
 <small>
 
-+ Eskuliburu batzuk ahozko hizkuntza landu dute batez ere, bestelako komunikazio motak alde batera utzirik
-+ Gramatikaren edukiari behar besteko garrantzirik ez dio eman, hizkuntzaren erabilera komunikatiboa baino ez baitute azpimarratzen ("komunikatibitis": hizkuntzaren bertsio okerra eta partziala)
-+ Askoren ustez planteamendu hori ezin da erabili hezkuntzaren maila eta adin guztietan
-+ Konpetentzia komunikatiboa zail da ebaluatzen
-+ Planteamendu hau nekez erabili ahal dute irakasleek, horien 1. hizkuntza ez bada irakasten dutena.
-+ Jardunbide eta teknika batzuk metodo  estrukturaletatik (audiolinguala, situazionala) hartu eta erabili dituzte: Oroimenean oinarritutako ikaskuntza gertatu da sarri askotan: ereduak buruz ikasiz edo errepikapenen bidez.
-+ Beti ez dute lortu komunikazio erreala eta benetako (fikzioan aritu baitira).
-+ Eduki kulturala batzuetan zeharka baino ez dira landu eta ez dira txertatu era egokian
+- Eskuliburu batzuk ahozko hizkuntza landu dute batez ere, bestelako komunikazio motak alde batera utzirik
+- Gramatikaren edukiari behar besteko garrantzirik ez dio eman, hizkuntzaren erabilera komunikatiboa baino ez baitute azpimarratzen ("komunikatibitis": hizkuntzaren bertsio okerra eta partziala)
+- Askoren ustez planteamendu hori ezin da erabili hezkuntzaren maila eta adin guztietan
+- Konpetentzia komunikatiboa zail da ebaluatzen
+- Planteamendu hau nekez erabili ahal dute irakasleek, horien 1. hizkuntza ez bada irakasten dutena.
+- Jardunbide eta teknika batzuk metodo estrukturaletatik (audiolinguala, situazionala) hartu eta erabili dituzte: Oroimenean oinarritutako ikaskuntza gertatu da sarri askotan: ereduak buruz ikasiz edo errepikapenen bidez.
+- Beti ez dute lortu komunikazio erreala eta benetako (fikzioan aritu baitira).
+- Eduki kulturala batzuetan zeharka baino ez dira landu eta ez dira txertatu era egokian
 
 </small>
 
 ##  {.scrollable background-color="darkred"}
 
 ::: callout-warning
-### **A.** Irakurri Larrea (2007) testua... 
+### **A.** Irakurri Larrea (2007) testua...
 
-...eta erantzun testuaren izenburuko galderari: 
-_Zein da hizkuntzak irakasteko metodorik onena?_
+...eta erantzun testuaren izenburuko galderari: *Zein da hizkuntzak irakasteko metodorik onena?*
 
-### B. 
+### B.
 
 Erantzun honako galdera hauei:
 
-1. Interferentzia egiten du lehen hizkuntzak?
-2. Eta ikasgelan lehen hizkuntza erabiltzea, zer?
-3. BHE lehen hizkuntzaren eskurapena bezalakoa da?
-4. Ez dute zereginik imitazioak eta errepikapenak eskurapenean?
-5. Orduan drillek ez dute ezertan laguntzen?
-6. Ohitura txarrak hartzen al dituzte ikasleek zuzentzen ez bazaie?
-7. Laguntzen al du ikasleei arauak emateak? (nik horrela ikasi nuen)
-8. Orduan, aldatzen du ezer irakasteak edo ez irakasteak?
-9. Gaitzagoak dira hizkuntza batzuk beste batzuk baino?
+1.  Interferentzia egiten du lehen hizkuntzak?
+2.  Eta ikasgelan lehen hizkuntza erabiltzea, zer?
+3.  BHE lehen hizkuntzaren eskurapena bezalakoa da?
+4.  Ez dute zereginik imitazioak eta errepikapenak eskurapenean?
+5.  Orduan drillek ez dute ezertan laguntzen?
+6.  Ohitura txarrak hartzen al dituzte ikasleek zuzentzen ez bazaie?
+7.  Laguntzen al du ikasleei arauak emateak? (nik horrela ikasi nuen)
+8.  Orduan, aldatzen du ezer irakasteak edo ez irakasteak?
+9.  Gaitzagoak dira hizkuntza batzuk beste batzuk baino?
 10. Zerk bihurtzen ditu egitura batzuk ikasteko erraz eta beste batzuk zail?
 11. Azkenean, ez da dena motibazioa BHEn?
 12. Badauka adinak eraginik hizkuntzaren eskurapenean?
@@ -435,5 +440,4 @@ Erantzun honako galdera hauei:
 ### C.
 
 Alderatu zure erantzunak eta VanPattenak : "Ohiko galderak Van Patten"
-
 :::

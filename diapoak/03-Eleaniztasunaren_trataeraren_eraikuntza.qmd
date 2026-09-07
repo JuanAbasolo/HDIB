@@ -6,7 +6,7 @@ format:
         theme: [dark, css/nire.scss]
         css: css/logo.css
         footer: "Eleaniztasuna ikastetxeetan"
-        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
+        logo: '../HDIB-2026/assets/00/HDIB_biribil_baltz.png'
         slide-number: true
         embed-resources: true
 editor: visual
@@ -403,7 +403,7 @@ Hizkuntza bakoitzaren ezaugarriak eta hizkuntzen arteko antz-aldeak. Zer erkide,
 
 elebidunaren konpetentzien irudikapena: SUP vs CUP
 
-![Common underlying proficiency and linguistic interdependence principle](../HDIB-2023/assets/3/2-cup_cummings.png)
+![Common underlying proficiency and linguistic interdependence principle](../HDIB-2026/assets/3/2-cup_cummings.png)
 
 ## int
 
@@ -421,13 +421,13 @@ atalase mailak eta ondorio kognitiboak
 
 Hizkuntzaren prozesamendua
 
-![A blueprint for the speaker. Boxes represent processing components; circle and ellipse represent knowledge stores.](../HDIB-2023/assets/3/Levelt_.png){width="496"}
+![A blueprint for the speaker. Boxes represent processing components; circle and ellipse represent knowledge stores.](../HDIB-2026/assets/3/Levelt_.png){width="496"}
 
 ## H~2~
 
 Hizkuntzen prozesamenduak
 
-![Model of the L2 speaker, adapted from Levelt's (1999, Figure 4.1) "blueprint" of the monolingual speaker and incorporating De Bot's (1992) points regarding the bilingual speaker. The dotted and dashed Lx and Ly circles refer to how information pertinent to languages (or registers) x and y are thought to be related to each other, where partially overlapping and fully overlapping circles indicate partially distinct and undifferentiated systems, respectively. \["Lx"\] refers to information that tags language-specific identity (i.e., this piece of knowledge is linked in some way to language X). The {ƒ } symbols (for ƒluency vulnerability points) refer to potentially critical points where underlying processing difficulties could be associated with L2 speech dysfluencies.](../HDIB-2023/assets/3/Levelt_Segalowitz.png){width="493"}
+![Model of the L2 speaker, adapted from Levelt's (1999, Figure 4.1) "blueprint" of the monolingual speaker and incorporating De Bot's (1992) points regarding the bilingual speaker. The dotted and dashed Lx and Ly circles refer to how information pertinent to languages (or registers) x and y are thought to be related to each other, where partially overlapping and fully overlapping circles indicate partially distinct and undifferentiated systems, respectively. \["Lx"\] refers to information that tags language-specific identity (i.e., this piece of knowledge is linked in some way to language X). The {ƒ } symbols (for ƒluency vulnerability points) refer to potentially critical points where underlying processing difficulties could be associated with L2 speech dysfluencies.](../HDIB-2026/assets/3/Levelt_Segalowitz.png){width="493"}
 
 ## Beste   
 

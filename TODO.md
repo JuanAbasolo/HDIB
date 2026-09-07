@@ -11,20 +11,27 @@ Hemen dago nik ematen dudan ikasgai bateko baliabideen multzoa.
 ## Egin beharrekoa
 
 + Karpetak eta proiektua ordenatu behar dira
-+ Aurtengo apunteak preparatu (HDIB-2026/ karpetan)
++ Aurtengo diapositibak egokitu (diapoak/ karpetan)
+  + Diapositiben edukia eta izenak egokitu behar dira.
++ Apunteetako estekak (HDIB-2026/ karpetan) egokitu behar dira izen berrietara.
++ Aurkibidea egokitu (diapoak/index.md eta index.html)
++ README eguneratu
 
 ## Irizpideak
 
-+ Fitxategien izenak eguneratu behar dira, bat etor daitezen dagokien momentuarekin (esate baterako, 10-Bronckart.qmd fitxategia 11. kapitulua da eta kapituluaren izena "Testua i(ra)kasgunea" da; izenak izan behar luke "11-Testua_irakasgunea.qmd")
-+ Apunteak, informaziorik galdu gabe, konpilatu behar dira HTML, PDF eta EPUB-en. Orain arazoak ditu PDFan konpilatzeko, HTMLrako formatuak dituelako.
-+ Irudien fitxategien kokapenak eta izenak egonkorrak izango dira (deskribatzaileak eta egoki kokatuta)
-+ Diapoak. Horien fitxategiak ere egoki izendatuta egongo dira. Ez da geratuko apunteetan estekatuta ez dagoen diapositibarik.
-+ Baldin eta aukera badago, egokitu Quarto proiektua diapositibak diapositiba moduan errenderizatzeko eta apunteak liburu moduan errenderizatzeko dena proiektu bakarrean. Ezinezko bada, proiektu bi izango dira.
-+ Kontuan izan ezazu egon daitezkeela klasean erabiltzen diren bestelako baliabideak ere. Horiek ere egoki kokatuta eta izendatuta.
-+ Fitxategi eta karpeta zaharrak, dagoeneko proiekturako behar ez direnak, Zaharrak/ izeneko karpetan egongo dira egoki antolatuta. EZ DIRA EZABATUKO beste barik.
++ Diapositiben izenak egokitzea: Orain batzuk aurreko urte batzuetako datak dute (2026an gaude). Orain dipositibek ez dute izango urtearen erreferentziarik izenean. /home/juan/Git/HDIB_apunteak/diapoak/00-Aurkezpena-25.qmd --> /home/juan/Git/HDIB_apunteak/diapoak/00-Aurkezpena.qmd
++ Diapositibak apunteetako gai batzuekin lotuta daude. Diapositiben lehenengo zenbakia izan behar dira apunteetan dagokion gaikoa.
++ Diapositibetarako karpetetatik ere kenduko dira urteen zenbakiak /home/juan/Git/HDIB_apunteak/diapoak/2025-Azken_klasea_files --> /home/juan/Git/HDIB_apunteak/diapoak/Azken_klasea_files.
+    Jakina, dipositibetako estekak egokitu behar dira ondo ibil daitezen, izenak egokitu eta gero.
++ Apunteetan diapositibetara doazen estekak egokitu behar dira izen berrietara.
++ Denak ondo konpilatu behar du (diapositibak zein aurkibidea eta apunteak)
++ Diapositiben edukian: Diapositiba batzuk badute data, horiei kendu behar zaie. 
+  Esate baterako: 00-Aurkezpena-25.qmd fitxategiak `date: 2025-09-10` du. Hori komentatu
+  edo 08-Metodologia-ta.qmd-k hau du `footer: "Metodologiaren garapena - 2024"` Horri urtea kendu behar zaio.
+  Ez kendu 2015etik atzeragokorik (horiek aipamenak edo izango baitira)
 
 ## Amaitutakoan
 
-+ Dokumentatu egindakoa; Markdown fitxategi batean izango da eta izango du izena DONE<data>.md
++ Dokumentatu egindakoa; Markdown fitxategi batean izango da eta izango du izena DONE-<YYYY-MM-DD>.md
 + Sortu README.md Ikasleek ulertzeko non dauden apunteak, diapoak, eta bestelako baliabideren bat badago.
-+ Git branch 2026rako sortu, commit eta push egin.
++ Commit eta push egin.

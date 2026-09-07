@@ -7,12 +7,12 @@ author:
 format: 
     revealjs:
         theme: [dark, css/nire.scss]
-        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
+        logo: '../HDIB-2026/assets/00/HDIB_biribil_baltz.png'
         css: 'css/logo.css'
         embed-resources: true
         slide-number: true
 editor: visual
-bibliography: '../HDIB-2024/references.bib'
+bibliography: '../HDIB-2026/references.bib'
 csl: '../../eu/apa-eu.csl'
 ---
 
@@ -118,7 +118,7 @@ Hizkuntzetarako Europako Erreferentzia Esparru Bateratua, Hizkuntzen Europako Er
 
 ## 
 
-![EEMB: eskema deskribatzailea](../HDIB-2024/assets/0/EEMB_egitura.png)
+![EEMB: eskema deskribatzailea](../HDIB-2026/assets/0/EEMB_egitura.png)
 
 ## Hizkuntza mailak
 

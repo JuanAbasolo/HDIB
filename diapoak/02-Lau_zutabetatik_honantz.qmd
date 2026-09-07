@@ -6,7 +6,7 @@ format:
         theme: [dark, css/nire.scss]
         css: [css/logo.css]
         footer: "Konpetentzien inguruko diskurtsua"
-        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
+        logo: '../HDIB-2026/assets/00/HDIB_biribil_baltz.png'
         slide-number: true
         embed-resources: true
 editor: visual
@@ -182,7 +182,7 @@ Sortu taula bat konpetentzien definizioen alderaketa aztertzeko:
 
 ## Celce & Murcia (1995)
 
-![](../HDIB-2024/assets/1/celce-murcia1995.png)
+![](../HDIB-2026/assets/1/celce-murcia1995.png)
 
 ::: footer
 Definizioa
@@ -193,7 +193,7 @@ Definizioa
 
 ## Canale & Swain (1981)
 
-![](../HDIB-2024/assets/1/canale-swain1981.png)
+![](../HDIB-2026/assets/1/canale-swain1981.png)
 
 ::: footer
 Definizioak
@@ -201,7 +201,7 @@ Definizioak
 
 ## EEMB (#23)
 
-![](../HDIB-2024/assets/2/EEMB-23_131or.png){fig-align="center"}
+![](../HDIB-2026/assets/2/EEMB-23_131or.png){fig-align="center"}
 
 ::: footer
 131.orritik aurrera definizioak-eta
