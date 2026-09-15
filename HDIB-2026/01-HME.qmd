@@ -10,13 +10,13 @@ Saio honetan, Europako hizkuntza politikaren oinarriak aztertzen dira. Ikasleek 
 
 Bereziki, saiatu behar dugu ulertzen zer ari garen esaten *A1*, *B2* edo *C1* esaten dugunean. Jakin badakigu ez dena berdin hogeita bi urteko irakaslegai baten komunikazio bidea eta ikasle izango dituen HH 4ko edo LH 2koaren komunikazio bidea. Baina hizkuntzaz eta hizkuntz komunikazioaz ari garenez, geure burua ezagututa, ikasleak ezagutzen saiatuko gara.
 
--   Sarrera Hizkuntza politikaren garrantzia Europako testuinguruan
+- Sarrera Hizkuntza politikaren garrantzia Europako testuinguruan
 
--   HIIEEEM-ren Historia: Nola sortu zen, zein helburu dituen eta nola erabil daitekeen
+- HIIEEEM-ren Historia: Nola sortu zen, zein helburu dituen eta nola erabil daitekeen
 
--   Hizkuntza mailak
+- Hizkuntza mailak
 
--   Baliabideen gaineko hausnarketa
+- Baliabideen gaineko hausnarketa
 
 ## Hizkuntza politikaren garrantzia Europako testuinguruan
 
@@ -78,11 +78,11 @@ Hizkuntzetarako Europako Erreferentzia Esparru Bateratua, Hizkuntzen Europako Er
 
 ### EEMBren helburuak
 
-> -   elkarlana sustatzea eta erraztea herrialdeetako hezkuntza-erakundeen artean;
+> - elkarlana sustatzea eta erraztea herrialdeetako hezkuntza-erakundeen artean;
 >
-> -   elkarren hizkuntza-egiaztagiriak onartzeko oinarri sendoa ematea; \|
+> - elkarren hizkuntza-egiaztagiriak onartzeko oinarri sendoa ematea; \|
 >
-> -   ikasle, irakasle, ikastaroen diseinatzaile, erakunde aztertzaile eta hezkuntza-arloko administrariei beren ahaleginak kokatzen eta koordinatzen laguntzea.
+> - ikasle, irakasle, ikastaroen diseinatzaile, erakunde aztertzaile eta hezkuntza-arloko administrariei beren ahaleginak kokatzen eta koordinatzen laguntzea.
 >
 > @europakokontseiluaHizkuntzenIkaskuntzaIrakaskuntza2005
 
@@ -160,24 +160,24 @@ Dosierra proposatzen da aztertutako hizkuntzetan aritzeko gaitasunaren erakusgar
 
 > Zure DOSIERrean ondoko elementuak sar zenitzake:
 >
-> -   idazlan onen adibideak
-> -   audio edo bideo-grabazioak
-> -   azterlanen deskribapenak eta emaitzak
-> -   dokumentuak, diplomak, ziurtagiriak
-> -   egindako ikastaroen deskribapenak
-> -   hizkuntza-aurrerapenari buruzko hausnarketak
-> -   irakasleen edo tutoreen txostenak
-> -   besteren iruzkinak zure gaitasunei buruz
-> -   besteri erakusteko gorde nahi zenituzkeen gauzak
+> - idazlan onen adibideak
+> - audio edo bideo-grabazioak
+> - azterlanen deskribapenak eta emaitzak
+> - dokumentuak, diplomak, ziurtagiriak
+> - egindako ikastaroen deskribapenak
+> - hizkuntza-aurrerapenari buruzko hausnarketak
+> - irakasleen edo tutoreen txostenak
+> - besteren iruzkinak zure gaitasunei buruz
+> - besteri erakusteko gorde nahi zenituzkeen gauzak
 >
 > @davisHizkuntzenPortfolioEuroparra2004, 48 orr.
 
 ## Zereginak 📔
 
--   EEMB mailen analisia:\
-    Ikasleek, banaka edo bikoteetan, EEMB maila bat aukeratu eta horri buruzko poster bat sortuko dute.
--   Norberaren HPE:\
-    Ikasleek beraien HPE propioa sortuko dute, hizkuntza ikaskuntza ibilbidea eta hizkuntza gaitasunak islatuz. [Etxerako lana]{style="color: darkred"}
+- EEMB mailen analisia:\
+  Ikasleek erakutsiko dituzte EEMBko mailak hezkuntzako diskurtso txatal testuinguratuekin.
+- Norberaren HPE:\
+  Ikasleek beraien HPE propioa sortuko dute, hizkuntza ikaskuntza ibilbidea eta hizkuntza gaitasunak islatuz. [Etxerako lana]{style="color: darkred"}
 
 ::: callout-tip
 ## Gehiago jakiteko eta aztertzeko
