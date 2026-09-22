@@ -14,24 +14,24 @@ editor: visual
 
 Ikuskera posibleak bat baino gehiago
 
--   Herrialdea
+- Herrialdea
 
--   Hezkuntza Sistema
+- Hezkuntza Sistema
 
--   Ikastetxeak
+- Ikastetxeak
 
--   Gelak
+- Gelak
 
--   Norbanakoak
+- Norbanakoak
 
--   ... eta familiak
+- ... eta familiak
 
 ------------------------------------------------------------------------
 
 ::: callout-note
 ## EAEko hezkuntza sistema familientzat azaldua
 
--   EAEko hezkuntza sistema. [Familientzako informazioa](EAEko%20hezkuntza%20sistema.%20Familientzako%20informazioa)
+- EAEko hezkuntza sistema. [Familientzako informazioa](https://www.euskadi.eus/euskal-hezkuntza-sistema-familiei-informazioa/web01-a2hikast/eu/)
 :::
 
 ## EEMBn
@@ -50,7 +50,7 @@ Ikuspegi eleaniztunak...
 
 ## Konpetentziez... 🇪🇺
 
--   Europako Kontseilua. ([**2018**]{.underline}). Recomendación del Consejo, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente Texto pertinente a efectos del EEE. *Diario Oficial de la Unión Europea*, *c189*, 1–13. <https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32018H0604(01)>
+- Europako Kontseilua. ([**2018**]{.underline}). Recomendación del Consejo, de 22 de mayo de 2018, relativa a las competencias clave para el aprendizaje permanente Texto pertinente a efectos del EEE. *Diario Oficial de la Unión Europea*, *c189*, 1–13. <https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32018H0604(01)>
 
 COMPETENCIAS CLAVE PARA EL APRENDIZAJE PERMANENTE UN MARCO DE REFERENCIA EUROPEO
 
@@ -76,7 +76,7 @@ El marco de referencia establece las ocho competencias clave siguientes:
 
 ## Hizkuntzen ikaskuntzaz 🇪🇺
 
--   Europako Kontseilua. (**2019**). Recomendación del Consejo, de 22 de mayo de 2019, relativa a un enfoque global de la enseñanza y el aprendizaje de idiomas. *Diario Oficial de la Unión Europea*, *C 189*, 15–22. or. <https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32019H0605(02)>
+- Europako Kontseilua. (**2019**). Recomendación del Consejo, de 22 de mayo de 2019, relativa a un enfoque global de la enseñanza y el aprendizaje de idiomas. *Diario Oficial de la Unión Europea*, *C 189*, 15–22. or. <https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32019H0605(02)>
 
 ## 
 
@@ -86,7 +86,7 @@ El marco de referencia establece las ocho competencias clave siguientes:
 
 ## Eleaniztasunaren garrantziaz 🇪🇺
 
--   Europako Kontseilua (Arg.). (2022). *L’ importance de l’éducation plurilingue et interculturelle pour une culture de la démocratie: recommandation CM/Re (2022)1 adoptée par le Comité des Ministres du Conseil de l’Europe le 2 février 2022 et exposé des motifs*. Conseil de l’Europe.
+- Europako Kontseilua (Arg.). (2022). *L’ importance de l’éducation plurilingue et interculturelle pour une culture de la démocratie: recommandation CM/Re (2022)1 adoptée par le Comité des Ministres du Conseil de l’Europe le 2 février 2022 et exposé des motifs*. Conseil de l’Europe.
 
 ## 
 
@@ -114,21 +114,19 @@ El marco de referencia establece las ocho competencias clave siguientes:
 
 ## 🤔 teoriaz 👩‍🏫 pedagogiaz
 
--   CUP (Cummins, gogoan?)\
+- CUP (Cummins, gogoan?)\
 
--   <div>
-
-    ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sunafukikun/20201004/20201004205413.png)
-
-    </div>
+- ::: {}
+  ![](https://cdn-ak.f.st-hatena.com/images/fotolife/s/sunafukikun/20201004/20201004205413.png)
+  :::
 
 ## Zer ikusten da inguruan?
 
--   EAEn Matrikulatzea edo hezkuntza jarduera A eredukoa
+- EAEn Matrikulatzea edo hezkuntza jarduera A eredukoa
 
--   Ipar EHn ELCO lehen orain EILE ere ez
+- Ipar EHn ELCO lehen orain EILE ere ez
 
--   Hiru europa
+- Hiru europa
 
 ## 🇸🇪 🇳🇴 🇫🇮 *Mother Tongue Instruction (MTI)*
 

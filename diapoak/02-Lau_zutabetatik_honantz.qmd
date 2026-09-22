@@ -6,7 +6,7 @@ format:
         theme: [dark, css/nire.scss]
         css: [css/logo.css]
         footer: "Konpetentzien inguruko diskurtsua"
-        logo: '../HDIB-2026/assets/00/HDIB_biribil_baltz.png'
+        logo: '../HDIB-2024/assets/00/HDIB_biribil_baltz.png'
         slide-number: true
         embed-resources: true
 editor: visual
@@ -98,25 +98,25 @@ Zelan etorri den
 
 ikasten ikastea
 
-:   lifelong learning; dimentsio anitzeko hezkuntza
+: lifelong learning; dimentsio anitzeko hezkuntza
 
 . . .
 
 egiten ikastea
 
-:   jakintza aplikatua, jendartean ekiteko
+: jakintza aplikatua, jendartean ekiteko
 
 . . .
 
 elkarrekin bizitzen ikastea
 
-:   lankidetzarako eta gatazkak konpontzeko gaitasunak...
+: lankidetzarako eta gatazkak konpontzeko gaitasunak...
 
 . . .
 
 izaten jakitea
 
-:   balioak, jarrerak
+: balioak, jarrerak
 
 ## Konpetentziak
 
@@ -139,21 +139,21 @@ Erantzuna: ~~gaitasunak~~ konpetentziak
 ------------------------------------------------------------------------
 
 ::: incremental
--   
+- 
 
-    ### DeSeCo [\*](https://www.oecd.org/education/skills-beyond-school/definitionandselectionofcompetenciesdeseco.htm) '02
+  ### DeSeCo [\*](https://www.oecd.org/education/skills-beyond-school/definitionandselectionofcompetenciesdeseco.htm) '02
 
--   
+- 
 
-    ### Euskal Curriculuma [\*](https://euskalcurriculuma.eus/) '05
+  ### Euskal Curriculuma [\*](https://euskalcurriculuma.eus/) '05
 
--   
+- 
 
-    ### Europako kontseilua '06
+  ### Europako kontseilua '06
 
--   
+- 
 
-    ### Hezkuntza eredu pedagogikoaren markoa [\*](https://www.euskadi.eus/oinarrizko-konpetentzia/web01-a3hbhezi/eu/) '20
+  ### Hezkuntza eredu pedagogikoaren markoa [\*](https://www.euskadi.eus/oinarrizko-konpetentzia/web01-a3hbhezi/eu/) '20
 :::
 
 ## Ariketa {background-color="darkred"}
@@ -163,26 +163,26 @@ Erantzuna: ~~gaitasunak~~ konpetentziak
 
 Sortu taula bat konpetentzien definizioen alderaketa aztertzeko:
 
--   Europako kontseilua
--   Madrileko legeak
--   Parisekoak
--   Gasteizkoak
--   Iruñekoak
--   Ez Espainia - Ez Frantziak agintzen duten nonbaitekoak
+- Europako kontseilua
+- Madrileko legeak
+- Parisekoak
+- Gasteizkoak
+- Iruñekoak
+- Ez Espainia - Ez Frantziak agintzen duten nonbaitekoak
 :::
 
 # Communicative competence... & co.
 
 ## Ideiaren garapena
 
--   Celce-Murcia
--   Canale eta Swain
--   EEBM
--   ...
+- Celce-Murcia
+- Canale eta Swain
+- EEBM
+- ...
 
 ## Celce & Murcia (1995)
 
-![](../HDIB-2026/assets/1/celce-murcia1995.png)
+![](../HDIB-2024/assets/1/celce-murcia1995.png)
 
 ::: footer
 Definizioa
@@ -193,7 +193,7 @@ Definizioa
 
 ## Canale & Swain (1981)
 
-![](../HDIB-2026/assets/1/canale-swain1981.png)
+![](../HDIB-2024/assets/1/canale-swain1981.png)
 
 ::: footer
 Definizioak
@@ -201,7 +201,7 @@ Definizioak
 
 ## EEMB (#23)
 
-![](../HDIB-2026/assets/2/EEMB-23_131or.png){fig-align="center"}
+![](../HDIB-2024/assets/2/EEMB-23_131or.png){fig-align="center"}
 
 ::: footer
 131.orritik aurrera definizioak-eta
@@ -217,22 +217,22 @@ Lehenengo eguneko ariketako lanketa kontuan hartuta, irudikatu zelan ulertzen de
 
 ## Gaurko markoaren zenbait elementu {.scrollable}
 
--   Dimentsioak
--   Ikasketa mailetako betetze mailak
--   Dimentsioen osagaiak...
--   ... eta azpigaitasunak
--   Agerbideak
--   Adierazleak
+- Dimentsioak
+- Ikasketa mailetako betetze mailak
+- Dimentsioen osagaiak...
+- ... eta azpigaitasunak
+- Agerbideak
+- Adierazleak
 
 ## Komunikazio konpetentzia gaurko ikuskera didaktiko (...eta ebaluatzailean)
 
 Komunikazio Gaitasunean 5 dimentsio bereizten dira:
 
--   ahozkoaren ulermena
--   idatziaren ulermena
--   mintzamena
--   idazmena
--   ahozko elkarrekintza
+- ahozkoaren ulermena
+- idatziaren ulermena
+- mintzamena
+- idazmena
+- ahozko elkarrekintza
 
 Dimentsio bakoitza neurtzeko, **ikasketa-emaitza** batzuk formulatzen dira
 
@@ -243,9 +243,9 @@ Dimentsio bakoitza neurtzeko, **ikasketa-emaitza** batzuk formulatzen dira
 
 Ikasketa-emaitza bakoitzean, hiru betetze-maila bereizten dira (ebaluazio diagnostikoan):
 
--   Hasierako maila (A)
--   Erdi maila (B)
--   Maila aurreratua (C)
+- Hasierako maila (A)
+- Erdi maila (B)
+- Maila aurreratua (C)
 
 ## Hizkuntza-komunikaziorako gaitasunaren dimentsioen osagaiak/azpigaitasunak
 
@@ -257,11 +257,11 @@ Ikasketa-emaitza bakoitzean, hiru betetze-maila bereizten dira (ebaluazio diagno
 
 Hizkuntza-komunikaziorako konpetentzia DIMENTSIO hauetan egituratuta dago:.
 
--   Ahozkoaren ulermena edo entzumena
--   Idatziaren ulermena edo irakurmena
--   Mintzamena
--   Idazmena
--   Ahozko elkarrekintza
+- Ahozkoaren ulermena edo entzumena
+- Idatziaren ulermena edo irakurmena
+- Mintzamena
+- Idazmena
+- Ahozko elkarrekintza
 
 . . .
 
@@ -271,32 +271,32 @@ Hizkuntza-komunikaziorako konpetentzia DIMENTSIO hauetan egituratuta dago:.
 
 <small>
 
--   DIMENTSIOA: AHOZKOAREN ULERMENA
-    -   Ahozko testuen zentzu orokorra identifikatzea
-    -   Ahozko testuen helburua antzematea
-    -   Ahozko testuetan, proposatutako helburuei begira garrantzia duten informazioak hautatzea
-    -   Ahozko testuen edukia kritikoki interpretatzea
-    -   Ahozko testu-mota desberdinak hobeto ulertzeko estrategiak erabiltzea
--   DIMENTSIOA: IDATZIAREN ULERMENA
-    -   Idatzizko testuen zentzu orokorra identifikatzea
-    -   Idatzizko testuen helburua antzematea
-    -   Idatzizko testuetan, proposatutako helburuei begira garrantzia duten informazioak hautatzea
-    -   Idatzizko testuen edukia kritikoki interpretatzea
-    -   Idatzizko testu-mota desberdinak hobeto ulertzeko estrategiak erabiltzea
--   DIMENTSIOA: MINTZAMENA
-    -   Komunikazio-egoeraren ezaugarriak aintzat hartzea
-    -   Ekoizpen-prozesua planifikatzea
-    -   Adierazi beharrekoa egoki eta zuzen adieraztea
-    -   Kontroleko eta egokitzapeneko estrategiak erabiltzea
--   DIMENTSIOA: IDAZMENA
-    -   Komunikazio-egoeraren ezaugarriak kontuan izatea
-    -   Ekoizpen-prozesua planifikatzea
-    -   Adierazi beharrekoa egoki eta zuzen adieraztea
-    -   Kontroleko eta egokitzapeneko estrategiak erabiltzea
--   DIMENTSIOA: AHOZKO ELKARREKINTZA
-    -   Komunikazio-trukeetan modu aktibo eta egokian parte hartzea
-    -   Arau soziokomunikatiboak errespetatzea
-    -   Komunikazioari eusteko eta beraren eraginkortasuna areagotzeko estrategiak erabiltzea
+- DIMENTSIOA: AHOZKOAREN ULERMENA
+  - Ahozko testuen zentzu orokorra identifikatzea
+  - Ahozko testuen helburua antzematea
+  - Ahozko testuetan, proposatutako helburuei begira garrantzia duten informazioak hautatzea
+  - Ahozko testuen edukia kritikoki interpretatzea
+  - Ahozko testu-mota desberdinak hobeto ulertzeko estrategiak erabiltzea
+- DIMENTSIOA: IDATZIAREN ULERMENA
+  - Idatzizko testuen zentzu orokorra identifikatzea
+  - Idatzizko testuen helburua antzematea
+  - Idatzizko testuetan, proposatutako helburuei begira garrantzia duten informazioak hautatzea
+  - Idatzizko testuen edukia kritikoki interpretatzea
+  - Idatzizko testu-mota desberdinak hobeto ulertzeko estrategiak erabiltzea
+- DIMENTSIOA: MINTZAMENA
+  - Komunikazio-egoeraren ezaugarriak aintzat hartzea
+  - Ekoizpen-prozesua planifikatzea
+  - Adierazi beharrekoa egoki eta zuzen adieraztea
+  - Kontroleko eta egokitzapeneko estrategiak erabiltzea
+- DIMENTSIOA: IDAZMENA
+  - Komunikazio-egoeraren ezaugarriak kontuan izatea
+  - Ekoizpen-prozesua planifikatzea
+  - Adierazi beharrekoa egoki eta zuzen adieraztea
+  - Kontroleko eta egokitzapeneko estrategiak erabiltzea
+- DIMENTSIOA: AHOZKO ELKARREKINTZA
+  - Komunikazio-trukeetan modu aktibo eta egokian parte hartzea
+  - Arau soziokomunikatiboak errespetatzea
+  - Komunikazioari eusteko eta beraren eraginkortasuna areagotzeko estrategiak erabiltzea
 
 </small>
 
@@ -306,34 +306,34 @@ Hizkuntza-komunikaziorako konpetentzia DIMENTSIO hauetan egituratuta dago:.
 
 Adierazleak dira dimentsio horien garapenak ustez erakutsi behar duen modua.
 
--   AHOZKOAREN ULERMENA
--   IDATZIAREN ULERMENA
--   MINTZAMENA:
-    -   Ikasketaren emaitzak:
-        -   Komunikazio-egoeraren ezaugarriak aintzat hartzea
-        -   Ekoizpen-prozesua planifikatzea
-        -   Adierazi beharrekoa egoki eta zuzen adieraztea
-        -   Kontroleko eta egokitzapeneko estrategiak erabiltzea
--   IDAZMENA
--   **AHOZKO ELKARREKINTZA**:
-    -   **Ikasketaren emaitzak**:
-        -   **Komunikazio-trukeetan modu aktibo eta egokian parte hartzea**
-            -   Komunikazio-egoeraren ezaugarriak kontuan izaten ditu.
-            -   Naturaltasunez esku hartzen du eta aktiboki entzuten du.
-            -   Informazioa eta azalpenak modu ordenatuan ematen ditu.
-            -   Ikuspegi pertsonal bat azaltzen du.
-            -   Bere esku-hartzeari buruzko galderei modu egokian erantzuten die.
-            -   Besteen esku-hartzeen inguruan iruzkin eta galdera egokiak egiten ditu.
-            -   Egoerari begira erregistro egokia erabiltzen du.
-            -   Elkarrekintzan zehar hizkuntza-aldaera egokitzen du.
-        -   **Arau soziokomunikatiboak errespetatzea**
-            -   Hizkuntza-moldeak errespetatzen ditu.
-            -   Besteen esku-hartzeak errespetatzen ditu.
-            -   Diskriminaziozko esaerak erabiltzea saihesten du.
-            -   Hitz egiteko txandak errespetatzen ditu.
-            -   Denboraren erabilera kontrolatzen du.
-            -   Adei-legea errespetatzen du
-        -   Komunikazioari eusteko eta haren eraginkortasuna areagotzeko estrategiak erabiltzea
+- AHOZKOAREN ULERMENA
+- IDATZIAREN ULERMENA
+- MINTZAMENA:
+  - Ikasketaren emaitzak:
+    - Komunikazio-egoeraren ezaugarriak aintzat hartzea
+    - Ekoizpen-prozesua planifikatzea
+    - Adierazi beharrekoa egoki eta zuzen adieraztea
+    - Kontroleko eta egokitzapeneko estrategiak erabiltzea
+- IDAZMENA
+- **AHOZKO ELKARREKINTZA**:
+  - **Ikasketaren emaitzak**:
+    - **Komunikazio-trukeetan modu aktibo eta egokian parte hartzea**
+      - Komunikazio-egoeraren ezaugarriak kontuan izaten ditu.
+      - Naturaltasunez esku hartzen du eta aktiboki entzuten du.
+      - Informazioa eta azalpenak modu ordenatuan ematen ditu.
+      - Ikuspegi pertsonal bat azaltzen du.
+      - Bere esku-hartzeari buruzko galderei modu egokian erantzuten die.
+      - Besteen esku-hartzeen inguruan iruzkin eta galdera egokiak egiten ditu.
+      - Egoerari begira erregistro egokia erabiltzen du.
+      - Elkarrekintzan zehar hizkuntza-aldaera egokitzen du.
+    - **Arau soziokomunikatiboak errespetatzea**
+      - Hizkuntza-moldeak errespetatzen ditu.
+      - Besteen esku-hartzeak errespetatzen ditu.
+      - Diskriminaziozko esaerak erabiltzea saihesten du.
+      - Hitz egiteko txandak errespetatzen ditu.
+      - Denboraren erabilera kontrolatzen du.
+      - Adei-legea errespetatzen du
+    - Komunikazioari eusteko eta haren eraginkortasuna areagotzeko estrategiak erabiltzea
 
 </small>
 
@@ -345,9 +345,9 @@ Adierazleak dira dimentsio horien garapenak ustez erakutsi behar duen modua.
 
 Adierazleak:
 
--   Naturaltasunez esku hartzen du eta aktiboki entzuten du.
--   Komunikazio-egoeraren ezaugarriak kontuan izaten ditu.
--   Informazioa eta azalpenak modu ordenatu eta egokian ematen ditu.
+- Naturaltasunez esku hartzen du eta aktiboki entzuten du.
+- Komunikazio-egoeraren ezaugarriak kontuan izaten ditu.
+- Informazioa eta azalpenak modu ordenatu eta egokian ematen ditu.
 
 2.  Arau soziokomunikatiboak errespetatzea.
 3.  Komunikazioari eusteko eta haren eraginkortasuna areagotzeko estrategiak erabiltzea.
@@ -357,7 +357,7 @@ Adierazleak:
 <small>
 
 | Hasierako maila | Erdi maila | Maila aurreratua |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | \+ Komunikazio-trukean arreta zailtasunez mantentzen du.<br> + Bere komunikazio-trukeetan inhibizioa agertzen du.<br> + Lagunduta, komunikazio-egoeraren ezaugarriak kontuan izaten ditu. | \+ Komunikazio-trukean arreta mantentzen du. <br> + Naturaltasunez, komunikazio-trukeak hasten eta mantentzen ditu. <br> + Komunikazio-egoeraren ezaugarriak kontuan izaten ditu. <br> + Solaskidearen aurrean erantzuna modu nahiko eraginkorrean egokitzen du.<br> + Hizkuntza-aldaera modu nahiko eraginkorrean egokitzen du elkarrekintzara. | \+ Komunikazio-trukean arreta mantentzen eta esku hartzen du.<br> + Naturaltasunez eta modu eraginkorrean, komunikazio-trukeak hasten eta mantentzen ditu.<br> + Komunikazio-egoeraren ezaugarrietara modu eraginkorrean egokitzen da.<br> + Erregistro egokia erabiltzen du.<br> + Solaskidearen aurrean erantzuna egokitzen du.<br> + Hizkuntza-aldaera elkarrekintzara egokitzen du. |
 
 </small>
@@ -367,8 +367,8 @@ Adierazleak:
 ::: callout-warning
 ### Gaiari kolpetzeko aitzakia bila
 
--   20 minutuko berbaldi bati zelan ekin gaiaz?
--   Nork? Nori? Zergatik? Zertarako?
+- 20 minutuko berbaldi bati zelan ekin gaiaz?
+- Nork? Nori? Zergatik? Zertarako?
 
 **Zerrendatu taldekideko egoera bana, bat aukeratu eta justifikatu**
 :::
@@ -377,6 +377,7 @@ Adierazleak:
 azken ariketa
 :::
 
+```{=html}
 <!--
 
 ## Langai {.scrollable}
@@ -408,7 +409,8 @@ Ruiz Bikandi, Uri (2010). *Bigarren hizkuntzaren didaktika Haur eta Lehen Hezkun
 azken ariketarako orientabidetzat
 :::
 -->
+```
 
----
+------------------------------------------------------------------------
 
 jarraipena: [eleaniztasuna Hezkuntza Sisteman](03-Eleaniztasunaren_trataeraren_eraikuntza.html) ⛓️
