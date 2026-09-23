@@ -26,7 +26,7 @@ Dokumentuak: [@europakokontseiluaComunicacionComisionParlamento2005; @europakoko
 
 ### Kohesioa, hazkundea eta enplegua atalean (3.)[^01-hme-1]
 
-[^01-hme-1]: https://www.europarl.europa.eu/ftu/pdf/es/FTU_3.6.6.pdf
+[^01-hme-1]: <https://www.europarl.europa.eu/ftu/pdf/es/FTU_3.6.6.pdf>
 
 Kultura, hezkuntza eta kirola (3.6.)
 
@@ -62,9 +62,9 @@ A. Hizkuntza-politikaren bilakaera eta hizkuntzen arloko ikerketari laguntzea
 
     > 2005ean, Batzordeak hizkuntza-gaitasunaren Europako adierazleari buruzko komunikazio bat argitaratu zuen, estatu kide bakoitzeko hizkuntza-gaitasun orokorrak neurtzeko tresna bat[^01-hme-2]. Batasunak, halaber, Europako Kontseiluaren Hizkuntzen Europako Erreferentzia Esparru Bateratuaren[^01-hme-3] erabilera sustatzen du: ikaskuntza, irakaskuntza, ebaluazioa. Tresna hori «hizkuntza-programak, ikasketa-planetarako jarraibideak, irakaskuntza- eta ikaskuntza-materialak eta atzerriko hizkuntzetako gaitasunak ebaluatzeko ahalik eta oinarri gardenena, koherenteena eta osatuena emateko» diseinatu zen. Gaur egun, oso zabalduta dago Europan eta beste kontinente batzuetan.
 
-[^01-hme-2]: Comunicación de la Comisión al Parlamento Europeo y al Consejo - El indicador europeo de competencia lingüística. https://eur-lex.europa.eu/legal-content/ES/ALL/?uri=CELEX%3A52005DC0356
+[^01-hme-2]: Comunicación de la Comisión al Parlamento Europeo y al Consejo - El indicador europeo de competencia lingüística. <https://eur-lex.europa.eu/legal-content/ES/ALL/?uri=CELEX%3A52005DC0356>
 
-[^01-hme-3]: Common European Framework of Reference for Languages (CEFR) https://www.coe.int/en/web/common-european-framework-reference-languages/home/-/asset_publisher/FfMaiIs48Xwv/content/alte-guidelines-for-the-development-of-language-for-specific-purposes-tests?\_101_INSTANCE_FfMaiIs48Xwv_viewMode=view/
+[^01-hme-3]: Common European Framework of Reference for Languages (CEFR) <https://www.coe.int/en/web/common-european-framework-reference-languages/home/-/asset_publisher/FfMaiIs48Xwv/content/alte-guidelines-for-the-development-of-language-for-specific-purposes-tests?_101_INSTANCE_FfMaiIs48Xwv_viewMode=view/>
 
 ## Europako Erreferentzia Marko Bateratua
 
@@ -122,7 +122,7 @@ Gai da eguneroko bizitzan sarri erabiltzen diren esapideak ulertzeko eta erabilt
 
 Zehatzago ikusteko irakurleak jo beza jatorrizko argitalpenera [@europakokontseiluaHizkuntzenIkaskuntzaIrakaskuntza2005, 46 orr.]. Edo berantago egindako askotariko kopietara[^01-hme-4].
 
-[^01-hme-4]: https://eu.wikipedia.org/wiki/Hizkuntzetarako_Europako_Erreferentzia_Esparru_Bateratua
+[^01-hme-4]: <https://eu.wikipedia.org/wiki/Hizkuntzetarako_Europako_Erreferentzia_Esparru_Bateratua>
 
 ### Baliabideen gaineko hausnarketa
 
@@ -132,7 +132,7 @@ Sarrera honetan ezin izan daiteke gure helburua horren zabalari oratzea. Bai, be
 
 ### Hizkuntzen Portfolio Europarra[^01-hme-5]
 
-[^01-hme-5]: https://www.euskadi.eus/contenidos/documentacion/inn_doc_lenguas/eu_def/adjuntos/500003e_Pub_Europa_Portfolioa_01_e.pdf
+[^01-hme-5]: <https://www.euskadi.eus/contenidos/documentacion/inn_doc_lenguas/eu_def/adjuntos/500003e_Pub_Europa_Portfolioa_01_e.pdf>
 
 Jatorriz hizkuntza-ikasleari laguntzeko pentsatua da HPE. Helburua Europan ezartzen ari zen markoko ikuskerara hurbiltzea zen, hizkuntza ikaskuntzaren gaineko hausnarketaren bitartez ikastunak era kontzientean hizkuntzaren inguruko hainbat erabaki hartzeko zein hizkuntza gaitasunaz hausnartzeko.
 
@@ -184,17 +184,19 @@ Dosierra proposatzen da aztertutako hizkuntzetan aritzeko gaitasunaren erakusgar
 
 [@alariotriguerosNireLehenPortfolioa2000; @europakokontseiluaNireDosierraHizkuntzen2004; @europakokontseiluaNireHizkuntzeabiografiaHizkuntzen2004; @europakokontseiluaNireHizkuntzenPasaportea2004; @beaccoLanguageDimensionAll2016; @nafarroakogobernua.hizkuntzadepartamentuaPortfolioaNafarroanHastapenak2004]
 
-Alario Trigueros, M. del C., Alonso Ramirez, M. de la C., Gomez Romero, M. B., & Robledo Ortega, M. A. (2000). Nire lehen portfolioa. Gida Didaktikoa (Hezkuntza, Unibertsitate eta Ikerketa Saila, Itzul.). Europako Kontseilua. https://www.euskadi.eus/contenidos/documentacion/inn_doc_lenguas/eu_def/adjuntos/500004e_Pub_MEC_Portfolioa_02_e.pdf
+Alario Trigueros, M. del C., Alonso Ramirez, M. de la C., Gomez Romero, M. B., & Robledo Ortega, M. A. (2000). Nire lehen portfolioa. Gida Didaktikoa (Hezkuntza, Unibertsitate eta Ikerketa Saila, Itzul.). Europako Kontseilua. <https://www.euskadi.eus/contenidos/documentacion/inn_doc_lenguas/eu_def/adjuntos/500004e_Pub_MEC_Portfolioa_02_e.pdf>
 
-Beacco, J.-C., Fleming, M., Goullier, F., Thürmann, E., Vollmer, H., & Sheils, J. (2016). The language dimension in all subjects: A handbook for curriculum development and teacher training. Council of Europe Publishing. https://rm.coe.int/a-handbook-for-curriculum-development-and-teacher-training-the-languag/16806af387
+Beacco, J.-C., Fleming, M., Goullier, F., Thürmann, E., Vollmer, H., & Sheils, J. (2016). The language dimension in all subjects: A handbook for curriculum development and teacher training. Council of Europe Publishing. <https://rm.coe.int/a-handbook-for-curriculum-development-and-teacher-training-the-languag/16806af387>
 
-Bleichenbacher, L., Goullier, F., Rossner, R., Sura, A., Andrade, A., Candelier, M., de Carlo, M., Diederich, C., Kuster, W., & Vollmer, H. (2019). Teacher competences for languages in education: Conclusions of the project. https://www.ecml.at/Portals/1/5MTP/Bleichenbacher/CEFRLT-conclusions-EN.pdf?ver=2019-11-29-150323-533
+Bleichenbacher, L., Goullier, F., Rossner, R., Sura, A., Andrade, A., Candelier, M., de Carlo, M., Diederich, C., Kuster, W., & Vollmer, H. (2019). Teacher competences for languages in education: Conclusions of the project. <https://www.ecml.at/Portals/1/5MTP/Bleichenbacher/CEFRLT-conclusions-EN.pdf?ver=2019-11-29-150323-533>
 
-Europako Kontseilua. (2004a). Nire dosierra. Hizkuntzen Portfolio Europarra. Lehen Hezkuntza (8-12 urte). Egiaztatutako eredua: Nº 51.2003 zk. (euskara). Ministerio de Educación y Cultura (Esp). http://eibz.educacion.navarra.es/baliabideak/portfolioa/cda/doc/cap_I/portfolios/primaria/pel_primaria_biografia_eusk.pdf
+Europako Kontseilua. (2004a). Nire dosierra. Hizkuntzen Portfolio Europarra. Lehen Hezkuntza (8-12 urte). Egiaztatutako eredua: Nº 51.2003 zk. (euskara). Ministerio de Educación y Cultura (Esp). http://eibz.educacion.navarra.es/baliabideak/portfolioa/cda/doc/cap_I/portfolios/primaria/pel_primaria_biografia_eusk.pdf \*
 
-Europako Kontseilua. (2004b). Nire hizkuntzea-biografia. Hizkuntzen Portfolio Europarra. Lehen Hezkuntza (8-12 urte). Egiaztatutako eredua: Nº 51.2003 zk. (euskara). Ministerio de Educación y Cultura (Esp). http://eibz.educacion.navarra.es/baliabideak/portfolioa/cda/doc/cap_I/portfolios/primaria/pel_primaria_biografia_eusk.pdf
+Europako Kontseilua. (2004b). Nire hizkuntzea-biografia. Hizkuntzen Portfolio Europarra. Lehen Hezkuntza (8-12 urte). Egiaztatutako eredua: Nº 51.2003 zk. (euskara). Ministerio de Educación y Cultura (Esp). http://eibz.educacion.navarra.es/baliabideak/portfolioa/cda/doc/cap_I/portfolios/primaria/pel_primaria_biografia_eusk.pdf \*
 
-Europako Kontseilua. (2004c). Nire hizkuntzen pasaportea. Hizkuntzen Portfolio Europarra. Lehen Hezkuntza (8-12 urte). Egiaztatutako eredua: Nº 51.2003 zk. (euskara). Ministerio de Educación y Cultura (Esp). http://eibz.educacion.navarra.es/baliabideak/portfolioa/cda/doc/cap_I/portfolios/primaria/pel_primaria_dossier_eusk.pdf
+Europako Kontseilua. (2004c). Nire hizkuntzen pasaportea. Hizkuntzen Portfolio Europarra. Lehen Hezkuntza (8-12 urte). Egiaztatutako eredua: Nº 51.2003 zk. (euskara). Ministerio de Educación y Cultura (Esp). http://eibz.educacion.navarra.es/baliabideak/portfolioa/cda/doc/cap_I/portfolios/primaria/pel_primaria_dossier_eusk.pdf \*
 
-Nafarroako Gobernua. Hizkuntza Departamentua. (2004). Portfolioa Nafarroan: Hastapenak / Fundamentos. Portfolioa Nafarroan: Hastapenak / Fundamentos. http://eibz.educacion.navarra.es/baliabideak/portfolioa/cda/doc/e/kap_01.html
+Nafarroako Gobernua. Hizkuntza Departamentua. (2004). Portfolioa Nafarroan: Hastapenak / Fundamentos. Portfolioa Nafarroan: Hastapenak / Fundamentos. http://eibz.educacion.navarra.es/baliabideak/portfolioa/cda/doc/e/kap_01.html \*
+
+<small>\*Oharra: goiko URLak kopiatu eta itsatsi behar dituzu nabigatzailean; sistema zaharrekoak direnez, ez du uzten esteka sortzen plataforma honek</small>
 :::
