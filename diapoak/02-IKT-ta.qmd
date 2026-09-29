@@ -9,46 +9,46 @@ format:
         footer: "IKTen erabilera eta hizkuntza"
         slide-number: true
         embed-resources: true
-editor: visual
+# editor: visual
 ---
 
 ### curriculum-edo hori... zer zen?
 
 ## Erantzun eta alderatu zure ikaskideekin {.scrollable}
 
--   Ordenagailu portatila noiz uzten duzu? Eta telefonoa/superordenagailu/superkontrolerako hori?
+- Ordenagailu portatila noiz uzten duzu? Eta telefonoa/superordenagailu/superkontrolerako hori?
 
--   Zertarako erabiltzen duzu ordenagailua? \[zerrenda\]
+- Zertarako erabiltzen duzu ordenagailua? \[zerrenda\]
 
--   Noizero begiratzen duzu zure e-posta? Wasap, Instagram, TikTok...
+- Noizero begiratzen duzu zure e-posta? Wasap, Instagram, TikTok...
 
--   Zer aplikazio informatiko erabiltzen dituzu? \[zerrenda\]
+- Zer aplikazio informatiko erabiltzen dituzu? \[zerrenda\]
 
-    ::: incremental
-    -   Nabigatzeko
+  ::: incremental
+  - Nabigatzeko
 
-    -   Idazteko
+  - Idazteko
 
-        -   Banaka, taldeka, garatu, aurkeztu ...
+    - Banaka, taldeka, garatu, aurkeztu ...
 
-    -   PDFak lantzeko
+  - PDFak lantzeko
 
-    -   Irudiak lantzeko (bideoak, soinua...)
-    :::
+  - Irudiak lantzeko (bideoak, soinua...)
+  :::
 
--   Zertarako
+- Zertarako
 
--   Zer web-orri erabiltzen dituzu?
+- Zer web-orri erabiltzen dituzu?
 
--   Zertarako?
+- Zertarako?
 
--   Zein bilatzaile erabiltzen d(it)uzu?
+- Zein bilatzaile erabiltzen d(it)uzu?
 
--   Erabiltzen duzu euskarazko web-orririk?
+- Erabiltzen duzu euskarazko web-orririk?
 
--   Zertarako?
+- Zertarako?
 
--   Nola erabili IKT-ak hezkuntzan?
+- Nola erabili IKT-ak hezkuntzan?
 
 # Datuak
 
@@ -97,19 +97,19 @@ Guk lanak hobeto egiteko
 ## Hizkuntza e-paisaia
 
 ::: incremental
--   Classroom
+- Classroom
 
--   Eki Plataforma Digitala
+- Eki Plataforma Digitala
 
--   Duolingo
+- Duolingo
 
--   Chrome
+- Chrome
 
--   ChromeOS
+- ChromeOS
 
--   Windows
+- Windows
 
--   ...
+- ...
 :::
 
 ##  {.scrollable}
@@ -130,9 +130,9 @@ Guk lanak hobeto egiteko
 
 ## WebGuneak
 
--   Txikipedia: <https://eu.wikipedia.org/wiki/Txikipedia:Azala>
--   IKTeroak, EuskalJakintza...
--   Jokotuber Vs Game erauntsia
+- Txikipedia: <https://eu.wikipedia.org/wiki/Txikipedia:Azala>
+- IKTeroak, EuskalJakintza...
+- Jokotuber Vs Game erauntsia
 
 ## Baliabide libreak hezkuntzan
 
@@ -146,12 +146,12 @@ Euskarabildua [\*\*\*](https://euskarabildua.eus/)
 
 Tresnak
 
--   AzkueFundazioa (<https://azkuefundazioa.eus/>)
--   EJ: <https://www.euskadi.eus/eusko-jaurlaritza/euskara-tresnak/>
-    -   Hiztegiak
-    -   Euskarazko IKT produktuak
--   Cryptpad (<https://cryptpad.fr/>)
--   Moodle
+- AzkueFundazioa (<https://azkuefundazioa.eus/>)
+- EJ: <https://www.euskadi.eus/eusko-jaurlaritza/euskara-tresnak/>
+  - Hiztegiak
+  - Euskarazko IKT produktuak
+- Cryptpad (<https://cryptpad.fr/>)
+- Moodle
 
 ## Etorkizuna eraikitzeaz...
 
@@ -159,9 +159,9 @@ Tresnak
 
 ## Euskara buruan eta ibili munduan
 
--   Lehen Hitza
--   Xuxen
--   Euskalbar
+- Lehen Hitza
+- Xuxen
+- Euskalbar
 
 # Zenbait webgune
 
@@ -281,12 +281,12 @@ Euskaraz (ere ba)diren webguneen zerrenda sailkatu.
 
 Zerrenda horri taldekide bakoitzak beste bostekin hornitu beharko du. Bost horiek gehitzeko honako ezaugarriak izan behar dira kontuan:
 
--   Izena
--   Esteka
--   Egilea
--   Helburua
--   Datuak batzea
--   Erabilera didaktiko posibleak
+- Izena
+- Esteka
+- Egilea
+- Helburua
+- Datuak batzea
+- Erabilera didaktiko posibleak
 
 \[Irakasleari eskatu zerrenda\]
 :::
@@ -371,14 +371,18 @@ Taldekako idazketarako estrategia
 
 Aholku estrategia
 
+## 
+
+![](images/paste-10.png)
+
 ## Egiletza
 
 . . .
 
--   Idazle nagusia
--   Egiletza banatua
--   Berrikuspen kooperatiboa
--   Baterako idazketaren estrategia
+- Idazle nagusia
+- Egiletza banatua
+- Berrikuspen kooperatiboa
+- Baterako idazketaren estrategia
 
 ::: notes
 Posner & Baecker (1992)
@@ -398,10 +402,10 @@ Azaldu horretan ikusten duzuena (banaka)
 ::: incremental
 *oharra: Google Drive-rako antzeko analisia egiteko hiru plugin argitaratu dira*
 
--   DocuViz
+- DocuViz
 
--   Draftback (😒)
+- Draftback (😒)
 
--   Process Feedback for Google Docs
+- Process Feedback for Google Docs
 :::
 ::::
