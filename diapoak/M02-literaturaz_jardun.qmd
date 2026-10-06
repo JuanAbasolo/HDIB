@@ -1,11 +1,11 @@
 ---
-title: "Literaturaz jardun<small>2. mintegia: *Ideietan*<br>erreferentziak, bibliografia eta besteren kudeaketaz</small>"
+title: "Literaturaz jardun<small>1. mintegia: *Ideietan*<br>erreferentziak, bibliografia eta besteren kudeaketaz</small>"
 author: "Juan Abasolo"
 format: 
     revealjs: 
         theme: [css/nire.scss]
         css: [css/logo.css]
-        footer: "Bigarren mintegia"
+        footer: "Lehenengo mintegia"
         logo: '../HDIB-2026/assets/00/HDIB_biribil_zuri.png'
         slide-number: true
         embed-resources: true
